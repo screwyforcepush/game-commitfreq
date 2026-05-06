@@ -8,3 +8,4 @@
  8/240  build: uniform updates                        drop zulu-9ec456.txt
  9/240  wip: refactor foxtrot (46cc7f)                append harbor-78c91c.csv
 10/240  refactor: trim victor nimbus                  append bravo-506804.dat
+11/240  build: adjust juliet lima                     trim bravo-506804.dat:8
