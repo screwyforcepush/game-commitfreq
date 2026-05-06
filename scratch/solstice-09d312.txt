@@ -1,4 +1,3 @@
-wire tango 250f03
 refactor bravo 43f79e
 update echo 824b8f
 trim yankee 3f3dc8
