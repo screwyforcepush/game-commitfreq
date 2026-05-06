@@ -11,3 +11,6 @@ refactor mike 1c7779
 rework kilo d1ba88
 tweak lima d9b772
 seed harbor d6b893
+rework foxtrot 916ec7
+tweak whiskey e394f7
+adjust zulu 48f471
