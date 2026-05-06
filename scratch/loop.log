@@ -2440,3 +2440,4 @@ To https://github.com/screwyforcepush/game-commitfreq.git
 380/646  docs: seed uniform                            drop delta-1ccbfa.dat
 381/646  cleanup xray                                  trim prism-063d8d.csv:3
 382/646  quebec nudges                                 rename victor-2863ce.txt -> zulu-7f8968.txt
+383/646  fix: uniform trims                            append prism-063d8d.csv
