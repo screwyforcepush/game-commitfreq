@@ -1,4 +1,3 @@
-prune romeo 0a0cb0
 tune oscar a6da01
 tune golf 9988c2
 tune mike 46e128
