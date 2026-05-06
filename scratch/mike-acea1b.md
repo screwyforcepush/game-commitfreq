@@ -2,7 +2,7 @@ bump quebec b7a28c
 update cobalt fcc8c7
 refactor nimbus 4ba912
 adjust xray d323cd
-expand foxtrot 0ab054
+bump whiskey f65437
 adjust solstice f2ccba
 adjust india 6d855c
 update ember 014a3d
