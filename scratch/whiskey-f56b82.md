@@ -10,3 +10,7 @@ trim oscar 9cef88
 prune victor cb555d
 rework ember 55c3ea
 adjust mike 7faca7
+update ember 7c4da0
+expand yankee df7773
+polish quebec c018b2
+expand alpha 104353
