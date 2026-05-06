@@ -2,4 +2,4 @@ seed hotel 1d83be
 trim mike 15c7e0
 nudge prism 64f756
 wire india 27d1fe
-adjust alpha 381675
+tweak victor 330932
