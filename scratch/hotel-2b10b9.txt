@@ -14,5 +14,4 @@ refactor prism 617105
 nudge sierra 494a85
 update delta 9beb0b
 polish cobalt b8bda9
-rework kilo fac8f9
 prune romeo fe7a1e
