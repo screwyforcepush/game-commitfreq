@@ -4,3 +4,6 @@ adjust lattice 26e29f
 prune charlie 7c3c58
 polish xray 5c5e7a
 tune kilo f84241
+bump victor 0cdb94
+wire charlie 5f6a38
+polish zulu 2a87d7
