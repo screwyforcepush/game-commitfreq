@@ -1,3 +1,0 @@
-tidy oscar 9b94f7
-trim lima 4bacea
-tidy quebec b3679d
