@@ -3,3 +3,7 @@ rework echo 5f9d84
 prune uniform 40c57b
 tidy kilo 3ae0d7
 nudge xray e281a0
+tune uniform 103b03
+adjust lattice 14a67c
+rework kilo 5d7898
+bump november 5fc41f
