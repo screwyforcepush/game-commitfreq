@@ -4,3 +4,5 @@ nudge sierra 197b41
 polish juliet f9931a
 adjust prism e9fc1d
 tune alpha f771a0
+cleanup solstice 2efa45
+expand lattice fdbe6f
