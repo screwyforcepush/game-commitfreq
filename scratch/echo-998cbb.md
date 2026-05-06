@@ -6,3 +6,7 @@ tweak victor c90c79
 tidy charlie c8993c
 bump xray 7ccbaf
 polish yankee 66e084
+tweak golf fe70de
+wire juliet a3640c
+bump cobalt e0cd47
+polish sierra 63f5d3
