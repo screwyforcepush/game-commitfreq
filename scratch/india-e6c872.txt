@@ -1,2 +1,0 @@
-trim lattice 7d825a
-nudge bravo c9f9d3
