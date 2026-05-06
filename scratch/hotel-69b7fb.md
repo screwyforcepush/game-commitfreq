@@ -5,3 +5,6 @@ cleanup kilo c3b57a
 update lattice 198fea
 trim harbor 11d63a
 tidy quebec 1f7ab2
+prune delta 1ce008
+nudge xray 7e4cc6
+nudge solstice 94b20f
