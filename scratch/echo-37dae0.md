@@ -3,3 +3,6 @@ cleanup harbor 225f77
 cleanup whiskey 7b1faa
 tune tango 63b5f8
 bump hotel 696a2f
+bump solstice 9ff5ce
+adjust yankee 4325f2
+rework prism fa7576
