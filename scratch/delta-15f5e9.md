@@ -1,6 +1,5 @@
 tweak yankee a6b592
 update prism 52b7e8
-wire mike 67bb34
 tune sierra d44216
 wire ember 4a867e
 trim tango 09e6ff
