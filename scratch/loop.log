@@ -3269,3 +3269,4 @@ To https://github.com/screwyforcepush/game-commitfreq.git
 561/640  expand quebec (0cee36)                        rename sierra-6cad92.md -> lattice-6f60aa.csv
 562/640  build: tweak mike                             trim oscar-d9c20a.dat:6
 563/640  chore: tidy harbor                            append lattice-6f60aa.csv
+564/640  docs: wire oscar for quebec                   append oscar-d9c20a.dat
