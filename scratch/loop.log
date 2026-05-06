@@ -9,3 +9,4 @@
  8/242  build: expand lima victor                     drop cobalt-12233d.dat
  9/242  docs: bump juliet (5d2fb1)                    modify harbor-78c91c.csv:10
 10/242  tango seeds                                   drop harbor-78c91c.csv
+11/242  docs: cleanup lattice ember                   rename echo-355224.txt -> golf-cfeeef.log
