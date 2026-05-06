@@ -13,3 +13,7 @@ bump harbor be90ff
 update papa 22d564
 tune quebec bd1c74
 bump yankee b4a35c
+tune nimbus 253a09
+polish quebec 9f89b7
+update oscar da6683
+polish oscar fa62c4
