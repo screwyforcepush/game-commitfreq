@@ -17,3 +17,7 @@ nudge nimbus 5e604d
 tune alpha 3896fd
 tune delta 89b06a
 rework zulu 90a56b
+tidy charlie 2c7228
+cleanup xray 412792
+tweak november 71e36a
+seed whiskey 405a88
