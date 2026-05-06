@@ -1,2 +1,0 @@
-bump solstice cda8a2
-tidy hotel 048747
