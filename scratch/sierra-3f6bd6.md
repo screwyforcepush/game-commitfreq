@@ -6,3 +6,5 @@ tidy prism 3e16a7
 bump xray 7fbba5
 bump ember 5617d4
 expand uniform 7531cf
+tidy echo c43f77
+wire november a365ee
