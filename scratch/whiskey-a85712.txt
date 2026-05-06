@@ -6,7 +6,6 @@ expand tango c0f9f8
 refactor solstice 7f5587
 cleanup solstice 5ec6c0
 tweak papa 8a064d
-refactor lima c8a65d
 trim foxtrot cd4a02
 seed xray 32d864
 nudge yankee 5f265d
