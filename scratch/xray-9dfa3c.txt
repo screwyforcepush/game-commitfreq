@@ -1,3 +1,5 @@
 tune foxtrot 2f8232
 tune whiskey 8bb217
 polish mike 5168cf
+wire tango e6d8a1
+wire echo b7170c
