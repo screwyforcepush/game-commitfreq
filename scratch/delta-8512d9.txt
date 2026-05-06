@@ -7,7 +7,7 @@ trim bravo 031f3a
 refactor november 96d99e
 adjust quebec 9a8945
 adjust sierra e18ad3
-polish india c0ae73
+tidy alpha 5a03e1
 tweak prism 81c51f
 nudge sierra 494a85
 update delta 9beb0b
