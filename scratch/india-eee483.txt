@@ -1,3 +1,7 @@
 expand hotel 77aca5
 expand foxtrot cb3050
 expand hotel 86d3c1
+cleanup november 168a23
+rework nimbus 263e1e
+tweak ember ee8095
+cleanup hotel 31bf50
