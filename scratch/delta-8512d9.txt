@@ -12,4 +12,3 @@ tweak prism 81c51f
 nudge sierra 494a85
 update delta 9beb0b
 polish cobalt b8bda9
-prune romeo fe7a1e
