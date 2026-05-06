@@ -9,3 +9,5 @@ tune victor aec73b
 polish tango 9603e9
 trim nimbus 83fd7d
 cleanup prism c99fc2
+seed whiskey ccb4ca
+polish nimbus b2bac5
