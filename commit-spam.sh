@@ -5,6 +5,8 @@ cd "$(dirname "$0")"
 
 COUNT="${1:-10}"
 SCRATCH="scratch"
+SLEEP_MIN="${SLEEP_MIN:-5}"
+SLEEP_MAX="${SLEEP_MAX:-20}"
 mkdir -p "$SCRATCH"
 
 WORDS=(alpha bravo charlie delta echo foxtrot golf hotel india juliet kilo lima mike november oscar papa quebec romeo sierra tango uniform victor whiskey xray yankee zulu nimbus prism cobalt ember solstice harbor lattice)
@@ -73,7 +75,7 @@ op_delete() {
   printf 'drop %s' "$(basename "$f")"
 }
 
-OPS=(op_create op_create op_append op_append op_append op_modify op_modify op_delete_line op_rename op_delete)
+OPS=(op_create op_create op_append op_append op_append op_modify op_modify op_delete_line op_delete_line op_rename op_delete op_delete)
 
 random_message() {
   local prefix; prefix=$(pick PREFIXES)
@@ -96,6 +98,9 @@ for ((i = 1; i <= COUNT; i++)); do
   msg="$(random_message)"
   git commit -q -m "$(printf '%s\n\n%s\n\nCo-Authored-By: Claude Opus 4.7 (1M context) <noreply@anthropic.com>\n' "$msg" "$detail")"
   printf '%2d/%d  %-44s  %s\n' "$i" "$COUNT" "$msg" "$detail"
+  if (( i < COUNT )); then
+    sleep $((SLEEP_MIN + RANDOM % (SLEEP_MAX - SLEEP_MIN + 1)))
+  fi
 done
 
 git push
