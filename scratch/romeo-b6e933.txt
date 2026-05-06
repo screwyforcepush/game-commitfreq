@@ -7,3 +7,5 @@ polish alpha 669b9a
 polish ember 7a4254
 expand prism 8aae8b
 tweak ember 74ac64
+tidy victor cd7403
+tidy foxtrot 3119c7
