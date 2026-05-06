@@ -311,3 +311,4 @@
 310/424  build: tune cobalt for quebec                 append foxtrot-837c32.dat
 311/424  wip: polish kilo mike                         append foxtrot-837c32.dat
 312/424  polish solstice for juliet                    append november-e2b181.dat
+313/424  zulu cleanups                                 rename foxtrot-837c32.dat -> solstice-d008b6.dat
