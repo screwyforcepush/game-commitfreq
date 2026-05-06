@@ -1,5 +1,4 @@
 nudge delta a3595d
-bump lima 4778a9
 bump echo a937c9
 adjust bravo aabbc6
 expand nimbus c9e083
