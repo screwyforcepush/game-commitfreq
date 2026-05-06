@@ -55,3 +55,4 @@
 54/424  build: cleanup solstice                       append golf-77a3d8.dat
 55/424  tidy solstice oscar                           rename foxtrot-0d25cd.md -> solstice-39f2c8.csv
 56/424  chore: bump prism for kilo                    append solstice-39f2c8.csv
+57/424  fix: polish tango (9ab83b)                    drop solstice-39f2c8.csv
