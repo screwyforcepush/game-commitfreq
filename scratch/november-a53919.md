@@ -3,3 +3,7 @@ cleanup victor b845a1
 tidy sierra 4b0fff
 tune yankee d67d0f
 polish cobalt 1191ca
+tweak hotel 2dcd51
+tidy juliet b8aa41
+nudge india 86902b
+tidy india f58aa0
