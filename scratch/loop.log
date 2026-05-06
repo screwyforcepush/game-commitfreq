@@ -136,3 +136,4 @@
 135/337  fix: tune xray november                       trim lattice-b77250.dat:3
 136/337  november trims                                append lattice-b77250.dat
 137/337  tune charlie                                  append juliet-394503.txt
+138/337  kilo expands                                  drop juliet-394503.txt
