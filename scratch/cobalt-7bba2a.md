@@ -4,3 +4,6 @@ tune romeo 0e0e68
 seed golf af445f
 tweak romeo 9d9a38
 cleanup delta 3b00cf
+tweak india a374e1
+tweak quebec 6edb33
+tweak hotel cd6a47
