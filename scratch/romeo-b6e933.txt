@@ -1,5 +1,5 @@
 tune golf dc683d
-update delta e3f186
+nudge alpha a446ff
 adjust november 006f84
 nudge foxtrot 588177
 tidy sierra 199509
