@@ -2,3 +2,7 @@ wire lima 20dbf8
 seed tango ed5520
 bump charlie cf5df9
 rework bravo 9c9479
+bump lima 47e563
+nudge uniform d5827c
+expand nimbus 006047
+adjust mike 2f116b
