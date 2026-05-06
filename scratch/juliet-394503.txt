@@ -2,3 +2,6 @@ expand prism a44dd8
 wire lattice bdeac7
 trim kilo dfd2eb
 update echo 79c2bd
+cleanup tango 02f801
+wire delta 58f156
+nudge juliet d09d1e
