@@ -4,3 +4,5 @@ cleanup november 02bffc
 tweak november cb4ee8
 tune foxtrot b14d62
 tune hotel fea2b1
+expand yankee dcaf02
+update solstice f56e64
