@@ -123,3 +123,4 @@
 122/337  refactor: solstice tidys                      trim victor-4c4705.csv:5
 123/337  victor tunes                                  rename victor-4c4705.csv -> yankee-045550.txt
 124/337  refactor: tweak quebec for quebec             append yankee-045550.txt
+125/337  fix: trim lattice                             modify yankee-045550.txt:4
