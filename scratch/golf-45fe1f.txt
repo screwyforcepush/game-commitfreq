@@ -7,5 +7,5 @@ refactor hotel 3987c5
 expand yankee dd4186
 seed mike 825fd8
 refactor lattice 2725bc
-update india b8fec0
+bump foxtrot 77076f
 prune quebec 7b5efe
