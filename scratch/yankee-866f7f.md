@@ -2,7 +2,7 @@ polish uniform b37d53
 seed bravo 5986b7
 tweak india 72cb18
 trim echo 2e012e
-update whiskey 585252
+polish solstice eb8cb4
 tidy nimbus 30e826
 seed echo 886350
 tweak hotel a35d4a
