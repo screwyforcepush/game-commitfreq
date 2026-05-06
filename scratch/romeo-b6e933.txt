@@ -9,3 +9,6 @@ expand prism 8aae8b
 tweak ember 74ac64
 tidy victor cd7403
 tidy foxtrot 3119c7
+prune oscar 1a7723
+adjust oscar dbc23d
+tweak sierra 041c13
