@@ -555,3 +555,4 @@ To https://github.com/screwyforcepush/game-commitfreq.git
 128/379  fix: lima tunes                               modify yankee-3e54d5.dat:5
 129/379  fix: update quebec (5d42f1)                   rename papa-77f214.dat -> harbor-644bf5.dat
 130/379  feat: adjust juliet                           trim yankee-3e54d5.dat:3
+131/379  fix: tune tango for delta                     append yankee-3e54d5.dat
