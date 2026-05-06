@@ -11,3 +11,5 @@ prune lattice e04d8b
 bump prism e5b141
 cleanup xray 94653c
 tweak nimbus 384c63
+cleanup harbor 06853f
+prune bravo 1051ee
