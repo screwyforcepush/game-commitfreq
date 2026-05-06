@@ -1,3 +1,7 @@
 rework cobalt 4fd16d
 cleanup echo c9d34a
 polish ember 122333
+wire solstice 79815a
+expand nimbus 3b2e58
+tweak tango b34b29
+polish oscar 75d349
