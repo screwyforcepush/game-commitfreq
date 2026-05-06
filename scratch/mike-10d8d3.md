@@ -4,7 +4,6 @@ cleanup india 5bf3da
 tweak victor 758c55
 rework nimbus ebeed0
 polish hotel dcd86c
-nudge quebec b2c614
 nudge zulu 01264d
 nudge golf 41a8b7
 adjust romeo 749c8b
