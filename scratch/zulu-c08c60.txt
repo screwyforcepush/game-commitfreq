@@ -1,6 +1,0 @@
-expand hotel 5cede1
-seed alpha 345338
-wire foxtrot f39e6e
-refactor echo 6eb85b
-tidy hotel f62d5a
-adjust india 701349
