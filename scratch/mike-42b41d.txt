@@ -12,3 +12,7 @@ nudge echo 8c388a
 tidy uniform 89db16
 update ember ecfc43
 tidy romeo 16abef
+polish ember 979db5
+wire foxtrot ea033b
+expand golf 0c57e6
+trim zulu 1520e6
