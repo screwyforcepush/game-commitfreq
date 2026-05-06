@@ -15,10 +15,11 @@ producing any actual engineering output.
   trim / rename / delete) on files inside `scratch/`. Commit messages are
   assembled from random verbs, nouns, and prefixes. A configurable jitter
   (`SLEEP_MIN`/`SLEEP_MAX`, default 5–20s) spaces commits within a batch.
-- `loop.sh` runs `commit-spam.sh` forever with batch sizes between 150 and
-  300. Defaults aim for roughly 6,000–7,000 commits per day across ~25–30
-  pushes per day — frequent enough to saturate the contribution graph,
-  infrequent enough to stay well clear of any sensible rate limit.
+- `loop.sh [commits_per_day]` runs `commit-spam.sh` forever with batch
+  sizes between 150 and 300. The arg (default 6500) controls the
+  per-commit sleep range — mean sleep is `86400 / target`, jittered ±50%.
+  Batch size only affects push frequency, which stays comfortably under
+  any sensible rate limit at all rates.
 - Output from the loop is written to `scratch/loop.log`, which is itself
   swept into commits. The op picker explicitly skips it so it is never
   modified or deleted mid-write.
@@ -26,8 +27,9 @@ producing any actual engineering output.
 ## Running it
 
 ```sh
-./commit-spam.sh 50              # one batch of 50 commits, push, exit
-nohup ./loop.sh > scratch/loop.log 2>&1 &   # background forever
+./commit-spam.sh 50                              # one batch of 50, push, exit
+nohup ./loop.sh > scratch/loop.log 2>&1 &       # default ~6500/day
+nohup ./loop.sh 10000 > scratch/loop.log 2>&1 & # ~10k/day
 ```
 
 Author identity is taken from the local git config. To stop the loop:
