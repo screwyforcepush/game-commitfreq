@@ -84,3 +84,4 @@
 83/337  wip: ember updates                            create india-17ace5.csv
 84/337  refactor: rework ember (b722b5)               rename cobalt-299559.dat -> golf-8d6cda.log
 85/337  docs: adjust mike (e7d1b1)                    append india-17ace5.csv
+86/337  prune india november                          trim golf-8d6cda.log:5
