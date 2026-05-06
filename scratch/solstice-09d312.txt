@@ -11,3 +11,7 @@ trim india 9094d4
 bump november 4c5c02
 rework hotel 5f1d82
 tweak india ae4ea3
+nudge echo ebb6be
+nudge hotel 0eea1b
+prune kilo 8c3f3e
+prune echo 1d0bce
