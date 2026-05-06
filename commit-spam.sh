@@ -17,7 +17,7 @@ EXTS=(txt md log dat csv)
 pick() { local -n _arr=$1; printf '%s' "${_arr[RANDOM % ${#_arr[@]}]}"; }
 token() { od -An -N3 -tx1 /dev/urandom | tr -d ' \n'; }
 random_line() { printf '%s %s %s\n' "$(pick VERBS)" "$(pick WORDS)" "$(token)"; }
-list_files() { find "$SCRATCH" -type f 2>/dev/null; }
+list_files() { find "$SCRATCH" -type f ! -name 'loop.log' 2>/dev/null; }
 
 op_create() {
   local name="$SCRATCH/$(pick WORDS)-$(token).$(pick EXTS)"
