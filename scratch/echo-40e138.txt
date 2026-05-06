@@ -1,2 +1,1 @@
-prune tango 78e7b3
 tune cobalt 4eea79
