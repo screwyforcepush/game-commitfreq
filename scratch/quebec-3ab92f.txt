@@ -3,7 +3,7 @@ bump echo a937c9
 adjust bravo aabbc6
 expand nimbus c9e083
 expand ember 5fe556
-update solstice ef37b9
+prune sierra 72832c
 rework whiskey c1405f
 tune delta df2f02
 nudge oscar 2e31b4
