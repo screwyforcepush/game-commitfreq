@@ -292,3 +292,4 @@
 291/337  feat: bump harbor (588669)                    drop lima-40fd10.dat
 292/337  fix: polish charlie (e04668)                  trim ember-4f001f.dat:15
 293/337  seed nimbus                                   rename delta-391d6f.log -> oscar-2c27fa.txt
+294/337  build: sierra seeds                           modify yankee-14e76d.csv:1
