@@ -9,3 +9,5 @@ prune romeo c185ea
 wire nimbus 489865
 adjust alpha ce5028
 wire sierra 046607
+trim delta 041183
+tweak delta 714101
