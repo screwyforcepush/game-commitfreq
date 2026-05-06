@@ -1,4 +1,3 @@
-adjust sierra 3d91fd
 prune harbor 049cf2
 nudge sierra 05cc3f
 nudge sierra 197b41
