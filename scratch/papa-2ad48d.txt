@@ -1,4 +1,3 @@
-seed yankee 6dcbb9
 tidy prism d9c729
 tidy sierra fd24cf
 tune juliet 2412a0
