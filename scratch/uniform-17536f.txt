@@ -11,4 +11,4 @@ tidy charlie 814e71
 trim uniform 1056e6
 trim hotel 1930e9
 tweak foxtrot 8c78f3
-refactor solstice a164c5
+cleanup november 5eaf5a
