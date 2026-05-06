@@ -334,3 +334,4 @@
 333/337  build: november tidys                         create oscar-4cf8ec.md
 334/337  fix: refactor solstice for yankee             modify nimbus-887e5f.md:11
 335/337  fix: yankee trims                             modify zulu-728b04.dat:3
+336/337  wip: seed nimbus for alpha                    drop oscar-4cf8ec.md
