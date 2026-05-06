@@ -482,3 +482,4 @@ To https://github.com/screwyforcepush/game-commitfreq.git
 55/379  tweak xray (8baf84)                           append uniform-1e3290.csv
 56/379  cleanup lima for juliet                       drop romeo-ec44c8.dat
 57/379  mike refactors                                trim golf-e86c5e.log:4
+58/379  trim juliet (e7980c)                          drop uniform-1690b3.dat
