@@ -1,7 +1,6 @@
 nudge sierra 5e2fc2
 nudge bravo 1e9b28
 tune november 6d290a
-tune quebec e36779
 cleanup tango 773b78
 polish harbor 563398
 tweak alpha 61220e
