@@ -2312,3 +2312,4 @@ To https://github.com/screwyforcepush/game-commitfreq.git
 252/646  wip: nudge solstice yankee                    create india-070d87.md
 253/646  cleanup prism                                 append tango-b93ca7.dat
 254/646  fix: quebec refactors                         append xray-03f5dd.md
+255/646  build: prune xray for golf                    drop xray-03f5dd.md
