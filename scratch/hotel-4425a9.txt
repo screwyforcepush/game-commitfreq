@@ -7,5 +7,4 @@ trim lattice b245ec
 cleanup juliet e7bc41
 cleanup golf 8905fc
 trim cobalt 46872d
-bump foxtrot 2e641d
 tidy victor 6f68fa
