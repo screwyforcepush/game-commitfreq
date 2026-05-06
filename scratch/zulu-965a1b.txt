@@ -4,3 +4,6 @@ prune uniform f2d977
 nudge solstice 966b2c
 seed mike a23576
 cleanup mike a33bad
+bump xray ff062b
+rework zulu 33e366
+cleanup alpha 6200c5
