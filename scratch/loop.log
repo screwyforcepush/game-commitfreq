@@ -231,3 +231,4 @@
 230/337  docs: bump golf for oscar                     append sierra-5ecb90.dat
 231/337  feat: india trims                             modify kilo-f1fe06.csv:3
 232/337  build: tidy foxtrot                           rename quebec-5ce453.dat -> nimbus-a5ee72.csv
+233/337  refactor: tweak alpha golf                    drop sierra-5ecb90.dat
