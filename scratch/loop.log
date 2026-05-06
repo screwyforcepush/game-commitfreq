@@ -307,3 +307,4 @@
 306/424  feat: golf cleanups                           create november-e2b181.dat
 307/424  golf prunes                                   append xray-6c171b.dat
 308/424  prune cobalt for november                     trim november-e2b181.dat:2
+309/424  feat: trim delta                              drop xray-6c171b.dat
