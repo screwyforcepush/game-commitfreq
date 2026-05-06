@@ -3,3 +3,5 @@ seed papa fc28e4
 tune mike a7f27c
 rework papa a204e9
 bump charlie 592ce7
+tune lattice b9799e
+tidy sierra 173735
