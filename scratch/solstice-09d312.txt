@@ -1,6 +1,5 @@
 refactor bravo 43f79e
 update echo 824b8f
-trim yankee 3f3dc8
 polish juliet 2f77ee
 seed victor 2be5ff
 seed harbor 296b02
