@@ -1,13 +1,1 @@
- 1/240  tune hotel (7e0c84)                           append cobalt-770af6.txt
- 2/240  docs: trim juliet (a87c0e)                    append bravo-506804.dat
- 3/240  refactor uniform for yankee                   create harbor-78c91c.csv
- 4/240  build: polish lima (912156)                   modify bravo-506804.dat:4
- 5/240  wip: refactor quebec for november             append harbor-78c91c.csv
- 6/240  chore: nudge charlie for delta                drop cobalt-770af6.txt
- 7/240  refactor: expand victor for mike              create zulu-9ec456.txt
- 8/240  build: uniform updates                        drop zulu-9ec456.txt
- 9/240  wip: refactor foxtrot (46cc7f)                append harbor-78c91c.csv
-10/240  refactor: trim victor nimbus                  append bravo-506804.dat
-11/240  build: adjust juliet lima                     trim bravo-506804.dat:8
-12/240  wip: xray tweaks                              create cobalt-12233d.dat
-13/240  polish prism                                  modify harbor-78c91c.csv:1
+[2026-05-06T01:20:34+00:00] target 6500/day, sleep 6-19s, batch 150-300
