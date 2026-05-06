@@ -12,5 +12,4 @@ refactor sierra cfdfe8
 refactor quebec 3d6dce
 bump kilo 2e584d
 seed nimbus 411530
-adjust golf 712fe3
 update sierra df953c
