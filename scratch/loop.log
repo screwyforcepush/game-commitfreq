@@ -5253,3 +5253,4 @@ To https://github.com/screwyforcepush/game-commitfreq.git
 17/590  refactor: tidy uniform for cobalt             modify uniform-b6d4df.txt:2
 18/590  feat: refactor quebec november                rename solstice-358bd5.csv -> quebec-dcbe8a.csv
 19/590  update victor for yankee                      trim india-e15e0e.csv:2
+20/590  build: trim oscar for uniform                 append india-e15e0e.csv
