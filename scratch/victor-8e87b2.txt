@@ -1,5 +1,0 @@
-seed tango 8e083c
-cleanup victor fde970
-tidy solstice 541a7f
-nudge foxtrot 3275b7
-adjust zulu b71cbc
