@@ -1,4 +1,3 @@
-update november 4ac122
 trim ember fcbbd7
 expand zulu 3a75ac
 trim yankee 719342
