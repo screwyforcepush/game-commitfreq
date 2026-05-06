@@ -5,3 +5,6 @@ prune tango 0b316c
 polish juliet 9c989d
 update uniform 0659d9
 polish yankee fcf050
+tweak zulu f98583
+prune sierra 185b14
+trim delta 8d224a
