@@ -1,5 +1,4 @@
 seed alpha c3a6c7
 nudge india ed358c
-nudge papa e9510d
 bump charlie ba97da
 tweak victor 90a009
