@@ -1,6 +1,6 @@
 wire hotel db3492
 cleanup prism 8ebb5b
-tidy solstice a09319
+prune yankee da180b
 tweak nimbus 86c1ac
 tidy hotel e50e6f
 nudge india 901656
