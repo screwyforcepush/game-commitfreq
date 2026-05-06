@@ -2,7 +2,6 @@ polish alpha 93f091
 refactor november 43e212
 polish alpha d6eeeb
 tidy prism 3e16a7
-bump xray 7fbba5
 bump ember 5617d4
 expand uniform 7531cf
 tidy echo c43f77
