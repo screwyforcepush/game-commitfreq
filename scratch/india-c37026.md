@@ -5,3 +5,6 @@ rework prism 86cb69
 adjust november 7944a2
 expand zulu ea234b
 prune delta b24b44
+tune cobalt d3e3f6
+tidy lattice 493f1d
+update juliet e429dd
