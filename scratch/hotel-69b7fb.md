@@ -1,5 +1,5 @@
 tidy foxtrot 2b1364
-adjust xray 4ccdb3
+prune xray 67152d
 seed lattice 66f756
 update lattice 198fea
 trim harbor 11d63a
