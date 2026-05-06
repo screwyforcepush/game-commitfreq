@@ -12,3 +12,7 @@ tune harbor b69b8d
 cleanup uniform 99a6b8
 tidy cobalt fc417d
 adjust papa 0201b8
+cleanup hotel 2a60c8
+rework charlie 15687e
+nudge bravo 465513
+nudge delta aa3f81
