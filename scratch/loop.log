@@ -209,3 +209,4 @@
 208/424  update alpha for xray                         modify sierra-34c487.dat:4
 209/424  tidy lattice                                  rename nimbus-18c902.txt -> delta-e83ac5.txt
 210/424  docs: tweak bravo                             drop sierra-34c487.dat
+211/424  refactor: polish kilo (22cc7a)                rename delta-e83ac5.txt -> romeo-dbe497.log
