@@ -3275,3 +3275,4 @@ To https://github.com/screwyforcepush/game-commitfreq.git
 567/640  fix: tidy hotel (eb1505)                      modify oscar-d9c20a.dat:7
 568/640  fix: expand oscar (df2477)                    rename lattice-6f60aa.csv -> mike-e7531c.dat
 569/640  wire golf (b035dd)                            trim oscar-d9c20a.dat:11
+570/640  nudge oscar for uniform                       rename oscar-d9c20a.dat -> sierra-7cb0d2.csv
