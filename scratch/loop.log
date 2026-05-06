@@ -848,3 +848,4 @@ To https://github.com/screwyforcepush/game-commitfreq.git
 159/572  build: sierra bumps                           append nimbus-3e21be.csv
 160/572  adjust whiskey for foxtrot                    rename whiskey-f46c07.dat -> sierra-0220fd.log
 161/572  feat: lattice tweaks                          append quebec-d7a2a7.txt
+162/572  feat: trim lattice for foxtrot                append quebec-d7a2a7.txt
