@@ -6,3 +6,7 @@ expand nimbus c9e083
 expand ember 5fe556
 update solstice ef37b9
 rework whiskey c1405f
+tune delta df2f02
+nudge oscar 2e31b4
+wire foxtrot 72dcc7
+prune kilo ca08e2
