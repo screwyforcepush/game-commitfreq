@@ -1,5 +1,4 @@
 seed alpha c3a6c7
-nudge india ed358c
 tidy yankee 4f53b1
 tweak victor 90a009
 prune tango 0b316c
