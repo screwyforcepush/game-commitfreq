@@ -8,3 +8,7 @@ cleanup xray 717a1e
 refactor lattice 1e8e63
 tweak juliet ab8f4a
 polish golf f0a7db
+adjust lattice 0a346f
+trim yankee 52c8fc
+tidy kilo bfc714
+nudge november ed397a
