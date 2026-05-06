@@ -1,3 +1,3 @@
 # game-commitfreq
 
-A project repository.
+A project repository by screwyforcepush.
