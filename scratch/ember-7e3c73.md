@@ -3,3 +3,7 @@ tune yankee 02c65f
 adjust alpha 291650
 seed kilo 1081d8
 wire uniform 334116
+tweak mike 293de1
+trim bravo 0c99b9
+rework charlie 9c821a
+nudge prism 840214
