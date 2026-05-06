@@ -173,3 +173,4 @@
 172/337  build: charlie tunes                          create victor-933df5.csv
 173/337  refactor: rework hotel (bec7ad)               drop whiskey-da4bc9.dat
 174/337  rework foxtrot                                create uniform-e48346.log
+175/337  wip: hotel seeds                              trim uniform-e48346.log:4
