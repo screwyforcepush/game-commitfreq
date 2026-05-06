@@ -1,7 +1,6 @@
 refactor harbor 851424
 expand quebec b70a15
 cleanup ember 5f1aeb
-wire harbor 91ea7b
 rework prism 86cb69
 adjust november 7944a2
 expand zulu ea234b
