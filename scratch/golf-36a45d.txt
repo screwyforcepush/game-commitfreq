@@ -1,4 +1,3 @@
 cleanup tango a2167c
-update kilo c24057
 cleanup papa 627098
 cleanup kilo 65d5cc
