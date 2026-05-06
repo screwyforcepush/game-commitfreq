@@ -3,7 +3,7 @@ prune tango 020c69
 bump whiskey c674de
 tidy mike fd1501
 wire india 4e2930
-trim alpha 2a483a
+wire sierra a5f05c
 cleanup solstice 586896
 update yankee a5af4b
 wire delta dfbafb
