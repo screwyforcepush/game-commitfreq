@@ -6,3 +6,4 @@ bump hotel 696a2f
 bump solstice 9ff5ce
 adjust yankee 4325f2
 rework prism fa7576
+tidy sierra 051299
