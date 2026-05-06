@@ -2,3 +2,5 @@ tweak zulu cb98ff
 cleanup tango fd4c2d
 update india 9d494c
 refactor sierra 318e65
+trim zulu 6966d8
+trim uniform 05229a
