@@ -1,6 +1,5 @@
 expand papa 7db2b9
 prune golf 1b2fad
-expand quebec ddf263
 wire sierra 7a1425
 cleanup hotel a588e6
 wire alpha e2147d
