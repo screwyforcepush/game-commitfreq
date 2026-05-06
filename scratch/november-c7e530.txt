@@ -1,5 +1,0 @@
-polish xray 98d04d
-tune lima ac9536
-seed harbor 5bc1c5
-seed delta 6bb812
-tidy november 333aee
