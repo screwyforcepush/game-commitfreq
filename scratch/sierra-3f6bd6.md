@@ -8,3 +8,6 @@ bump ember 5617d4
 expand uniform 7531cf
 tidy echo c43f77
 wire november a365ee
+polish victor d232f4
+tune mike dcbf80
+tidy delta 259c51
