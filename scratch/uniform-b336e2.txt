@@ -20,3 +20,6 @@ polish xray 798e6d
 seed lattice ca66c5
 tune papa 07a1d6
 polish quebec bd5869
+tidy echo 59e10b
+cleanup golf 4b56e2
+refactor mike e6b411
