@@ -3648,3 +3648,4 @@ To https://github.com/screwyforcepush/game-commitfreq.git
 298/515  seed nimbus for xray                          create sierra-ec8a2e.txt
 299/515  build: cleanup quebec (5d3888)                trim sierra-ec8a2e.txt:2
 300/515  build: nudge alpha for mike                   create xray-d8b400.dat
+301/515  oscar wires                                   append xray-d8b400.dat
