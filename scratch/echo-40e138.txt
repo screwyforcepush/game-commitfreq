@@ -8,3 +8,5 @@ expand bravo 2e3d64
 nudge whiskey dcc0e1
 expand november 920817
 expand alpha b1ef59
+tune quebec 0ca3d2
+tune lima 8c4cb3
