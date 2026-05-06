@@ -4,7 +4,6 @@ adjust november 006f84
 nudge foxtrot 588177
 tidy sierra 199509
 polish alpha 669b9a
-polish ember 7a4254
 expand prism 8aae8b
 tweak ember 74ac64
 tidy victor cd7403
