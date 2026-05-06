@@ -6,3 +6,5 @@ tune oscar 200580
 tidy nimbus 403ebd
 trim alpha c7862f
 tune mike 26cbdc
+update november 827fe1
+seed juliet f2b949
