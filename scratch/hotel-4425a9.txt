@@ -1,4 +1,3 @@
-tweak quebec 70241e
 tidy juliet 626346
 adjust cobalt 13f1ec
 cleanup mike 23727c
