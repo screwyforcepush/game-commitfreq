@@ -1,2 +1,1 @@
-tidy solstice d40dca
 expand solstice d2588a
