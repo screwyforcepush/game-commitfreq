@@ -4,3 +4,7 @@ tweak alpha 731d1e
 tidy charlie dbc208
 refactor foxtrot beafde
 tune november 2b9c8f
+tidy oscar 736a13
+refactor sierra aae122
+tidy papa 685c20
+bump bravo 0f3deb
