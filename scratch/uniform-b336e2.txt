@@ -5,3 +5,7 @@ expand harbor 6d3874
 update kilo 165727
 update xray cb1385
 rework nimbus 314ede
+tweak bravo 908e1f
+tweak india a4ac9b
+rework oscar 192610
+wire tango 7d0c11
