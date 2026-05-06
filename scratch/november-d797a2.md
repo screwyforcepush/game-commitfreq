@@ -5,3 +5,7 @@ tune solstice f51275
 wire kilo 40cdf6
 adjust nimbus 6bc7eb
 seed juliet 70845a
+nudge ember 46745d
+nudge delta 66bdf2
+trim delta afc5be
+polish lima b7d894
