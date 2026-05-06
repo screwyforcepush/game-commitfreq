@@ -208,3 +208,4 @@
 207/424  docs: trim cobalt (a1ca42)                    trim nimbus-18c902.txt:16
 208/424  update alpha for xray                         modify sierra-34c487.dat:4
 209/424  tidy lattice                                  rename nimbus-18c902.txt -> delta-e83ac5.txt
+210/424  docs: tweak bravo                             drop sierra-34c487.dat
