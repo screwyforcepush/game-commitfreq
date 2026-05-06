@@ -240,3 +240,4 @@
 239/424  fix: tidy nimbus for lattice                  drop uniform-b336e2.txt
 240/424  tidy mike                                     create charlie-1c64ef.csv
 241/424  build: tune golf for echo                     rename quebec-e9b920.dat -> nimbus-79fee7.csv
+242/424  chore: tune november prism                    trim charlie-1c64ef.csv:1
