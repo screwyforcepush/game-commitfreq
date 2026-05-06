@@ -1,6 +1,5 @@
 tune echo 9d9ad0
 adjust nimbus a2311d
-adjust solstice c294b3
 bump hotel 11d0e2
 bump juliet 6cccd7
 refactor sierra 38db3a
