@@ -4,3 +4,4 @@ seed lattice 66f756
 cleanup kilo c3b57a
 update lattice 198fea
 trim harbor 11d63a
+tidy quebec 1f7ab2
