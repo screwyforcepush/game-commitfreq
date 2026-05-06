@@ -3,3 +3,7 @@ update charlie ee0001
 seed cobalt ddc091
 wire victor a46fb8
 adjust lattice 48825b
+expand whiskey a0ee87
+rework zulu 71c197
+expand quebec d4fe5b
+bump ember 796cd4
