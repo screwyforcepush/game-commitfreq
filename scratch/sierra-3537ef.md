@@ -15,3 +15,6 @@ nudge charlie ef0577
 refactor zulu 578d40
 tune lattice 85c1c2
 wire quebec e866c2
+tweak tango 9b95d8
+trim bravo d833b1
+expand kilo 847699
