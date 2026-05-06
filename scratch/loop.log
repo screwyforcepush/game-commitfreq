@@ -2847,3 +2847,4 @@ To https://github.com/screwyforcepush/game-commitfreq.git
 139/640  build: tweak sierra (610675)                  drop yankee-d9979d.dat
 140/640  wip: update foxtrot for india                 trim quebec-9114c1.dat:5
 141/640  rework quebec india                           append nimbus-e566dc.csv
+142/640  refactor: foxtrot tidys                       trim lattice-61a844.dat:1
