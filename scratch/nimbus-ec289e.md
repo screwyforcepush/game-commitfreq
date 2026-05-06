@@ -9,3 +9,5 @@ nudge foxtrot fa48fb
 update echo f267d2
 nudge mike 6bb9a4
 expand ember a617e4
+rework solstice 312301
+tweak nimbus 8fc394
