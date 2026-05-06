@@ -7,4 +7,3 @@ bump zulu f8541f
 cleanup ember f261cc
 seed kilo 0b0023
 trim echo 3921ca
-tidy sierra bc575a
