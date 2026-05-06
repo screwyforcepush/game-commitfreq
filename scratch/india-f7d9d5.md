@@ -7,7 +7,7 @@ expand foxtrot 60b99d
 prune solstice 285be0
 prune romeo c185ea
 wire nimbus 489865
-adjust alpha ce5028
+tune oscar 9f5e8e
 wire sierra 046607
 trim delta 041183
 tweak delta 714101
