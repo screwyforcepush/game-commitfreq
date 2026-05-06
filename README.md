@@ -15,11 +15,11 @@ producing any actual engineering output.
   trim / rename / delete) on files inside `scratch/`. Commit messages are
   assembled from random verbs, nouns, and prefixes. A configurable jitter
   (`SLEEP_MIN`/`SLEEP_MAX`, default 5–20s) spaces commits within a batch.
-- `loop.sh [commits_per_day]` runs `commit-spam.sh` forever with batch
-  sizes between 150 and 300. The arg (default 6500) controls the
-  per-commit sleep range — mean sleep is `86400 / target`, jittered ±50%.
-  Batch size only affects push frequency, which stays comfortably under
-  any sensible rate limit at all rates.
+- `loop.sh [commits_per_day]` runs `commit-spam.sh` forever. The arg
+  (default 6500) drives two derived ranges:
+  - per-commit sleep: mean `86400 / target`, jittered ±50%
+  - batch size (commits per push): `[target/20, target/10]`, so push
+    frequency stays at ~10–20 per day regardless of the commit target
 - Output from the loop is written to `scratch/loop.log`, which is itself
   swept into commits. The op picker explicitly skips it so it is never
   modified or deleted mid-write.
