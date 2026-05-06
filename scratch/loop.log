@@ -3272,3 +3272,4 @@ To https://github.com/screwyforcepush/game-commitfreq.git
 564/640  docs: wire oscar for quebec                   append oscar-d9c20a.dat
 565/640  wip: tune india                               append oscar-d9c20a.dat
 566/640  chore: xray reworks                           modify oscar-d9c20a.dat:9
+567/640  fix: tidy hotel (eb1505)                      modify oscar-d9c20a.dat:7
