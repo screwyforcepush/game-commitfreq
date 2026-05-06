@@ -5,3 +5,6 @@ bump quebec f2a6bd
 nudge quebec 898e3e
 refactor ember e029c4
 tidy papa 2742ff
+trim tango 7ec378
+polish uniform 161b06
+polish india 0e3914
