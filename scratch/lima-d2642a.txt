@@ -11,3 +11,5 @@ tune yankee 12930c
 bump bravo 5cc246
 expand golf 778665
 wire tango 83aa20
+rework solstice c86940
+prune lattice a10137
