@@ -162,3 +162,4 @@
 161/424  docs: tidy uniform for charlie                drop charlie-fac448.csv
 162/424  tidy echo                                     create mike-9d3ee8.md
 163/424  build: polish solstice                        create juliet-81291a.dat
+164/424  wire november for mike                        trim juliet-81291a.dat:4
