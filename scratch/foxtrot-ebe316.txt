@@ -1,5 +1,0 @@
-adjust prism adca88
-seed oscar c40ed8
-tweak whiskey e00cfe
-polish prism 39611e
-tweak harbor d40eff
