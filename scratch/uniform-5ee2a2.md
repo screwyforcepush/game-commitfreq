@@ -6,6 +6,5 @@ nudge uniform 3ca919
 expand sierra af161e
 refactor harbor de743a
 adjust oscar 668f2f
-wire alpha 04963a
 update quebec cdab9d
 seed xray 052943
