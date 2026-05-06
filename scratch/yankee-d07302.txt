@@ -1,2 +1,1 @@
-adjust solstice 0c0d9a
 bump zulu 4f54b7
