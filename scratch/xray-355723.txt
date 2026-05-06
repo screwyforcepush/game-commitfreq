@@ -1,7 +1,7 @@
 rework cobalt 4fd16d
 update ember cf0a1f
 polish ember 122333
-wire solstice 79815a
+wire kilo 3d4a90
 expand nimbus 3b2e58
 tweak tango b34b29
 polish oscar 75d349
