@@ -7,3 +7,7 @@ tune hotel fea2b1
 expand yankee dcaf02
 update solstice f56e64
 bump prism 62872c
+tweak sierra 4f953e
+polish alpha 39b278
+polish mike 79adba
+update prism 0b62c5
