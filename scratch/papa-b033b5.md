@@ -7,3 +7,5 @@ trim alpha c7862f
 tune mike 26cbdc
 update november 827fe1
 seed juliet f2b949
+adjust quebec 9185b3
+bump alpha f4e16e
