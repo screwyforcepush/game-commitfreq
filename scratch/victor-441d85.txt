@@ -2,6 +2,5 @@ nudge solstice 9dbcbf
 cleanup sierra 79e776
 nudge papa 79011b
 prune oscar 7da549
-adjust delta 78c94f
 tweak tango 4b1b51
 tidy echo d5a0fd
