@@ -8,7 +8,6 @@ tune romeo b91a63
 wire oscar 37b001
 expand zulu 7f35e7
 cleanup sierra 6aa16c
-prune echo dde55c
 expand whiskey 30c83f
 update quebec bfd844
 tune mike e4315d
