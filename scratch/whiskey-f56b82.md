@@ -6,3 +6,7 @@ tweak charlie 75ada1
 cleanup ember 7f524a
 tweak tango 1f6d87
 nudge victor 440841
+trim oscar 9cef88
+prune victor cb555d
+rework ember 55c3ea
+adjust mike 7faca7
