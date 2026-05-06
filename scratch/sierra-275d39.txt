@@ -1,5 +1,4 @@
 tune oscar a6da01
-tune golf 9988c2
 tune mike 46e128
 wire solstice 7d747e
 rework cobalt 011cb4
