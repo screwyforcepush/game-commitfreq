@@ -2,3 +2,5 @@ tidy mike febd4c
 trim whiskey 0b9e1e
 adjust oscar 8d9f60
 prune kilo 77f625
+trim victor 19c646
+expand golf 4af13d
