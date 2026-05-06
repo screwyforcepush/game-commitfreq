@@ -11,3 +11,5 @@ trim yankee 8a1757
 cleanup prism 900842
 update delta 4d7668
 tidy lima 7b7003
+trim nimbus 6cfd31
+rework papa 009caf
