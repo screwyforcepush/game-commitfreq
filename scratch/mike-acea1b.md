@@ -7,3 +7,6 @@ adjust solstice f2ccba
 adjust india 6d855c
 update ember 014a3d
 wire alpha edde19
+trim solstice a84583
+wire november c90850
+cleanup india 4f136f
