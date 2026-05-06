@@ -5,3 +5,7 @@ refactor hotel 45e792
 polish hotel 75c5cc
 cleanup cobalt 7c1fc1
 adjust india 0fbec7
+trim cobalt 0362a2
+bump juliet d8b63a
+rework cobalt 3c42ac
+adjust nimbus 709dbd
