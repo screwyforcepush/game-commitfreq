@@ -2,3 +2,7 @@ tune foxtrot 44197f
 prune ember a4d23d
 adjust lattice 1b9cd5
 tweak charlie ebe48a
+prune xray 4284e1
+trim golf 4e28c9
+expand bravo 2e3d64
+nudge whiskey dcc0e1
