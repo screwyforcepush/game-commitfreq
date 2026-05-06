@@ -6,6 +6,5 @@ adjust lattice 48825b
 expand whiskey a0ee87
 rework zulu 71c197
 expand quebec d4fe5b
-bump ember 796cd4
 refactor cobalt ff99a6
 tidy whiskey b3be0a
