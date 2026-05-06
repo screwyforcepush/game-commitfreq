@@ -5,3 +5,6 @@ rework echo 717764
 prune golf beccc6
 seed foxtrot aef0c6
 tidy hotel b0c31c
+expand quebec 73d5b1
+expand zulu affde4
+tune kilo 8c5b0f
