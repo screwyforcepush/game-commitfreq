@@ -9,7 +9,6 @@ prune november 383439
 bump bravo f97a25
 expand hotel c7b549
 bump charlie 7776ab
-prune nimbus 873dbf
 prune romeo f4cab9
 nudge charlie ef0577
 refactor zulu 578d40
