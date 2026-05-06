@@ -12,7 +12,6 @@ tweak prism 81c51f
 adjust juliet 9acd0e
 refactor prism 617105
 nudge sierra 494a85
-adjust prism ddd4a9
 update delta 9beb0b
 polish cobalt b8bda9
 rework kilo fac8f9
