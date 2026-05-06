@@ -1,7 +1,6 @@
 tune xray 41a86c
 seed papa fc28e4
 tune mike a7f27c
-bump charlie 592ce7
 tidy sierra 173735
 expand echo b6e1fb
 wire november 03681a
