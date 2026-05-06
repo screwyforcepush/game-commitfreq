@@ -1,3 +1,7 @@
 tune harbor 341b01
 tune hotel c2991c
 trim delta d0b665
+trim mike b4c302
+bump echo 14558c
+trim tango 45cd1d
+tweak nimbus 9b0563
