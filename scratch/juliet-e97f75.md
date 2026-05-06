@@ -12,3 +12,6 @@ refactor delta 4f4c3e
 tidy hotel da0611
 wire whiskey 445aa8
 adjust alpha a1d13c
+expand tango 08ae9c
+adjust golf 7e9019
+expand ember 24386b
