@@ -2,3 +2,7 @@ nudge delta a3595d
 bump lima 4778a9
 bump echo a937c9
 adjust bravo aabbc6
+expand nimbus c9e083
+expand ember 5fe556
+update solstice ef37b9
+rework whiskey c1405f
