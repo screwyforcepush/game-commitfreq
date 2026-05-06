@@ -9,3 +9,6 @@ prune whiskey d68850
 adjust xray 9d608f
 polish golf 270a88
 expand ember a7c0d3
+adjust cobalt 6c0768
+seed quebec db940b
+seed whiskey c658b8
