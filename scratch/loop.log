@@ -298,3 +298,4 @@
 297/424  refactor: cleanup hotel                       drop tango-0c1115.log
 298/424  tweak juliet cobalt                           rename whiskey-45aa8e.csv -> solstice-1c4294.csv
 299/424  refactor: rework alpha (680951)               drop solstice-b7fec2.dat
+300/424  build: nimbus bumps                           trim foxtrot-837c32.dat:2
