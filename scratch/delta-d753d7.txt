@@ -3,7 +3,6 @@ seed papa fc28e4
 tune mike a7f27c
 update solstice 7a3b03
 expand echo b6e1fb
-wire november 03681a
 seed india 30f256
 tune hotel 2a5138
 trim nimbus 6241a8
