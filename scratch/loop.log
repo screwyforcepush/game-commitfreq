@@ -959,3 +959,4 @@ To https://github.com/screwyforcepush/game-commitfreq.git
 151/426  docs: prune lattice for victor                rename tango-32b397.csv -> november-beb23b.dat
 152/426  feat: tune lattice for zulu                   rename ember-f32d88.log -> yankee-4a839f.log
 153/426  docs: prune zulu (1928e9)                     drop yankee-4a839f.log
+154/426  fix: seed charlie                             modify november-beb23b.dat:1
