@@ -5,3 +5,7 @@ tidy kilo de13fb
 tune romeo 137111
 expand foxtrot 60b99d
 prune solstice 285be0
+prune romeo c185ea
+wire nimbus 489865
+adjust alpha ce5028
+wire sierra 046607
