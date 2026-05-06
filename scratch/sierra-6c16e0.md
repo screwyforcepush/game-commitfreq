@@ -1,1 +1,1 @@
-cleanup solstice 683d03
+trim delta 43302a
