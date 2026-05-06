@@ -2,3 +2,7 @@ tweak alpha 5b15c5
 adjust harbor 6e673c
 adjust oscar d41c92
 cleanup cobalt 43533c
+tidy harbor e5472b
+tidy solstice 023635
+tidy echo 5e85c1
+wire india a5a90f
