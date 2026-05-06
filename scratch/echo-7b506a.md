@@ -4,3 +4,6 @@ tune lattice 407947
 polish ember 3ab2b4
 nudge whiskey bc8c9d
 trim uniform 38fb00
+trim papa 590c66
+adjust solstice 53178f
+bump zulu 7d3213
