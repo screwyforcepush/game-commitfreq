@@ -5,3 +5,7 @@ wire solstice 79815a
 expand nimbus 3b2e58
 tweak tango b34b29
 polish oscar 75d349
+wire cobalt 29fb9c
+tune zulu 7199da
+update victor bd9e19
+adjust sierra 9553f9
