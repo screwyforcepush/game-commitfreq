@@ -3,3 +3,7 @@ adjust romeo 7c18cf
 trim yankee 1e01bf
 cleanup charlie 20bfd2
 seed foxtrot b6e757
+adjust hotel 4825c7
+tune yankee 0dabfc
+nudge victor 93c324
+wire delta ce8846
