@@ -1,1 +1,3 @@
 polish cobalt c66123
+wire sierra fe2236
+wire xray 47a57e
