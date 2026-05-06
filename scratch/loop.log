@@ -406,3 +406,4 @@
 405/424  prune xray                                    drop nimbus-99498d.csv
 406/424  refactor: tidy juliet for lattice             modify cobalt-192c8c.csv:1
 407/424  fix: november seeds                           append lattice-6755e3.txt
+408/424  tweak yankee                                  append romeo-b6e933.txt
