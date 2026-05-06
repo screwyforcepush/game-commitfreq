@@ -4,6 +4,6 @@ trim tango a896b3
 rework yankee df21f5
 nudge november b11232
 adjust foxtrot f55bfa
-tune whiskey e0f0cd
+trim foxtrot f45944
 tune papa 2184e0
 rework mike b4bfa7
