@@ -1,3 +1,3 @@
 polish echo ff5b5b
-prune yankee 27410d
+prune whiskey c21079
 polish quebec d5ddae
