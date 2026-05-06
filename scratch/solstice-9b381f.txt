@@ -4,3 +4,5 @@ refactor charlie 5beb1d
 cleanup golf 2c6ef0
 tidy kilo 979814
 trim uniform 4b4277
+trim hotel e82a54
+nudge echo 283bd8
