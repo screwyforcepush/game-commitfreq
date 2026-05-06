@@ -5,3 +5,6 @@ bump ember 150d9d
 polish victor ddb708
 trim delta 9069e7
 wire oscar 171d70
+tweak papa 11936c
+nudge lattice 38f88f
+prune golf 3e599f
