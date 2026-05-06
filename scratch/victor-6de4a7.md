@@ -3,7 +3,7 @@ nudge oscar d30294
 trim lima 52a888
 wire india 160ccb
 polish juliet 492a33
-refactor nimbus e9d71d
+bump nimbus 2a75da
 adjust tango 766699
 expand oscar 2ad087
 cleanup tango 76cd84
