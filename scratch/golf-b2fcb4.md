@@ -10,3 +10,6 @@ nudge yankee 7b2e7f
 cleanup mike 134943
 tune delta c0edc5
 tweak juliet 91b844
+polish delta f8dcb2
+adjust whiskey 662f1b
+adjust prism d9e9a9
