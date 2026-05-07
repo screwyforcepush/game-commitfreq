@@ -9258,3 +9258,4 @@ To https://github.com/screwyforcepush/game-commitfreq.git
 344/380  bravo wires                                   modify delta-14526a.txt:1
 345/380  refactor: uniform bumps                       drop lattice-d4fff1.dat
 346/380  fix: tune lima (8a5987)                       trim cobalt-63998d.dat:1
+347/380  prune sierra uniform                          trim cobalt-63998d.dat:2
