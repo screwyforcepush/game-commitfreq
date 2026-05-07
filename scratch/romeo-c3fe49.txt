@@ -11,3 +11,6 @@ polish victor 2665dd
 prune xray 8856ab
 rework lattice dc38be
 refactor oscar 4d4684
+tune zulu 90ad93
+tune solstice 706006
+prune november 9fe52f
