@@ -3,5 +3,4 @@ tune xray 32886b
 cleanup yankee 1118ae
 wire solstice 243988
 update oscar 9daeab
-update sierra 4ea404
 adjust india bb65e0
