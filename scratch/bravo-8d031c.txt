@@ -11,3 +11,6 @@ wire ember 7b6f22
 prune harbor adce00
 nudge uniform 487f26
 wire delta 4c6039
+bump november 3e6515
+rework whiskey 9b33a3
+tidy nimbus e87b1f
