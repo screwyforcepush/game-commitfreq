@@ -3,5 +3,4 @@ bump zulu 61c7ca
 rework prism 0c5dbb
 bump hotel 0ba383
 rework zulu 6aeac0
-seed papa e1994f
 tidy juliet 1a2c8d
