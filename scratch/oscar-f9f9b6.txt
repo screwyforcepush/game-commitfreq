@@ -1,5 +1,4 @@
 wire kilo 2e2d1c
-wire whiskey b554f4
 tidy charlie cecfeb
 trim tango 8d53be
 tweak whiskey 551ef1
