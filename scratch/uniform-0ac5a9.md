@@ -1,5 +1,4 @@
 wire romeo a6da34
-seed prism b15f37
 wire india 8c599d
 nudge victor 0d459b
 prune zulu 6b448e
