@@ -8,7 +8,7 @@ rework mike 219ae6
 adjust hotel 8efbc8
 update prism 759fb5
 expand whiskey c12874
-polish yankee 9539f6
+refactor india 792baa
 nudge juliet d508e8
 cleanup lattice a8939d
 update yankee 7cd4b4
