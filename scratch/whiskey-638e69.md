@@ -1,4 +1,3 @@
-prune quebec 7f6880
 prune foxtrot 875793
 polish tango 105a5c
 tune mike bf8439
