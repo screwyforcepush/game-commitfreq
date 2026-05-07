@@ -1,3 +1,0 @@
-trim yankee b3d74c
-prune golf a04192
-tidy nimbus 4884d1
