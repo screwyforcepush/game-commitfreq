@@ -2,3 +2,6 @@ wire xray a7f8d1
 tune lattice 4c2910
 adjust victor 457933
 nudge kilo cc5afe
+adjust echo fb647e
+nudge oscar 0aedd7
+trim alpha 753284
