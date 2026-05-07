@@ -6,3 +6,6 @@ update papa 3cc98c
 prune quebec afc58f
 cleanup tango 6cbf4d
 tweak zulu 3fc9c1
+rework solstice 3f4110
+tweak echo 190443
+refactor lima 28c29d
