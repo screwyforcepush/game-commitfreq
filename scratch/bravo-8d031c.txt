@@ -8,3 +8,6 @@ adjust solstice 6a1722
 wire oscar b06d38
 nudge victor 4f5831
 wire ember 7b6f22
+prune harbor adce00
+nudge uniform 487f26
+wire delta 4c6039
