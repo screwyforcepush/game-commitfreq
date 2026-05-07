@@ -7,3 +7,5 @@ cleanup lattice f958ed
 seed papa 7b80c2
 wire xray 1e05b4
 trim xray 5e17cc
+rework delta c86844
+adjust sierra 18bf28
