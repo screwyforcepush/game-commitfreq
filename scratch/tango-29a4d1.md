@@ -28,3 +28,5 @@ bump harbor 1b416c
 polish india 2db4e2
 trim oscar 9aab0b
 prune prism f231ed
+trim cobalt bb3cdd
+adjust solstice 09cd82
