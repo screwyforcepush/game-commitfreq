@@ -1,5 +1,0 @@
-prune sierra a196ad
-seed whiskey 9f1e08
-cleanup delta 9c1311
-refactor whiskey 0fc0d9
-polish bravo f3ffde
