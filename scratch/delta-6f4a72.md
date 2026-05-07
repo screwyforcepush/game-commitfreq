@@ -6,7 +6,6 @@ tweak xray 3800bb
 bump uniform 14c3aa
 wire golf 6d0046
 polish harbor 3926e1
-rework cobalt 2226b0
 tweak cobalt 54e327
 adjust nimbus 38286e
 adjust zulu f6f045
