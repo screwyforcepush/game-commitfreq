@@ -5,3 +5,7 @@ polish golf a0837e
 prune ember 84bead
 nudge prism 3c84f8
 rework hotel 16cc65
+tidy zulu c94fbe
+tweak lattice 12b97e
+tune tango 16a870
+adjust yankee 3dea1e
