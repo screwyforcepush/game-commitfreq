@@ -1,6 +1,5 @@
 polish whiskey ebb51c
 seed echo a05403
-polish prism 6e11f2
 trim tango ffa8fe
 refactor kilo f03029
 prune lima 1cd66c
