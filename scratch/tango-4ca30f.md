@@ -4,7 +4,6 @@ rework delta 47ab95
 tune cobalt dfeafe
 expand lattice e47212
 polish prism baebae
-nudge echo df3328
 seed mike 83003a
 seed foxtrot e720e1
 rework yankee d26a58
