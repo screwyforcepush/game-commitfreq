@@ -1,6 +1,0 @@
-bump sierra ff791f
-polish uniform c71865
-bump charlie 729c13
-wire november 19709a
-wire papa 63d51b
-rework whiskey 34b413
