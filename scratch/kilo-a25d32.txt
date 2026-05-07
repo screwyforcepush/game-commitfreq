@@ -1,1 +1,5 @@
 rework tango 086709
+rework solstice 57585b
+tweak tango b7fd9d
+adjust nimbus d3efc6
+bump bravo ba9074
