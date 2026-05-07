@@ -1,2 +1,1 @@
-seed nimbus b70c7b
 prune uniform 5026ca
