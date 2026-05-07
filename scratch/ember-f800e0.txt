@@ -1,3 +1,6 @@
 tidy zulu 1622fb
 adjust victor 915410
 rework lattice 2ab259
+tune sierra 9f47ed
+tweak charlie 47214c
+update papa dd90a9
