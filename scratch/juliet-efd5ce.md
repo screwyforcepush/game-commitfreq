@@ -12,7 +12,6 @@ adjust papa 0ba82c
 trim golf d828ba
 update november 2a039e
 tweak kilo 8f025a
-wire kilo e6f98c
 tune harbor 8b8c2c
 rework cobalt 160c2b
 tweak harbor fbf69a
