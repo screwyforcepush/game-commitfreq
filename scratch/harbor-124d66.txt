@@ -3,3 +3,6 @@ tidy harbor 44afc0
 cleanup zulu 517780
 nudge lima cc3912
 refactor sierra 924755
+wire alpha dc0052
+tune nimbus cbb563
+adjust oscar 0ac5cc
