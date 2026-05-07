@@ -1,6 +1,5 @@
 adjust nimbus 8bdb79
 refactor echo 345c08
-seed papa 1ec134
 update nimbus 9cf502
 tune charlie a7e193
 update ember 58c28b
