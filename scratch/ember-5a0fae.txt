@@ -7,3 +7,7 @@ tweak zulu 522f09
 refactor mike e4a04c
 prune xray 9f6c99
 refactor golf 9a2bcc
+adjust kilo e71e47
+adjust prism c2a0da
+nudge india 9a7aa0
+wire charlie 292b55
