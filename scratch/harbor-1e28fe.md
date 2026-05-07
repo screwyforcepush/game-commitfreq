@@ -2,7 +2,6 @@ tidy lima 9f78c9
 adjust mike d27d86
 tidy prism ec491b
 bump whiskey f1371b
-seed zulu 33ab0b
 trim india 1e0270
 cleanup kilo dfed4b
 bump ember 6dd3ef
