@@ -2,3 +2,7 @@ prune bravo 03355b
 adjust juliet 53bf7e
 rework oscar 7714a4
 update foxtrot 0fd4d3
+update papa 3cc98c
+prune quebec afc58f
+cleanup tango 6cbf4d
+tweak zulu 3fc9c1
