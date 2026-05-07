@@ -13,3 +13,6 @@ prune xray 713a3b
 trim cobalt 61021e
 expand delta b52dca
 polish papa 5c73b4
+bump lattice 74ac33
+refactor cobalt 147ef1
+adjust sierra 131ef6
