@@ -6,7 +6,6 @@ prune hotel d9b562
 update november 915329
 update ember 40a5b8
 seed kilo 2bf23e
-nudge lima e6c59a
 wire lattice 83f8ba
 bump romeo 340895
 seed delta fd7b70
