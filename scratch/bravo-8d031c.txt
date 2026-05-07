@@ -14,3 +14,6 @@ wire delta 4c6039
 bump november 3e6515
 rework whiskey 9b33a3
 tidy nimbus e87b1f
+expand solstice b41307
+update victor 95c992
+update golf 011245
