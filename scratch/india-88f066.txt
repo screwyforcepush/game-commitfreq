@@ -4,3 +4,7 @@ update xray cd2e68
 tidy oscar 0b9772
 bump quebec 5b1969
 wire lattice 1c2b71
+bump golf 3127a1
+polish nimbus 907be1
+refactor yankee 1b8484
+tidy papa 0dd2ec
