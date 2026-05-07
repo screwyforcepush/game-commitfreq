@@ -12,7 +12,6 @@ wire hotel a0339c
 refactor echo ed703c
 trim kilo 4ac332
 trim bravo 27c5db
-update tango 52e6c8
 adjust lattice 1058ad
 nudge papa a50e46
 refactor mike 4d4c7d
