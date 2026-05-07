@@ -7660,3 +7660,4 @@ To https://github.com/screwyforcepush/game-commitfreq.git
 297/492  refactor: tweak kilo for hotel                drop bravo-ba08e2.csv
 298/492  docs: cleanup kilo bravo                      drop charlie-9fab43.log
 299/492  docs: yankee cleanups                         drop cobalt-fb2bc3.dat
+300/492  refactor: november nudges                     trim yankee-6d23f2.csv:3
