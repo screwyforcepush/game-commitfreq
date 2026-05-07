@@ -8,3 +8,6 @@ prune prism fd9551
 tweak echo 5681c5
 refactor delta 98ea1f
 tidy delta 4f6672
+bump lima ac1c75
+rework prism 0f1a98
+tune nimbus 96d923
