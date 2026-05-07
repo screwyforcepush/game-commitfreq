@@ -2,5 +2,4 @@ nudge zulu a6c54f
 nudge oscar ee5406
 cleanup quebec 4de3d5
 tweak hotel 41d4eb
-polish tango f7bf7e
 prune foxtrot fbd2b8
