@@ -1,6 +1,5 @@
 adjust kilo a7da35
 polish tango 814065
-prune charlie 7c3c58
 polish xray 5c5e7a
 tune kilo f84241
 bump victor 0cdb94
