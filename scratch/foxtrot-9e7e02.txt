@@ -1,2 +1,1 @@
-cleanup solstice 409fdc
 trim yankee 5ec121
