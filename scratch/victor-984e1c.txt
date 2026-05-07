@@ -3,3 +3,5 @@ expand prism 657c09
 prune kilo 5b0e57
 tidy oscar 4f9965
 expand uniform 1965d3
+trim solstice 121d67
+update zulu 10c153
