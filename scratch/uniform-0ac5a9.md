@@ -15,4 +15,3 @@ cleanup charlie 0081e6
 wire yankee 99e2ef
 nudge zulu 90bc0d
 polish delta 4001f4
-cleanup xray 53a4ea
