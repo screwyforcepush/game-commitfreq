@@ -1,5 +1,4 @@
 prune romeo e5a160
 bump bravo 683f04
-update sierra 0bd9ba
 cleanup delta 055024
 nudge harbor 5b88fb
