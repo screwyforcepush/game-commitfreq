@@ -9,3 +9,6 @@ update ember 40a5b8
 seed kilo 2bf23e
 nudge lima e6c59a
 wire lattice 83f8ba
+seed november c901f3
+seed delta fd7b70
+polish india 7591e0
