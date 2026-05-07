@@ -6,3 +6,7 @@ wire uniform 20a2a0
 seed golf 0fea23
 trim quebec c90200
 bump quebec db8689
+tidy whiskey 98f608
+refactor india bb90b1
+wire lattice e3ed1c
+refactor solstice 1783ac
