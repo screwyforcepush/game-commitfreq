@@ -1,6 +1,6 @@
 expand lattice d0c0b4
 cleanup solstice e86910
-adjust charlie ac9183
+cleanup alpha b5c5fb
 seed xray 001562
 seed foxtrot 4aff38
 nudge hotel 78d905
