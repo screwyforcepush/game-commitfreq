@@ -10,3 +10,7 @@ refactor delta 2bb4fc
 wire prism bae2a2
 cleanup oscar 4c2336
 update echo 97ff5b
+rework quebec f0901e
+trim lattice 057d42
+expand delta 1b0c60
+update oscar d800d5
