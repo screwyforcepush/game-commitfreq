@@ -6663,3 +6663,4 @@ To https://github.com/screwyforcepush/game-commitfreq.git
 326/409  wip: delta cleanups                           append lattice-45438c.csv
 327/409  build: tweak nimbus (ae2d7a)                  append quebec-2ea31b.dat
 328/409  wip: nudge romeo (9b2c7a)                     drop quebec-2ea31b.dat
+329/409  cleanup cobalt (17a545)                       drop sierra-980cd8.csv
