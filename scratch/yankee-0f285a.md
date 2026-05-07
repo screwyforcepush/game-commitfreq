@@ -1,5 +1,4 @@
 tune papa 05e863
-cleanup juliet 0cfd70
 tune yankee ddcd55
 wire uniform c0feff
 bump foxtrot bb1161
