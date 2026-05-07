@@ -1,3 +1,0 @@
-wire papa 1d9bf2
-refactor echo 2907b0
-refactor whiskey 520c99
