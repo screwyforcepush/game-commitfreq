@@ -4,3 +4,5 @@ wire alpha d5d1cf
 adjust golf d99efc
 prune mike 9a1de6
 adjust nimbus 968adc
+trim papa ebd80d
+adjust november d86051
