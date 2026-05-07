@@ -13,3 +13,5 @@ nudge cobalt bfe6bb
 tidy uniform 3a3038
 expand nimbus 134d74
 adjust mike 6f2e9a
+tune oscar c34c0e
+nudge kilo 844c0a
