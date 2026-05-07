@@ -3,5 +3,4 @@ update bravo 7f3b42
 tune xray 08c405
 polish yankee 650002
 prune hotel 45f66f
-prune uniform 2fe742
 wire bravo 21064f
