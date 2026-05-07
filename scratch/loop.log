@@ -11680,3 +11680,4 @@ To https://github.com/screwyforcepush/game-commitfreq.git
 35/582  refactor juliet (0d1627)                      drop mike-f13944.md
 36/582  prune alpha india                             create lattice-36bdfb.txt
 37/582  build: cleanup nimbus (5133c9)                rename lattice-36bdfb.txt -> nimbus-fa8284.csv
+38/582  docs: tidy charlie                            trim hotel-8dd817.md:3
