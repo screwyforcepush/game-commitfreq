@@ -8,3 +8,6 @@ nudge delta d7c68a
 expand juliet e6b860
 bump alpha 1242ca
 refactor uniform 100471
+refactor golf 71fc34
+refactor tango 54d36b
+cleanup zulu f949f2
