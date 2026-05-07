@@ -1,3 +1,7 @@
 cleanup kilo 0d1991
 seed delta c6f9c1
 tune mike afa72d
+tweak oscar d8fe25
+rework juliet 3cbb0a
+cleanup harbor a8972b
+trim tango 9b538e
