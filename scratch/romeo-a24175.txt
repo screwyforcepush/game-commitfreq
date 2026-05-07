@@ -1,4 +1,0 @@
-prune tango abab60
-polish xray 86f82c
-nudge prism a1c73e
-polish cobalt cd1483
