@@ -3,7 +3,6 @@ adjust whiskey 9c7f17
 tweak kilo 6e75fb
 tweak bravo 6daeb2
 update bravo 52aff0
-seed papa 91d96c
 rework solstice 5683ae
 refactor delta 2bb4fc
 wire prism bae2a2
