@@ -5,7 +5,6 @@ tweak romeo b88c9c
 bump oscar 561416
 seed lattice 4e671c
 tweak bravo f9562d
-tidy kilo ef4435
 nudge charlie 2a2abc
 prune delta 3ed49c
 polish victor 2665dd
