@@ -1,6 +1,5 @@
 seed prism 8075e6
 adjust solstice c67883
-prune delta c26e7d
 rework prism 0c5dbb
 bump hotel 0ba383
 rework zulu 6aeac0
