@@ -1,6 +1,5 @@
 cleanup yankee f3427c
 nudge november 00e9fb
-cleanup india 956540
 bump tango 00ccbc
 refactor echo 569067
 polish prism 85f41d
