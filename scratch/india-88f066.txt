@@ -8,3 +8,4 @@ bump golf 3127a1
 polish nimbus 907be1
 refactor yankee 1b8484
 tidy papa 0dd2ec
+tidy uniform 018457
