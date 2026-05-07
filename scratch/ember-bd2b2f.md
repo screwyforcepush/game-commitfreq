@@ -7,3 +7,7 @@ cleanup lima 8cfda8
 cleanup prism e8c7df
 cleanup sierra 3ccf60
 rework mike 2b7312
+expand juliet 19d9fe
+polish uniform 15c85b
+cleanup oscar 73b443
+cleanup nimbus f20b06
