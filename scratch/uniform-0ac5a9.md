@@ -12,3 +12,6 @@ seed juliet 43c04c
 seed nimbus c6a433
 tidy uniform 10e2ad
 cleanup charlie 0081e6
+wire yankee 99e2ef
+nudge zulu 90bc0d
+polish delta 4001f4
