@@ -10158,3 +10158,4 @@ To https://github.com/screwyforcepush/game-commitfreq.git
 57/582  build: tweak oscar (f08466)                   append november-acd7c2.txt
 58/582  november expands                              append november-acd7c2.txt
 59/582  expand cobalt (96d05d)                        rename mike-2bde54.csv -> delta-95f373.csv
+60/582  update oscar for quebec                       drop delta-95f373.csv
