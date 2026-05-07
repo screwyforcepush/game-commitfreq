@@ -2,7 +2,7 @@ bump hotel d2dde7
 bump echo 123145
 tweak whiskey 104fb0
 tune sierra 7989eb
-update hotel 68a888
+prune prism 91a74f
 nudge prism cc03b3
 update ember 9f7ab4
 tweak cobalt be94f3
