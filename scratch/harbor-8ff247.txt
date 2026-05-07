@@ -4,3 +4,7 @@ trim xray a6dbbd
 trim quebec cdb7a0
 rework charlie 3a0b65
 seed lattice b6c65c
+adjust kilo 2349f2
+rework kilo bee936
+polish xray 568824
+polish victor d12b87
