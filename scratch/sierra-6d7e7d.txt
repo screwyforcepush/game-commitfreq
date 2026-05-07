@@ -1,3 +1,2 @@
-prune whiskey 35791a
 expand bravo 056ee1
 tweak solstice b4967e
