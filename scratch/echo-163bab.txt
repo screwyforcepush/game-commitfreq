@@ -1,4 +1,0 @@
-tweak victor 814043
-seed uniform 41789f
-tune ember 63c5ef
-tune prism 107092
