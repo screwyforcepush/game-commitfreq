@@ -6,3 +6,5 @@ tweak yankee 9aae90
 cleanup golf b4cf25
 expand yankee 8b5972
 rework whiskey 115809
+polish november 6f7ad3
+update november 72fb36
