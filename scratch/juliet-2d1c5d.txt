@@ -10,3 +10,6 @@ tune zulu 737f81
 polish lattice e50e4a
 cleanup bravo 6fddc5
 cleanup whiskey 84d27c
+cleanup lattice a45059
+polish lima 6058ae
+nudge solstice c62c18
