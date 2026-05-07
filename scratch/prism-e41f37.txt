@@ -6,5 +6,4 @@ expand ember 1eea2d
 tweak cobalt ab2e0c
 update echo a2abc7
 tidy kilo 6d255c
-prune cobalt 600513
 polish cobalt bfadfe
