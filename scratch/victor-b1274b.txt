@@ -3,3 +3,6 @@ refactor ember e1a0c0
 refactor cobalt 879163
 prune oscar 491566
 seed whiskey 591254
+refactor lattice 12e8d0
+refactor echo 3a2c32
+adjust hotel 4698ca
