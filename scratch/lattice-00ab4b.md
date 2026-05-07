@@ -1,4 +1,3 @@
-prune nimbus 226046
 prune uniform 3a4cfd
 tidy kilo 7e7f3d
 bump mike 37c5d4
