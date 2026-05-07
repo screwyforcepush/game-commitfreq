@@ -1,6 +1,5 @@
 polish quebec d5d653
 expand november 2a12de
 update victor b04bb8
-adjust zulu b64ed7
 prune charlie 6390a3
 tune lattice 13e7c2
