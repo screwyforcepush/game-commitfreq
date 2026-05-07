@@ -1,6 +1,0 @@
-wire victor b9aa1c
-update quebec 9004e2
-tidy romeo d96341
-refactor kilo 33e4ff
-refactor yankee c223d4
-nudge whiskey a50f52
