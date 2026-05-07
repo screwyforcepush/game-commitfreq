@@ -1,3 +1,0 @@
-tune delta 6ba5f7
-tidy sierra 0b8e94
-seed tango 0d668e
