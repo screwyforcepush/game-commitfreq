@@ -18,7 +18,6 @@ nudge tango f8c232
 bump zulu 69aead
 rework kilo 971283
 wire cobalt 6ee173
-seed whiskey 8bcc03
 adjust quebec 46ad18
 refactor cobalt 2dd1eb
 tune india 9416a0
