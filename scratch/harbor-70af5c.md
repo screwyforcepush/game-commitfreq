@@ -2,7 +2,6 @@ seed papa 7ffbc2
 polish lima e00ec6
 trim yankee c5c53b
 tidy sierra bd9570
-prune nimbus 1e9357
 tidy quebec 5bc33b
 seed november 86b1ab
 tweak romeo a1042c
