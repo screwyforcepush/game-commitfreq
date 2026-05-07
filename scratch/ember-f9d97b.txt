@@ -2,5 +2,5 @@ tune papa 92390c
 bump zulu 7b1194
 tidy india ff96f4
 tweak sierra 2f6a89
-cleanup charlie b15c55
+trim november 380a7b
 refactor delta ba7f6d
