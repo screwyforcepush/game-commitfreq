@@ -4,3 +4,7 @@ wire foxtrot 0d4bf2
 tune charlie 3d5a91
 rework oscar fb5431
 seed sierra 553fa4
+update xray 6e87bf
+prune yankee 40a382
+prune quebec 10d662
+wire quebec af5598
