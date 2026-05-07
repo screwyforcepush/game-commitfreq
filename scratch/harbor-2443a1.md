@@ -4,3 +4,6 @@ expand hotel e028db
 trim golf 96221c
 nudge delta 9bcf2b
 tweak charlie d9060e
+tweak hotel 55a895
+wire ember a2e341
+adjust november faf664
