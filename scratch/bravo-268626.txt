@@ -13,3 +13,7 @@ tune golf ba770e
 tidy mike d1659e
 nudge zulu 975100
 wire uniform 362141
+expand delta 66a06c
+expand golf de0c99
+adjust yankee f77db7
+prune cobalt 8dddd4
