@@ -5,3 +5,7 @@ nudge uniform b17ff6
 adjust solstice 292c01
 rework zulu 74ff3c
 cleanup echo 2f5daa
+tweak mike d895a0
+tidy lima cc323c
+adjust zulu 0ecf2f
+adjust hotel e8125d
