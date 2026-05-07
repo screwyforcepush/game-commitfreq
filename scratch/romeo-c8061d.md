@@ -10,3 +10,5 @@ polish papa a0e113
 bump whiskey 2a135c
 cleanup quebec 1c4100
 seed kilo 0f40f8
+expand victor 438b7b
+polish lattice b85322
