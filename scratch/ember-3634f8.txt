@@ -1,4 +1,4 @@
-bump victor 8afe0f
+adjust lattice 00cb3b
 tune alpha 18e444
 tweak foxtrot b72fc1
 adjust lattice 564bb2
