@@ -9,6 +9,5 @@ update alpha 40c2a4
 polish papa a0e113
 bump whiskey 2a135c
 cleanup quebec 1c4100
-seed kilo 0f40f8
 nudge delta da0cdc
 polish lattice b85322
