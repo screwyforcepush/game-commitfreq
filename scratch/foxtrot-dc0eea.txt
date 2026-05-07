@@ -1,6 +1,5 @@
 tidy yankee f86db4
 cleanup prism 8c51cc
 refactor oscar f6db17
-polish quebec 74abb1
 cleanup sierra 359a08
 tweak whiskey 32523e
