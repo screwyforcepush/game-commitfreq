@@ -1,0 +1,6 @@
+expand lattice 876ddf
+update quebec 62a1e6
+seed november 436b4e
+tidy oscar c3cdbd
+tune uniform 2b8764
+update zulu 36b4a3
