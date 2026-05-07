@@ -4,3 +4,5 @@ expand zulu 608191
 tweak golf 5302ad
 expand uniform 0dede4
 adjust lima 9c15c4
+tweak mike 488b0c
+seed november 460012
