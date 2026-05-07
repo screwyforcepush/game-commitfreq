@@ -1,5 +1,4 @@
 bump victor 8afe0f
-trim uniform 477911
 tune alpha 18e444
 tweak foxtrot b72fc1
 adjust lattice 564bb2
