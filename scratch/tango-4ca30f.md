@@ -9,4 +9,3 @@ seed foxtrot e720e1
 rework yankee d26a58
 tidy tango a81162
 polish foxtrot b95aba
-wire mike 70b54a
