@@ -1,3 +1,0 @@
-update november 88bf2f
-refactor whiskey 404d9f
-cleanup echo 684f02
