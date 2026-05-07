@@ -1,6 +1,5 @@
 tidy lima 9f78c9
 adjust mike d27d86
-prune delta 140c46
 tidy prism ec491b
 bump whiskey f1371b
 seed zulu 33ab0b
