@@ -5,3 +5,5 @@ expand november a55589
 rework whiskey 2b10fd
 nudge cobalt 530ab4
 tidy quebec 400939
+adjust whiskey 904a22
+tweak quebec 67ea9b
