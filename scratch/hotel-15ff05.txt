@@ -7,3 +7,6 @@ polish solstice 7e269a
 tweak papa bb7671
 tidy lima e9ffd9
 wire quebec 7b79ae
+cleanup quebec e60d4f
+trim papa e785dc
+wire sierra 6cccb2
