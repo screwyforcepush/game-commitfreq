@@ -1,2 +1,2 @@
-seed lattice 8abaee
+expand solstice 0e6269
 tweak victor 9f0631
