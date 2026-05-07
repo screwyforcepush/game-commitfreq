@@ -1,5 +1,0 @@
-nudge whiskey 36c05b
-expand solstice 6124f1
-prune charlie 4f1cc7
-seed charlie 2c61fe
-adjust victor 4a8c19
