@@ -1,2 +1,5 @@
 refactor foxtrot b24d2f
 expand uniform c0493c
+update cobalt 0bb786
+rework hotel 2dd587
+cleanup delta 86fae5
