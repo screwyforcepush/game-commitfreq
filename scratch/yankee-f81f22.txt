@@ -1,4 +1,3 @@
-nudge yankee 8e759e
 tweak delta 95a04e
 nudge prism e74709
 tune papa 8da7ec
