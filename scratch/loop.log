@@ -5823,3 +5823,6 @@ To https://github.com/screwyforcepush/game-commitfreq.git
 587/590  bump tango                                    append sierra-63e8f0.csv
 588/590  prune charlie uniform                         trim romeo-c3fe49.txt:8
 589/590  docs: update hotel                            append sierra-212b72.txt
+590/590  tweak yankee (80026c)                         drop romeo-6b3052.dat
+To https://github.com/screwyforcepush/game-commitfreq.git
+   9636fefe..cbdaf2aa  main -> main
