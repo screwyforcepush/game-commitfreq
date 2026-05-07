@@ -6,5 +6,5 @@ tweak prism aaa619
 expand alpha 8dcacc
 tweak echo eb2013
 adjust golf 62a904
-prune charlie 61af40
+rework solstice e7acae
 expand foxtrot d20128
