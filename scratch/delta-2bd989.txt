@@ -1,1 +1,1 @@
-prune hotel 3f1775
+wire xray f58a12
