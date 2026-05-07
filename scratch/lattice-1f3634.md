@@ -6,3 +6,7 @@ tidy quebec dd4d2b
 adjust alpha 35b032
 tune juliet cfaf88
 prune echo e72a38
+rework sierra ce3805
+polish lattice 047a2c
+prune hotel fd292f
+wire cobalt 6c84dd
