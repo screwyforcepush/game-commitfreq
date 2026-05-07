@@ -16,3 +16,6 @@ refactor oscar 9b4aeb
 tweak alpha fa57a2
 expand zulu a936e6
 wire ember f7c7c1
+polish november ed5889
+cleanup delta c3d543
+bump xray 9b0fec
