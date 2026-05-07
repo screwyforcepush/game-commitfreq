@@ -1,4 +1,3 @@
-adjust victor ccad96
 polish nimbus 9b21f5
 tidy harbor 7e5b3f
 prune november 81861d
