@@ -4,3 +4,6 @@ refactor kilo adb583
 adjust sierra 7b1061
 cleanup juliet 4c6961
 cleanup bravo 9e4cff
+rework echo 43cae5
+cleanup november 677433
+update uniform 4ae32d
