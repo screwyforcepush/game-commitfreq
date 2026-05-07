@@ -2,7 +2,6 @@ trim xray 0fe408
 bump zulu 2bbddc
 tune tango 995d67
 rework prism 41e7cf
-rework cobalt c3b383
 expand golf 459fcf
 nudge golf 5af171
 bump zulu d06f9c
