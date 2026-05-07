@@ -7,5 +7,4 @@ cleanup charlie 447403
 tweak mike 460ddc
 cleanup hotel b83abb
 wire tango f66d7f
-tidy lattice 419934
 prune romeo 64b1b9
