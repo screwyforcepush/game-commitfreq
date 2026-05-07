@@ -3,3 +3,5 @@ update nimbus cd1363
 tidy kilo d1f4f3
 prune mike fd9fc8
 tune ember be3db6
+tweak sierra 12627f
+rework whiskey 44157c
