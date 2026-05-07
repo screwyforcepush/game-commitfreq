@@ -1,0 +1,3 @@
+wire kilo 2e2d1c
+wire whiskey b554f4
+trim papa 470df4
