@@ -6664,3 +6664,4 @@ To https://github.com/screwyforcepush/game-commitfreq.git
 327/409  build: tweak nimbus (ae2d7a)                  append quebec-2ea31b.dat
 328/409  wip: nudge romeo (9b2c7a)                     drop quebec-2ea31b.dat
 329/409  cleanup cobalt (17a545)                       drop sierra-980cd8.csv
+330/409  fix: refactor hotel for lattice               append papa-42f67d.txt
