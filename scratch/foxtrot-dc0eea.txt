@@ -7,3 +7,6 @@ tune victor 2b4ef2
 cleanup foxtrot c31bf9
 adjust oscar 9a9972
 prune zulu cb1452
+cleanup solstice 3fb0fc
+update ember 996c81
+bump lima 4b7994
