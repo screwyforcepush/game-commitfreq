@@ -9,7 +9,6 @@ cleanup uniform 1f8c75
 refactor hotel 0200f2
 trim quebec 5493a1
 rework foxtrot 6964af
-refactor victor 7abca6
 tune golf ba770e
 tidy mike d1659e
 nudge zulu 975100
