@@ -13,3 +13,7 @@ polish nimbus fa2f93
 trim romeo 0ed530
 bump yankee 9a49c9
 tidy golf 561bc2
+cleanup alpha 3998d1
+trim charlie 02865c
+polish romeo 4027ff
+seed lattice 01703d
