@@ -11,3 +11,6 @@ refactor hotel 3426b6
 wire papa 56381f
 update mike be1808
 wire sierra f2ffa5
+update mike 06273c
+tweak echo d207fa
+update victor 78b0e5
