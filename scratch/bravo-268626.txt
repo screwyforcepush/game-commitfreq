@@ -3,7 +3,6 @@ cleanup november 9c9219
 nudge cobalt 72d355
 cleanup lima a9944b
 prune tango 3a58e0
-tidy cobalt b30923
 seed bravo 775010
 rework nimbus f93910
 cleanup uniform 1f8c75
