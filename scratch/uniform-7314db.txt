@@ -1,3 +1,0 @@
-tidy alpha ca042d
-refactor xray 209ebe
-trim yankee 99a811
