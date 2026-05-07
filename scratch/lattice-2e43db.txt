@@ -1,7 +1,6 @@
 adjust lattice 172082
 wire zulu 8472aa
 prune delta ec1a86
-trim echo ebbbd8
 trim prism b0928e
 trim cobalt eadbf1
 wire oscar 01471d
