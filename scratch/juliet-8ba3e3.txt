@@ -11,3 +11,6 @@ seed yankee 486c04
 refactor lima adc3d0
 cleanup harbor 2c0580
 trim kilo 11ebb8
+seed november 678c03
+trim kilo 97f2e5
+seed papa 30f218
