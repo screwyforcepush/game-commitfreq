@@ -3,7 +3,6 @@ wire charlie 23026b
 refactor yankee 452de9
 polish mike e115a3
 tweak kilo 420e4d
-polish victor 70ce0f
 polish cobalt e80a3e
 rework romeo 6bd42f
 cleanup romeo 7fd96b
