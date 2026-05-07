@@ -1,5 +1,5 @@
 adjust hotel 56dfff
-nudge hotel d9e0bd
+cleanup solstice dec3c3
 seed alpha 0d2eed
 tidy whiskey 8d87a3
 prune nimbus 5cf4b7
