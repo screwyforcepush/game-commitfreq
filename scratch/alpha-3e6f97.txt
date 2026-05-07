@@ -1,2 +1,2 @@
-tweak xray e050b5
+tidy nimbus 4b7061
 seed kilo 52add0
