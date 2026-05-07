@@ -5,5 +5,4 @@ tune xray b971e4
 refactor echo 638d88
 trim delta ec0c92
 tweak foxtrot 2ef1a7
-polish tango 1c1676
 prune prism 2c3609
