@@ -1,6 +1,6 @@
 nudge lima 7d6aaf
 refactor yankee 1ece5c
 cleanup harbor d7df2f
-tidy hotel 5fb94b
+tidy quebec 1e80f1
 prune yankee 0db4d0
 wire echo cd1e97
