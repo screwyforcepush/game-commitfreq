@@ -4,7 +4,6 @@ tidy prism b60117
 nudge november f1c43f
 seed oscar aeb8ba
 seed romeo 0a28e1
-seed sierra c323e4
 tune kilo ecf8f2
 polish november 5e7140
 cleanup kilo 68ae92
