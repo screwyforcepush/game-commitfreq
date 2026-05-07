@@ -3,3 +3,6 @@ tune nimbus c28d06
 cleanup echo aa1a67
 tune tango 8584af
 cleanup cobalt b60718
+tweak xray 42f36c
+bump golf dade4e
+tidy charlie c5798e
