@@ -1,4 +1,3 @@
 polish prism 86062b
 rework xray 500eca
-bump victor 34cb8b
 cleanup november a84162
