@@ -4,3 +4,6 @@ adjust golf 32ead9
 prune nimbus d01a0f
 tune golf 4f9cc7
 wire charlie e7ecd2
+update kilo a696e1
+expand tango c791f3
+polish delta 0ed320
