@@ -6,7 +6,7 @@ refactor india d2daaa
 refactor hotel 3bec84
 trim solstice fbf44b
 seed tango f53f14
-bump echo cd345a
+rework sierra 23ca10
 bump quebec 0440ff
 tweak delta fc3ea8
 tune quebec c97d17
