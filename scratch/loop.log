@@ -6809,3 +6809,4 @@ To https://github.com/screwyforcepush/game-commitfreq.git
 61/613  build: refactor golf for november             rename oscar-837d9c.dat -> foxtrot-755c69.csv
 62/613  wip: lattice tweaks                           rename bravo-8c6d79.md -> prism-98180b.md
 63/613  fix: hotel reworks                            drop lima-be8b58.dat
+64/613  tune india for bravo                          trim foxtrot-755c69.csv:2
