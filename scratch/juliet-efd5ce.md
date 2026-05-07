@@ -16,3 +16,4 @@ tune harbor 8b8c2c
 rework cobalt 160c2b
 tweak harbor fbf69a
 update oscar e33352
+tweak sierra 1462b4
