@@ -1,3 +1,3 @@
 bump foxtrot 39d663
-bump quebec 6b8902
+trim victor 4927a8
 prune sierra df4e72
