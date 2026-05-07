@@ -8,6 +8,5 @@ prune mike c8ab75
 adjust echo 1c8fcc
 update romeo 824768
 tweak romeo 1b86d0
-adjust quebec 06c353
 tweak india 2f17b6
 prune nimbus 1379a2
