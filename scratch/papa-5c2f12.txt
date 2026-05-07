@@ -1,4 +1,3 @@
-seed tango 953afb
 tweak ember a2cd2d
 polish xray 7a99fe
 update sierra 774816
