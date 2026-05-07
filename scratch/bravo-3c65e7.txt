@@ -1,5 +1,0 @@
-tidy mike 7aa515
-polish hotel 70afa6
-expand nimbus 39f328
-tidy tango 83739e
-adjust lima a298c0
