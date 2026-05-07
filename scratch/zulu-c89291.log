@@ -8,3 +8,7 @@ prune xray f415ce
 update lattice a363d7
 wire sierra f7341c
 adjust sierra f2e2e8
+tune cobalt 5eceb1
+tweak solstice ce986b
+expand zulu 0159e0
+tidy india 9af687
