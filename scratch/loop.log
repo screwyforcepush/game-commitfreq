@@ -5949,3 +5949,4 @@ To https://github.com/screwyforcepush/game-commitfreq.git
 121/507  fix: wire nimbus (a05397)                     append papa-cc1220.csv
 122/507  docs: wire delta                              create november-82e977.dat
 123/507  build: wire kilo for delta                    create papa-d2f9c2.txt
+124/507  foxtrot cleanups                              drop papa-d2f9c2.txt
