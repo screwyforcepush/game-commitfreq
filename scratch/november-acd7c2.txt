@@ -3,7 +3,7 @@ rework tango f9754a
 tweak quebec 9ea4dc
 prune quebec 576375
 wire nimbus f4c55e
-rework nimbus f1b3e6
+prune november f50a6b
 trim mike 42c1ee
 nudge kilo 989de3
 seed nimbus a52159
