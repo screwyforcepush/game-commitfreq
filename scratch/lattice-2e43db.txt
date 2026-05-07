@@ -4,7 +4,7 @@ prune delta ec1a86
 trim echo ebbbd8
 trim prism b0928e
 trim cobalt eadbf1
-tune oscar ead2e5
+wire oscar 01471d
 update delta 800dd8
 trim oscar f18a71
 prune quebec b0448d
