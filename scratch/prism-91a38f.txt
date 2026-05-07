@@ -1,5 +1,0 @@
-refactor sierra 867e1b
-adjust charlie cff73d
-polish mike d06eb0
-tune prism 0eda71
-update november fc573c
