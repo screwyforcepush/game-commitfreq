@@ -7,5 +7,5 @@ seed lattice 4e671c
 tweak bravo f9562d
 tidy kilo ef4435
 nudge charlie 2a2abc
-polish oscar 815cca
+prune delta 3ed49c
 polish victor 2665dd
