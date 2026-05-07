@@ -8,3 +8,7 @@ update xray 6e87bf
 prune yankee 40a382
 prune quebec 10d662
 wire quebec af5598
+cleanup oscar 5b72d9
+trim golf ba6194
+rework zulu ca6d1b
+rework ember 0ebe62
