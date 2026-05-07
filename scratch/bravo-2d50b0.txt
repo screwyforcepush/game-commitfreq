@@ -18,3 +18,7 @@ prune ember 7363a5
 adjust sierra 3f8b8c
 trim victor 89265e
 nudge nimbus d6d2de
+tune papa 967681
+tune foxtrot 0fbd43
+trim lima cb348c
+adjust echo 0f3e97
