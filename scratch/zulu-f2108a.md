@@ -5,5 +5,4 @@ polish golf e8a414
 rework whiskey 15cfba
 refactor solstice 264542
 bump bravo 3483d3
-prune bravo 98e8ff
 tune kilo f0b100
