@@ -1,9 +1,0 @@
-tune nimbus 9db30c
-expand papa 0bbbb7
-adjust zulu 7b42a5
-tweak mike 18bfa6
-tidy india 5b0028
-refactor india 80f9cf
-trim golf 55e194
-cleanup alpha b18aad
-rework ember e0455d
