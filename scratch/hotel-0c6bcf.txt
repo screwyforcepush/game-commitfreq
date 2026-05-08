@@ -4,3 +4,5 @@ prune harbor 3b7313
 refactor quebec 5eec46
 expand papa 7afa61
 refactor bravo 8846d9
+tweak mike 5a6cfc
+trim november 2282c9
