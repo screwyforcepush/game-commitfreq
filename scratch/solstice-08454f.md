@@ -1,7 +1,7 @@
 expand nimbus 0870fc
 expand xray 6a22d3
 bump delta 168e1c
-update november 746e80
+seed juliet 6b5f96
 trim yankee c18c5d
 rework tango 826bf2
 prune india f964d2
