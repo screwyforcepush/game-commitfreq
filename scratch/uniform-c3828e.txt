@@ -1,6 +1,5 @@
 cleanup cobalt 06aa2e
 cleanup romeo c17892
-nudge victor cef690
 prune nimbus 50fe14
 nudge golf 476725
 prune xray 6bbf61
