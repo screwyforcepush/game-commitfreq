@@ -1,6 +1,0 @@
-tweak india 22399d
-update yankee 2b5b47
-trim xray d2c741
-prune lima 5a0211
-refactor zulu e864b6
-cleanup solstice 879494
