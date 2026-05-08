@@ -1,6 +1,5 @@
 tune yankee 4f246a
 nudge bravo 61ea5f
-bump mike 89fdf5
 tune lima 1a3f60
 refactor foxtrot 22cf05
 adjust romeo a70b70
