@@ -18792,3 +18792,4 @@ To https://github.com/screwyforcepush/game-commitfreq.git
 257/584  wip: adjust lima for lattice                  create golf-06a20b.dat
 258/584  adjust solstice (366e25)                      append foxtrot-06d12d.txt
 259/584  feat: nudge lattice solstice                  create golf-a8fe77.log
+260/584  fix: tidy solstice quebec                     drop foxtrot-06d12d.txt
