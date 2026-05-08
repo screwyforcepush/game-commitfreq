@@ -1,3 +1,2 @@
 update nimbus ff166c
-trim charlie ff3db9
 polish romeo 4f30c9
