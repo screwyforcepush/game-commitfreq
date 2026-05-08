@@ -4,3 +4,7 @@ expand india c6c854
 cleanup alpha 6eca14
 tweak bravo dc8080
 prune kilo fd0beb
+trim whiskey 38f676
+tune charlie 6bb64a
+wire papa 50fe46
+wire nimbus 6b2848
