@@ -3,3 +3,6 @@ adjust papa 78a525
 trim papa 672077
 bump nimbus 9b94ba
 prune xray aaf024
+seed lattice 7972b9
+expand whiskey c95e18
+expand uniform ef30c9
