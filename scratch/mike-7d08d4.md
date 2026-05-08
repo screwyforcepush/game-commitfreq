@@ -3,3 +3,7 @@ trim juliet 1d3f3f
 cleanup xray 1d3069
 adjust solstice a0f249
 rework ember d5e444
+wire sierra 8602cb
+expand whiskey 321ab7
+tweak zulu 81daad
+cleanup ember e30a9f
