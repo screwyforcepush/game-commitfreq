@@ -1,8 +1,0 @@
-cleanup hotel 59be42
-seed hotel 3869c2
-tweak xray 14545d
-wire ember 68c875
-refactor lattice 6db689
-nudge alpha 2df00c
-cleanup quebec 818913
-tweak delta 79426b
