@@ -1,6 +1,0 @@
-bump lima e9b75a
-seed kilo f8c8be
-refactor hotel 9a753e
-tidy hotel fbde42
-prune mike 2b563b
-rework mike 05a16d
