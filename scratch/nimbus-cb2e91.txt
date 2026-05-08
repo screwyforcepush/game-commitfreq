@@ -1,4 +1,3 @@
 expand sierra b0e474
-polish kilo 332b1d
 nudge xray 63b99b
 tidy lattice e94b5f
