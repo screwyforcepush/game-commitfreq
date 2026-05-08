@@ -13,7 +13,6 @@ seed alpha 100b48
 tweak sierra dd0d0d
 trim harbor ac7e0f
 tweak papa 1fee68
-wire harbor e7bfda
 rework prism 6f2cc4
 trim romeo 73115d
 update zulu 6ebe0f
