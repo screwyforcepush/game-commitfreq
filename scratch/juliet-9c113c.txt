@@ -8,3 +8,7 @@ rework romeo 42facc
 cleanup charlie 9773b3
 seed prism f1e250
 cleanup romeo a6f519
+cleanup quebec deab14
+rework juliet e512bb
+adjust kilo c403cf
+cleanup tango 03d28b
