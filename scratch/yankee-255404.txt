@@ -1,0 +1,3 @@
+wire hotel cb79e1
+trim oscar 1304c4
+prune uniform 953405
