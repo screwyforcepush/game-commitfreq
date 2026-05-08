@@ -1,7 +1,6 @@
 cleanup cobalt 06aa2e
 cleanup romeo c17892
 prune nimbus 50fe14
-nudge golf 476725
 prune xray 6bbf61
 expand quebec 110d6e
 tidy hotel 2d1a44
