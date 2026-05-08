@@ -1,5 +1,0 @@
-rework lattice 00e5c2
-cleanup juliet 13ed91
-tweak whiskey 55f9b4
-polish victor 01a4a6
-bump hotel f3a961
