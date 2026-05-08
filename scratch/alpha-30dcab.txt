@@ -1,3 +1,2 @@
 rework quebec 95ff4c
-trim echo d7f589
 refactor delta b2f936
