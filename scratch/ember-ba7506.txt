@@ -7,3 +7,5 @@ tune hotel f4246a
 tune bravo e87d84
 nudge delta d1dcda
 update mike 9c02eb
+adjust charlie 174863
+polish hotel ef4304
