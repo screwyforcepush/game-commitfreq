@@ -1,3 +1,0 @@
-wire uniform 118968
-refactor quebec 0deb7f
-wire delta 752af3
