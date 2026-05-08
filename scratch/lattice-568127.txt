@@ -16,3 +16,6 @@ trim alpha 38ff2a
 tune solstice 22bdcb
 tune india 5ca0ae
 tweak delta 8f8887
+tune bravo ad2b81
+trim romeo aed51e
+nudge nimbus 8b7da1
