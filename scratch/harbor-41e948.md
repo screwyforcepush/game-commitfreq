@@ -12,3 +12,7 @@ wire mike ff5fa3
 tidy delta 4f9920
 expand golf b92154
 trim charlie fe0a8a
+expand xray 4cf43d
+polish prism d8d1b5
+refactor charlie b83b44
+cleanup bravo 55287a
