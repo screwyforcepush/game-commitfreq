@@ -1,4 +1,3 @@
 tweak delta 3fae32
 expand yankee 488814
-refactor victor 540948
 tweak alpha 4993fb
