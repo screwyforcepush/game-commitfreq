@@ -7,7 +7,7 @@ bump tango 072cfc
 prune echo 6bf572
 trim quebec 5d27d4
 cleanup tango 33d22c
-tidy november 43533b
+tidy prism b92542
 wire india f0fa63
 rework kilo a810e9
 rework bravo 4764d9
