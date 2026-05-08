@@ -3,7 +3,7 @@ cleanup sierra 9ad174
 trim echo e3023d
 cleanup prism d4b09f
 bump november cabe21
-wire victor a53ec3
+prune solstice 1a4f87
 update nimbus c4731b
 seed cobalt 1d5c10
 refactor harbor 8fcf7d
