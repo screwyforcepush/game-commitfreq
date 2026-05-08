@@ -6,7 +6,7 @@ adjust hotel 5e8e30
 expand tango f9af11
 seed oscar 770609
 rework tango 1e9a1d
-polish lima b5164c
+rework sierra 40dc20
 cleanup uniform a5a240
 adjust foxtrot 2b33b7
 nudge delta 8e1472
