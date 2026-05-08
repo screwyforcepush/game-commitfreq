@@ -7,7 +7,6 @@ polish whiskey bb4651
 refactor juliet 7f8cd8
 seed zulu 1b9ad6
 wire nimbus 8fae16
-prune delta a3c934
 tweak sierra 6bf0ee
 adjust oscar 6dc73a
 tidy quebec 1febd1
