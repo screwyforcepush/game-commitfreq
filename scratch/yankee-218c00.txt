@@ -3,3 +3,7 @@ trim uniform 74189b
 cleanup romeo e771c3
 update victor 79ea85
 cleanup zulu 95dcb9
+trim oscar 94b05b
+expand tango b12b60
+seed bravo 34b5fa
+seed hotel 3c26cb
