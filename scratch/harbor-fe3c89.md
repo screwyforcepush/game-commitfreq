@@ -5,3 +5,6 @@ tune yankee cc5105
 adjust prism 60ab45
 adjust hotel b05de4
 wire harbor dd7432
+adjust foxtrot 7d7832
+expand sierra eb9e54
+rework hotel 7a50a1
