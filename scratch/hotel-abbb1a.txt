@@ -1,7 +1,7 @@
 update victor 15471b
 trim echo bd1ec7
 prune nimbus 3a0a41
-bump quebec 725ab4
+tidy xray cda325
 expand xray 498678
 wire tango 25e350
 trim solstice a89408
