@@ -7,3 +7,7 @@ rework tango 826bf2
 prune india f964d2
 trim alpha a04141
 tweak nimbus e53ecc
+rework whiskey 7c84e3
+nudge delta 29ec24
+polish india 747621
+tweak romeo 6a52dc
