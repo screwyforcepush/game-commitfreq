@@ -7,3 +7,6 @@ tune solstice e29d44
 update solstice 21e167
 polish romeo 86e3c1
 expand romeo 08b54c
+polish oscar 6a27b6
+update tango 8449c2
+trim india 81ce38
