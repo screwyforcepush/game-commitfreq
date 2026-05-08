@@ -6,3 +6,7 @@ update lima f3a933
 rework quebec e0abf9
 tweak hotel cbd1ff
 prune whiskey 2a31a1
+bump xray 806b44
+cleanup romeo 32a079
+bump hotel bb9823
+update kilo b202db
