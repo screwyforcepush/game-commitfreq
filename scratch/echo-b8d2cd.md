@@ -1,4 +1,3 @@
-prune november c48345
 bump zulu 41cc05
 wire whiskey 7abfba
 expand whiskey 7d0688
