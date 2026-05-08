@@ -1,6 +1,5 @@
 wire whiskey 8ec6c1
 nudge ember 57cad0
 tune uniform 8b9fe5
-bump romeo 8b2c42
 tune nimbus d3ef74
 adjust delta 0a69d2
