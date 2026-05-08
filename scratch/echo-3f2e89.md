@@ -5,3 +5,5 @@ tidy victor 125e95
 nudge foxtrot 3873aa
 adjust mike d346d8
 rework india dd89db
+tidy yankee 2436f7
+nudge hotel 0deb01
