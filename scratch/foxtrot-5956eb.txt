@@ -2,7 +2,6 @@ rework lattice b4e86b
 bump victor 40c1c5
 prune romeo ed3faa
 tweak yankee 88cb2a
-refactor yankee e7fb65
 tune solstice e29d44
 update solstice 21e167
 expand romeo 08b54c
