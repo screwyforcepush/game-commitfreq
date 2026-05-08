@@ -1,6 +1,5 @@
 wire romeo a5bd17
 refactor lattice 6bc1ac
-seed tango 7bb05c
 adjust tango 7feb91
 bump xray 09aff6
 nudge lima da841c
