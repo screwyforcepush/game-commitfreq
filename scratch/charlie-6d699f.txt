@@ -4,3 +4,5 @@ polish nimbus 5dbeb1
 tweak foxtrot 0942cd
 rework nimbus ebec88
 seed hotel 69a6c5
+adjust lima 9639e6
+trim solstice d7f535
