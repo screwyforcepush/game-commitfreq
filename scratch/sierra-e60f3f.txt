@@ -1,4 +1,3 @@
-cleanup lima 21c4db
 tune romeo ad29c7
 prune whiskey 55c811
 tune whiskey af5db8
