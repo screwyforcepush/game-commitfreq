@@ -1,4 +1,3 @@
-polish lima f820ad
 tidy lattice 1c7abf
 tune quebec f3829e
 tune echo a132d5
