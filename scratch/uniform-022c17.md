@@ -1,5 +1,4 @@
 adjust tango 8ffb7b
-adjust papa 6597bb
 rework bravo a2fca8
 refactor papa 33fb02
 tweak prism 1e774d
