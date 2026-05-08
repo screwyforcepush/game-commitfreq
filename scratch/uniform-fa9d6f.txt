@@ -1,0 +1,5 @@
+trim tango fa8bad
+adjust kilo 82af6e
+tweak kilo 10d16f
+tune delta 2da1e9
+cleanup yankee c5590a
