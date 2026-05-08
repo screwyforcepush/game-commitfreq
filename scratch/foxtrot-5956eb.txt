@@ -8,4 +8,4 @@ polish oscar 6a27b6
 update tango 8449c2
 update victor fd8dde
 cleanup ember 2baf22
-trim november 9a4665
+trim lattice 3533c6
