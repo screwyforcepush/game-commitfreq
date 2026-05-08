@@ -6,7 +6,6 @@ adjust ember 9cc69e
 refactor echo 1f1bf4
 bump papa 4d318d
 tidy ember 87631a
-wire quebec 88a9aa
 cleanup mike 268e15
 seed delta 1e80f2
 update quebec 4102a6
