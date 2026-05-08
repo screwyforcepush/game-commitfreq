@@ -2,7 +2,6 @@ trim romeo ae44e2
 cleanup sierra 747f21
 nudge harbor 8137f1
 update india afe443
-trim solstice 010de4
 tune november 1c3eb3
 expand lima 0b05c3
 trim romeo 0072ba
