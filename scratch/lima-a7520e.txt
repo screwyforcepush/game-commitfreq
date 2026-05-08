@@ -1,3 +1,2 @@
 adjust xray 730979
-polish solstice 0ee026
 cleanup lattice 93ca63
