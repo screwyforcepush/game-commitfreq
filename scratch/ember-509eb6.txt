@@ -1,2 +1,5 @@
 tidy hotel 35a672
 cleanup whiskey ac2ed1
+tidy delta 7f580b
+trim november 4d5b3d
+prune november 5e4cef
