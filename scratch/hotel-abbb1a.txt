@@ -5,5 +5,4 @@ bump quebec 725ab4
 expand xray 498678
 wire tango 25e350
 trim solstice a89408
-adjust solstice 8fac5f
 tidy papa ae7edc
