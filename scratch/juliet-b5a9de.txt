@@ -10,3 +10,5 @@ polish alpha 240661
 wire bravo b8fe6e
 bump mike 9d7b62
 polish nimbus 82c7e2
+trim kilo fcba8a
+update mike b5152e
