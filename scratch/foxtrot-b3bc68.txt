@@ -2,7 +2,7 @@ tune yankee 4f246a
 nudge bravo 61ea5f
 tune lima 1a3f60
 refactor foxtrot 22cf05
-adjust romeo a70b70
+trim echo cc5638
 rework yankee 4ad1b0
 trim mike dacc32
 expand delta ce5464
