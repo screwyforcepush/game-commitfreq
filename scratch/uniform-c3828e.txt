@@ -4,3 +4,6 @@ nudge victor cef690
 prune nimbus 50fe14
 nudge golf 476725
 prune xray 6bbf61
+expand quebec 110d6e
+tidy hotel 2d1a44
+adjust golf 0375ee
