@@ -1,6 +1,5 @@
 tweak delta b63b8c
 wire xray b5c399
-tune sierra 04241f
 prune xray 75309f
 rework prism 362c14
 polish golf bacf48
