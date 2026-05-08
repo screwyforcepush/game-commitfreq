@@ -14433,3 +14433,4 @@ To https://github.com/screwyforcepush/game-commitfreq.git
 285/516  feat: wire hotel                              append kilo-05fea3.dat
 286/516  fix: tune kilo zulu                           rename mike-d76a9a.log -> hotel-abbb1a.txt
 287/516  wip: tidy romeo for sierra                    modify romeo-20c77d.log:3
+288/516  fix: wire papa for mike                       trim hotel-abbb1a.txt:8
