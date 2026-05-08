@@ -8,3 +8,7 @@ trim mike dacc32
 expand delta ce5464
 wire oscar 1e728e
 rework golf ff198e
+tweak foxtrot 13bbd8
+rework solstice 177196
+wire sierra fb3cb3
+update solstice 45e328
