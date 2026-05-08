@@ -5,7 +5,6 @@ bump whiskey 099b7c
 nudge november acca79
 expand mike 933093
 tune xray b7f6c1
-tidy lima 748f41
 prune lima f135f5
 trim november 4d4f30
 prune tango 00fb10
