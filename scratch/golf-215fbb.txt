@@ -7,3 +7,5 @@ tidy hotel 0849ec
 expand uniform 8f096d
 cleanup kilo 1f346f
 refactor charlie 188ed8
+expand bravo 664887
+trim lattice 6eb0e9
