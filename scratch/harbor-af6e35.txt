@@ -5,3 +5,6 @@ expand whiskey d8b4a2
 tune bravo 7358ef
 cleanup bravo d0b460
 refactor lattice f50833
+expand november 0068df
+cleanup tango d81f7f
+bump cobalt 1b11e6
