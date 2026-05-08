@@ -7,3 +7,6 @@ bump tango 072cfc
 prune echo 6bf572
 trim quebec 5d27d4
 cleanup tango 33d22c
+refactor quebec c26663
+prune bravo 095c6c
+rework kilo a810e9
