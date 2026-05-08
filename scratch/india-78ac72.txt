@@ -5,3 +5,7 @@ tweak quebec 87fb72
 cleanup yankee 98b5ad
 prune papa 8b67c6
 nudge cobalt 7d75ba
+refactor bravo 69bad6
+tidy golf 47a39c
+tune xray 73e027
+rework nimbus 627a81
