@@ -5,6 +5,5 @@ adjust prism 323182
 tidy india ba93f7
 tweak lima f06156
 refactor sierra a726eb
-tidy sierra 217f82
 polish alpha ac4694
 prune hotel 9433ae
