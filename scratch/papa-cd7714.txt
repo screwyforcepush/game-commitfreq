@@ -5,7 +5,7 @@ polish charlie 518bec
 bump zulu 152c98
 refactor prism 40ab16
 update lima 78cb29
-expand echo eb567d
+tidy solstice 6cd4b8
 refactor xray 0add23
 tweak foxtrot 7740b1
 wire papa 86a871
