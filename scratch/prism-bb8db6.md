@@ -5,3 +5,5 @@ adjust oscar 11e29e
 wire hotel 16f663
 polish ember 8f952d
 tweak juliet f5f5c9
+adjust papa 26e015
+tweak solstice 2fd57d
