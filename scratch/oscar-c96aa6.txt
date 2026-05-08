@@ -13,3 +13,6 @@ nudge delta 8e1472
 tidy bravo 9fd3a9
 cleanup zulu 2326a5
 seed zulu e880e8
+bump nimbus b27cd5
+tune delta fbcc5a
+polish echo 9c4a59
