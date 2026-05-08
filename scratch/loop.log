@@ -15120,3 +15120,4 @@ To https://github.com/screwyforcepush/game-commitfreq.git
  5/608  wip: tidy kilo foxtrot                        rename lattice-519df1.dat -> prism-512c78.md
  6/608  refactor: xray trims                          drop prism-512c78.md
  7/608  tidy ember bravo                              append foxtrot-4d74f2.csv
+ 8/608  fix: rework hotel (f961cc)                    append papa-10a7fa.txt
