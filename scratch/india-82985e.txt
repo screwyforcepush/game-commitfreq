@@ -1,7 +1,6 @@
 trim whiskey 2943ca
 polish echo e85989
 polish victor f507f2
-seed papa 902078
 bump nimbus 6863f9
 polish golf 267465
 prune mike aa4c39
