@@ -3,3 +3,5 @@ wire papa 36fe58
 tweak whiskey 5fce1c
 tidy charlie 6bf3de
 nudge oscar 1a6eee
+adjust golf a2997f
+polish foxtrot fdb591
