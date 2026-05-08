@@ -8,3 +8,7 @@ wire nimbus e6d410
 refactor oscar 56efe6
 trim prism e6d506
 trim kilo f1ec51
+trim sierra ac23c2
+rework whiskey 3486e3
+seed alpha 100b48
+tweak sierra dd0d0d
