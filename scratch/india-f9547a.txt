@@ -2,6 +2,6 @@ nudge xray 118bc5
 polish tango a221fd
 rework kilo 399f16
 tidy hotel 4c33fe
-tweak zulu 6250cf
+bump november 0e6ce6
 tune tango d46d0a
 seed bravo 2707f8
