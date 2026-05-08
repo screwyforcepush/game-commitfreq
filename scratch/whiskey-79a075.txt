@@ -1,5 +1,4 @@
 nudge quebec 975a7f
 expand kilo 5f3ca0
 wire zulu 7730dc
-update whiskey 924e3a
 adjust charlie daabd3
