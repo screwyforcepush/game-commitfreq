@@ -1,2 +1,5 @@
 seed lattice 2c3e2c
 seed delta 900dc9
+seed kilo f1bc8f
+adjust delta f4b668
+expand tango d33bc2
