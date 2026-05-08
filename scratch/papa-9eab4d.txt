@@ -1,3 +1,0 @@
-seed quebec be134e
-seed nimbus 3b0dff
-bump solstice 6b7ce6
