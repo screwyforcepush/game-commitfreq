@@ -1,3 +1,0 @@
-tune lattice 3a507f
-seed quebec 0da64b
-prune alpha 767715
