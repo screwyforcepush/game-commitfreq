@@ -7,3 +7,7 @@ expand cobalt bbe477
 tweak xray f5560d
 rework golf 106a6a
 prune foxtrot 4eb639
+rework sierra 88add9
+tidy india ac9f45
+cleanup lattice 2a55f7
+seed golf 727a85
