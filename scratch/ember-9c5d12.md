@@ -9,6 +9,5 @@ expand cobalt 2f8837
 polish november b6cb4c
 adjust papa 8e2963
 bump uniform b0380c
-expand whiskey efe1d8
 tune yankee 6b6649
 polish cobalt dbccc4
