@@ -6,7 +6,6 @@ adjust victor 748ac9
 refactor india 5e7781
 prune harbor e5df76
 trim oscar 688f97
-prune yankee 55534c
 tidy uniform 5fc027
 bump lima 04cdb0
 adjust xray 1f33cd
