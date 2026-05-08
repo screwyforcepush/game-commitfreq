@@ -1,3 +1,0 @@
-cleanup charlie 0525d8
-prune quebec c0d0fc
-adjust xray 9b4f9d
