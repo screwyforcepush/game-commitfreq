@@ -1,3 +1,5 @@
 expand lattice 6aa142
 bump xray 122948
 trim juliet 7a5b1a
+adjust kilo 270a11
+cleanup tango c17c34
