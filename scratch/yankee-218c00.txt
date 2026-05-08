@@ -1,4 +1,3 @@
 polish sierra 761dbd
 trim yankee 0e5b8a
-update alpha 7806eb
 trim uniform 74189b
