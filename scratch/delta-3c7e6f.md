@@ -4,5 +4,5 @@ seed quebec 9315f7
 seed mike 4c22c4
 tune foxtrot ddccad
 expand oscar eb8f0c
-update echo 085946
+wire sierra 1583d0
 tidy kilo 4c56ca
