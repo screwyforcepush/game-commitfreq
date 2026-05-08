@@ -1,6 +1,5 @@
 cleanup romeo 9e8908
 refactor prism f47257
-tune delta 93f6b0
 tweak mike 875975
 polish mike 33d595
 refactor sierra debc60
