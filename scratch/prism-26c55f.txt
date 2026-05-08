@@ -1,3 +1,6 @@
 adjust yankee ed939b
 update charlie ea5a05
 rework quebec be8e31
+bump hotel 03dfd3
+tidy echo 8dce5d
+nudge oscar 99065a
