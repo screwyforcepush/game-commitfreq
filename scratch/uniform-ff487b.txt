@@ -1,4 +1,3 @@
-wire tango 99c4c1
 adjust cobalt 04a390
 trim delta c51665
 bump india f281f9
