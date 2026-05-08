@@ -2,3 +2,6 @@ nudge papa 1288e0
 prune kilo eef1e7
 bump uniform 5aa28c
 bump delta 60f93e
+trim echo 48fd3e
+nudge golf 7a70aa
+polish lattice 2a812d
