@@ -4,3 +4,6 @@ trim bravo 1b9d09
 expand xray 640031
 update prism 6450bb
 adjust sierra af9b62
+adjust foxtrot 88c310
+tweak ember 891c9e
+polish alpha c54f73
