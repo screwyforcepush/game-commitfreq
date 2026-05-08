@@ -1,4 +1,3 @@
-trim solstice aecb39
 cleanup lattice 1084ab
 prune cobalt 4c2b7b
 tidy quebec 8ddfd9
