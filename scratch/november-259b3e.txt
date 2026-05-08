@@ -1,1 +1,5 @@
 tweak cobalt 0f40bb
+nudge cobalt 54a51d
+trim prism 78003c
+tune prism 73312c
+tidy oscar 7f7402
