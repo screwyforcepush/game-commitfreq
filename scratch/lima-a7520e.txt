@@ -3,3 +3,7 @@ cleanup lattice 93ca63
 trim charlie 420622
 tidy zulu 7e8ad2
 wire prism 7443e8
+bump xray 528eea
+tune romeo 67e725
+trim prism bb1eee
+rework sierra 0238f4
