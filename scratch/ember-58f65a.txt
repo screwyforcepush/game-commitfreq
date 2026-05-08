@@ -2,7 +2,6 @@ tune kilo 292514
 wire quebec ec20cc
 polish bravo 93bc7e
 polish whiskey 7fa737
-wire yankee fc7673
 tune hotel 55260c
 nudge kilo 25bc0d
 rework mike eec204
