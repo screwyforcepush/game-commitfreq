@@ -3,3 +3,7 @@ adjust foxtrot 8f2f7d
 prune charlie e3f255
 tune romeo 2b0766
 cleanup prism 6bdb93
+prune solstice 9373d1
+rework xray 392054
+tune oscar 97c64f
+update lattice f8b25f
