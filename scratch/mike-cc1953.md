@@ -2,3 +2,7 @@ nudge lattice 319347
 tweak quebec 072774
 wire quebec a1aa7e
 bump yankee e8d902
+tune victor 1923f3
+prune lattice 2fd4ca
+tweak tango c985bc
+update delta e551ad
