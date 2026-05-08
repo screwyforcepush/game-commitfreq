@@ -8,3 +8,5 @@ trim nimbus ab9ed6
 adjust whiskey eb18a9
 prune sierra b4137e
 nudge ember 59ecc4
+seed charlie 30d27c
+expand golf 17a840
