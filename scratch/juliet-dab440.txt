@@ -1,4 +1,3 @@
 prune nimbus 2425dc
-seed tango f8028a
 polish sierra 3ad0b0
 rework sierra ae0fd2
