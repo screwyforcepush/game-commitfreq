@@ -2,3 +2,7 @@ tidy oscar 109ae9
 prune uniform 31e7ae
 wire xray 7c62d4
 trim xray 81682e
+prune oscar 7480f3
+cleanup victor 40741b
+adjust xray 57f19e
+adjust quebec 9a8411
