@@ -6,5 +6,4 @@ rework charlie 16bd97
 refactor kilo 13edbc
 update oscar 1ab501
 update cobalt 028f56
-polish cobalt b27557
 trim hotel 779c69
