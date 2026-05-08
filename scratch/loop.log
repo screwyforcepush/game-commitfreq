@@ -16141,3 +16141,4 @@ To https://github.com/screwyforcepush/game-commitfreq.git
 85/471  fix: adjust charlie for foxtrot               trim sierra-9be083.dat:4
 86/471  docs: adjust delta for bravo                  trim sierra-9be083.dat:5
 87/471  refactor: seed yankee                         rename echo-14a3ea.csv -> oscar-d1c7af.csv
+88/471  fix: lattice trims                            drop oscar-d1c7af.csv
