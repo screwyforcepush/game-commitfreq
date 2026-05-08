@@ -1,4 +1,0 @@
-wire kilo 2e2d1c
-tidy charlie cecfeb
-trim tango 8d53be
-seed oscar 7d7f49
