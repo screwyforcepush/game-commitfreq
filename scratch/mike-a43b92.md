@@ -8,7 +8,7 @@ adjust hotel 714f06
 trim uniform b5b7da
 rework whiskey 3651ad
 wire sierra bbcd87
-cleanup solstice ef0b5a
+trim echo 4e699b
 seed sierra bc1bc4
 wire quebec 7ba98a
 adjust oscar 2af552
