@@ -3,3 +3,6 @@ adjust lattice c953c1
 tidy hotel 35965b
 adjust tango 74426d
 trim harbor bafe75
+tidy xray 58e06f
+adjust hotel 2843c4
+expand cobalt e851ca
