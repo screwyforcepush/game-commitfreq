@@ -1,5 +1,4 @@
 expand solstice 5ea2c5
-polish delta 292285
 tweak whiskey eeb1f4
 rework india 2c685a
 tidy foxtrot 27c2de
