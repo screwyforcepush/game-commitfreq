@@ -1,3 +1,2 @@
 cleanup lattice 6ea61e
-adjust papa 1f005e
 adjust foxtrot 005cb7
