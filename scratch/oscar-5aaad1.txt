@@ -5,3 +5,7 @@ bump lattice f24850
 tidy prism 5c0a2a
 trim tango 9c5f1e
 tidy lima c6e4e7
+expand lattice 7160fd
+tidy golf 8669cd
+rework echo 4b266a
+seed delta 3922d9
