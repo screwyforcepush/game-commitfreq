@@ -6,4 +6,3 @@ trim hotel 64d829
 tidy mike dcc5cc
 wire lattice a8a8b1
 trim victor 43804f
-wire quebec d1f702
