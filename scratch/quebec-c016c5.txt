@@ -1,4 +1,3 @@
-adjust lima 21f845
 tidy yankee 00683d
 adjust kilo 886e24
 tweak yankee 375791
