@@ -13,3 +13,6 @@ wire lattice d25076
 bump papa 1cf7f3
 tidy romeo f9fa00
 trim alpha 38ff2a
+tune solstice 22bdcb
+tune india 5ca0ae
+tweak delta 8f8887
