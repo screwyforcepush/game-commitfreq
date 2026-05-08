@@ -1,7 +1,6 @@
 trim juliet c57411
 expand lima 5570d4
 tidy victor 893c37
-wire bravo 3d19f5
 tidy romeo 9c97b9
 seed lima ed4a4f
 rework tango 7ee71f
