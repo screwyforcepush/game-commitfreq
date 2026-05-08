@@ -1,4 +1,3 @@
-adjust delta 1570eb
 trim alpha a49e66
 update november 73ba68
 tune hotel e05a3b
