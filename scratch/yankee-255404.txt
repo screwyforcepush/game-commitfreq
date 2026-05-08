@@ -1,3 +1,0 @@
-wire hotel cb79e1
-expand whiskey e0ea63
-prune uniform 953405
