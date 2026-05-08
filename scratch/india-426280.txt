@@ -7,4 +7,4 @@ adjust mike 07e40b
 wire golf b0159c
 wire harbor f08530
 cleanup hotel eeb904
-cleanup solstice 692bc7
+wire mike 5a54a0
