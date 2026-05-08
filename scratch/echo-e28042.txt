@@ -1,5 +1,0 @@
-adjust nimbus 659aa1
-nudge sierra caa79d
-seed solstice 227b61
-seed india 05072a
-adjust whiskey 61aa03
