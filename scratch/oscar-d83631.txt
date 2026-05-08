@@ -1,5 +1,0 @@
-adjust uniform 6f2449
-bump charlie 94008f
-refactor hotel cf5523
-cleanup sierra fbd97e
-wire lima ba3835
