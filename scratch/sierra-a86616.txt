@@ -3,7 +3,7 @@ update sierra 524ce7
 trim quebec 3eb002
 wire harbor e73bde
 rework charlie 16bd97
-refactor kilo 13edbc
+adjust november d87929
 update oscar 1ab501
 update cobalt 028f56
 trim hotel 779c69
