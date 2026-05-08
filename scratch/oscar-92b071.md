@@ -4,3 +4,5 @@ seed charlie 84a4d0
 bump whiskey 422a7b
 bump uniform 6dfdc3
 cleanup yankee cb95b8
+bump kilo 9123e7
+adjust hotel 714f06
