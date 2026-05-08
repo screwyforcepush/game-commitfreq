@@ -7,3 +7,6 @@ expand tango 38c9fa
 tweak tango c4b04b
 rework golf 484401
 seed uniform 648f4d
+expand nimbus be8fd6
+adjust zulu 1a1438
+polish harbor 40b3bd
