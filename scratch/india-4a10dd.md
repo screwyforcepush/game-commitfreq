@@ -6,7 +6,6 @@ trim nimbus ab9ed6
 adjust whiskey eb18a9
 prune sierra b4137e
 nudge ember 59ecc4
-seed charlie 30d27c
 bump uniform bb6a01
 refactor romeo 1ac726
 expand uniform e7d2b7
