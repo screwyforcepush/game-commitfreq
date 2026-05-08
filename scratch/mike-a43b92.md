@@ -18,4 +18,4 @@ wire sierra 842827
 seed solstice d0684b
 tune delta d8a757
 adjust bravo 2d2e57
-tune hotel db5522
+update delta 332f7d
