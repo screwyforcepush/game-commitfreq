@@ -6,7 +6,6 @@ nudge november acca79
 expand mike 933093
 tune xray b7f6c1
 tidy alpha 0a6eec
-prune tango 00fb10
 polish xray a3c377
 seed lattice 44a4e5
 refactor zulu 523c58
