@@ -4,3 +4,7 @@ bump mike 89fdf5
 tune lima 1a3f60
 refactor foxtrot 22cf05
 adjust romeo a70b70
+rework yankee 4ad1b0
+trim mike dacc32
+cleanup solstice 653da5
+expand delta ce5464
