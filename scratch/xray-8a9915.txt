@@ -5,3 +5,4 @@ update alpha 02d554
 tune sierra e86b93
 polish oscar acd2da
 wire hotel f5b3a6
+adjust quebec 6a5606
