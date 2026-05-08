@@ -1,6 +1,5 @@
 tweak juliet a02f87
 polish mike 5443a5
-bump kilo 4825f3
 trim romeo 56f5f5
 trim lattice 750dfe
 adjust foxtrot 7cf48f
