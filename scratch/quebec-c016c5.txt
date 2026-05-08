@@ -1,6 +1,5 @@
 adjust lima 21f845
 tidy yankee 00683d
-adjust cobalt 0eb0a0
 adjust kilo 886e24
 tidy whiskey 50fc42
 trim lattice e29426
