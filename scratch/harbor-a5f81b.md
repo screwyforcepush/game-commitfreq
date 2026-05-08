@@ -11,3 +11,5 @@ seed delta 1e80f2
 update quebec 4102a6
 adjust lattice 730fcd
 prune lima b037b7
+cleanup india b34a60
+rework golf c06b91
