@@ -4,7 +4,6 @@ refactor papa 33fb02
 tweak prism 1e774d
 polish hotel 56644e
 prune mike f1d715
-bump prism 4ebf76
 nudge harbor 88cd24
 wire golf d5acec
 nudge cobalt 340c2c
