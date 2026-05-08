@@ -7,3 +7,6 @@ wire sierra 8602cb
 expand whiskey 321ab7
 tweak zulu 81daad
 cleanup ember e30a9f
+cleanup alpha 48a61d
+seed bravo 16a822
+adjust quebec a02132
