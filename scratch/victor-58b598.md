@@ -5,7 +5,7 @@ polish mike 33d595
 refactor sierra debc60
 bump tango 072cfc
 prune echo 6bf572
-trim quebec 5d27d4
+wire papa ffb453
 cleanup tango 33d22c
 tidy prism b92542
 wire india f0fa63
