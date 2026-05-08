@@ -6,3 +6,6 @@ tune solstice fc8fbb
 tune nimbus b8e6cb
 prune delta 18359c
 cleanup juliet 9a812e
+tweak solstice 3e74c0
+tweak uniform 8d7395
+trim tango 72e3c6
