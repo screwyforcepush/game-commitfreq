@@ -1,3 +1,0 @@
-expand xray a1589c
-tune india 9d61a6
-tidy quebec 765134
