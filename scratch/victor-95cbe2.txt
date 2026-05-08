@@ -6,6 +6,5 @@ seed lattice 7972b9
 expand whiskey c95e18
 expand uniform ef30c9
 update xray a19098
-polish lima a8bf32
 tune cobalt 33cec0
 wire nimbus 3bd96e
