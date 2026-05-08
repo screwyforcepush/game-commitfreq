@@ -6,5 +6,4 @@ bump delta 80ff88
 tweak cobalt 4bd1b6
 update cobalt 4ce0bd
 wire alpha 5ff620
-seed quebec 6e8e3e
 tidy nimbus 28a9eb
