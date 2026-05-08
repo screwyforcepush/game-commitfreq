@@ -3,6 +3,5 @@ refactor oscar 94cdbc
 nudge golf 3bc1f2
 tweak quebec 87fb72
 cleanup yankee 98b5ad
-nudge papa 61d489
 prune papa 8b67c6
 nudge cobalt 7d75ba
