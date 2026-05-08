@@ -9,3 +9,7 @@ update tango 8449c2
 update victor fd8dde
 cleanup ember 2baf22
 trim lattice 3533c6
+adjust xray 2a43a8
+prune solstice 55269b
+cleanup bravo 71717f
+cleanup lima ac66ee
