@@ -1,4 +1,3 @@
-update whiskey 8d5b6b
 trim cobalt f08987
 seed juliet ed8b57
 expand cobalt d0c5e9
