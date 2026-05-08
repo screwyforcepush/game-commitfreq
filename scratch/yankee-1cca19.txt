@@ -1,5 +1,0 @@
-rework romeo 8ae2fc
-seed delta dcbfbd
-trim bravo 66ca4d
-polish charlie fc98cf
-expand quebec 8da994
