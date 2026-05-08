@@ -1,7 +1,7 @@
 cleanup sierra cf7a1f
 trim ember 86d1ec
 trim quebec bba962
-tune uniform ff25d1
+adjust quebec 9d5e00
 refactor delta 4fb682
 bump xray d38711
 cleanup harbor e7a85a
