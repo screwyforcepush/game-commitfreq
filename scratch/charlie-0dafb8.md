@@ -3,3 +3,7 @@ tidy tango 3a8d59
 nudge whiskey 887cd9
 polish ember 487237
 tune papa fc832a
+cleanup quebec 6aabbb
+cleanup ember 9dce8d
+prune hotel 3b431d
+trim zulu 590d57
