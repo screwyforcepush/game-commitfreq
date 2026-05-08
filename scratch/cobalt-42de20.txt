@@ -7,3 +7,7 @@ nudge yankee bdebdc
 tidy hotel 6b3bb7
 rework charlie 94570e
 update delta ba2c2b
+refactor alpha f8f5d9
+rework mike cffc31
+expand solstice 6ffd43
+trim zulu 7ce527
