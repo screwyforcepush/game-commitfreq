@@ -15194,3 +15194,4 @@ To https://github.com/screwyforcepush/game-commitfreq.git
 79/608  chore: trim lattice november                  drop solstice-c203b4.txt
 80/608  polish golf for echo                          drop zulu-97acaa.dat
 81/608  update lima                                   trim lima-cac57c.csv:6
+82/608  docs: wire zulu for lima                      append lima-cac57c.csv
