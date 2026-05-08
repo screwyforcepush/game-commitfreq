@@ -1,7 +1,7 @@
 nudge victor 50f1e8
 adjust cobalt c99f6d
 rework foxtrot fcc24a
-seed delta 184429
+tune sierra 9e9eea
 prune lattice af905b
 tweak sierra e4743b
 nudge tango 52f157
