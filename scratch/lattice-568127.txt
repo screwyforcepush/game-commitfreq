@@ -7,3 +7,6 @@ prune solstice 9373d1
 rework xray 392054
 tune oscar 97c64f
 update lattice f8b25f
+polish sierra 1b3bbe
+refactor november 1c5501
+wire yankee 77c409
