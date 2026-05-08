@@ -8,3 +8,6 @@ cleanup kilo 1af42d
 expand nimbus 4202f1
 trim tango ad0c64
 trim quebec 0bad7f
+nudge kilo 0c9602
+rework yankee a4cc86
+refactor sierra 1eea36
