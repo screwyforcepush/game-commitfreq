@@ -3,7 +3,7 @@ update alpha 909d08
 expand zulu 608191
 tweak golf 5302ad
 expand uniform 0dede4
-tweak mike 488b0c
+tweak nimbus 4c32af
 seed november 460012
 prune hotel 49c877
 update bravo c585f8
