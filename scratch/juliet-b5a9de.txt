@@ -6,7 +6,6 @@ expand foxtrot 074402
 update uniform ed14af
 seed tango 8a0617
 prune oscar f16aca
-polish alpha 240661
 tweak yankee 8de5eb
 bump mike 9d7b62
 polish nimbus 82c7e2
