@@ -3,3 +3,7 @@ expand xray 6a22d3
 bump delta 168e1c
 update november 746e80
 trim yankee c18c5d
+rework tango 826bf2
+prune india f964d2
+trim alpha a04141
+tweak nimbus e53ecc
