@@ -1,6 +1,5 @@
 prune victor e60591
 adjust juliet 26383e
-tune delta 0a281c
 tidy juliet e1f71f
 tune solstice 359387
 seed xray 57b5f0
