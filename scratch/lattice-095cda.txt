@@ -1,3 +1,0 @@
-trim solstice 5434ef
-prune uniform c69be8
-bump golf 1cce6c
