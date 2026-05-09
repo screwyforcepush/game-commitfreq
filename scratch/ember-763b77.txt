@@ -4,6 +4,6 @@ cleanup india e95494
 nudge alpha d87245
 seed juliet 01c917
 adjust romeo 0c9164
-nudge nimbus 536493
+adjust solstice 29c091
 adjust november 461bc0
 tidy kilo c7a1c7
