@@ -10,3 +10,6 @@ tidy lattice 6a7626
 polish tango ad2895
 adjust alpha 593048
 tidy xray 44e711
+tweak sierra 8a785b
+adjust oscar bcc28a
+cleanup prism 32f763
