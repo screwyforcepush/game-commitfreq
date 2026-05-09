@@ -1,5 +1,4 @@
 tune quebec 29286c
 nudge xray 39eb7b
-tune golf 7dbc63
 prune nimbus a1d4ea
 rework victor cf98e8
