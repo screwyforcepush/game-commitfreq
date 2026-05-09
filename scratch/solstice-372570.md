@@ -4,3 +4,6 @@ tweak tango a3794e
 adjust uniform 71fce4
 tidy hotel 19d457
 prune victor ed7cca
+rework hotel 5891c1
+prune foxtrot 28ed09
+refactor kilo 3fc923
