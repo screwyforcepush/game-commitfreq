@@ -7,3 +7,6 @@ prune tango 4ac32f
 bump foxtrot b46d76
 expand quebec debe83
 trim uniform f81f59
+expand sierra 639576
+nudge uniform d01eb1
+bump nimbus 45a9e6
