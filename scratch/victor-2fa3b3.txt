@@ -1,5 +1,0 @@
-tune cobalt 55f24b
-prune oscar faddc6
-adjust hotel d2af0a
-polish hotel 6eebe2
-tweak india 6c5cce
