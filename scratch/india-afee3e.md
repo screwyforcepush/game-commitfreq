@@ -1,4 +1,3 @@
-refactor yankee 953cce
 wire uniform 8fcc29
 tweak foxtrot 709152
 tune delta 037192
