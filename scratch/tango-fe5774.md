@@ -7,3 +7,6 @@ polish lattice da0a70
 trim alpha 67c259
 polish hotel 9caa33
 cleanup prism c1e10d
+polish november ebb1aa
+bump quebec 2c007d
+tidy november eac77e
