@@ -1,5 +1,4 @@
 wire tango 263c36
-trim xray 8d99d3
 update solstice 18b83e
 trim golf 7b34a4
 tweak delta 37f93e
