@@ -1,3 +1,0 @@
-seed charlie e50872
-tweak whiskey 97723c
-adjust yankee 0f159b
