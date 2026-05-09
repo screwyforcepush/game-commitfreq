@@ -6,3 +6,6 @@ prune kilo b81283
 bump whiskey ee0a36
 tidy echo 3b890c
 cleanup uniform 20a6d7
+prune sierra 5656d4
+adjust sierra b76adf
+cleanup sierra 691049
