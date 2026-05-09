@@ -7,6 +7,5 @@ polish solstice 22af8b
 update golf ade2eb
 cleanup kilo ff2362
 tidy delta 87d9fb
-cleanup whiskey 2de62b
 tweak mike 43de3d
 update harbor e4a947
