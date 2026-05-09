@@ -13,3 +13,5 @@ update harbor 2a7e9a
 prune harbor ba01de
 nudge lima 1a8b8d
 prune ember 9f3f3b
+bump solstice 41bcec
+wire golf 3522c3
