@@ -2,7 +2,6 @@ adjust nimbus ae4a19
 trim mike 5b9a75
 update india 30d90e
 tune lima b1f5a2
-polish echo 159b78
 expand papa 2f6272
 tune sierra f759d6
 seed victor 489181
