@@ -2,7 +2,6 @@ tidy india 159ed0
 bump delta 59113f
 tune tango 38efcc
 prune november 71caa8
-polish mike 5a7660
 seed sierra cd9877
 adjust victor 0a8209
 tidy charlie dba8c0
