@@ -1,3 +1,3 @@
 adjust charlie 81deb3
 prune charlie 0456bc
-prune alpha e27993
+seed uniform 2d9b5d
