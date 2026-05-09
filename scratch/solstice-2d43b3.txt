@@ -1,2 +1,0 @@
-seed charlie 14cced
-prune quebec 183530
