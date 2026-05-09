@@ -8,3 +8,6 @@ refactor cobalt 0aa2da
 update zulu c6e87e
 cleanup delta 07c349
 tune hotel 2c3763
+rework november ebccc0
+expand yankee 3b8655
+update delta da7545
