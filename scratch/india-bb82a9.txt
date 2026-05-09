@@ -1,2 +1,0 @@
-seed november c97924
-prune quebec 8d5caf
