@@ -1,5 +1,4 @@
 update quebec 623e68
-tidy whiskey 932100
 prune harbor 0ae8ef
 rework golf 2cb72f
 tweak juliet 3b6b09
