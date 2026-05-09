@@ -6,3 +6,5 @@ wire sierra 5cf581
 wire oscar e5899f
 expand solstice e40f4d
 bump romeo 46be4d
+expand lattice 029b69
+adjust yankee a5fb83
