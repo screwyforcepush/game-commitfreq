@@ -4,7 +4,7 @@ prune whiskey 896548
 tidy xray 29814d
 prune hotel df7461
 cleanup xray 4ef6e1
-nudge november ff4009
+seed zulu 0e8684
 tweak ember 6f8584
 prune solstice b006f6
 seed ember fd8438
