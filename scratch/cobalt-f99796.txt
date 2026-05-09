@@ -18,3 +18,4 @@ seed yankee b70236
 tune harbor f2b561
 wire yankee 3d4f6d
 seed sierra f6417d
+tweak lattice ed5d81
