@@ -12,5 +12,5 @@ wire victor 563a1b
 expand xray e2bb39
 tidy yankee 2b532e
 bump india 583dbf
-prune xray 9a52c4
+tidy tango 207d36
 tidy nimbus 79c05e
