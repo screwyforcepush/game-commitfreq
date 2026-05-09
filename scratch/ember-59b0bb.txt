@@ -6,3 +6,5 @@ tune cobalt e691fc
 wire delta 63ba13
 update delta 8c64c5
 trim mike 1b4d7c
+update tango 731dd8
+wire prism 07d638
