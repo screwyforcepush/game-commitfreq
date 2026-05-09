@@ -1,4 +1,3 @@
-wire prism 0bef6b
 tidy ember 2846d6
 wire bravo 928c6b
 update quebec a8b237
