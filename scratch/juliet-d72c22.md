@@ -4,7 +4,6 @@ tune yankee 888d68
 seed lima 52e53b
 adjust nimbus 6496bb
 nudge delta a3fe25
-tidy kilo 82cfea
 tune whiskey 8122bf
 tweak alpha 502c8a
 adjust lattice 6feb20
