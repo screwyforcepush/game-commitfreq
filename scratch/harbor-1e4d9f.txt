@@ -1,4 +1,4 @@
-bump sierra 79f76d
+prune oscar 8c774e
 update lattice 1ff202
 prune whiskey 896548
 tidy xray 29814d
