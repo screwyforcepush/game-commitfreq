@@ -1,6 +1,6 @@
 trim solstice 132cce
 wire alpha 4521bb
 tune hotel f2d18c
-polish hotel d421b0
+tweak delta 50859e
 prune bravo 2b5d7f
 tweak uniform 7070d4
