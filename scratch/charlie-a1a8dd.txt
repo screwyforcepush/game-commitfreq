@@ -5,7 +5,6 @@ polish xray d27947
 wire november a1c151
 prune ember 335310
 tweak zulu 005dfc
-expand cobalt 874ac2
 rework tango cde70a
 update uniform e7c07f
 tune kilo 92145f
