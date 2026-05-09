@@ -1,5 +1,5 @@
 prune yankee aea440
-wire prism cd65f4
+wire oscar 0593b7
 seed nimbus 71f4e5
 rework charlie 314ce3
 nudge nimbus 518c9d
