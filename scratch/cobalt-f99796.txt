@@ -22,5 +22,4 @@ prune harbor 3b5225
 update zulu fd876d
 nudge quebec 34aa7a
 tune lima 0e24c1
-update foxtrot 086cc5
 update golf 347646
