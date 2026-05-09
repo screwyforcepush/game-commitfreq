@@ -5,3 +5,6 @@ trim xray f58cf1
 bump solstice 04751b
 prune sierra 9a03ae
 tune mike 7a29b3
+tune november da4085
+tweak oscar 3d4ea8
+tune xray d4aec2
