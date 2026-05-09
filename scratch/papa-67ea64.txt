@@ -6,7 +6,7 @@ seed lattice 69b7df
 tidy kilo 0e1e12
 seed harbor 2f8b5f
 trim november 0707e9
-trim uniform 4a553b
+trim yankee 872fec
 rework xray 7b050d
 update echo 56eb67
 polish yankee 738a34
