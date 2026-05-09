@@ -4,3 +4,5 @@ tune nimbus fda755
 expand quebec 2d80bb
 adjust hotel 2c9ffe
 cleanup lattice f4ccfd
+trim tango 737f5b
+seed romeo 01a934
