@@ -8,3 +8,5 @@ tidy kilo c7a1c7
 tune alpha a058a9
 bump india 7def52
 rework zulu 2e3f87
+adjust charlie 16ab00
+adjust oscar 4bd9a1
