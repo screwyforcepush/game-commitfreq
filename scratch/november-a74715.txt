@@ -7,3 +7,6 @@ adjust lima 09db06
 tune echo 762bc0
 refactor kilo 5dabc5
 tidy mike 357818
+update juliet db2737
+expand mike 3e4ce9
+tune zulu 5fa76f
