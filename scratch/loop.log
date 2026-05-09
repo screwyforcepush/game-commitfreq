@@ -24206,3 +24206,4 @@ To https://github.com/screwyforcepush/game-commitfreq.git
 235/389  trim tango oscar                              drop ember-d46c24.dat
 236/389  wip: rework prism romeo                       create delta-aed4f4.csv
 237/389  nudge oscar for yankee                        append november-48cd68.csv
+238/389  refactor: expand delta for xray               trim november-48cd68.csv:4
