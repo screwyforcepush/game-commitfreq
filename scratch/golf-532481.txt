@@ -3,3 +3,7 @@ tweak romeo a1236d
 adjust alpha 05d247
 expand india 4cfd30
 adjust echo 137daa
+rework india dec07d
+cleanup golf 623b9d
+tune golf 9c5527
+seed lattice 517417
