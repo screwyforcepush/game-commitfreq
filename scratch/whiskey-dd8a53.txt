@@ -2,5 +2,4 @@ prune prism c3180e
 seed papa 9cdd78
 wire cobalt 051eec
 tweak kilo b44b53
-polish solstice 334c6b
 polish golf 166a5e
