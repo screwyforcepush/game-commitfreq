@@ -1,2 +1,1 @@
-wire delta 28c637
 update prism 568706
