@@ -3,7 +3,6 @@ update tango c4e12b
 tune golf 53094b
 prune hotel 72c541
 update juliet fc7d76
-cleanup uniform 89875c
 nudge charlie a87dd7
 tune hotel c0fff8
 rework nimbus dcd198
