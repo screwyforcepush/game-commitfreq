@@ -4,3 +4,5 @@ bump delta 60f93e
 trim echo 48fd3e
 update whiskey b09d53
 bump nimbus 6f33a8
+tune solstice 7bcf9f
+trim india 60fb97
