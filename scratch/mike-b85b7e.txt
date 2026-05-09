@@ -2,3 +2,6 @@ rework quebec 22fc7a
 refactor hotel 0ab8ee
 refactor november 6e18aa
 expand kilo 7010f7
+adjust nimbus 812605
+tweak alpha b717d4
+refactor charlie a70da8
