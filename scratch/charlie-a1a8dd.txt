@@ -10,3 +10,7 @@ tune kilo 92145f
 nudge prism e7ba2b
 tune solstice f4b3c5
 rework quebec 074071
+update kilo 1b9fc8
+adjust foxtrot d65c98
+prune xray 78a932
+expand tango 89a169
