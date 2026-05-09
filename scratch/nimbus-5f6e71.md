@@ -5,5 +5,4 @@ bump cobalt c5d978
 expand india 2f807f
 prune xray 9f37b1
 prune xray 933ebd
-refactor quebec 0e0c31
 cleanup kilo 8ceadb
