@@ -2,7 +2,6 @@ nudge golf 93a2c2
 refactor kilo 8ce9f7
 rework lima fceee2
 tune solstice ba2d46
-update delta 74775e
 nudge yankee 91e6f8
 tune victor e1de32
 trim tango 1288a9
