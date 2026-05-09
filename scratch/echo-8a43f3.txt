@@ -1,5 +1,0 @@
-cleanup cobalt 6915a6
-prune papa 005dba
-tune prism d3fab5
-adjust papa 469fd8
-tweak uniform 78717b
