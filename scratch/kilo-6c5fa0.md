@@ -6,3 +6,5 @@ polish lattice ce981b
 tweak cobalt 7ab98c
 polish victor 3e6a53
 polish kilo bf987e
+polish solstice 29f2a0
+adjust xray fa9d56
