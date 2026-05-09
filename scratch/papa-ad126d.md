@@ -1,6 +1,6 @@
 wire romeo 131d48
 wire sierra 645178
-wire mike cf3221
+trim lima 74aefc
 seed kilo f3aa1d
 bump sierra 8faed7
 tidy xray 7f8858
