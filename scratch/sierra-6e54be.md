@@ -5,5 +5,4 @@ tweak xray 2cd563
 adjust yankee e1099e
 expand quebec 0dcdc8
 seed delta 33f8b7
-nudge november 205c65
 prune papa 98d46a
