@@ -10,3 +10,4 @@ polish delta 5d4cc4
 adjust zulu 64920d
 rework sierra 934579
 tweak cobalt b08508
+expand november e2ab91
