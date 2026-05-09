@@ -2,3 +2,6 @@ update cobalt 43a359
 tune prism 1191be
 rework bravo 48c3ec
 nudge papa 4a5176
+rework foxtrot 1713ba
+trim sierra be9950
+update yankee 72281d
