@@ -1,3 +1,2 @@
 nudge echo 5cf983
-trim bravo ac38c6
 trim papa 214ca1
