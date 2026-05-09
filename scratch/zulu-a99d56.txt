@@ -1,5 +1,4 @@
 trim charlie 583b0e
 trim alpha e81630
-cleanup yankee 7e9ed7
 wire kilo 86b513
 seed november d890cc
