@@ -4,7 +4,7 @@ prune golf 8d9290
 prune foxtrot 1a478a
 tweak zulu 6fccdb
 polish whiskey 19e109
-trim papa c98339
+seed nimbus eefecc
 seed ember f96404
 cleanup oscar 4d6fff
 tidy hotel 4b9679
