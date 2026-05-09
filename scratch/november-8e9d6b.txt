@@ -8,7 +8,6 @@ adjust yankee 2f3656
 polish delta 5d4cc4
 adjust zulu 64920d
 rework sierra 934579
-expand november e2ab91
 rework cobalt b4dc67
 tweak november e29a7c
 update harbor f389a3
