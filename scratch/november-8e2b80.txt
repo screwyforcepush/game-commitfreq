@@ -1,5 +1,4 @@
 nudge november 6c375b
-seed yankee 47a6a5
 rework lattice c30d41
 rework xray 369330
 polish alpha fece0b
