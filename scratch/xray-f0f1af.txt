@@ -6,7 +6,7 @@ prune hotel 444ddd
 nudge zulu 8a2d13
 trim whiskey 9fbb61
 wire cobalt 28e9fe
-wire echo 690a67
+prune quebec b94cd3
 tweak tango 8d8b5a
 tidy zulu d71836
 cleanup romeo deb007
