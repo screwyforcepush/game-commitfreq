@@ -5,3 +5,4 @@ seed india 2221e5
 rework delta 472fdb
 nudge hotel 8b8823
 seed hotel 505e2e
+seed solstice a4d643
