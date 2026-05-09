@@ -9,3 +9,7 @@ seed whiskey 9fd68f
 cleanup uniform 27b6de
 cleanup lattice c76fd4
 tweak nimbus 4dd439
+cleanup victor cc675f
+rework kilo 80ad71
+wire juliet 361fa2
+cleanup kilo 407cde
