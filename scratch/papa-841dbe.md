@@ -10,3 +10,5 @@ bump cobalt 517393
 bump oscar 912dcb
 polish harbor 7efb4e
 wire sierra 2be9d0
+expand quebec c8c53f
+trim romeo 2bbf36
