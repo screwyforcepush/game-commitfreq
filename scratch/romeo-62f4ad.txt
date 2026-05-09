@@ -1,0 +1,3 @@
+prune nimbus 0c3080
+nudge kilo fe1633
+tune alpha c723be
