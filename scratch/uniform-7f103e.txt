@@ -10,3 +10,5 @@ polish papa cc8fab
 cleanup charlie 89f00a
 tidy echo 30fbf2
 adjust uniform 6e6b99
+expand ember b5c43a
+update hotel 93c9a6
