@@ -1,4 +1,3 @@
-seed india d0f2fa
 adjust nimbus ae4a19
 trim mike 5b9a75
 update india 30d90e
