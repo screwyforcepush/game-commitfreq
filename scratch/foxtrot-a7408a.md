@@ -5,3 +5,6 @@ bump lattice 4d078e
 polish nimbus 0fb295
 adjust solstice 0851cc
 tweak uniform 4e0be8
+bump lima 0683ec
+rework hotel f46594
+nudge sierra d5d65f
