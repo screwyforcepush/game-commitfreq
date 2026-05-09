@@ -4,3 +4,7 @@ cleanup golf 8a03f6
 tune zulu 395e0b
 tidy foxtrot 6e47ac
 adjust golf 5936cd
+prune lattice 636e7a
+seed xray 18f4f6
+wire uniform 5a7b65
+tune solstice ff75e4
