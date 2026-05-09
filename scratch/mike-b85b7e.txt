@@ -1,6 +1,0 @@
-rework quebec 22fc7a
-wire alpha cdf58c
-adjust nimbus 812605
-tweak alpha b717d4
-refactor charlie a70da8
-tweak hotel 16e5ee
