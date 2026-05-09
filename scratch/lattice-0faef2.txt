@@ -2,3 +2,6 @@ polish mike fedb4f
 wire kilo e1206d
 expand solstice 78a560
 bump alpha d3eb8e
+tweak sierra aa34a2
+prune delta 7b0110
+bump yankee d0983e
