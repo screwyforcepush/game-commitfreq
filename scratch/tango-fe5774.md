@@ -5,3 +5,5 @@ adjust golf 4b6777
 adjust delta 021b26
 polish lattice da0a70
 trim alpha 67c259
+polish hotel 9caa33
+cleanup prism c1e10d
