@@ -1,6 +1,0 @@
-adjust sierra 83ee79
-prune quebec b420fd
-trim november ed56b4
-rework foxtrot 169f6c
-seed alpha 3a94bf
-update bravo a46d0c
