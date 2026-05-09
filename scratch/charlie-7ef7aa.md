@@ -9,5 +9,4 @@ tune solstice f399eb
 nudge oscar cd53f3
 trim whiskey 694d62
 adjust charlie 781e41
-seed solstice bbc69e
 prune november ba1d33
