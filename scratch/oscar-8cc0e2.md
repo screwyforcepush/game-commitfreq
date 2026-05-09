@@ -4,3 +4,7 @@ update oscar 21eb68
 expand echo 1a2359
 rework lima 1e3243
 polish solstice 22af8b
+update golf ade2eb
+cleanup kilo ff2362
+tidy delta 87d9fb
+cleanup whiskey 2de62b
