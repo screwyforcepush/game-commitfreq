@@ -3,6 +3,5 @@ adjust charlie c4892b
 cleanup ember 5309ae
 prune harbor 0ae8ef
 rework golf 2cb72f
-wire mike e9c2d9
 tweak juliet 3b6b09
 update mike a85a21
