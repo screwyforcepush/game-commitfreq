@@ -10,3 +10,7 @@ expand delta 055915
 nudge hotel dd8c60
 tidy prism 684b0c
 polish delta e01090
+expand uniform 8aec61
+rework uniform 72d430
+cleanup bravo af1414
+adjust cobalt aa600a
