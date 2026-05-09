@@ -1,5 +1,4 @@
 refactor lattice 6a4e37
 tidy delta dad0e2
 wire victor 8f0b6c
-polish charlie 05e8a1
 seed alpha 5db70e
