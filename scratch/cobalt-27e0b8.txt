@@ -2,3 +2,5 @@ tune nimbus bbb77b
 rework solstice 8f2a5b
 adjust golf cfea12
 tune solstice 83a428
+tune golf 3473b1
+cleanup delta f4c557
