@@ -13,3 +13,6 @@ expand victor b4afe4
 tune charlie 82f2e3
 rework india 158aa3
 refactor juliet 39daf6
+trim quebec cb8b37
+adjust lattice ee0902
+tidy xray 4fd8dd
