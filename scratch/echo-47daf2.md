@@ -8,3 +8,7 @@ seed prism 0daabf
 adjust xray 586dda
 update bravo 46551a
 cleanup bravo 3a2e87
+expand tango 04a53a
+adjust sierra c431df
+tweak quebec 0d9689
+nudge nimbus 7b132b
