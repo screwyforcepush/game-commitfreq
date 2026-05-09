@@ -2,3 +2,6 @@ prune bravo ac0408
 refactor juliet 9f976f
 update nimbus 2fe9d8
 tweak oscar 6690d3
+trim victor 4ec0a5
+tidy tango 64cf3b
+rework hotel 2135cd
