@@ -1,4 +1,3 @@
-tidy mike fe6e70
 seed kilo a1add4
 nudge echo 3a2c46
 cleanup november 6648c2
