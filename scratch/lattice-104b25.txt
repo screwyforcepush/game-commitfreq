@@ -1,4 +1,0 @@
-cleanup lima c11332
-cleanup oscar 7c8387
-trim hotel c60022
-trim xray 943e54
