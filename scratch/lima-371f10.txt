@@ -1,3 +1,7 @@
 nudge yankee c73d48
 cleanup lattice 2903e6
 tune prism bfeeb3
+prune oscar a82f32
+expand juliet 5eb76a
+seed papa 0b55bf
+expand november a021d5
