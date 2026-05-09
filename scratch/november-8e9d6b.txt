@@ -1,4 +1,4 @@
-prune uniform 669a85
+prune romeo 66904f
 adjust solstice d0e3c5
 seed delta 3202c0
 expand prism 87acde
