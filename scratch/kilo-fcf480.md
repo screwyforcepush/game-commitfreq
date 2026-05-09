@@ -7,7 +7,6 @@ update foxtrot ab5f73
 bump mike f3271d
 wire lima 56f53a
 tidy oscar 453aa6
-trim prism 258462
 expand delta 055915
 nudge hotel dd8c60
 tidy prism 684b0c
