@@ -1,4 +1,0 @@
-seed romeo 598fcf
-prune juliet 200040
-tidy delta 01af74
-adjust lima efa94d
