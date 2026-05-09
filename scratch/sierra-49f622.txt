@@ -3,4 +3,4 @@ polish uniform df37c8
 adjust alpha b000a6
 nudge oscar e4047f
 polish alpha 42545a
-tune yankee 858683
+seed lattice 5a4217
