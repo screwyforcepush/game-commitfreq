@@ -6,3 +6,7 @@ adjust whiskey 38ea01
 seed tango c0d9b2
 cleanup delta bd9e2b
 seed november 21da9d
+expand prism 70756c
+tune delta 27744b
+expand nimbus 37eb1c
+tune nimbus a19791
