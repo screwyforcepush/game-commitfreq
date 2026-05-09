@@ -8,3 +8,5 @@ rework tango cde70a
 update uniform e7c07f
 tune kilo 92145f
 nudge prism e7ba2b
+tune solstice f4b3c5
+rework quebec 074071
