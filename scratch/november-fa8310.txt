@@ -3,3 +3,6 @@ cleanup lima f7319a
 tune lima 118d4f
 trim prism 8ce830
 expand tango 11778c
+tweak oscar 9f91f0
+expand hotel b7d0b1
+cleanup solstice 233e6c
