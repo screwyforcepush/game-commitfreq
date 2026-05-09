@@ -9,3 +9,7 @@ prune oscar 61ef6d
 update november 85a966
 rework nimbus 4d7964
 tweak bravo d7c6d6
+nudge papa e9995e
+adjust papa b80e70
+rework charlie d3a360
+prune hotel fea012
