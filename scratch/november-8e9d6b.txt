@@ -2,7 +2,7 @@ prune uniform 669a85
 adjust solstice d0e3c5
 tune ember 31b00f
 seed delta 3202c0
-bump prism 901966
+expand papa e3835b
 polish nimbus 32acb2
 tweak mike 5ca086
 adjust yankee 2f3656
