@@ -18,3 +18,5 @@ seed solstice 8dde63
 polish kilo b4d8c4
 polish alpha 91b379
 seed harbor b52ec2
+tidy mike bea03a
+trim foxtrot 75a33b
