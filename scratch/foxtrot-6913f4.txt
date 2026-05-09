@@ -9,5 +9,4 @@ tidy victor d5fa3e
 rework romeo 78111e
 bump oscar 92eb92
 polish juliet a7c115
-wire yankee 0e966e
 adjust oscar 286ee0
