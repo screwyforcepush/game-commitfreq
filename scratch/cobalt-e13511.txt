@@ -1,5 +1,5 @@
 tune lima 380df0
-wire solstice 611404
+adjust juliet 2d3251
 tune whiskey d0701a
 polish papa 57d7f4
 adjust victor e63254
