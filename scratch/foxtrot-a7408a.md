@@ -12,3 +12,7 @@ tune lattice 548e32
 seed foxtrot 7bfbc0
 trim india 373ba3
 cleanup zulu 343132
+seed sierra 8c2078
+polish zulu a7ea95
+nudge delta 1a5d20
+tweak xray 91b25f
