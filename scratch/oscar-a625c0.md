@@ -2,7 +2,6 @@ prune victor a71e1e
 cleanup yankee 9a6080
 rework foxtrot 898544
 tweak lattice ba69b0
-update prism 668b2b
 cleanup bravo 462c32
 seed india 96417f
 update lima 67b30d
