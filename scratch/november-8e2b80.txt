@@ -2,5 +2,5 @@ nudge november 6c375b
 seed yankee 47a6a5
 rework lattice c30d41
 rework xray 369330
-update hotel b1fdc0
+polish alpha fece0b
 wire prism f37346
