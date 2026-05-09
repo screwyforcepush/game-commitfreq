@@ -1,6 +1,5 @@
 wire sierra 070f43
 tidy quebec 3b4ba3
-wire charlie 2da796
 polish delta b26658
 tweak echo 12632c
 expand delta ae6341
