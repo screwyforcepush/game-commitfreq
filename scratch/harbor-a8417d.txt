@@ -1,4 +1,3 @@
-tidy tango fe2ba7
 tune nimbus 79f324
 tune yankee 6076e1
 bump foxtrot 899a9e
