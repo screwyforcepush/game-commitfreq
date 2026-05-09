@@ -6,4 +6,3 @@ wire charlie 6e8f56
 bump india bcf933
 rework tango 03beba
 polish tango 50dd25
-bump hotel 3b6733
