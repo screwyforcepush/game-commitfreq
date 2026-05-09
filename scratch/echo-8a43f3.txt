@@ -1,5 +1,4 @@
 cleanup cobalt 6915a6
-update sierra 0e5652
 prune papa 005dba
 tune prism d3fab5
 adjust papa 469fd8
