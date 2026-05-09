@@ -1,2 +1,6 @@
 bump cobalt f37b62
 cleanup uniform 71c08a
+expand sierra 61502b
+adjust harbor b0aaf5
+tweak yankee d71dd1
+update yankee 257fa3
