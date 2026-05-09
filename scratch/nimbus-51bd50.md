@@ -5,7 +5,6 @@ update alpha 4a4c37
 expand lattice 218e12
 polish zulu d357a0
 tidy sierra f36654
-trim bravo f5ac21
 tweak romeo d05a57
 refactor bravo 73180e
 wire lima fc9c5e
