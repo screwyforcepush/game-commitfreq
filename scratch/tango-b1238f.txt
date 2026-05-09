@@ -1,0 +1,3 @@
+adjust nimbus 431283
+seed xray 860b91
+tweak charlie a7573a
