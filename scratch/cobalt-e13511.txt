@@ -2,5 +2,4 @@ tune lima 380df0
 adjust juliet 2d3251
 tune whiskey d0701a
 polish papa 57d7f4
-adjust victor e63254
 prune foxtrot 918f49
