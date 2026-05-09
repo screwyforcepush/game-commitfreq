@@ -2,7 +2,6 @@ refactor victor 233a56
 polish uniform df37c8
 adjust alpha b000a6
 nudge oscar e4047f
-polish alpha 42545a
 seed lattice 5a4217
 adjust lima 914380
 tweak tango 033440
