@@ -1,3 +1,2 @@
-bump hotel 73fffa
 wire romeo 5aa582
 cleanup cobalt 41f520
