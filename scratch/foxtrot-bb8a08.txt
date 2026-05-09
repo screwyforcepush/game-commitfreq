@@ -1,3 +1,2 @@
-seed alpha 7eb362
 adjust lattice bed7e7
 update india 24a426
