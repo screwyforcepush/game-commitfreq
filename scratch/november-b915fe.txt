@@ -7,3 +7,6 @@ tweak tango 56e4cf
 expand prism b94d65
 bump tango a9c70d
 prune hotel 0661b0
+tidy lima 7431c4
+nudge oscar d5ebdb
+cleanup foxtrot 10489c
