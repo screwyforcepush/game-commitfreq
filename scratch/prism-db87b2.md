@@ -8,3 +8,4 @@ prune lattice 636e7a
 seed xray 18f4f6
 wire uniform 5a7b65
 tune solstice ff75e4
+seed alpha a3e4e5
