@@ -2,3 +2,7 @@ rework charlie bbbc07
 adjust alpha db35be
 tidy zulu bc0ed8
 expand xray ddae41
+tidy hotel 485293
+expand papa 74ac04
+rework juliet fab3e1
+polish golf e71460
