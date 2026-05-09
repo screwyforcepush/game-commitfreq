@@ -3,3 +3,5 @@ update alpha 305063
 seed uniform a42468
 tune oscar 0eb119
 trim uniform 14da08
+tune prism ebd537
+tune mike 2d86c9
