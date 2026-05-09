@@ -7,3 +7,6 @@ rework papa 8dcd6c
 seed solstice a4d643
 seed hotel 7b0017
 tidy lattice 6a7626
+polish tango ad2895
+adjust alpha 593048
+tidy xray 44e711
