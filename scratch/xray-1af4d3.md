@@ -10,3 +10,6 @@ tune xray d4aec2
 adjust echo b35074
 seed lima 8513ad
 prune ember d5462b
+nudge zulu ff5562
+adjust xray f2ba63
+trim zulu a5ce20
