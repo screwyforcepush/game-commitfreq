@@ -1,0 +1,2 @@
+trim hotel 987471
+trim charlie 0a0aed
