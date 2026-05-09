@@ -1,2 +1,0 @@
-seed tango cdc0c0
-prune yankee 81cd41
