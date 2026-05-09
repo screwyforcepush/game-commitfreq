@@ -10,7 +10,6 @@ tune uniform 99ce89
 expand kilo b48e01
 prune golf bdc032
 tune juliet e41b6d
-expand juliet 0b83f4
 trim papa 76a541
 rework romeo c51851
 wire solstice c56838
