@@ -1,7 +1,6 @@
 nudge charlie 6b1afa
 wire sierra 8149ff
 cleanup whiskey d668f9
-tune cobalt e691fc
 wire delta 63ba13
 update delta 8c64c5
 rework lattice 719d36
