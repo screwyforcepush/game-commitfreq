@@ -5,5 +5,4 @@ cleanup prism c900fc
 wire xray 12cecb
 tidy hotel d80080
 adjust cobalt 4cd057
-polish quebec bfb0fa
 polish delta 00a223
