@@ -13,3 +13,5 @@ polish yankee 738a34
 adjust romeo f92968
 bump oscar 8d3ab6
 tune xray 00a1d9
+polish november 662597
+trim delta 029be9
