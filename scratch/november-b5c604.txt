@@ -10,3 +10,5 @@ rework ember 116e86
 rework lattice f0068c
 bump oscar 779abe
 prune whiskey f74fa8
+nudge papa e168b8
+prune quebec 3cff6b
