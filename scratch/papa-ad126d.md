@@ -8,3 +8,7 @@ bump india 0b96ab
 bump sierra 8faed7
 tidy xray 7f8858
 wire mike c40b84
+rework harbor 8427a5
+update delta 80cc46
+prune foxtrot 627b40
+tidy alpha 6ca422
