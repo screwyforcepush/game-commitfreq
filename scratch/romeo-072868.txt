@@ -8,7 +8,7 @@ wire hotel defa66
 seed romeo bc0e72
 tweak romeo ef0c02
 seed alpha 5fe8a4
-seed sierra b70746
+rework foxtrot 370cb0
 wire solstice 7334d6
 tune bravo 4c3335
 prune alpha 933425
