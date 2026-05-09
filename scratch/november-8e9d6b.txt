@@ -4,7 +4,7 @@ seed delta 3202c0
 expand papa e3835b
 polish nimbus 32acb2
 tweak mike 5ca086
-adjust yankee 2f3656
+expand mike e71f2a
 polish delta 5d4cc4
 adjust zulu 64920d
 rework sierra 934579
