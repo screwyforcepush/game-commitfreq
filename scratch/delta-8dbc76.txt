@@ -22,3 +22,5 @@ trim foxtrot 75a33b
 update solstice 0152a7
 tune bravo 6c13c0
 rework lattice 9d1357
+polish hotel a8f105
+tweak foxtrot 212ede
