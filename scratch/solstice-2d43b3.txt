@@ -1,3 +1,2 @@
-update victor 1086b1
 seed charlie 14cced
 prune quebec 183530
