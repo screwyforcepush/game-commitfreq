@@ -12,7 +12,6 @@ prune lattice b0b9bb
 nudge prism b74705
 expand solstice 798fc4
 expand tango 01b7ce
-polish hotel 68a22c
 expand sierra d385ed
 polish prism 55eb7e
 nudge nimbus a27dd2
