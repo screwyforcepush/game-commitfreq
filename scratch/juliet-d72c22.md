@@ -8,3 +8,7 @@ nudge delta a3fe25
 tidy kilo 82cfea
 tune whiskey 8122bf
 tweak alpha 502c8a
+adjust lattice 6feb20
+trim lima b8494f
+nudge quebec 148d6b
+adjust solstice 486bee
