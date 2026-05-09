@@ -6,3 +6,6 @@ update yankee 4b2328
 seed echo 127caf
 tweak kilo d4705a
 prune oscar 61ef6d
+update november 85a966
+rework nimbus 4d7964
+tweak bravo d7c6d6
