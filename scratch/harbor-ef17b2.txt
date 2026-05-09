@@ -1,6 +1,0 @@
-tune sierra 845c28
-refactor ember 658f19
-tune yankee 6a6616
-adjust mike 3d89f0
-wire whiskey 3f797c
-tweak oscar 4e73cf
