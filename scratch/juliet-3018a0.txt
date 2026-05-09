@@ -1,7 +1,0 @@
-adjust lattice 9d8666
-tidy papa 3c353e
-tune delta 64e510
-adjust papa 70c4d8
-nudge alpha 66d2ba
-tweak whiskey 7fb9d9
-polish zulu e07662
