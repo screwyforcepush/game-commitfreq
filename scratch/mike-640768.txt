@@ -1,7 +1,6 @@
 adjust lima c3e369
 tune papa 43dd6a
 wire charlie 6e8f56
-bump india bcf933
 wire ember d2fe7a
 polish kilo 614cbf
 tweak yankee 2b03a6
