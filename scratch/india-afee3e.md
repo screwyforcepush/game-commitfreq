@@ -7,7 +7,6 @@ tweak mike fd74ab
 wire november 7eadb4
 bump solstice ed952f
 tweak prism 781253
-update india eab572
 tweak prism 5eb339
 prune prism ad6bb1
 polish india 81cc15
