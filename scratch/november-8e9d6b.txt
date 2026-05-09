@@ -6,7 +6,7 @@ bump prism 901966
 polish nimbus 32acb2
 tweak mike 5ca086
 adjust yankee 2f3656
-expand oscar 9db12a
+prune india 3e4247
 adjust zulu 64920d
 rework sierra 934579
 tweak cobalt b08508
