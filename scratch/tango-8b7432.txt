@@ -1,4 +1,0 @@
-polish charlie 5992d8
-tidy charlie 218d6c
-refactor solstice 49d308
-trim charlie 8230a5
