@@ -1,6 +1,5 @@
 bump sierra 79f76d
 update lattice 1ff202
-update sierra 295abb
 prune whiskey 896548
 tidy xray 29814d
 prune hotel df7461
