@@ -1,7 +1,6 @@
 rework quebec 22fc7a
 wire alpha cdf58c
 refactor november 6e18aa
-expand kilo 7010f7
 adjust nimbus 812605
 tweak alpha b717d4
 refactor charlie a70da8
