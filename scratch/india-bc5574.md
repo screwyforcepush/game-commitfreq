@@ -5,3 +5,5 @@ rework delta 472fdb
 nudge hotel 8b8823
 seed hotel 505e2e
 seed solstice a4d643
+seed hotel 7b0017
+tidy lattice 6a7626
