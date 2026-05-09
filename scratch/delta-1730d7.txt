@@ -5,3 +5,6 @@ tune golf 53094b
 prune hotel 72c541
 update juliet fc7d76
 cleanup uniform 89875c
+tidy nimbus 50f02d
+tidy cobalt 298488
+tune hotel c0fff8
