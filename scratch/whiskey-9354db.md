@@ -3,7 +3,6 @@ tidy hotel cf4446
 trim nimbus b3ae30
 trim harbor 4e5553
 nudge lattice 202cc6
-adjust lattice 462979
 rework xray d554e1
 cleanup uniform 4cd6f5
 update hotel 1aa556
