@@ -25666,3 +25666,4 @@ To https://github.com/screwyforcepush/game-commitfreq.git
 371/481  expand india (daf4f9)                         drop oscar-19c56f.csv
 372/481  build: india cleanups                         append sierra-5baa4f.dat
 373/481  wire prism                                    append oscar-70da3f.dat
+374/481  build: tune delta xray                        trim uniform-8bd4c2.log:2
