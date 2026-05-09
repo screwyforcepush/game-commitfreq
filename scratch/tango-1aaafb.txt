@@ -10,3 +10,4 @@ nudge victor 3f7fcc
 tweak xray 25fbf8
 rework prism c8b256
 tune lattice 575f66
+update nimbus 43b79e
