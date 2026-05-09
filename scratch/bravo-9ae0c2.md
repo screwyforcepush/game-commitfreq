@@ -8,7 +8,7 @@ rework alpha 9c682e
 trim hotel d84dd1
 polish cobalt 03487e
 rework india 1a5d06
-trim foxtrot 650cfc
+tidy uniform 526152
 expand nimbus b0aae6
 nudge november d31e95
 tweak zulu cb609d
