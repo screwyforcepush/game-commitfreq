@@ -6,3 +6,7 @@ rework lattice 1bbc7d
 rework solstice defa07
 polish solstice 11d575
 expand xray 048e7f
+nudge victor 3f7fcc
+tweak xray 25fbf8
+rework prism c8b256
+tune lattice 575f66
