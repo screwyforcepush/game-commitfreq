@@ -3,4 +3,4 @@ wire prism cd65f4
 bump harbor c20601
 rework charlie 314ce3
 nudge nimbus 518c9d
-seed alpha 08a25b
+adjust solstice 517e36
