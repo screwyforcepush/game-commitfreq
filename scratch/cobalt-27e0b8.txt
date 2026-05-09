@@ -1,1 +1,4 @@
 tune nimbus bbb77b
+rework solstice 8f2a5b
+adjust golf cfea12
+rework tango 843ec9
