@@ -1,4 +1,3 @@
-tidy delta 81eb7c
 tune solstice 7d90fa
 seed nimbus aaae49
 refactor solstice 317d5c
