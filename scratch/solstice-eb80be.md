@@ -1,4 +1,4 @@
-prune uniform 2da6f3
+cleanup lattice bb8cbf
 prune india 35e638
 adjust bravo bcfaa9
 polish alpha f7a4d9
