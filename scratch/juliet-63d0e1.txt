@@ -3,3 +3,7 @@ cleanup echo 8fef27
 rework tango 6dea7b
 refactor sierra 09d449
 update xray 32c50d
+prune lattice 1d6d06
+expand lima fb6ff4
+adjust lima 749250
+tidy india c65ed0
