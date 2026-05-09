@@ -5,3 +5,5 @@ prune cobalt 881768
 prune hotel 444ddd
 nudge zulu 8a2d13
 trim whiskey 9fbb61
+wire cobalt 28e9fe
+wire echo 690a67
