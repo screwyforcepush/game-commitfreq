@@ -1,2 +1,5 @@
 bump whiskey 13e2e1
 cleanup delta 13eac4
+tune romeo 49b450
+tweak sierra ec77d4
+expand ember bc4ced
