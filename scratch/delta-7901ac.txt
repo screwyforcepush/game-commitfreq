@@ -3,5 +3,4 @@ wire ember d8f135
 bump nimbus 4aeb33
 update oscar b9b46c
 tweak charlie b878d9
-seed alpha 7d5622
 expand bravo 1364fe
