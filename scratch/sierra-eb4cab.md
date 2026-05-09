@@ -10,6 +10,5 @@ prune india 369408
 wire uniform d350d3
 adjust sierra 7ea2e3
 cleanup ember 34977d
-cleanup oscar 0a29cd
 update charlie 31ce4a
 seed tango e09365
