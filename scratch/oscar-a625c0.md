@@ -1,4 +1,3 @@
-prune victor a71e1e
 cleanup yankee 9a6080
 rework foxtrot 898544
 tweak lattice ba69b0
