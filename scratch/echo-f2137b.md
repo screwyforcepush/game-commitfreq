@@ -4,3 +4,6 @@ update juliet 7d86e6
 update november 5c877a
 prune sierra 8b571f
 adjust solstice ab95c6
+update foxtrot 63fbdd
+cleanup papa be1671
+prune bravo b80b99
