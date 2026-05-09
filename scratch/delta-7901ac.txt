@@ -4,7 +4,6 @@ bump nimbus 4aeb33
 update oscar b9b46c
 tweak charlie b878d9
 expand bravo 1364fe
-tidy solstice 7307cf
 tune foxtrot a8b848
 rework echo 582e1e
 seed romeo 3f2d28
