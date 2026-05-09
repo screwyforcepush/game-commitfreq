@@ -1,5 +1,4 @@
 wire uniform 8fcc29
-update romeo ce5f12
 tune delta 037192
 trim foxtrot e1eef0
 update zulu 9051ab
