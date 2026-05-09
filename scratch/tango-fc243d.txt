@@ -1,7 +1,0 @@
-tidy papa 89c40b
-rework kilo 99bdc9
-prune charlie 08746b
-nudge quebec 27b422
-update delta 0f6849
-tune papa f977f5
-prune victor 47d498
