@@ -2,7 +2,7 @@ update charlie 4b563f
 refactor quebec 4b9443
 tune nimbus ffed67
 tune cobalt b7a23e
-rework lattice 1bbc7d
+prune sierra 852446
 rework solstice defa07
 polish solstice 11d575
 expand xray 048e7f
