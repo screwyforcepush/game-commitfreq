@@ -1,5 +1,4 @@
 polish sierra a498a4
-polish charlie a073b6
 polish charlie de623e
 prune november b54ae7
 tidy quebec 92e079
