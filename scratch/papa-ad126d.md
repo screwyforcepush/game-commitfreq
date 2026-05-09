@@ -1,5 +1,5 @@
 wire romeo 131d48
-trim solstice 4affc2
+wire solstice 29da37
 seed yankee 0e6310
 wire sierra 645178
 wire mike cf3221
