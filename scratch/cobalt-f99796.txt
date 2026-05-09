@@ -1,4 +1,3 @@
-trim sierra d3a7b4
 update romeo 7f1580
 rework bravo 9731c4
 seed juliet b62c46
