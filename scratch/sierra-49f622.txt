@@ -6,5 +6,4 @@ polish alpha 42545a
 seed lattice 5a4217
 bump foxtrot 44024b
 adjust lima 914380
-polish uniform cceda6
 tweak tango 033440
