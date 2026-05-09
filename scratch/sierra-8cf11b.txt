@@ -1,3 +1,2 @@
 expand echo e3dc29
-bump hotel 213b87
 rework foxtrot 44d34c
