@@ -24349,3 +24349,4 @@ To https://github.com/screwyforcepush/game-commitfreq.git
 378/389  update sierra for nimbus                      append mike-152d4f.txt
 379/389  docs: seed oscar for lima                     append prism-495ac4.dat
 380/389  bump romeo charlie                            append harbor-0a96ef.dat
+381/389  build: prism tidys                            drop prism-495ac4.dat
