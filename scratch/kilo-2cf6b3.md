@@ -8,3 +8,7 @@ rework quebec 6b31f3
 refactor alpha f9eb5a
 prune delta 17d8f9
 expand quebec eaf97a
+update lattice b5102b
+trim nimbus 04b639
+prune yankee 0e164a
+cleanup charlie 8e68d0
