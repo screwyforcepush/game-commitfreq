@@ -3,3 +3,7 @@ bump lattice f600c9
 polish echo feb842
 trim golf eca055
 cleanup romeo be0f28
+tune november b0162e
+tidy charlie d8cd01
+tweak lattice 1c117c
+rework zulu 03166e
