@@ -5,7 +5,7 @@ wire mike cf3221
 seed kilo f3aa1d
 bump sierra 8faed7
 tidy xray 7f8858
-wire mike c40b84
+tidy victor 6c8576
 rework harbor 8427a5
 update delta 80cc46
 prune foxtrot 627b40
