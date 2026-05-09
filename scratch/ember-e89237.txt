@@ -1,3 +1,0 @@
-trim hotel 987471
-prune november cdd1d6
-update quebec e91d85
