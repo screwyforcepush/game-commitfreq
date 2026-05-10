@@ -4,3 +4,5 @@ adjust delta 7ae0ea
 cleanup juliet bcc688
 tweak delta 75b842
 adjust hotel 0b919c
+seed romeo 11f912
+tune sierra 1e0f1f
