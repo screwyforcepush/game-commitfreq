@@ -3,3 +3,5 @@ tune cobalt 651bcc
 expand nimbus cf406d
 tune mike 43ab78
 bump uniform c77cfc
+rework xray e5bb34
+rework oscar ca69ee
