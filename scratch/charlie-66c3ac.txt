@@ -17,3 +17,6 @@ trim kilo a36075
 tidy delta 7d0dc0
 prune xray 531bdb
 tidy victor add88a
+tune lima d0387a
+adjust oscar f7ae17
+tune harbor 606738
