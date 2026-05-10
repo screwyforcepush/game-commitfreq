@@ -7,3 +7,6 @@ update oscar ae8543
 trim tango 46f531
 expand hotel f00102
 nudge juliet cc5c8c
+tune mike ec7bdb
+trim golf fab012
+expand alpha a01842
