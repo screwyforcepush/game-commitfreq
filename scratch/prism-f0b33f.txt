@@ -1,4 +1,3 @@
-prune quebec 60c01e
 expand lima 051bcb
 adjust juliet e19217
 tweak mike cc7cde
