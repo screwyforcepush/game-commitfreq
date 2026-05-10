@@ -1,4 +1,3 @@
 cleanup sierra ac3c9f
-seed mike 8d72d8
 trim whiskey 6c9256
 tweak ember 718abc
