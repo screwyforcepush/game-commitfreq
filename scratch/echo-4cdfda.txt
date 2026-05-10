@@ -3,3 +3,6 @@ prune juliet d5320e
 expand solstice b6dd26
 tweak quebec b1bfda
 tune papa 2536ba
+cleanup hotel b6886b
+trim quebec 952b33
+tweak foxtrot 2e8db2
