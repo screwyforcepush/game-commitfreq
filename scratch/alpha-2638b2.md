@@ -4,7 +4,6 @@ tidy kilo acdbfe
 nudge hotel a9ea2c
 adjust victor 815f82
 tweak zulu daaa7d
-nudge whiskey 924506
 update quebec 4a93d1
 tidy nimbus 38a336
 bump whiskey e96b20
