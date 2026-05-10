@@ -11,5 +11,4 @@ adjust november 92e41e
 bump bravo 67c464
 tidy oscar 07d9ff
 tweak oscar 551ad0
-update mike 6eaa81
 tune sierra 373345
