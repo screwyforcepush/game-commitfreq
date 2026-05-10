@@ -4,7 +4,6 @@ cleanup yankee 779f79
 polish mike c003b9
 tune echo 4a5500
 tweak tango 48205a
-prune cobalt eca984
 rework whiskey 5aa22c
 prune alpha 2dd57a
 tidy solstice 01e88e
