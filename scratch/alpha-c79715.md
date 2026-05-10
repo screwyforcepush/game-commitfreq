@@ -10,3 +10,7 @@ expand uniform 229a7b
 nudge harbor a799db
 tune echo 0623dd
 trim zulu d8098c
+tune mike 9ff4a8
+adjust romeo 98c85c
+polish quebec c2fee8
+update alpha da34c8
