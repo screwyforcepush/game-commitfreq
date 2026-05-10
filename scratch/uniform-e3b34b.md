@@ -1,4 +1,4 @@
 tidy yankee acf0f9
 nudge hotel cef7cd
-nudge whiskey 6adaed
+tidy oscar 362034
 bump delta 424768
