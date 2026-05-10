@@ -1,4 +1,3 @@
 seed xray 100b62
 tidy bravo 08d055
-nudge zulu a569e2
 update xray 17d64e
