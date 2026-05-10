@@ -2,7 +2,7 @@ cleanup alpha 3f5e58
 cleanup echo 370841
 tweak xray 8ed02b
 expand golf 1d7727
-rework lattice 1c47cc
+prune victor c37876
 wire oscar 6e9de7
 refactor mike 0bbd9e
 update hotel 0e35ff
