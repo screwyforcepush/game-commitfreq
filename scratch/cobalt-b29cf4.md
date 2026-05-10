@@ -6,5 +6,5 @@ bump november e397d2
 tune delta a96d21
 expand harbor a71996
 prune yankee 7e81d4
-expand foxtrot 525900
+prune papa 3954ae
 trim sierra f1ae3e
