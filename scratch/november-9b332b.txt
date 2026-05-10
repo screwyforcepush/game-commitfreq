@@ -1,2 +1,0 @@
-prune romeo 2fc36b
-seed bravo dd5cf9
