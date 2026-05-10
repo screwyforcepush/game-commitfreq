@@ -2,3 +2,6 @@ expand whiskey e2608d
 cleanup bravo 0cb607
 prune kilo 37c90f
 wire romeo df09fd
+prune alpha bc803e
+trim lattice 3bacb2
+seed sierra 47b2b6
