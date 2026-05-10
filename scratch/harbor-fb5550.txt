@@ -1,3 +1,2 @@
-bump ember 36c039
 nudge yankee c87355
 nudge echo 82c2db
