@@ -9,7 +9,6 @@ polish india 1bfd28
 prune quebec c8a9a3
 wire cobalt b775ea
 update prism b3a8c7
-prune sierra 651c2a
 refactor victor d3e102
 tidy prism 5263b9
 wire sierra d99ec8
