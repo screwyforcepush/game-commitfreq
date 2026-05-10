@@ -4,7 +4,6 @@ adjust cobalt 3646fa
 tweak nimbus 002d0c
 expand lattice 3384a7
 refactor yankee 9eaefa
-update harbor 056ce3
 cleanup mike 182845
 wire kilo b49f7a
 cleanup sierra 5bfd9e
