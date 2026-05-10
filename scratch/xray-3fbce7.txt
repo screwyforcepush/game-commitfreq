@@ -1,3 +1,2 @@
-wire hotel 76b94f
 rework hotel c007bd
 tweak harbor 362660
