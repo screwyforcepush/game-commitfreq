@@ -7,3 +7,7 @@ bump nimbus 0c4946
 tweak delta d1b177
 tune prism 55c53b
 nudge lattice 247d6e
+trim november a29f72
+expand tango a3ac5d
+polish kilo f93997
+polish yankee 92bccf
