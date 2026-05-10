@@ -1,5 +1,4 @@
 prune kilo b0fb0f
-trim lima 798ecb
 prune solstice 8eb116
 tweak uniform 217bd8
 seed victor 34ef9f
