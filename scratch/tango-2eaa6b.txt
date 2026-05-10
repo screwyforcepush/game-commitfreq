@@ -4,3 +4,6 @@ adjust ember 7251bd
 update solstice 4d705c
 seed charlie 7b8422
 adjust lattice 731fc5
+cleanup november 766bc2
+tweak nimbus 6e2c95
+tweak india 388d90
