@@ -14,3 +14,7 @@ tweak xray e83772
 polish whiskey 3393b8
 rework delta f7fe5c
 trim hotel 7e13d2
+adjust echo c6f141
+nudge nimbus c6b153
+trim golf 50fb02
+adjust romeo 09f4b8
