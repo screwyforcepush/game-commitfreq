@@ -6,3 +6,7 @@ adjust lattice 73c20a
 tidy quebec 849fc6
 expand cobalt 7baca5
 tidy alpha cee9fa
+bump nimbus 5244a1
+cleanup mike b9dab7
+tidy charlie 892db1
+tune cobalt 9ffa69
