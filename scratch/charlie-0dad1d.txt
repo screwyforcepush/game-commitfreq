@@ -1,8 +1,0 @@
-tidy charlie d136b7
-tidy uniform ebd392
-update tango 7200f2
-polish cobalt fe1b38
-cleanup romeo e30789
-rework xray c88e78
-prune hotel abac7c
-tidy delta f77ef1
