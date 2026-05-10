@@ -5,3 +5,6 @@ tweak quebec 77b144
 adjust xray c82bdb
 polish uniform b13962
 tidy nimbus 9d30e8
+prune hotel e97a44
+tweak alpha 7e2761
+tweak kilo 7ae11d
