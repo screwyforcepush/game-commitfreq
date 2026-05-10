@@ -12,3 +12,5 @@ tidy mike 85c965
 refactor lattice 8b47d4
 expand cobalt 72a9aa
 nudge mike 064f4e
+prune delta 02650f
+adjust nimbus 42a667
