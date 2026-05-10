@@ -2,7 +2,6 @@ tweak quebec 3c5579
 prune november 7d41af
 cleanup mike 6160ea
 wire foxtrot 19546b
-wire mike afc93e
 bump prism b500e7
 tweak kilo de85d5
 tune lima 3cdcd3
