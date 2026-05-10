@@ -1,7 +1,6 @@
 trim oscar 22ef0e
 rework kilo 0c22a3
 wire lattice 09ac98
-polish lima 689aef
 rework delta f5f1c4
 expand solstice 027cd6
 nudge zulu 218f90
