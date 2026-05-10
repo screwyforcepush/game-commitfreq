@@ -32416,3 +32416,4 @@ To https://github.com/screwyforcepush/game-commitfreq.git
 188/344  build: polish xray                            drop india-dbe4f3.dat
 189/344  tweak tango for bravo                         append india-11c22c.dat
 190/344  fix: trim oscar (b39b4f)                      append charlie-66c3ac.txt
+191/344  chore: rework sierra tango                    trim india-11c22c.dat:12
