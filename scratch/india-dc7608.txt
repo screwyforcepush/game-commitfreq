@@ -1,1 +1,5 @@
 bump quebec 5b25ff
+wire uniform f3ca2a
+tune foxtrot 52507d
+tune oscar bb6117
+trim xray 0c32d1
