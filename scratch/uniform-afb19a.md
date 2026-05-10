@@ -8,3 +8,6 @@ expand uniform f24738
 polish victor 6cc376
 prune delta b5a443
 seed kilo 26ad26
+cleanup charlie 433142
+cleanup tango 3ebed2
+expand echo 85c8ce
