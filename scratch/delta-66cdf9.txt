@@ -1,5 +1,4 @@
 update india 84347a
-bump oscar e799eb
 rework quebec 04452c
 prune zulu d2b19a
 refactor india c8ee44
