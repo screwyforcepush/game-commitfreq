@@ -8,3 +8,7 @@ tidy nimbus 9d30e8
 prune hotel e97a44
 tweak alpha 7e2761
 tweak kilo 7ae11d
+rework ember a31dae
+expand juliet 1cb6a3
+tidy solstice 226684
+tune zulu ef9594
