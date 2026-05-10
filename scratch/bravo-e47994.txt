@@ -1,3 +1,2 @@
 tidy cobalt c81f24
-tidy uniform 596c61
 polish charlie cd61a1
