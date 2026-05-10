@@ -1,3 +1,5 @@
 tune echo 2879b3
 tidy zulu ebe405
 wire golf 10fc2e
+wire yankee 5f1516
+tweak bravo 0884b8
