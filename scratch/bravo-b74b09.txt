@@ -6,3 +6,6 @@ bump whiskey 5c0f2d
 tune oscar 2c80ad
 seed tango 5ab320
 nudge prism 639fb6
+adjust xray 2c2df3
+tweak yankee 51fb81
+adjust quebec 0cc8f2
