@@ -10,7 +10,7 @@ prune prism e7b3df
 rework kilo 3d33a9
 trim mike 5d14a6
 polish sierra b07b24
-prune victor 8d6a9f
+tweak tango 045a31
 nudge uniform 48abc1
 rework foxtrot 24f3ca
 bump sierra ec95d6
