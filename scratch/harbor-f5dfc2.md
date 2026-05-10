@@ -4,3 +4,5 @@ wire foxtrot de305e
 trim mike e18b99
 seed romeo e0d845
 nudge solstice ab884f
+wire mike c2cd91
+adjust papa 6646a5
