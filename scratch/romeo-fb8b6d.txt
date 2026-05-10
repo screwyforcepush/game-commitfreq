@@ -1,4 +1,3 @@
 adjust charlie eea0eb
 tweak charlie 2c1c43
-tweak lattice 54afb1
 wire yankee a8916d
