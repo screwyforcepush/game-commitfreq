@@ -3,6 +3,6 @@ bump xray 04f764
 tune uniform 4f9f22
 tidy victor f01636
 nudge golf 9978d6
-rework prism 9a25c8
+trim lattice 9c195b
 expand charlie 16f8b1
 adjust xray cd76c5
