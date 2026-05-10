@@ -1,3 +1,3 @@
 tune lima b21ac0
-seed xray 52ad1e
+adjust uniform 4b9ecc
 tune xray 9f019e
