@@ -1,2 +1,0 @@
-nudge cobalt 1370e4
-wire romeo c11404
