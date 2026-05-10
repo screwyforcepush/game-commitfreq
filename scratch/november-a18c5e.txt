@@ -1,2 +1,5 @@
 bump lattice 0fd39c
 tweak victor 2bddb0
+cleanup cobalt 5389ac
+cleanup mike 56ec21
+wire kilo f8efb3
