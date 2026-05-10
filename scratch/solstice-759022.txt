@@ -5,3 +5,5 @@ adjust whiskey 82a8f2
 expand nimbus 70a105
 cleanup juliet f32e2e
 tidy charlie cd5a7f
+prune harbor c80dd7
+trim quebec a5b120
