@@ -7,3 +7,6 @@ tweak tango 48205a
 prune cobalt eca984
 rework whiskey 5aa22c
 prune alpha 2dd57a
+tidy solstice 01e88e
+nudge echo d31d48
+trim whiskey ef2b8b
