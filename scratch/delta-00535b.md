@@ -15,3 +15,4 @@ tidy nimbus cd43cd
 nudge xray 342162
 trim november a247bc
 trim juliet 5d5f87
+seed xray 403837
