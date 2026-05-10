@@ -3,3 +3,7 @@ polish prism 477748
 trim quebec beb344
 refactor nimbus aa4e1b
 cleanup yankee af4c52
+trim sierra 78c435
+prune uniform 4063e6
+rework alpha 162d15
+refactor nimbus c1440d
