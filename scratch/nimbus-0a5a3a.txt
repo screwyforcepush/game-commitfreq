@@ -1,6 +1,0 @@
-tweak papa 891075
-tune india b1d2b2
-rework juliet 6c9ffd
-wire charlie 41c405
-seed yankee 19273d
-nudge quebec 1e9bfb
