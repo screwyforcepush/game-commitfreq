@@ -1,5 +1,0 @@
-trim tango 814f9a
-prune hotel 34154a
-adjust hotel c7424b
-bump whiskey 8a6f20
-bump alpha 3d9728
