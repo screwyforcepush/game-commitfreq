@@ -7,4 +7,3 @@ adjust delta d5b08f
 seed uniform cb67bf
 expand alpha df298c
 rework victor a55d9c
-nudge sierra 1b7134
