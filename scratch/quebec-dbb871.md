@@ -7,3 +7,6 @@ wire foxtrot 1d5e04
 tune papa 9f9008
 bump ember 52ac41
 polish delta 81c905
+tidy juliet 2234df
+wire ember 0a478b
+tweak papa 6cc377
