@@ -6,3 +6,7 @@ trim bravo bf818e
 nudge lattice f1a316
 cleanup cobalt a4c6bf
 update sierra 410b28
+tune whiskey ab5473
+polish golf 83bebc
+adjust lattice 1fb1a0
+cleanup yankee def23b
