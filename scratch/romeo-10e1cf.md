@@ -2,7 +2,7 @@ update kilo bb2717
 expand prism 14d0cf
 adjust cobalt 3646fa
 tweak nimbus 002d0c
-rework november 3e0c0a
+expand lattice 3384a7
 tune kilo 6328e2
 refactor yankee 9eaefa
 update harbor 056ce3
