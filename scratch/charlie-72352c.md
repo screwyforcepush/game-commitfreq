@@ -9,7 +9,6 @@ adjust charlie 29bb88
 trim romeo 81519e
 refactor harbor fa35a4
 trim bravo 5d72bb
-tidy tango df5b99
 bump prism 009593
 prune hotel 6e4949
 refactor golf c5675e
