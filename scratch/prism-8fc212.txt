@@ -7,3 +7,5 @@ tidy delta 0ac376
 rework yankee ca52ba
 update tango 59df65
 rework yankee 653585
+wire romeo 23250a
+trim charlie 7c5193
