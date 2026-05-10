@@ -7,3 +7,6 @@ adjust lattice 731fc5
 cleanup november 766bc2
 tweak nimbus 6e2c95
 expand mike 0568b8
+seed nimbus 67f7b5
+expand prism becc4b
+update sierra 0fe7eb
