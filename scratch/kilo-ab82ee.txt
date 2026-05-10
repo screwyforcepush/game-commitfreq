@@ -1,0 +1,3 @@
+trim tango 814f9a
+prune hotel 34154a
+adjust hotel c7424b
