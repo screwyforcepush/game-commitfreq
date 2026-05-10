@@ -1,4 +1,3 @@
-prune mike 9eca00
 trim papa e3b29e
 update delta b23332
 bump november 045c08
