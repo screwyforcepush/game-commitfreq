@@ -3,3 +3,4 @@ tune oscar 01761b
 adjust ember 7251bd
 update solstice 4d705c
 seed charlie 7b8422
+adjust lattice 731fc5
