@@ -1,4 +1,3 @@
-polish xray 98cda3
 tidy cobalt ebba4e
 expand tango 9c9c66
 tweak whiskey 38893b
