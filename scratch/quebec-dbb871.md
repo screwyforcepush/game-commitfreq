@@ -14,3 +14,5 @@ tune lima 8878ca
 wire harbor bc9e90
 tidy nimbus cd43cd
 nudge xray 342162
+trim november a247bc
+trim juliet 5d5f87
