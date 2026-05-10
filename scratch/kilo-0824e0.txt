@@ -1,5 +1,4 @@
 cleanup whiskey c6d92b
-cleanup tango f632a5
 update tango 68c9e0
 cleanup yankee e1d05b
 wire victor 572c95
