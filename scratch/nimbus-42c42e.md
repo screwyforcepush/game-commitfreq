@@ -6,3 +6,6 @@ refactor november d00fd1
 refactor delta 755d35
 tidy lattice faf164
 bump tango 633d21
+trim uniform b70efa
+tune hotel 819b6b
+cleanup romeo 03b704
