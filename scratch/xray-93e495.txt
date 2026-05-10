@@ -1,5 +1,4 @@
 tune lattice 45adf4
 adjust uniform f27fd5
 tidy echo 8454ca
-trim india 988915
 update india 2b6b46
