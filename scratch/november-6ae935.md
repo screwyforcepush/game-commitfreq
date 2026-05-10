@@ -1,6 +1,6 @@
 expand kilo b3db4b
 wire bravo 6d84e3
-trim uniform 894ffa
+cleanup whiskey 0ddb83
 cleanup foxtrot d8a7a3
 expand quebec 8f607c
 wire lattice 1de45d
