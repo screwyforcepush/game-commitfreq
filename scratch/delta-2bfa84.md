@@ -4,3 +4,6 @@ cleanup india 1c6976
 tune ember 58ad52
 polish lattice aa2c8f
 polish golf 65d288
+adjust india 75822d
+polish quebec c4dd47
+bump delta 2224a5
