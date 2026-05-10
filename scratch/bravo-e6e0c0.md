@@ -11,6 +11,5 @@ cleanup mike b9dab7
 tidy charlie 892db1
 tune cobalt 9ffa69
 wire romeo c54578
-tune papa 62a147
 nudge echo e36064
 tidy xray d8e2f2
