@@ -9,3 +9,6 @@ cleanup india 5788af
 tidy quebec 0b17dd
 tidy ember 010595
 bump juliet d9ce5d
+cleanup papa 999926
+adjust tango 62e827
+adjust xray 80c055
