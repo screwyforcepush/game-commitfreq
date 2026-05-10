@@ -6,3 +6,7 @@ adjust whiskey a56cd7
 polish lattice 537e10
 seed solstice cc8cf2
 rework oscar 91c08e
+adjust quebec 315ede
+nudge ember 9ae400
+trim quebec 82b2aa
+prune charlie a80926
