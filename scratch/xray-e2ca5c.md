@@ -1,4 +1,4 @@
-cleanup nimbus 39e28f
+tidy solstice 0c4302
 refactor charlie 2880ff
 seed zulu 40cb36
 rework lattice 7f52fa
