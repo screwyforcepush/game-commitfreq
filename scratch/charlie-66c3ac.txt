@@ -14,3 +14,6 @@ update golf 1e56b9
 expand prism 5641be
 tweak hotel 04e587
 trim kilo a36075
+tidy delta 7d0dc0
+prune xray 531bdb
+tidy victor add88a
