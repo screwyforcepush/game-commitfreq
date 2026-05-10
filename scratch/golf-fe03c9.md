@@ -1,3 +1,7 @@
 seed quebec 75ec70
 tune hotel 5dec75
 trim alpha 07319e
+nudge quebec 5af0c3
+tweak november 81b13a
+prune quebec e46499
+polish hotel e0d849
