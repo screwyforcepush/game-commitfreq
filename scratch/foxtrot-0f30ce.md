@@ -3,5 +3,4 @@ adjust whiskey 71c8ca
 trim oscar a38755
 update echo efc98f
 bump romeo 56c3ad
-polish romeo 715d31
 tidy ember 7e3517
