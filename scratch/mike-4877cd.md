@@ -5,3 +5,6 @@ nudge juliet b1c897
 cleanup hotel f44a4c
 tweak yankee 9e72d9
 wire quebec c36427
+update hotel c0870a
+nudge prism 05b962
+adjust ember abd225
