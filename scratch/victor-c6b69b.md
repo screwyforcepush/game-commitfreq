@@ -7,3 +7,7 @@ tweak kilo de85d5
 tune lima 3cdcd3
 update uniform 1061ed
 seed delta 00a58c
+rework echo 530cac
+rework yankee 824dec
+prune november 258ca5
+tune golf 050f96
