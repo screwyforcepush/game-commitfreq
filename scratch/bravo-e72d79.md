@@ -10,5 +10,5 @@ rework nimbus d7b6e7
 update kilo b8108e
 polish solstice ec0c43
 adjust india 400810
-rework cobalt 25efb3
+prune nimbus e8c910
 tweak echo 4f9138
