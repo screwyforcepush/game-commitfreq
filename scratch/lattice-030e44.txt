@@ -1,3 +1,0 @@
-trim nimbus 691572
-adjust juliet 7e7517
-nudge prism d3f822
