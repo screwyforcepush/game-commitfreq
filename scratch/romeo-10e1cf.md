@@ -3,7 +3,6 @@ expand prism 14d0cf
 adjust cobalt 3646fa
 tweak nimbus 002d0c
 expand lattice 3384a7
-tune kilo 6328e2
 refactor yankee 9eaefa
 update harbor 056ce3
 cleanup mike 182845
