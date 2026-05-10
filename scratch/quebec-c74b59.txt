@@ -8,3 +8,5 @@ seed whiskey dc9f88
 tune romeo 170796
 trim cobalt f74fe4
 prune papa 4e22fb
+adjust charlie cdce73
+tidy cobalt dd7dc3
