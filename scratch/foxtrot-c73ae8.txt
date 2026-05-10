@@ -14,3 +14,6 @@ expand cobalt 72a9aa
 nudge mike 064f4e
 prune delta 02650f
 adjust nimbus 42a667
+prune prism 4f94e7
+prune november 7c3a02
+bump tango 6e6cf4
