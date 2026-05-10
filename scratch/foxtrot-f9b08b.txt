@@ -5,5 +5,4 @@ refactor harbor e52f46
 bump sierra 89f721
 wire echo 232d6d
 adjust hotel 79e237
-tidy golf 54a367
 trim whiskey 063a36
