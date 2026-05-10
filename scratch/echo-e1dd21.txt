@@ -4,3 +4,7 @@ seed echo 180b38
 update echo 0cd7e2
 tune tango 3b0c2e
 wire echo 238e88
+rework delta 969fce
+tune sierra 5e4e36
+rework juliet 6d6e7a
+update hotel bc740b
