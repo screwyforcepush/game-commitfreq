@@ -6,5 +6,4 @@ cleanup victor 65b46a
 tune sierra 53edf3
 adjust zulu 6a5978
 tidy quebec 6d1d6d
-update papa f8625d
 polish juliet cea634
