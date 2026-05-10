@@ -7,3 +7,6 @@ bump bravo 0a8f95
 seed xray 55fdca
 refactor prism 91786d
 seed cobalt 6f57d4
+bump sierra 4761d3
+tweak oscar cb01c3
+polish ember 71b376
