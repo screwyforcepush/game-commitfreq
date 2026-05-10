@@ -3,7 +3,7 @@ adjust cobalt 641d30
 adjust mike e07365
 bump juliet 46cda9
 cleanup nimbus e4121c
-seed ember 59754f
+seed yankee ab035c
 prune tango 1d24fa
 cleanup golf ceda8c
 expand victor 1b3b61
