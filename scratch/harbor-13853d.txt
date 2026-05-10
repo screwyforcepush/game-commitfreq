@@ -9,3 +9,7 @@ update sierra 410b28
 polish golf 83bebc
 adjust lattice 1fb1a0
 cleanup yankee def23b
+wire sierra ce5751
+tune tango 6f24b9
+trim delta 0959a8
+update delta 081135
