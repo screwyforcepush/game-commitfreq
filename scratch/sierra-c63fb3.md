@@ -2,7 +2,7 @@ nudge hotel 30f4e7
 tweak uniform 29457e
 update foxtrot a4a511
 update xray 2b40b7
-rework prism ff5d2f
+expand sierra d80c2d
 adjust delta d5b08f
 seed uniform cb67bf
 expand alpha df298c
