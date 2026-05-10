@@ -3,3 +3,6 @@ tune yankee 2f9b1d
 update zulu c564b0
 expand sierra 258170
 adjust whiskey a56cd7
+polish lattice 537e10
+seed solstice cc8cf2
+rework oscar 91c08e
