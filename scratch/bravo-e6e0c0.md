@@ -4,7 +4,6 @@ tidy prism 676325
 tune golf f110a8
 expand uniform 4028c3
 adjust lattice 73c20a
-tweak juliet 88ccc2
 tidy quebec 849fc6
 expand cobalt 7baca5
 tidy alpha cee9fa
