@@ -1,3 +1,0 @@
-prune solstice 50e35c
-seed alpha b0861f
-tweak foxtrot d92b04
