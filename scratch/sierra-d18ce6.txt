@@ -1,3 +1,2 @@
 update zulu 27c855
-prune uniform a42238
 trim solstice a33af7
