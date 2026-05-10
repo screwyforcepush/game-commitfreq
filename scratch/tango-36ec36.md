@@ -6,7 +6,7 @@ prune xray 4bda0a
 adjust hotel c6b0d2
 tune oscar fa698f
 nudge ember 9e3913
-prune prism e7b3df
+rework sierra 72e25a
 rework kilo 3d33a9
 trim mike 5d14a6
 polish sierra b07b24
