@@ -3,3 +3,7 @@ rework juliet 3a4ba4
 tune papa fff38b
 nudge charlie 95e770
 wire victor ae0a95
+trim bravo bf818e
+nudge lattice f1a316
+cleanup cobalt a4c6bf
+update sierra 410b28
