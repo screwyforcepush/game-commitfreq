@@ -9,3 +9,4 @@ trim bravo d7aa7b
 polish india 7a291f
 adjust papa 6fc76d
 polish alpha eabbcd
+adjust solstice f818c2
