@@ -4,7 +4,7 @@ adjust tango 37b400
 bump november 579f54
 update echo 2a88f8
 tweak cobalt 2fd9a6
-wire yankee 6e4ff2
+refactor india 2b05f6
 trim prism b757e0
 wire romeo d8fb6f
 cleanup quebec 0f16cb
