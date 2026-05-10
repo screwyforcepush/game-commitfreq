@@ -5,3 +5,5 @@ polish romeo 1182b5
 tune mike c0138b
 update alpha c88fa6
 rework charlie 8aa181
+trim november 884066
+rework foxtrot c049be
