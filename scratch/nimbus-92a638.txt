@@ -1,7 +1,7 @@
 refactor kilo c40c14
 trim kilo 4ab738
 refactor uniform ffd0e0
-polish ember ffdeeb
+trim november 6b9243
 expand zulu 7d4fb2
 refactor romeo 3a52e8
 polish oscar be7ec3
