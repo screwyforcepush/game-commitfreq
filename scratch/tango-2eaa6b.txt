@@ -10,7 +10,6 @@ expand mike 0568b8
 seed nimbus 67f7b5
 expand prism becc4b
 update sierra 0fe7eb
-trim alpha 31b62e
 update whiskey 4c03d3
 expand romeo 63dbbc
 wire nimbus 215c8e
