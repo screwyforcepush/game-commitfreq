@@ -2,6 +2,5 @@ trim charlie 832a24
 nudge papa 86e090
 trim harbor 460603
 tweak delta a30ce5
-bump golf a8fbac
 update golf b53413
 tweak uniform ad6fb0
