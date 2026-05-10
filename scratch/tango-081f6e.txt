@@ -15,3 +15,6 @@ update kilo 6f473d
 cleanup xray d37b57
 polish yankee 1b1ff6
 prune zulu e3a496
+tidy prism 30e51c
+seed romeo 46b746
+tidy nimbus bce2f9
