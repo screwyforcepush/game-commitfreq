@@ -1,4 +1,3 @@
-tune delta 50004b
 tweak nimbus 4b1db7
 expand xray 25d968
 wire whiskey f3de2b
