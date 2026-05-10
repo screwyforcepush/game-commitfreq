@@ -4,7 +4,6 @@ polish ember 2c1b29
 prune india 906efa
 seed sierra e8e6ed
 tweak victor 86fec4
-polish oscar f6b9e5
 tune bravo 8eb3ec
 adjust xray aa28a4
 trim november 4d4d56
