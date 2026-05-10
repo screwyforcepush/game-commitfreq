@@ -6,3 +6,5 @@ tweak ember 52d4dd
 refactor golf 18468a
 expand uniform 9b542b
 trim whiskey 8fb3b9
+trim victor bebf3a
+tweak hotel eb8f09
