@@ -3,7 +3,6 @@ tune lattice 97b4fe
 trim oscar 4f645e
 tidy romeo a4262a
 wire juliet 56825f
-polish solstice 556084
 polish alpha f09364
 bump harbor 85f64d
 wire harbor 8a4302
