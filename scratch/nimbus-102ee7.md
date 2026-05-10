@@ -1,5 +1,4 @@
 tweak lima b3d3d2
-wire alpha 7aab19
 wire zulu b44bcb
 polish echo 3dc8ca
 trim delta 290526
