@@ -9,3 +9,5 @@ wire uniform 4ffdfb
 adjust golf e4aee3
 tidy mike b7ccd2
 update whiskey 2d8938
+trim bravo 667b67
+nudge delta 796694
