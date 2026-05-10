@@ -13,3 +13,5 @@ wire sierra ce5751
 tune tango 6f24b9
 trim delta 0959a8
 update delta 081135
+wire solstice 124e84
+seed delta 6d79cf
