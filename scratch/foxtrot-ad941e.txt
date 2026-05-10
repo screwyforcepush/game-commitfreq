@@ -1,4 +1,3 @@
-wire lima b9579a
 bump zulu 62ab5f
 cleanup golf 38b4d9
 adjust victor 5d5bd8
