@@ -4,7 +4,6 @@ rework sierra 1bfcdc
 seed alpha afe266
 cleanup solstice 3b3e3c
 tune foxtrot ba5fa3
-update kilo 88c163
 cleanup lima 933854
 update november dbae25
 prune foxtrot 5a1ae6
