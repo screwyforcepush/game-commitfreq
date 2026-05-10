@@ -2,7 +2,6 @@ expand kilo b3db4b
 expand harbor 536817
 cleanup whiskey 0ddb83
 cleanup foxtrot d8a7a3
-expand quebec 8f607c
 wire lattice 1de45d
 cleanup golf 5eb2be
 adjust lima a29367
