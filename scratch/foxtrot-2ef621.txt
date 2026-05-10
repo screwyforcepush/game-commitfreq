@@ -4,3 +4,5 @@ rework whiskey 7bc81f
 prune romeo 6e4bfb
 update quebec 67536d
 expand ember 6fcf58
+prune whiskey 1c9cdd
+prune november 57f40c
