@@ -6,7 +6,7 @@ trim bravo bf818e
 nudge lattice f1a316
 cleanup cobalt a4c6bf
 update sierra 410b28
-polish golf 83bebc
+adjust harbor 73ed38
 adjust lattice 1fb1a0
 cleanup yankee def23b
 wire sierra ce5751
