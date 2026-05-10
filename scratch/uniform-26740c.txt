@@ -7,3 +7,5 @@ refactor whiskey 6b8666
 cleanup yankee 57ad04
 refactor bravo c9d051
 tweak romeo ad8e54
+rework oscar 8c93ae
+bump oscar 1ae5a2
