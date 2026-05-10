@@ -5,3 +5,7 @@ wire romeo df09fd
 prune alpha bc803e
 trim lattice 3bacb2
 seed sierra 47b2b6
+rework whiskey e47ad8
+rework kilo 3d8163
+bump tango c4f6f0
+tune juliet 98c45f
