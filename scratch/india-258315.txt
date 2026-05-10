@@ -4,3 +4,6 @@ tidy lattice ef4768
 expand bravo 8c84af
 bump lattice 2fb13d
 update harbor 410a30
+update alpha 8a91d8
+nudge kilo ee7e7b
+expand xray 77a98c
