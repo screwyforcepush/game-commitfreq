@@ -1,2 +1,4 @@
 nudge yankee c87355
 prune quebec fc686a
+tune oscar d746a3
+adjust nimbus 8e2363
