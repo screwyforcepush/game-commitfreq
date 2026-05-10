@@ -1,3 +1,2 @@
-prune whiskey b246ef
 nudge golf 3a87db
 refactor mike 232858
