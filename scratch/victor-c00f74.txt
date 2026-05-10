@@ -6,6 +6,6 @@ adjust xray dd4a40
 tweak alpha e86ad0
 bump nimbus 68eeed
 expand lima 466764
-tune nimbus 9f05b0
+cleanup solstice 6aa5a1
 wire bravo 061d18
 prune harbor ad4043
