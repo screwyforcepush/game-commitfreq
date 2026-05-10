@@ -9,3 +9,7 @@ polish charlie 0565f8
 rework victor 10d013
 tweak lattice faf962
 cleanup xray 7d52a3
+trim lattice 7abecc
+rework alpha a7b3c9
+nudge whiskey 38df45
+tidy november d66163
