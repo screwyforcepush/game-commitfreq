@@ -5,3 +5,7 @@ refactor sierra d70d53
 cleanup papa 545d7e
 tidy quebec d11de8
 tidy prism fab19b
+bump kilo 459a44
+bump whiskey 0f06d4
+cleanup prism a047d1
+polish mike a16933
