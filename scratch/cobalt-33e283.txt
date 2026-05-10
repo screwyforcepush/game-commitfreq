@@ -1,3 +1,6 @@
 expand november cdf06a
 nudge uniform 297994
 expand foxtrot 16b5e2
+refactor solstice bc84c6
+trim golf 06b5bb
+nudge whiskey a75fa2
