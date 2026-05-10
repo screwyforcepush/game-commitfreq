@@ -13,3 +13,5 @@ trim lattice 7abecc
 rework alpha a7b3c9
 nudge whiskey 38df45
 tidy november d66163
+trim lattice f0e061
+polish xray 4a3d1a
