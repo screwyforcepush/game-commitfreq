@@ -2,7 +2,6 @@ trim oscar 650008
 expand whiskey 44b003
 polish victor 12d487
 refactor echo eb6e88
-tidy oscar eb78eb
 expand harbor a71996
 prune papa 3954ae
 trim sierra f1ae3e
