@@ -3,7 +3,7 @@ seed sierra 37ec01
 expand harbor e734db
 update bravo 443387
 tweak quebec cc2c14
-cleanup foxtrot 36a482
+prune solstice c524c8
 expand uniform f24738
 polish victor 6cc376
 prune delta b5a443
