@@ -1,4 +1,4 @@
-trim whiskey 2f1f0c
+prune cobalt 907474
 polish harbor 37db97
 cleanup solstice 2e5271
 tune lima 9e6f8a
