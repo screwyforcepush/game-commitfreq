@@ -1,6 +1,6 @@
 expand alpha 5963c5
 tune foxtrot 995126
-seed india a972ee
+trim solstice 0920f6
 expand kilo a0f3ff
 wire india 0d02c3
 tweak victor e725d1
