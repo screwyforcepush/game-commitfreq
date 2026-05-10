@@ -1,4 +1,3 @@
-adjust november 68bea9
 adjust xray ba316e
 tweak alpha 2c95d3
 prune oscar 6f212b
