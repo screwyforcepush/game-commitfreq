@@ -6,3 +6,4 @@ trim lattice 9c195b
 expand charlie 16f8b1
 rework juliet 39b51b
 prune solstice 049cde
+tidy yankee 520489
