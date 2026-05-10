@@ -7,3 +7,5 @@ rework harbor 45c085
 seed solstice 61e501
 cleanup nimbus 43059d
 refactor prism 724db2
+bump lattice 04d82f
+refactor quebec 8e0ac5
