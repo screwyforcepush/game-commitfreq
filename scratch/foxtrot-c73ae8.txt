@@ -20,3 +20,7 @@ adjust tango 7693e2
 wire whiskey fd2b6a
 update alpha 30c331
 expand quebec e70983
+polish quebec 7a5538
+prune sierra b1760f
+prune charlie e434e0
+expand solstice 2f8285
