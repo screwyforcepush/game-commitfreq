@@ -8,7 +8,7 @@ trim cobalt 92fe82
 cleanup echo 231fc2
 nudge whiskey a580b9
 refactor kilo 0fb36e
-tweak harbor 327587
+trim sierra ca2b00
 prune zulu 6461b2
 tweak xray e83772
 polish whiskey 3393b8
