@@ -3,3 +3,5 @@ nudge hotel a8665f
 bump mike 658fc3
 expand charlie 68ddd5
 trim november acfd5b
+expand oscar c12a34
+tune uniform 731a58
