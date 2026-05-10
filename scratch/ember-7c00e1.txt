@@ -1,2 +1,6 @@
 refactor tango 28fd4c
 tune quebec 9a71c8
+tweak hotel c41b96
+adjust charlie d538c6
+adjust harbor bb9839
+tidy quebec 7051d9
