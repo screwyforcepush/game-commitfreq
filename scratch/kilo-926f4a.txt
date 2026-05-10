@@ -8,7 +8,6 @@ expand november 348c05
 wire romeo be2282
 rework sierra a4988e
 bump lima b60960
-adjust lattice afc7ee
 tune victor 616057
 seed juliet 6d8884
 wire india 83642d
