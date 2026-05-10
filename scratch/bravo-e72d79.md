@@ -7,3 +7,5 @@ polish charlie 709bac
 update oscar 706333
 bump bravo b5ee68
 rework nimbus d7b6e7
+update kilo b8108e
+polish solstice ec0c43
