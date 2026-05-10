@@ -8,3 +8,6 @@ wire quebec c36427
 update hotel c0870a
 nudge prism 05b962
 adjust ember abd225
+expand sierra 33673c
+rework november a09132
+trim nimbus db86e9
