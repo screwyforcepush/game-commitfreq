@@ -3,3 +3,6 @@ adjust solstice 5ab6e7
 adjust nimbus 79eb1e
 polish uniform 907d16
 seed bravo 7ba000
+seed xray dbbdd7
+expand uniform ced1bc
+wire papa 339bbd
