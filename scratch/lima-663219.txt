@@ -5,3 +5,6 @@ update juliet 78c2a9
 nudge bravo b2e113
 wire sierra 6335be
 wire ember a2a762
+polish hotel 6290f5
+tidy golf 8f5473
+polish kilo e16282
