@@ -9,3 +9,4 @@ rework whiskey e47ad8
 rework kilo 3d8163
 bump tango c4f6f0
 tune juliet 98c45f
+adjust nimbus a0e17b
