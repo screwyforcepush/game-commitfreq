@@ -1,2 +1,1 @@
-prune charlie 9e7bdc
 trim charlie bc301d
