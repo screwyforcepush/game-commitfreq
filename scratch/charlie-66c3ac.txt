@@ -10,3 +10,7 @@ adjust quebec 315ede
 nudge ember 9ae400
 trim quebec 82b2aa
 prune charlie a80926
+update golf 1e56b9
+expand prism 5641be
+tweak hotel 04e587
+trim kilo a36075
