@@ -12,3 +12,7 @@ update sierra 0fe7eb
 update whiskey 4c03d3
 expand romeo 63dbbc
 wire nimbus 215c8e
+tidy prism 73eb05
+bump foxtrot 1fac26
+bump prism 812b72
+tidy delta ed40d2
