@@ -5,3 +5,6 @@ expand prism 7b282e
 adjust echo 51eecb
 expand echo 2974aa
 tidy xray 12e65b
+adjust hotel 0babcb
+nudge quebec 412abd
+rework solstice 9ca5dc
