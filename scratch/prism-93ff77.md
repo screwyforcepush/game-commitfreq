@@ -11,3 +11,6 @@ trim november a29f72
 expand tango a3ac5d
 polish kilo f93997
 polish yankee 92bccf
+seed echo 2fdd90
+seed yankee 3b8b1e
+tune yankee ff60fa
