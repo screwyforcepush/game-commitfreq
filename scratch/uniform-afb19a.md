@@ -13,3 +13,5 @@ expand echo 85c8ce
 prune zulu 5ca576
 nudge lattice d791fa
 seed india 6e7ff1
+nudge quebec e5f2a0
+tidy bravo 5aca6d
