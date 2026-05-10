@@ -14,3 +14,6 @@ polish yankee 92bccf
 seed echo 2fdd90
 seed yankee 3b8b1e
 tune yankee ff60fa
+rework cobalt 9ec11d
+trim zulu 7d94f8
+seed nimbus 37c179
