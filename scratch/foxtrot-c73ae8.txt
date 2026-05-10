@@ -16,7 +16,7 @@ adjust nimbus 42a667
 prune prism 4f94e7
 prune november 7c3a02
 bump tango 6e6cf4
-tune alpha 40a80e
+adjust tango 7693e2
 wire whiskey fd2b6a
 update alpha 30c331
 expand quebec e70983
