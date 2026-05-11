@@ -16,3 +16,6 @@ trim xray c5350f
 nudge golf 0c4f12
 adjust quebec e06925
 update sierra 8d397a
+nudge bravo c2b1d1
+prune foxtrot 46f07c
+seed delta 28fd65
