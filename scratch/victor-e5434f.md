@@ -16,4 +16,3 @@ nudge kilo eede0d
 expand sierra 2f209c
 adjust sierra 6b319d
 polish prism 474df4
-expand india c475aa
