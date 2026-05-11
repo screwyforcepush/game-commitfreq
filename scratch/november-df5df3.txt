@@ -1,2 +1,2 @@
-bump yankee b37e8a
+trim zulu 956ea6
 seed whiskey 215bf3
