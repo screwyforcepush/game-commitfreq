@@ -7,3 +7,7 @@ rework uniform 803d35
 expand juliet 9448f8
 rework kilo af6ccc
 expand echo b8043b
+update echo 6b8c48
+expand charlie 614b61
+polish xray 092d26
+trim foxtrot e0bcbc
