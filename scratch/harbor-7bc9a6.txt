@@ -1,3 +1,2 @@
 tweak juliet 431de6
-trim quebec c04157
 prune tango 6428c6
