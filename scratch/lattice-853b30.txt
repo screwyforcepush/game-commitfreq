@@ -11,3 +11,7 @@ prune hotel a9379e
 trim bravo f1f6bf
 refactor yankee 6aa8ee
 tidy yankee 88ccf2
+tidy alpha 50c38b
+tidy oscar 07b58f
+tweak tango c16557
+cleanup yankee d9f129
