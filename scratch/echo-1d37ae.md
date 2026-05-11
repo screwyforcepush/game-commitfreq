@@ -11,7 +11,6 @@ seed charlie f22659
 wire victor 8dc488
 tidy delta c3a284
 bump sierra b32298
-seed charlie fb3d0b
 tidy bravo 89be0e
 nudge delta 6450fa
 adjust yankee d2bf10
