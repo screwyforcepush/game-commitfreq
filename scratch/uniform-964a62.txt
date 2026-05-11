@@ -2,3 +2,7 @@ expand charlie 20d30b
 update golf 0bdcbf
 tune nimbus c69166
 prune lattice c388c3
+seed charlie 6668a6
+wire quebec c224ed
+trim tango 9c55c7
+tune golf 2be760
