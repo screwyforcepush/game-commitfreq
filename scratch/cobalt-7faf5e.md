@@ -1,2 +1,2 @@
-adjust uniform e0eba0
+nudge nimbus 90a428
 tidy lattice 70688d
