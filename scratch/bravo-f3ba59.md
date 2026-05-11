@@ -5,3 +5,6 @@ bump bravo 8927eb
 cleanup juliet aca7eb
 nudge sierra 62127d
 bump charlie c0b34b
+trim charlie 98fa66
+wire nimbus 05191a
+tidy hotel 2d496c
