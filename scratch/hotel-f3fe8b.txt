@@ -6,3 +6,6 @@ seed bravo 82e819
 rework uniform 1117f9
 wire echo 25e482
 seed charlie e58db0
+expand solstice ec6a9d
+tweak ember 658b31
+seed quebec 989e77
