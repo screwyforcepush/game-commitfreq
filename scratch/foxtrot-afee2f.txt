@@ -1,6 +1,6 @@
 seed yankee 43ddd0
 rework november fb0f80
 bump oscar 83afcf
-trim cobalt 68ced1
+tidy uniform dcd905
 refactor kilo 3fb7b6
 tidy delta 1fff80
