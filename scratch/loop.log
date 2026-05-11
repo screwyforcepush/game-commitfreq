@@ -36658,3 +36658,4 @@ To https://github.com/screwyforcepush/game-commitfreq.git
 20/533  golf polishs                                  create sierra-eda145.csv
 21/533  rework kilo (2d260c)                          create golf-399f38.dat
 22/533  zulu expands                                  create kilo-f1925c.log
+23/533  fix: trim sierra bravo                        trim tango-b8ad7d.csv:5
