@@ -1,6 +1,6 @@
 prune echo b42055
 prune victor d19a9d
-tune quebec e5e721
+trim uniform 451249
 cleanup echo e42499
 nudge tango 9e577e
 polish india 0314b6
