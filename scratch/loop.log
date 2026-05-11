@@ -35725,3 +35725,4 @@ To https://github.com/screwyforcepush/game-commitfreq.git
 281/472  tweak ember for hotel                         create solstice-569e72.csv
 282/472  wip: cleanup xray                             append golf-69958a.dat
 283/472  wip: adjust nimbus golf                       append foxtrot-5fcb68.csv
+284/472  feat: tweak xray for foxtrot                  trim quebec-775d55.txt:3
