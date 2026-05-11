@@ -19,7 +19,7 @@ update nimbus 134e02
 tidy golf c65ae2
 bump victor 9a5ee0
 tune victor 86a14d
-trim charlie 4518c7
+expand zulu 7ec6e5
 tidy quebec c8a5b1
 expand quebec 1c2090
 nudge bravo 55a1d6
