@@ -4,6 +4,5 @@ tweak prism 7f1883
 polish foxtrot bc5973
 tweak papa 227f1a
 adjust zulu 53b561
-polish charlie 1798a4
 update hotel 89f63f
 seed prism a04805
