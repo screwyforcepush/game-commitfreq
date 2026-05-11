@@ -1,4 +1,3 @@
-adjust sierra 6e5a16
 update romeo 865638
 bump mike 993ac1
 polish echo 5d7905
