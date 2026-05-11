@@ -1,7 +1,7 @@
 prune uniform 3efdc9
 tweak foxtrot e5c07c
 expand uniform 5387cd
-wire november 400f14
+expand lattice 7f7985
 adjust kilo bc2f58
 trim oscar 1a5793
 tidy golf 98e2f5
