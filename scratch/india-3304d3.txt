@@ -1,6 +1,0 @@
-wire solstice 1ff10f
-wire sierra 0baec9
-cleanup ember 0cecee
-trim uniform 1e9500
-tweak whiskey dff997
-adjust solstice e0d33f
