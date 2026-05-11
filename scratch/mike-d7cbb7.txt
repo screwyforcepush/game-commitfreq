@@ -5,3 +5,5 @@ trim alpha a5f4cd
 trim papa e4a73d
 trim golf 79028c
 cleanup mike f70cfa
+bump yankee 8e7932
+tune foxtrot 1bdcb3
