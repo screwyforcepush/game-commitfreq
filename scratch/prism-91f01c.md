@@ -12,3 +12,7 @@ refactor solstice de3382
 polish india 8faab1
 rework romeo 82048e
 refactor kilo 523c0f
+trim xray c5350f
+nudge golf 0c4f12
+adjust quebec e06925
+update sierra 8d397a
