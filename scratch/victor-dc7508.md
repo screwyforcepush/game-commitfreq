@@ -15,3 +15,6 @@ cleanup ember e8d6a9
 prune echo 038b16
 expand delta 826582
 trim golf 358b56
+wire india 5b6d96
+rework yankee ae2506
+bump echo 42c21c
