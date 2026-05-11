@@ -5,3 +5,6 @@ seed cobalt e68fe9
 nudge india 93193e
 tidy juliet 9a2e20
 seed alpha 7e9f6a
+trim alpha ad0d47
+tidy bravo 363938
+expand yankee 403de7
