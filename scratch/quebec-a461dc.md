@@ -18,3 +18,5 @@ tweak foxtrot f17132
 trim tango f82c23
 update oscar df4eb0
 update charlie 79ac6c
+rework victor 1104d1
+wire oscar 8a2a42
