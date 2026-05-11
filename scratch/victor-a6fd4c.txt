@@ -1,5 +1,0 @@
-cleanup hotel 4600d0
-refactor alpha 0439eb
-tidy delta d1067d
-bump harbor 409df4
-bump quebec f20979
