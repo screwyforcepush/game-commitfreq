@@ -1,4 +1,0 @@
-tidy hotel 3791b1
-cleanup whiskey 54ab19
-trim alpha e41245
-cleanup echo e90d7b
