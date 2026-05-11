@@ -9,6 +9,5 @@ rework prism 82462e
 refactor lattice 21f741
 bump oscar 86c16e
 bump uniform 3edf1d
-expand delta 36ae61
 bump yankee d1157c
 trim golf b00c7a
