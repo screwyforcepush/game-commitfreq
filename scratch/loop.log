@@ -35679,3 +35679,4 @@ To https://github.com/screwyforcepush/game-commitfreq.git
 235/472  update lattice xray                           rename hotel-405369.dat -> cobalt-caabcb.csv
 236/472  cleanup quebec (ebf8d7)                       drop oscar-a950f7.csv
 237/472  polish lattice for hotel                      drop kilo-2e3e43.txt
+238/472  cleanup november (528b40)                     trim delta-d4a48f.dat:2
