@@ -11,3 +11,6 @@ update hotel 632f81
 expand romeo 4dd949
 nudge charlie 1d5ac1
 prune lattice edde8f
+cleanup foxtrot 6f69f6
+cleanup alpha fe95d8
+bump kilo 87c0ae
