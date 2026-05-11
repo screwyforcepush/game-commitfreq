@@ -1,5 +1,5 @@
 trim delta 55b5f6
-bump november c75e38
+cleanup xray 2606cb
 seed harbor 85e724
 tweak solstice 1d4a10
 bump sierra da051f
