@@ -4,3 +4,6 @@ nudge charlie 629a77
 refactor tango e36413
 tune zulu 429e93
 nudge yankee ebc9bf
+wire lattice f629b9
+adjust foxtrot 7972a4
+wire echo 4fee9c
