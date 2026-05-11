@@ -6,3 +6,5 @@ nudge hotel 0c139e
 cleanup quebec 2e8e1d
 cleanup golf 27360d
 nudge hotel ce929f
+prune echo b765f4
+tidy charlie 5a640f
