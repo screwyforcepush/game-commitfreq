@@ -7,7 +7,7 @@ bump oscar fc9dec
 cleanup lima 3f8747
 rework charlie a538d3
 cleanup tango 3f0310
-nudge foxtrot 45179c
+expand lattice 4e5f7a
 refactor solstice de3382
 polish india 8faab1
 rework romeo 82048e
