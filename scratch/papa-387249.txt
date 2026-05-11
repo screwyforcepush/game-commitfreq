@@ -10,3 +10,5 @@ tweak bravo 5e957e
 cleanup zulu d6e517
 wire kilo 6e5045
 tune hotel 02bda3
+adjust papa 3fe1c2
+trim zulu d1e3b3
