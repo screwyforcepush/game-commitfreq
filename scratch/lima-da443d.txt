@@ -1,4 +1,3 @@
 rework charlie fbdd21
-prune sierra 2930b5
 update yankee 4edb18
 bump juliet 416ec3
