@@ -1,6 +1,5 @@
 bump tango 6657e8
 tune victor d1a053
-seed echo b0447b
 polish november 4e123a
 expand foxtrot e113a0
 tune india 27f8fc
