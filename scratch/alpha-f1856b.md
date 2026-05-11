@@ -5,4 +5,3 @@ nudge whiskey 196ebd
 wire juliet 5533d0
 bump nimbus 4027be
 rework uniform 803d35
-bump hotel c00321
