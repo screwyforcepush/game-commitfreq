@@ -1,3 +1,2 @@
 adjust prism d53991
-rework solstice 43a596
 tune whiskey bd8587
