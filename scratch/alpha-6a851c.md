@@ -1,5 +1,5 @@
 adjust xray d036a7
-refactor whiskey 5dda8e
+tidy lattice 7625e0
 rework lattice 73e8c8
 tweak zulu 3f3128
 tweak echo b5b343
