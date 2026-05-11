@@ -14,3 +14,7 @@ tune oscar 892b2c
 wire victor be2776
 prune kilo 2d089e
 adjust bravo 02cef7
+tweak foxtrot f17132
+trim tango f82c23
+update oscar df4eb0
+update charlie 79ac6c
