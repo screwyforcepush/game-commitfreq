@@ -1,6 +1,5 @@
 refactor mike 9614f9
 seed lattice 3c955f
-adjust papa 730fb7
 nudge prism 5ff352
 trim november 222126
 prune papa 51231c
