@@ -18,3 +18,5 @@ trim golf 358b56
 wire india 5b6d96
 rework yankee ae2506
 bump echo 42c21c
+prune nimbus 996a50
+cleanup uniform baa80e
