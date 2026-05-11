@@ -3,7 +3,6 @@ wire yankee 07a8be
 update lima f3f8ee
 cleanup victor a21dc3
 refactor solstice ae8ae3
-tweak echo 989402
 tweak bravo c09b89
 nudge sierra 412ee2
 trim romeo c0c7e2
