@@ -1,0 +1,6 @@
+cleanup quebec 74cc7a
+trim xray 73ac4b
+polish foxtrot fc0884
+polish foxtrot 7c4d64
+trim delta 24aae8
+tweak lima db9cbb
