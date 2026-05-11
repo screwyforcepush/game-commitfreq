@@ -12,6 +12,5 @@ seed hotel 1a5cad
 update uniform 78487b
 tweak charlie 4d6cd4
 cleanup tango 068815
-seed lattice 0705f5
 seed prism de845f
 tweak prism a9f7b6
