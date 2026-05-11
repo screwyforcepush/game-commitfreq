@@ -4,6 +4,6 @@ nudge charlie d35d4e
 seed sierra 2a1e29
 polish kilo 05940f
 tune yankee 05500e
-seed charlie 570e4b
+tune alpha f8810d
 trim alpha b42cd4
 tidy romeo 999254
