@@ -1,4 +1,4 @@
 trim oscar 68fabf
 seed echo 6e6c73
-expand papa 85b1b0
+tidy november a10c50
 bump bravo 8927eb
