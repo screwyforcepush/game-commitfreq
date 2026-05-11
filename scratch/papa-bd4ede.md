@@ -13,5 +13,5 @@ update uniform 78487b
 tweak charlie 4d6cd4
 cleanup tango 068815
 seed lattice 0705f5
-prune yankee ee0e92
+seed prism de845f
 tweak prism a9f7b6
