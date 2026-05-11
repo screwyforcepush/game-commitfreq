@@ -2,7 +2,6 @@ tweak sierra 1a8baf
 rework tango bd8646
 update yankee 38e8ed
 bump kilo 870204
-tune whiskey ff5da9
 rework juliet 9fb7bf
 rework echo 13a5aa
 tidy hotel 22036f
