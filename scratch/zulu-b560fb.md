@@ -5,7 +5,6 @@ trim yankee 9bf357
 rework quebec 3b517d
 tweak foxtrot 87bbb9
 prune india 12b816
-tidy uniform 2dc063
 trim quebec 98acc6
 tidy quebec bcdd02
 prune juliet 103e4c
