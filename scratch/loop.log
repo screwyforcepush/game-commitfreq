@@ -33762,3 +33762,4 @@ To https://github.com/screwyforcepush/game-commitfreq.git
 77/443  docs: cleanup golf                            append ember-97a447.csv
 78/443  solstice updates                              drop uniform-76c724.csv
 79/443  feat: rework india for romeo                  drop papa-1654fc.md
+80/443  fix: wire quebec                              rename victor-e2f76d.dat -> india-8a6134.dat
