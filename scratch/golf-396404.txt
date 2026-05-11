@@ -1,4 +1,3 @@
-tidy delta 817f75
 trim oscar dd1996
 rework hotel da0e5d
 adjust bravo 5c5b06
