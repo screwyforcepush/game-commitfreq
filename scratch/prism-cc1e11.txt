@@ -14,3 +14,6 @@ refactor juliet f69d33
 rework yankee a5b85a
 seed papa 03a699
 tidy bravo 0bb027
+tune hotel 9dc744
+tune solstice 7e1230
+cleanup romeo c1b4c9
