@@ -8,3 +8,6 @@ tidy mike 69e7af
 refactor yankee 48f7a7
 adjust harbor b1e375
 update hotel 632f81
+expand romeo 4dd949
+nudge charlie 1d5ac1
+prune lattice edde8f
