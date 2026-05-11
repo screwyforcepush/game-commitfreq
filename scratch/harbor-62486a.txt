@@ -8,6 +8,6 @@ prune alpha 65dbe1
 tidy oscar 084f82
 trim harbor b18e83
 prune kilo 89b850
-adjust solstice 2a7446
+update foxtrot 28b853
 bump oscar 6222ca
 rework papa 9d370f
