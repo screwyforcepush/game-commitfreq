@@ -1,6 +1,6 @@
 tidy prism c992f8
 adjust yankee 85c77e
 tidy golf e8e94b
-bump november dce6dd
+update lattice 806ca0
 cleanup victor 59b432
 cleanup yankee 523823
