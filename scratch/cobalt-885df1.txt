@@ -3,7 +3,7 @@ seed alpha a01e46
 update november 09a049
 rework india 5d30f8
 rework xray 782a59
-wire golf 1a493c
+polish november 8f4460
 trim oscar 557c2a
 trim zulu 199c1c
 prune alpha 72679a
