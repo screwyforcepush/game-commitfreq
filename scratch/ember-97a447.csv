@@ -14,3 +14,6 @@ seed tango 800659
 tweak hotel b9f69f
 tune mike edfd68
 rework nimbus 7445de
+trim mike 0e4a05
+expand lattice b9f795
+prune nimbus 930da4
