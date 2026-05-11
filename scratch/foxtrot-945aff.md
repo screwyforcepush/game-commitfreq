@@ -6,3 +6,6 @@ bump charlie 4bd391
 expand nimbus 7ec224
 adjust ember 88a58d
 tidy cobalt 336a23
+tune echo b83d83
+prune juliet f7a08d
+refactor oscar f15dd9
