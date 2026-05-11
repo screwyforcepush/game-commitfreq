@@ -2,7 +2,6 @@ tidy yankee cab3de
 trim bravo 067044
 tidy echo dbaec4
 prune sierra e0f782
-trim xray 4f9fec
 adjust juliet 83f2c8
 wire kilo b45fd8
 nudge yankee 4ffcb0
