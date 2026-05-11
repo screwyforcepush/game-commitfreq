@@ -3,3 +3,5 @@ bump mike 993ac1
 cleanup tango b47e7d
 prune kilo 9c36fd
 polish romeo a6e74d
+expand lattice 5a38d4
+trim hotel ab6bf7
