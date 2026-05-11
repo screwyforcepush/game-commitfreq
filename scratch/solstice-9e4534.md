@@ -5,7 +5,6 @@ trim nimbus 4fc0c4
 prune papa 632aa9
 tune golf 821dd2
 bump prism 2f4297
-seed lima f47841
 polish november 6b66e4
 tweak ember 0361b1
 adjust alpha e7144e
