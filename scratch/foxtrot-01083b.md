@@ -3,7 +3,6 @@ update sierra 417a34
 expand victor d4a3e4
 seed foxtrot e21f69
 rework yankee e206f7
-bump hotel a7d4e6
 expand oscar dc610c
 wire lima 4988fa
 tune cobalt 69a78e
