@@ -5,3 +5,6 @@ prune tango 722fba
 tune victor 40f98e
 tune quebec 7658ab
 tidy prism 68d2b2
+bump charlie a0d16c
+adjust sierra 91cf07
+nudge tango 2edc9c
