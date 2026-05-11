@@ -18,3 +18,7 @@ trim delta 58b669
 tweak delta be8cd9
 tune india 01d080
 cleanup quebec 58263d
+wire whiskey e61c2e
+refactor kilo 5b2be0
+tidy yankee 6e5f32
+tidy ember b53133
