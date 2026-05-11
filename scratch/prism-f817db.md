@@ -4,3 +4,7 @@ polish oscar 8bca97
 bump echo 527429
 nudge solstice 50a231
 prune prism 1aaa37
+expand delta d294ab
+tidy ember 9a99c1
+tweak kilo 5cb4ad
+tune nimbus 2f1e17
