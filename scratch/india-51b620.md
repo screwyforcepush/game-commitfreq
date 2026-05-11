@@ -5,7 +5,6 @@ refactor uniform 6adc58
 update quebec b1f556
 adjust quebec e10dfe
 refactor oscar efaad3
-refactor cobalt ab1c3a
 tune whiskey 9b4972
 rework kilo aaf456
 wire india 8c4b00
