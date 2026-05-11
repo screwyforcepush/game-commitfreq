@@ -1,4 +1,4 @@
-bump november 11fae6
+prune solstice 2c9b9b
 trim uniform 53e8ae
 refactor oscar 6e7671
 tidy romeo ab44fa
