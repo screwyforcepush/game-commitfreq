@@ -3,7 +3,6 @@ trim echo fb1fa0
 seed nimbus e8ef94
 bump quebec 2a350a
 tune romeo 281545
-update solstice 8755e2
 polish solstice 5cf6e0
 polish golf 0426a4
 adjust romeo 06cc4c
