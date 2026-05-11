@@ -1,6 +1,0 @@
-update echo 7dceb1
-polish solstice 50a1e4
-tweak ember 32a455
-polish alpha 1d9b0c
-cleanup delta ca7c5c
-adjust india c967ab
