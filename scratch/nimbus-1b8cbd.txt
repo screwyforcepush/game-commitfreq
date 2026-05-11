@@ -1,7 +1,6 @@
 trim papa 12e183
 expand echo c91bb3
 prune tango 722fba
-tune victor 40f98e
 wire zulu 222e6a
 prune kilo 0b1f99
 polish bravo 5d0704
