@@ -8,5 +8,4 @@ tweak lattice 7142a3
 polish echo e5532f
 tweak papa 1c8bb8
 rework cobalt c98111
-prune victor cdc04f
 nudge india 3c0e14
