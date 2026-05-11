@@ -7,7 +7,7 @@ trim echo 59f6d4
 refactor prism fceaec
 rework prism 82462e
 refactor lattice 21f741
-bump oscar 86c16e
+rework hotel 0ba4fd
 bump yankee d1157c
 trim golf b00c7a
 refactor uniform 809a1c
