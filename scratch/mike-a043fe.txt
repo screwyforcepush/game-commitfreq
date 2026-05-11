@@ -1,2 +1,6 @@
 tune oscar 8b2988
 adjust victor c47f9f
+nudge victor dd9bfa
+tidy xray 0a5d06
+bump lattice 478d48
+tune nimbus ed6072
