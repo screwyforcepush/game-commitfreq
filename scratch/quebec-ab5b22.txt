@@ -8,3 +8,5 @@ tidy hotel 22036f
 refactor whiskey d1241c
 prune echo 30fc63
 cleanup ember 8fc82a
+adjust whiskey 05ef09
+tune alpha 532d1c
