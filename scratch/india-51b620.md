@@ -3,7 +3,6 @@ rework november 2a7ba8
 refactor yankee e3dcb3
 refactor uniform 6adc58
 update quebec b1f556
-adjust quebec e10dfe
 refactor oscar efaad3
 tune whiskey 9b4972
 rework kilo aaf456
