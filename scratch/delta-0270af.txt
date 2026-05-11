@@ -1,3 +1,2 @@
 bump uniform 70c221
-tune delta a68f6b
 adjust bravo 542520
