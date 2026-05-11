@@ -16,3 +16,7 @@ wire india 48eafe
 wire xray a9cfae
 nudge prism fb7c9d
 wire whiskey 5b3764
+polish sierra ad4542
+expand uniform 3b91c8
+rework juliet 077971
+trim papa c14f87
