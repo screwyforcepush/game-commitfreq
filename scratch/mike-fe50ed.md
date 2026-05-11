@@ -1,1 +1,1 @@
-prune xray c9a837
+trim prism fb37aa
