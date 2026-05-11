@@ -1,4 +1,3 @@
 prune sierra 1a90db
 rework delta 285dd8
-seed juliet 12f4a9
 wire papa 631a9b
