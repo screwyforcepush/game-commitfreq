@@ -6,6 +6,5 @@ tune victor 40f98e
 bump charlie a0d16c
 adjust sierra 91cf07
 expand delta 4680f5
-rework romeo d2f445
 prune kilo 0b1f99
 polish bravo 5d0704
