@@ -8,3 +8,6 @@ wire cobalt e119b0
 nudge juliet 7206f2
 rework nimbus 5c4dac
 tune november 4f15a3
+wire delta fb3bea
+rework kilo 6413b5
+tune alpha d6eb27
