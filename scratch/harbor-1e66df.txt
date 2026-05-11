@@ -1,7 +1,6 @@
 tune oscar abfa41
 polish romeo 34cac2
 update cobalt 1c0726
-expand sierra 23bc2b
 tidy quebec a4a478
 prune delta ee871e
 nudge kilo 5c4be2
