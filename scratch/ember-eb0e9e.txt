@@ -1,3 +1,6 @@
 cleanup whiskey e13c47
 nudge solstice d974a9
 expand golf 6b10c3
+adjust india 18fb83
+tune bravo 38560c
+tidy sierra 715f44
