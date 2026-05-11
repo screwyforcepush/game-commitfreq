@@ -8,3 +8,6 @@ cleanup sierra fad279
 polish alpha 2dd2c7
 nudge bravo 74e21c
 polish mike abf830
+polish golf 197d2e
+refactor tango 13e584
+trim kilo 973d27
