@@ -7,3 +7,6 @@ trim golf 79028c
 cleanup mike f70cfa
 bump yankee 8e7932
 tune foxtrot 1bdcb3
+rework papa 5e5780
+trim oscar 3c3f4e
+tune foxtrot f03bb3
