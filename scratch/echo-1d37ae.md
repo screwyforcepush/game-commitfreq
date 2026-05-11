@@ -19,3 +19,7 @@ seed zulu 252663
 nudge quebec 2f9f24
 rework nimbus 8e54bd
 adjust victor 153f75
+adjust victor a76772
+bump xray 61204b
+adjust whiskey 342ccd
+prune sierra cf5538
