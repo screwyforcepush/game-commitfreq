@@ -1,3 +1,0 @@
-update delta 7bf579
-rework bravo 899d72
-refactor quebec de78a8
