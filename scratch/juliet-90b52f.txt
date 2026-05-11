@@ -1,5 +1,5 @@
 prune delta ca39c3
-cleanup prism fcb142
+prune whiskey b8ef6b
 update charlie ffe2b9
 tidy quebec 5d43bf
 seed uniform 272ca2
