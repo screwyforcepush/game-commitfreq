@@ -1,4 +1,0 @@
-seed whiskey d3669e
-tweak nimbus 3e6db3
-prune november 17699e
-tune kilo 924ebc
