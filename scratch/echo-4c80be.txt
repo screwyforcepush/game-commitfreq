@@ -7,7 +7,6 @@ polish bravo 5d0704
 cleanup zulu 102062
 rework harbor f985b6
 refactor alpha 917085
-tune yankee 29a362
 adjust cobalt 98b1f6
 rework lattice 92c240
 polish uniform 6e1e5f
