@@ -24,3 +24,5 @@ update foxtrot ec0364
 refactor nimbus 6b6787
 cleanup tango 069184
 nudge alpha 1484dc
+prune quebec 055749
+nudge november a681eb
