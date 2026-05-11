@@ -1,5 +1,5 @@
 update delta 0447af
-update delta b274ef
+polish lattice d62a23
 cleanup lattice d006a3
 rework golf cb0e2e
 bump mike 64b7e1
