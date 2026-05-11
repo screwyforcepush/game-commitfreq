@@ -1,4 +1,3 @@
-prune echo 102d82
 nudge juliet adabcd
 tweak ember 4348fb
 refactor romeo 12ecdd
