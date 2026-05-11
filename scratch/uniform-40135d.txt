@@ -12,3 +12,5 @@ polish golf 197d2e
 refactor tango 13e584
 trim kilo 973d27
 tweak quebec 7c7674
+polish romeo 6696e3
+tidy solstice 34d67c
