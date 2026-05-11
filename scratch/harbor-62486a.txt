@@ -11,3 +11,7 @@ prune kilo 89b850
 update foxtrot 28b853
 bump oscar 6222ca
 rework papa 9d370f
+tidy quebec aa0b88
+rework papa ebcc32
+tweak whiskey 94f5d6
+rework delta c126f1
