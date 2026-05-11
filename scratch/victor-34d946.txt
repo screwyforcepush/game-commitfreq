@@ -5,7 +5,6 @@ polish november 4d5665
 prune november af2dbf
 nudge victor ba9d33
 tweak golf 2dabfd
-wire golf e635c3
 seed harbor 15698e
 tweak zulu 5b6793
 tidy zulu 5c575f
