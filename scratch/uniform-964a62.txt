@@ -1,4 +1,4 @@
-update golf 0bdcbf
+prune alpha 447ff7
 tune nimbus c69166
 seed charlie 6668a6
 wire quebec c224ed
