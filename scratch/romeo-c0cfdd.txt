@@ -1,3 +1,2 @@
 wire lattice d697f4
-tune mike f120e0
 wire sierra 85c3fd
