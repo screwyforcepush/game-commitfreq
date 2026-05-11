@@ -1,7 +1,6 @@
 tweak alpha 454de2
 wire delta 330e31
 trim victor 0c2b19
-tidy yankee bc82a3
 nudge sierra c8df03
 bump delta 8678d9
 nudge alpha 451e01
