@@ -5,3 +5,7 @@ tidy xray 0a5d06
 bump lattice 478d48
 tune nimbus ed6072
 cleanup oscar 1d75d4
+nudge harbor 6c1208
+rework sierra dc9cfb
+wire quebec 794f39
+nudge uniform 03bf68
