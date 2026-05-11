@@ -9,3 +9,6 @@ tidy uniform 2dc063
 trim quebec 98acc6
 tweak lima 076876
 tidy quebec bcdd02
+expand nimbus f7e106
+update uniform 63bd78
+refactor hotel 620d92
