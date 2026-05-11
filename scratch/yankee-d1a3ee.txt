@@ -5,3 +5,7 @@ wire tango f82e85
 polish foxtrot c45c10
 bump alpha d37ab3
 expand golf 6563c2
+trim uniform fd5069
+tweak victor 36bf7b
+tidy nimbus 960991
+expand solstice 2c419c
