@@ -5,7 +5,7 @@ expand nimbus 1bdb73
 seed bravo 82e819
 prune kilo 0798ea
 wire echo 25e482
-seed charlie e58db0
+rework nimbus 20ed23
 expand solstice ec6a9d
 tweak ember 658b31
 seed quebec 989e77
