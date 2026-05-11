@@ -1,2 +1,0 @@
-seed zulu 72efa9
-prune cobalt 34dc83
