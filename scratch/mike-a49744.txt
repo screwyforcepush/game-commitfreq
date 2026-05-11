@@ -13,3 +13,5 @@ trim golf b00c7a
 refactor uniform 809a1c
 nudge tango a37f20
 refactor cobalt 4e2998
+expand cobalt ad0d40
+trim delta 58b669
