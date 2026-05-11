@@ -3,7 +3,6 @@ wire romeo a3b28f
 trim sierra f28f1a
 polish whiskey 5cac6e
 nudge prism b01cfe
-trim quebec 6e6e50
 bump nimbus 4dab31
 prune bravo 31b500
 cleanup ember 04cc22
