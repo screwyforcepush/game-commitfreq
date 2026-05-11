@@ -36276,3 +36276,4 @@ To https://github.com/screwyforcepush/game-commitfreq.git
 11/371  wip: mike seeds                               append india-04dac5.log
 12/371  feat: ember cleanups                          drop mike-ebdd71.txt
 13/371  build: adjust quebec                          rename lima-ef3966.dat -> charlie-772010.log
+14/371  seed lima for india                           trim quebec-11beb2.txt:14
