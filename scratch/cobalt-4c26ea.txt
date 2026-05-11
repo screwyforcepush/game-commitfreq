@@ -1,3 +1,0 @@
-bump echo 272fff
-tidy solstice 76c68c
-tidy lima 37c761
