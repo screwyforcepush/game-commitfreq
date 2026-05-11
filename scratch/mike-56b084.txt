@@ -3,7 +3,7 @@ update ember 0f8dda
 rework november f74e8d
 refactor nimbus e143ce
 tune kilo 966b90
-update cobalt 90829e
+refactor bravo c2d296
 tweak lattice 7142a3
 polish echo e5532f
 tweak papa 1c8bb8
