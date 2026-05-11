@@ -4,7 +4,6 @@ trim lima b1330a
 adjust quebec 67c4b6
 tweak harbor 1bd54d
 tune november ff8b28
-refactor solstice 014870
 trim juliet ca2509
 wire yankee 7da262
 refactor prism 55a7c2
