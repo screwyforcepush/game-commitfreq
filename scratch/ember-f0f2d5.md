@@ -10,3 +10,6 @@ tweak hotel 09eb85
 rework november 15895c
 refactor prism ae661c
 rework xray 394cad
+tidy juliet 2b66bf
+cleanup oscar 816ce9
+expand foxtrot ce5d05
