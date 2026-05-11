@@ -13,3 +13,6 @@ cleanup echo 10145c
 tune quebec a7c0de
 adjust bravo f87ed7
 wire india 48eafe
+wire xray a9cfae
+nudge prism fb7c9d
+wire whiskey 5b3764
