@@ -5,3 +5,6 @@ cleanup tango 9a6124
 polish november 4e123a
 expand foxtrot e113a0
 tune india 27f8fc
+rework zulu aff4d8
+tweak hotel 04ebf0
+tweak oscar 976140
