@@ -7,7 +7,6 @@ tweak foxtrot 87bbb9
 prune india 12b816
 tidy uniform 2dc063
 trim quebec 98acc6
-wire foxtrot d7bea0
 tidy quebec bcdd02
 prune juliet 103e4c
 update uniform 63bd78
