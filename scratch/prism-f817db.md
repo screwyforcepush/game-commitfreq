@@ -9,3 +9,5 @@ tidy ember 9a99c1
 tweak kilo 5cb4ad
 tune nimbus 2f1e17
 tweak charlie b5e223
+seed hotel 1a5cad
+update uniform 78487b
