@@ -7,3 +7,7 @@ seed bravo db8e5d
 expand lattice 1e6f81
 trim harbor 71fe43
 update ember 2c0200
+nudge nimbus 3df161
+update nimbus 305706
+wire lattice cddb01
+prune papa a04216
