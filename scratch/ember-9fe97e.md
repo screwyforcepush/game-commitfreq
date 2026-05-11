@@ -6,7 +6,7 @@ nudge sierra c8df03
 bump delta 8678d9
 nudge alpha 451e01
 tidy uniform db231f
-tidy quebec 595e2a
+polish alpha d5e244
 tidy india d48e29
 rework hotel ff7b46
 trim sierra 13d194
