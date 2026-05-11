@@ -3,3 +3,6 @@ prune bravo 0e5402
 prune yankee 5aabe4
 update cobalt c55472
 adjust quebec a78402
+trim prism 2e15fc
+cleanup uniform 53b596
+tweak victor 01469e
