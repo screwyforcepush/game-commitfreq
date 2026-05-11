@@ -17,3 +17,5 @@ nudge delta 6450fa
 adjust yankee d2bf10
 seed zulu 252663
 nudge quebec 2f9f24
+rework nimbus 8e54bd
+adjust victor 153f75
