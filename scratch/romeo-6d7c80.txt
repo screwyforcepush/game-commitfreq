@@ -4,5 +4,5 @@ prune yankee 5aabe4
 update cobalt c55472
 adjust quebec a78402
 trim prism 2e15fc
-cleanup uniform 53b596
+wire prism f8171f
 tweak victor 01469e
