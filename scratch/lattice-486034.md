@@ -5,3 +5,6 @@ tweak solstice 1d4a10
 bump sierra da051f
 nudge whiskey 756d13
 tune quebec 25e96d
+cleanup sierra b6e80b
+tidy hotel 94c8af
+adjust lattice 5d39b7
