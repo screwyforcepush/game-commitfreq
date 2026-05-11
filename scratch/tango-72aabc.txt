@@ -1,6 +1,0 @@
-expand whiskey a77108
-prune yankee 32282a
-refactor romeo b21b40
-cleanup uniform 8c059d
-rework delta 6daec4
-cleanup alpha b577a4
