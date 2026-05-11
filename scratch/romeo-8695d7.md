@@ -5,3 +5,5 @@ adjust romeo 2180f2
 trim nimbus 0fd6e0
 prune ember eb1fed
 tweak yankee 05c94a
+wire hotel 820d7a
+polish solstice 1d4d7b
