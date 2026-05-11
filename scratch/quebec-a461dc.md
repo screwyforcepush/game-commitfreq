@@ -10,3 +10,7 @@ update golf afb966
 bump lima c3836a
 polish lima f71c33
 tune ember 1a982d
+tune oscar 892b2c
+wire victor be2776
+prune kilo 2d089e
+adjust bravo 02cef7
