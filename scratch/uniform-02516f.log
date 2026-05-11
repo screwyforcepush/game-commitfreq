@@ -8,3 +8,5 @@ seed sierra fff572
 tune xray 7e2724
 trim lattice 757212
 seed zulu d3e83f
+tune harbor b261f4
+nudge alpha 21997b
