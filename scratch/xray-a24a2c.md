@@ -4,3 +4,7 @@ tidy sierra c9a002
 cleanup mike fa00da
 prune whiskey 71d81f
 trim uniform a9371c
+cleanup tango f3bdaa
+cleanup echo a7d762
+prune foxtrot 61c11e
+adjust solstice c47478
