@@ -1,4 +1,4 @@
-trim foxtrot 4eef20
+update solstice 139f95
 rework juliet e99053
 adjust tango 3432a8
 cleanup sierra 4cbc79
