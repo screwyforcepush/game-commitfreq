@@ -3,3 +3,6 @@ polish papa edd1c7
 tweak golf 9aeaef
 tweak prism 7f1883
 polish foxtrot bc5973
+tweak papa 227f1a
+adjust zulu 53b561
+polish charlie 1798a4
