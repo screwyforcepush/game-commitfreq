@@ -1,5 +1,4 @@
 wire sierra e6f506
-tune uniform 4e860d
 expand mike 34bcb4
 prune papa c1c792
 rework foxtrot eb652a
