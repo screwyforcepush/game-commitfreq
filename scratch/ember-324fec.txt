@@ -1,3 +1,6 @@
 polish whiskey 4e9263
 tune charlie 6d1fa2
 polish hotel b1f5d9
+seed foxtrot c38f9a
+seed xray 986d66
+trim prism 9386e4
