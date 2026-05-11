@@ -36661,3 +36661,4 @@ To https://github.com/screwyforcepush/game-commitfreq.git
 23/533  fix: trim sierra bravo                        trim tango-b8ad7d.csv:5
 24/533  build: prune quebec solstice                  trim november-ae4449.dat:3
 25/533  tune golf for solstice                        append golf-399f38.dat
+26/533  polish tango (3f8ba9)                         drop delta-3f23ae.dat
