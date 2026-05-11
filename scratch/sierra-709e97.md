@@ -1,9 +1,0 @@
-prune yankee ed7f08
-adjust delta b9f868
-nudge charlie d35d4e
-seed sierra 2a1e29
-polish kilo 05940f
-tune yankee 05500e
-tune alpha f8810d
-trim alpha b42cd4
-tidy romeo 999254
