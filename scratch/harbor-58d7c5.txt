@@ -1,5 +1,0 @@
-prune tango 6f654b
-seed harbor 0ea522
-prune zulu a3d415
-nudge uniform e4b300
-tidy delta 02d52b
