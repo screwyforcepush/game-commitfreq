@@ -1,7 +1,6 @@
 adjust harbor a870ca
 tune nimbus 9f8e77
 nudge tango c84d78
-seed cobalt 47018c
 update papa 1dac9e
 polish tango f550ab
 nudge nimbus 380c4c
