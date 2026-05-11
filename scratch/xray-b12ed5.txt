@@ -4,7 +4,7 @@ update romeo d2a057
 seed nimbus a81fe0
 seed foxtrot 0383ff
 tidy hotel 9bf2c4
-adjust foxtrot a393f8
+nudge solstice b01297
 rework india fd04fa
 tune charlie f86182
 prune kilo 73df4e
