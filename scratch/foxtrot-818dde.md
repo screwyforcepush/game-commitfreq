@@ -1,4 +1,3 @@
-trim delta 3e84b2
 seed romeo d7b971
 update xray fe3613
 tweak mike 7b62f9
