@@ -1,2 +1,0 @@
-tune quebec 0107f9
-tweak cobalt c66dec
