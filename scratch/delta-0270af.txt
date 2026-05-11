@@ -1,2 +1,0 @@
-bump uniform 70c221
-adjust bravo 542520
