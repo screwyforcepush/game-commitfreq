@@ -4,3 +4,6 @@ wire foxtrot 71fd2e
 expand november faa6f9
 trim uniform e0dcbd
 nudge ember bb97c5
+trim lattice 8742b3
+adjust foxtrot 28f83b
+polish mike 562131
