@@ -1,4 +1,3 @@
-adjust hotel 1e6596
 refactor bravo cc7c1c
 polish kilo 827d8b
 expand hotel 6b20ae
