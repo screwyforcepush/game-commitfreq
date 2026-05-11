@@ -1,3 +1,2 @@
 wire uniform 6efb38
 seed echo fc80b2
-adjust kilo 0f0405
