@@ -3,7 +3,6 @@ tweak charlie c29b50
 adjust kilo 20cf41
 polish zulu a25fa8
 tidy echo 342759
-update lattice 10a544
 refactor victor 822016
 seed whiskey 208015
 tidy india b8cc3b
