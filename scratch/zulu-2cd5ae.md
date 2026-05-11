@@ -6,7 +6,6 @@ seed papa 4dea70
 update november 5a4b34
 trim papa a18ab6
 polish india 39c9bc
-bump solstice cbe02a
 bump bravo 0c2a9d
 trim mike ffac29
 cleanup victor d9eac3
