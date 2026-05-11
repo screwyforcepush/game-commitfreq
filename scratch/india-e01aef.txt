@@ -1,4 +1,0 @@
-trim delta 3524ee
-tidy lattice 4ddd2e
-seed november 29c501
-seed alpha 5fabbc
