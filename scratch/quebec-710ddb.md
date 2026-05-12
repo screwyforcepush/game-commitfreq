@@ -4,3 +4,6 @@ update yankee cd7546
 prune alpha 7ebd2f
 bump lattice 6f99a8
 prune romeo 870533
+tweak papa b24c48
+bump uniform 904c99
+tidy mike f45776
