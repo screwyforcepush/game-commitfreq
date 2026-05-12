@@ -4,3 +4,7 @@ expand victor 4938a2
 wire yankee 480bac
 cleanup echo 5d9be6
 rework oscar e50d7a
+wire solstice 36103f
+wire juliet 348057
+nudge lima 966ab0
+polish zulu 21fff6
