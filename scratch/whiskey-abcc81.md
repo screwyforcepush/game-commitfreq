@@ -1,6 +1,5 @@
 tune tango 843cf2
 tidy cobalt f0d3de
-adjust lattice a72d43
 update charlie 5a299c
 prune ember bfb285
 seed sierra e381ac
