@@ -6,7 +6,7 @@ refactor november 9ebe0a
 polish lattice 6c76aa
 tweak yankee 5c7be1
 polish zulu b8826d
-trim victor 6fa9f2
+seed sierra fe22d5
 adjust nimbus 7365ef
 tune prism c21bef
 rework charlie df1cbf
