@@ -4,7 +4,6 @@ update mike 6c325d
 cleanup nimbus e2107c
 prune india 086c1c
 bump alpha b09276
-prune solstice ae8d55
 prune alpha ae53a3
 polish hotel da7256
 nudge victor 2a56fb
