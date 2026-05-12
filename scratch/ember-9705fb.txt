@@ -1,0 +1,4 @@
+wire uniform b99f0b
+wire papa 1ce50b
+seed delta e59484
+adjust nimbus 097338
