@@ -1,6 +1,6 @@
 trim lattice 65e658
 trim hotel 985ce1
-tidy yankee dc2727
+cleanup romeo 3a0c97
 update harbor 612c33
 rework november a8c9d8
 seed tango 2b3e5a
