@@ -4,3 +4,6 @@ update golf 92e212
 tune ember 84fd6a
 prune victor c5abde
 bump charlie c9462e
+bump bravo 2d1e3c
+seed hotel c0a6b5
+tune sierra e3e8f6
