@@ -1,4 +1,3 @@
-seed whiskey bc2e9c
 tweak november e2e0f3
 cleanup alpha 0b946c
 seed zulu 343944
