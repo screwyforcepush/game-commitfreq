@@ -6,7 +6,6 @@ wire mike 2e94e7
 rework november ff01c9
 cleanup india ff0f37
 tweak ember a5835b
-cleanup solstice 8957c5
 tune victor 37c9c2
 cleanup yankee cf1398
 trim echo de7422
