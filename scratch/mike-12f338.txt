@@ -1,4 +1,3 @@
 adjust november 43314e
-tune solstice 9a341f
 rework echo 88e7cc
 wire mike 99794e
