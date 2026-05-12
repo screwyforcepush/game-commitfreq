@@ -5,7 +5,6 @@ expand lima 406cc4
 update solstice 786055
 wire golf 1b36b5
 wire tango 035d56
-update yankee ad244d
 cleanup ember 8b1148
 bump india 57a555
 cleanup harbor f45ee7
