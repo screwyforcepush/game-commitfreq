@@ -1,7 +1,6 @@
 bump november ebb669
 trim bravo 4d76ca
 wire ember c92f48
-trim golf a900b5
 trim victor 27d7be
 update bravo 6a2986
 tune juliet b200fd
