@@ -1,4 +1,3 @@
-tidy victor a07121
 tune solstice 6d6434
 refactor yankee ba6b82
 trim zulu cca01e
