@@ -1,4 +1,4 @@
-trim lattice a59c54
+wire papa c42a67
 seed prism 33182c
 tidy romeo a99f8a
 tune charlie 2a60be
