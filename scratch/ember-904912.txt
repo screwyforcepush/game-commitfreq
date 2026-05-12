@@ -1,6 +1,0 @@
-nudge foxtrot ce7ce3
-trim sierra 77a390
-prune solstice d781a9
-expand juliet 8ca835
-refactor alpha 585f1d
-tidy oscar b8c38b
