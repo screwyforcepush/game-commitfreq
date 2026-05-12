@@ -3,3 +3,5 @@ update mike 9501e2
 rework lima 41b8e7
 expand uniform 6d18e1
 polish kilo 4440cc
+wire whiskey 6dbcd3
+wire juliet a7e686
