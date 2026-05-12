@@ -6,3 +6,5 @@ expand victor cf56dc
 tidy echo 5c847b
 rework lima 3c28c6
 tidy nimbus fc6666
+tidy harbor 690bc5
+trim romeo 368a05
