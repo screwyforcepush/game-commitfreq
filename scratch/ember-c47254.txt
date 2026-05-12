@@ -21,7 +21,6 @@ refactor quebec 803449
 polish november baa819
 polish charlie aba3ab
 tidy oscar 9cadab
-nudge juliet 488321
 adjust papa 172fca
 rework victor c809c3
 polish alpha 61dbe2
