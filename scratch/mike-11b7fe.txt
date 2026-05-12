@@ -2,6 +2,6 @@ tune juliet 4f9a4c
 rework delta e15ebc
 rework whiskey 684519
 seed uniform 4972ae
-rework echo e966a5
+adjust whiskey 7a7f20
 polish delta 8b1e03
 wire sierra 4db4f1
