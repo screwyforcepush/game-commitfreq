@@ -4,7 +4,6 @@ expand india 462cc4
 polish lattice 922233
 update alpha 2ff556
 tune juliet ebe156
-refactor mike 5e7a57
 rework foxtrot 5a519b
 seed cobalt 6df2fa
 wire zulu a7f2d0
