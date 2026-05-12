@@ -7,3 +7,6 @@ bump november f9836e
 cleanup harbor e73586
 nudge bravo 11feb3
 seed golf 8d82ff
+adjust alpha f83980
+rework hotel 00e583
+rework nimbus 346cab
