@@ -11,3 +11,6 @@ tidy prism 21527d
 seed prism 3cfa50
 nudge solstice eeff51
 nudge sierra b427e2
+expand nimbus 63c61b
+adjust romeo 83c3f5
+tweak lima 172e81
