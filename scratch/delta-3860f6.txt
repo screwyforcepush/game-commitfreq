@@ -1,4 +1,0 @@
-prune charlie 57c046
-polish cobalt 00a6ee
-seed xray 8a8390
-cleanup tango 59248f
