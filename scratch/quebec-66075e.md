@@ -6,5 +6,4 @@ tidy sierra 4d5771
 tweak yankee 23118c
 adjust papa 9126fe
 bump delta 6c11e2
-cleanup yankee 6b3625
 cleanup victor 199c86
