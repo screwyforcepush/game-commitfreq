@@ -3,3 +3,7 @@ rework juliet 4a76b1
 polish oscar 01602a
 trim delta 17da29
 tidy lattice 4324e1
+update kilo d58009
+wire lattice 291169
+nudge november 5afba7
+polish quebec 5c8ed3
