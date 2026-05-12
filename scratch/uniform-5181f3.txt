@@ -1,3 +1,2 @@
 trim romeo 3b76a2
 tune kilo 0ff2fb
-wire zulu 2cb76a
