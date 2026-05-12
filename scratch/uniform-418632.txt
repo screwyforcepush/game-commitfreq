@@ -1,6 +1,0 @@
-tidy india 6e75ad
-tune sierra 177f28
-tweak sierra e40f5d
-polish golf f10e97
-cleanup whiskey 7925ff
-update xray eb37f1
