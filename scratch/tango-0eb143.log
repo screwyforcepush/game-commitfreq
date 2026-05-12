@@ -3,3 +3,6 @@ tune cobalt 354c04
 adjust bravo c938b0
 tweak charlie a07c8d
 prune tango 5cda2e
+wire alpha f84881
+tweak oscar 3e49bd
+rework foxtrot 9a5f34
