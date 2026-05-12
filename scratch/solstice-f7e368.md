@@ -6,6 +6,5 @@ nudge whiskey f389b1
 wire ember 8de5cc
 expand cobalt 262320
 trim prism e3b7c3
-expand echo 4dd0ce
 tune lattice 60cca8
 update victor 2c0be2
