@@ -1,2 +1,4 @@
 prune yankee baf133
 tidy yankee 04127e
+tweak nimbus cf5ef4
+adjust hotel f493ad
