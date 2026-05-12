@@ -4,7 +4,6 @@ bump alpha 60de75
 prune golf 2cab77
 update lattice f7cfcd
 tweak sierra 23c6bd
-tune delta f6a5b5
 tweak delta 87074a
 polish golf 47c03a
 refactor solstice d650e7
