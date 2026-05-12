@@ -3,3 +3,4 @@ nudge lattice c7234a
 tidy lattice 097546
 rework lattice 88f4db
 bump lattice 87837c
+update prism 0b86f7
