@@ -4,7 +4,7 @@ update mike dce017
 tweak lattice 031883
 tune harbor 1e59ce
 wire ember 8de5cc
-expand sierra c5052c
+expand cobalt 262320
 trim prism e3b7c3
 expand echo 4dd0ce
 tune lattice 60cca8
