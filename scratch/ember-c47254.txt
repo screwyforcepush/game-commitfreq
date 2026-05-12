@@ -33,3 +33,4 @@ tune lattice 9c4976
 expand alpha a47f53
 adjust kilo f54f10
 tidy nimbus 596070
+cleanup whiskey 18c40e
