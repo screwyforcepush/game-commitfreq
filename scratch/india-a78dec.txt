@@ -2,3 +2,7 @@ trim charlie 8e4efe
 tune echo d32900
 prune solstice 475827
 rework tango 6fcabd
+trim echo 998bcf
+nudge mike d65960
+nudge whiskey cbf805
+wire hotel e0807e
