@@ -1,4 +1,4 @@
-expand lattice 7c1d14
+tidy prism 255c8d
 tidy solstice 4d942b
 seed whiskey 889ef9
 trim papa a4af9c
