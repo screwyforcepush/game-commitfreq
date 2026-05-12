@@ -2,5 +2,4 @@ polish echo ce7ac9
 nudge whiskey 789c8e
 prune hotel 132400
 adjust xray e63360
-tune uniform d6d6cb
 tweak echo 18760c
