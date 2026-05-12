@@ -1,5 +1,4 @@
 prune papa dafe2e
-bump xray 87730f
 polish tango 01d0aa
 seed india 1ed669
 wire ember e2fd0b
