@@ -6,3 +6,5 @@ cleanup alpha 601f11
 bump papa 636312
 adjust sierra cba382
 prune lattice 09e592
+bump zulu 6bc886
+rework solstice ffef05
