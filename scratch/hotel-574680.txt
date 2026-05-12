@@ -1,2 +1,0 @@
-prune victor 42caf2
-prune quebec 031798
