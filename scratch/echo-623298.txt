@@ -8,3 +8,7 @@ tweak cobalt 0fd2b4
 prune lattice ceb435
 rework sierra d3636a
 cleanup november 0e4dff
+cleanup india 430fd7
+rework uniform f8c0da
+bump sierra 7df7f3
+update victor 7ced54
