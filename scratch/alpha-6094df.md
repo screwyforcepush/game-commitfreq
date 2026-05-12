@@ -9,4 +9,4 @@ tweak ember a5835b
 cleanup solstice 8957c5
 tune victor 37c9c2
 cleanup yankee cf1398
-prune november f6127e
+trim echo de7422
