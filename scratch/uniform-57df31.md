@@ -5,3 +5,6 @@ polish kilo 7a89ce
 bump alpha 242542
 cleanup oscar 4d15d7
 wire cobalt 180f75
+prune harbor 68c470
+prune whiskey a24792
+cleanup zulu 118ee2
