@@ -1,4 +1,3 @@
 prune romeo cb6842
-update sierra 22c641
 prune ember e95512
 tune golf 7717cf
