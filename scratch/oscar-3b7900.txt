@@ -1,5 +1,4 @@
 adjust oscar bd16fb
 tweak tango 040529
-bump lattice 3331e3
 cleanup solstice 0f483d
 adjust lima 7bc7b8
