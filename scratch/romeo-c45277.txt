@@ -1,5 +1,4 @@
 trim lattice a59c54
 seed prism 33182c
 tidy romeo a99f8a
-cleanup quebec 34cef6
 tune charlie 2a60be
