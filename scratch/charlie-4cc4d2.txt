@@ -1,3 +1,0 @@
-adjust alpha 994871
-wire ember 34b412
-seed delta df40b4
