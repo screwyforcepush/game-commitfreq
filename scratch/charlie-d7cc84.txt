@@ -2,7 +2,7 @@ update charlie e3ffc4
 polish golf 2704b6
 tweak whiskey 3c5508
 tidy quebec 9cb8bf
-tidy sierra 4d5771
+tidy yankee 9a2b44
 tweak yankee 23118c
 adjust papa 9126fe
 bump delta 6c11e2
