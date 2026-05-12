@@ -14,3 +14,5 @@ nudge sierra b427e2
 expand nimbus 63c61b
 adjust romeo 83c3f5
 tweak lima 172e81
+prune charlie 9db5d4
+wire lattice d052bd
