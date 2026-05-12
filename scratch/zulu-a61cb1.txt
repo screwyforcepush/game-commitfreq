@@ -7,3 +7,6 @@ tweak xray 04fd11
 nudge xray 7bdc88
 tidy nimbus d1771e
 trim kilo f91e38
+update papa 97b873
+update yankee b84bd2
+refactor hotel 798899
