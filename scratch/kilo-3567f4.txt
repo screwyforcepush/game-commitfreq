@@ -2,5 +2,5 @@ prune romeo cb6842
 prune ember e95512
 tune golf 7717cf
 bump hotel 72b66f
-prune whiskey 04f315
+cleanup juliet 26911d
 nudge tango 391c8f
