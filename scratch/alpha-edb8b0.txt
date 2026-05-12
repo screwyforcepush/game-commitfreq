@@ -2,7 +2,6 @@ update juliet 85c8d9
 expand kilo fa6522
 rework kilo 7985d6
 prune kilo 45087b
-bump papa 0b4002
 polish bravo 8b145a
 adjust victor 60bdf9
 expand oscar ea59ad
