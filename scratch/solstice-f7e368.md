@@ -8,3 +8,4 @@ expand cobalt 262320
 trim prism e3b7c3
 tune lattice 60cca8
 update victor 2c0be2
+wire echo 129e39
