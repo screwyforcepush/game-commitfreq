@@ -1,7 +1,6 @@
 wire tango 75250c
 tweak cobalt a75921
 polish kilo f50d8e
-cleanup yankee f7f1fe
 tidy whiskey fdf2f1
 rework harbor 8d938a
 wire charlie b347d8
