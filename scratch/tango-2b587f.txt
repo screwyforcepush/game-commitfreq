@@ -1,4 +1,0 @@
-polish prism 46dc3f
-refactor hotel 9d7e74
-trim yankee 34bf23
-expand kilo 01ec79
