@@ -8,3 +8,5 @@ bump quebec e84a6c
 tune mike 3dc07a
 bump foxtrot d14d54
 polish nimbus cbf0b7
+expand yankee 848249
+adjust papa 1c6494
