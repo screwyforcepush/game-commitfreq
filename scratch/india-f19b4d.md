@@ -2,7 +2,7 @@ tweak kilo 15e6ae
 bump quebec 4f5855
 refactor solstice 04f6dc
 polish delta cd68a3
-update juliet 4c098b
+polish xray 99c482
 cleanup tango 96de71
 prune prism ab332e
 adjust ember 41f9dc
