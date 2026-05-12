@@ -1,5 +1,4 @@
 prune quebec 0f127a
-trim quebec 7917d3
 update charlie 141a41
 tune bravo c36b0e
 cleanup cobalt ea9706
