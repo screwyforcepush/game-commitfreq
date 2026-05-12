@@ -1,6 +1,5 @@
 bump nimbus f17b58
 tweak foxtrot 788887
-adjust delta 039da0
 bump charlie c182b7
 nudge india d27365
 refactor whiskey f0bcf1
