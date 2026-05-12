@@ -1,6 +1,5 @@
 seed golf b2f115
 tidy foxtrot d63213
 expand lattice 6148cd
-expand solstice 9584cf
 wire romeo 758c69
 tweak juliet 677494
