@@ -4,3 +4,7 @@ adjust oscar 287f04
 cleanup golf 7588c5
 wire mike 2e94e7
 rework november ff01c9
+cleanup india ff0f37
+tweak ember a5835b
+cleanup solstice 8957c5
+polish nimbus 1feedb
