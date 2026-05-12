@@ -1,4 +1,0 @@
-nudge sierra 4cc272
-nudge lattice ffa1b9
-trim lima 7a9433
-polish romeo 8c188f
