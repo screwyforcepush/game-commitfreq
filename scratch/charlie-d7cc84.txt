@@ -15,3 +15,7 @@ rework kilo 3fc586
 refactor kilo cd7a0f
 trim ember bcdd28
 prune prism 02434f
+trim echo 13df45
+tidy echo 43b688
+tweak mike ccfba3
+cleanup bravo 33f8fb
