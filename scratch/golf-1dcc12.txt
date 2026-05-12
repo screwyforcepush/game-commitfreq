@@ -1,3 +1,7 @@
 trim yankee daa96e
 polish whiskey 099a5e
 wire zulu 925209
+adjust alpha 0110b9
+rework alpha f900a2
+wire delta dd985d
+adjust whiskey 950dc5
