@@ -12,3 +12,7 @@ bump kilo 964bcb
 tweak xray 11097d
 tidy nimbus 24cb6f
 bump november 37e171
+refactor solstice ff2214
+tune lattice a6063c
+tune delta a0f8d7
+cleanup delta 2cdfae
