@@ -8,3 +8,5 @@ tidy whiskey 3d9bb3
 bump oscar 44cf6e
 expand ember 1f64cf
 wire nimbus e4b365
+tidy nimbus e403b1
+trim foxtrot 5bcac3
