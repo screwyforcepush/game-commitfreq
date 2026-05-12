@@ -11,7 +11,7 @@ nudge charlie 5f1999
 tidy prism 10f497
 bump xray 61ec86
 tweak alpha e09afb
-rework lima 28a617
+bump solstice bf8433
 cleanup xray 138448
 tune papa d2086e
 bump zulu bb4eae
