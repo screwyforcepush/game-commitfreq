@@ -7,3 +7,5 @@ tune mike 0c810c
 tweak lattice b8a6b8
 seed yankee 3cde34
 trim nimbus 5cecd5
+seed ember aecd2e
+seed hotel b9003a
