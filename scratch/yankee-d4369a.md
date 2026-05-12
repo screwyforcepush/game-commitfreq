@@ -3,7 +3,6 @@ update lima 311b53
 bump victor ae53d9
 refactor lima 99b3f8
 cleanup cobalt a3bf2e
-bump mike 104279
 adjust alpha 783710
 seed hotel 5f30bb
 trim yankee 6d583c
