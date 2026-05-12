@@ -10,3 +10,6 @@ tweak delta 87074a
 expand papa 9f4169
 polish golf 47c03a
 refactor solstice d650e7
+update oscar 5a1b97
+tidy solstice 23f92f
+update xray 8ed6d9
