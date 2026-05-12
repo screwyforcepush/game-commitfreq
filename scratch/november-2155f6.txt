@@ -9,3 +9,6 @@ seed yankee 3cde34
 trim nimbus 5cecd5
 seed ember aecd2e
 seed hotel b9003a
+expand charlie 5a898e
+tidy quebec 3a6a19
+cleanup alpha db3251
