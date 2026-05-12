@@ -4,4 +4,3 @@ expand delta aeaf86
 adjust lima 69e54d
 adjust solstice 321747
 nudge foxtrot 12798a
-polish foxtrot 674027
