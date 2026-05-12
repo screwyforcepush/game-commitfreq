@@ -2,7 +2,7 @@ tune solstice dfaf55
 seed nimbus 113c36
 wire cobalt 826116
 polish tango 3c6cd0
-prune juliet dcb170
+tweak victor d40266
 rework romeo 370007
 tune xray 01f122
 expand golf 6c02e2
