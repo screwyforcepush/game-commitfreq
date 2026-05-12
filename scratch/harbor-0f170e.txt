@@ -1,9 +1,0 @@
-expand quebec 4ca55b
-bump quebec 067a81
-nudge papa c21359
-cleanup golf 642b9d
-rework ember 047c03
-cleanup uniform 847ac8
-refactor juliet 767db5
-tune echo b90a13
-cleanup charlie bd55b5
