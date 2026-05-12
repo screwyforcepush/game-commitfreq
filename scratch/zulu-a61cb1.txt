@@ -3,3 +3,7 @@ nudge harbor 6beb19
 wire golf dd8ead
 tune alpha 89d270
 tune delta c96ad2
+tweak xray 04fd11
+nudge xray 7bdc88
+tidy nimbus d1771e
+trim kilo f91e38
