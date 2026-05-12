@@ -11,3 +11,6 @@ wire zulu a7f2d0
 rework prism 6d5ea7
 cleanup mike 4ed1b2
 adjust papa 3fbd33
+update quebec 9fe8a4
+adjust uniform 23cde4
+tweak juliet 7443f7
