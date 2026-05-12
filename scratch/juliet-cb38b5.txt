@@ -5,7 +5,6 @@ polish kilo 4440cc
 wire whiskey 6dbcd3
 wire juliet a7e686
 prune prism 318652
-polish delta 190833
 nudge whiskey 665096
 seed papa 6fb7bc
 adjust foxtrot 36ac3d
