@@ -24,3 +24,7 @@ wire quebec a5e056
 trim echo 9d3e38
 wire ember dfb0d2
 bump mike 762ed5
+nudge hotel 68bd7d
+expand mike f80eea
+tweak victor e18b02
+wire uniform e892bd
