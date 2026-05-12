@@ -3,7 +3,6 @@ wire golf dd8ead
 tune alpha 89d270
 tune delta c96ad2
 tweak xray 04fd11
-nudge xray 7bdc88
 tidy nimbus d1771e
 refactor alpha 3ff9df
 update papa 97b873
