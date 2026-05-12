@@ -1,3 +1,0 @@
-update yankee 2db873
-cleanup papa 7379fa
-prune prism 888571
