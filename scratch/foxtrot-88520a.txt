@@ -1,7 +1,6 @@
 wire mike 337491
 seed juliet f01d69
 expand india 462cc4
-polish lattice 922233
 update alpha 2ff556
 tune juliet ebe156
 rework foxtrot 5a519b
