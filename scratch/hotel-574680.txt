@@ -1,3 +1,2 @@
-tidy hotel 21dc2b
 prune victor 42caf2
 expand oscar 57659a
