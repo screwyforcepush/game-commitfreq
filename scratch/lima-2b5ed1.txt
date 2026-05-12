@@ -6,3 +6,5 @@ trim uniform d50be6
 nudge echo d0baea
 tidy echo eba22a
 polish zulu d3cc09
+polish tango 1e15f0
+nudge juliet 6d656f
