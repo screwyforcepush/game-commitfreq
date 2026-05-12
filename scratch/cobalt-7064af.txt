@@ -1,3 +1,0 @@
-wire victor 2699ff
-tidy foxtrot 95a1cc
-cleanup mike 2e69b1
