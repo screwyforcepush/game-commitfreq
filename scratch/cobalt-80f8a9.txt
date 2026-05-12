@@ -5,3 +5,6 @@ polish xray be7b0e
 rework cobalt 39367a
 tweak lattice db0cfa
 cleanup lima 86f55f
+polish lattice a9c553
+refactor xray 165ba2
+polish prism 7d2d47
