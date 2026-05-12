@@ -1,4 +1,3 @@
 bump zulu 15d222
-prune papa 2e1fa2
 tidy foxtrot 95a1cc
 cleanup mike 2e69b1
