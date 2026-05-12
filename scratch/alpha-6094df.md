@@ -7,6 +7,5 @@ rework november ff01c9
 cleanup india ff0f37
 tweak ember a5835b
 cleanup solstice 8957c5
-polish nimbus 1feedb
 tune victor 37c9c2
 cleanup yankee cf1398
