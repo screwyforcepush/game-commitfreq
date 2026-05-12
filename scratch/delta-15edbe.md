@@ -1,4 +1,3 @@
-expand charlie 068043
 prune golf 824e01
 prune oscar c57134
 polish prism 283b41
