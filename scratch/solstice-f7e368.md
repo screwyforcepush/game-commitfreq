@@ -13,3 +13,6 @@ bump zulu 36aa26
 tweak alpha ef3da9
 wire lattice 706a9a
 tweak kilo 9f8656
+trim zulu 04ad11
+wire delta cd6b85
+trim papa 957a1c
