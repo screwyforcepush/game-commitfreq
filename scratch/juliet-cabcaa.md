@@ -10,3 +10,5 @@ tune quebec 4b4a05
 polish tango 12425e
 rework harbor ced418
 tweak zulu 8c927c
+trim echo 4d3edb
+trim charlie 05a3a1
