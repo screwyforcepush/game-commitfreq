@@ -1,7 +1,7 @@
 tune echo 888c81
 tidy foxtrot d63213
 expand lattice 6148cd
-nudge prism 52d49a
+wire bravo 4eb394
 expand solstice 9584cf
 wire romeo 758c69
 tweak juliet 677494
