@@ -1,6 +1,5 @@
 tune oscar 1e1777
 tweak oscar 0d315e
-tidy xray 941b04
 update quebec 00be90
 update mike b98298
 prune sierra 27a9c0
