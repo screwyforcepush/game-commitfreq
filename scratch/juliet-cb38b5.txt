@@ -9,7 +9,6 @@ polish delta 190833
 nudge whiskey 665096
 seed papa 6fb7bc
 adjust foxtrot 36ac3d
-update victor d3aa7e
 update yankee 5afdd6
 bump mike 764abf
 cleanup zulu be62aa
