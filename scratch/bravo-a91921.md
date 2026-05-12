@@ -1,7 +1,6 @@
 bump india 3bc229
 trim golf b92e77
 tweak echo afa89d
-nudge papa 74e658
 refactor harbor d68a41
 wire nimbus 27e273
 tidy sierra 87dd06
