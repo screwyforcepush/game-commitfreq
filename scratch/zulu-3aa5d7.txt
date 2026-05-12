@@ -5,3 +5,5 @@ trim papa 1b8106
 bump papa b5de85
 adjust alpha 794be9
 cleanup quebec 390488
+refactor hotel 0a5789
+prune tango 88110a
