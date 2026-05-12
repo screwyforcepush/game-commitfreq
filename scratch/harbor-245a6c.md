@@ -2,7 +2,7 @@ prune echo 3d8ca5
 prune xray 3e89e4
 refactor foxtrot acee1a
 expand harbor 8e3cfa
-cleanup nimbus 2e54c9
+rework xray 8f7ad5
 seed charlie ced346
 tidy whiskey 3d9bb3
 bump oscar 44cf6e
