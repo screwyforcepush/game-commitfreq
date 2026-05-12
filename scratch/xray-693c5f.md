@@ -5,3 +5,7 @@ tweak golf 0d0975
 nudge yankee 2cb9e9
 update nimbus 85c71e
 cleanup delta 11a576
+update ember 752676
+prune zulu 4728ad
+trim oscar c513bd
+bump delta 10f737
