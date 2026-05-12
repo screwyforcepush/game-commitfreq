@@ -1,1 +1,5 @@
 tidy kilo 91a21f
+tweak oscar 5ec812
+tweak solstice 8ac575
+trim golf 6b21f4
+prune echo b3d3c2
