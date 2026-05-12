@@ -1,6 +1,0 @@
-tidy november 7dbdba
-prune delta 36eaeb
-nudge golf f9800e
-expand india be8e1e
-tweak charlie 096eda
-rework quebec d518e8
