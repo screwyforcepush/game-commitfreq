@@ -15,3 +15,7 @@ prune charlie a34a8f
 tweak cobalt 5b1419
 bump tango b528f5
 tweak nimbus d34020
+tweak quebec a2cd47
+prune lattice c4cece
+tidy mike bf5391
+trim lima 10c16e
