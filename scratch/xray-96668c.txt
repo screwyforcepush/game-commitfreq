@@ -1,3 +1,5 @@
 prune kilo 0cad8d
 adjust victor a64967
 adjust golf c55992
+update delta d1a9de
+tune yankee 6b75be
