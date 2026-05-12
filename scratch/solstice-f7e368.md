@@ -10,3 +10,6 @@ tune lattice 60cca8
 update victor 2c0be2
 wire echo 129e39
 bump zulu 36aa26
+tweak alpha ef3da9
+wire lattice 706a9a
+tweak kilo 9f8656
