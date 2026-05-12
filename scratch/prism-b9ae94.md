@@ -5,7 +5,6 @@ bump kilo a78c86
 prune lattice d09cee
 bump foxtrot f62670
 rework xray edb6f1
-bump whiskey 728438
 nudge yankee b5829c
 nudge oscar 119797
 wire bravo 0f9ae2
