@@ -7,3 +7,7 @@ nudge delta 9c2f9d
 prune solstice 8491ed
 adjust mike c81b8b
 tidy alpha 8e419d
+polish delta 934d7a
+trim victor cf82a1
+trim juliet 2dc615
+wire kilo e9d1d5
