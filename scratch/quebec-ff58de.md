@@ -7,3 +7,5 @@ polish xray d7498b
 update cobalt 486c57
 adjust sierra d44a92
 prune ember 7aa1c3
+wire cobalt a53fda
+adjust hotel b006c0
