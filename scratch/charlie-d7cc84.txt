@@ -20,3 +20,5 @@ tidy echo 43b688
 tweak mike ccfba3
 cleanup bravo 33f8fb
 update delta fae328
+bump solstice 348770
+bump hotel e55274
