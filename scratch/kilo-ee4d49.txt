@@ -15,3 +15,6 @@ adjust romeo 36de9a
 cleanup whiskey 49de07
 rework hotel 1e6347
 tune sierra 00b2e1
+polish zulu 18663a
+nudge yankee 3015ca
+prune kilo c81d00
