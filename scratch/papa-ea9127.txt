@@ -4,3 +4,6 @@ bump zulu 24fad8
 tweak nimbus 51f17d
 trim charlie c68c12
 expand quebec f787b7
+rework yankee d63984
+tweak echo 12e814
+cleanup whiskey c2797d
