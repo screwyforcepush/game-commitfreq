@@ -1,4 +1,0 @@
-polish delta 84e519
-rework oscar 3fdedc
-tidy yankee fef8ad
-adjust xray 9611bc
