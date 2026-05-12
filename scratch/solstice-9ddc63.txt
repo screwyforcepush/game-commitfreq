@@ -2,3 +2,7 @@ update quebec ec83b5
 cleanup prism 6774e7
 rework juliet 47490a
 wire charlie 5741e2
+update zulu b6abac
+rework nimbus a98f24
+cleanup lattice f53313
+trim mike d11436
