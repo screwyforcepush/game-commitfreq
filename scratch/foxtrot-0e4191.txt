@@ -5,3 +5,4 @@ polish mike 6b74dc
 refactor november 9ebe0a
 adjust whiskey 4cd6a1
 polish lattice 6c76aa
+tidy quebec c065e8
