@@ -7,3 +7,5 @@ bump quebec e84a6c
 tune mike 3dc07a
 expand yankee 848249
 adjust papa 1c6494
+prune papa 3dfe90
+tidy charlie 298bc4
