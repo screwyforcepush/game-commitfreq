@@ -5,7 +5,6 @@ cleanup yankee f7f1fe
 tidy whiskey fdf2f1
 rework harbor 8d938a
 wire charlie b347d8
-expand victor ecc2a0
 update harbor f06b9c
 cleanup whiskey 9ef4b4
 update foxtrot a85b2e
