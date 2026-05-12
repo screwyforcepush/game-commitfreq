@@ -4,7 +4,7 @@ expand uniform 6d18e1
 polish kilo 4440cc
 wire whiskey 6dbcd3
 wire juliet a7e686
-wire november 0370c1
+prune prism 318652
 polish delta 190833
 nudge whiskey 665096
 seed papa 6fb7bc
