@@ -17,7 +17,6 @@ prune whiskey fdf6b0
 trim charlie 9285e9
 prune alpha 16ebf6
 bump juliet b35280
-refactor quebec 803449
 polish november baa819
 polish charlie aba3ab
 tidy oscar 9cadab
