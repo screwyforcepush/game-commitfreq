@@ -3,7 +3,6 @@ tweak delta 5bfd04
 expand charlie 102b98
 update quebec 47f5b6
 bump sierra 0d2302
-tidy cobalt dcbc71
 tweak mike ddeab3
 prune romeo 1f4095
 polish lima 9b4688
