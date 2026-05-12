@@ -10,3 +10,6 @@ update cobalt ea6e58
 tune victor d995a9
 tune sierra 3c52b6
 prune ember 3ad1e0
+update romeo 8fc0f3
+tweak lattice c624f8
+rework golf e19c60
