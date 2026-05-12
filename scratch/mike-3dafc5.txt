@@ -1,4 +1,4 @@
-update india 2b2f70
+tune solstice dfaf55
 seed nimbus 113c36
 trim echo 283fb6
 wire cobalt 826116
