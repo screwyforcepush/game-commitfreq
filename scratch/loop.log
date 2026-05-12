@@ -44701,3 +44701,4 @@ To https://github.com/screwyforcepush/game-commitfreq.git
 298/448  harbor seeds                                  drop lattice-b395d0.dat
 299/448  update zulu for victor                        drop cobalt-e45441.csv
 300/448  rework echo                                   rename bravo-07df4e.log -> solstice-39e0ed.txt
+301/448  fix: adjust ember for whiskey                 modify hotel-7f0cfa.csv:3
