@@ -8,3 +8,5 @@ update quebec 2788cd
 expand papa 3266c8
 tidy india 9c8fba
 nudge lima 9fb5ee
+trim charlie 833d20
+seed foxtrot 19f3df
