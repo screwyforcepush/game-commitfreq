@@ -1,2 +1,0 @@
-rework alpha 973697
-trim delta 8c6273
