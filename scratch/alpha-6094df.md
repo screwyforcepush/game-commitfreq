@@ -7,7 +7,6 @@ rework november ff01c9
 cleanup india ff0f37
 tweak ember a5835b
 tune victor 37c9c2
-cleanup yankee cf1398
 trim echo de7422
 expand mike 0d7e1f
 prune charlie a34a8f
