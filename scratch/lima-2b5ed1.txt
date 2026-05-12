@@ -3,3 +3,6 @@ tune harbor 22a3e7
 tweak hotel 136389
 cleanup delta 793c7c
 trim uniform d50be6
+nudge echo d0baea
+tidy echo eba22a
+polish zulu d3cc09
