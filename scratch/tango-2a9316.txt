@@ -1,5 +1,4 @@
 update bravo ec4456
-adjust india a5309b
 rework papa 1958d2
 wire charlie 5e228a
 nudge solstice bb536b
