@@ -1,4 +1,4 @@
-trim lattice 0cb48b
+update solstice 6e552d
 tidy tango feb15e
 adjust oscar 287f04
 cleanup golf 7588c5
