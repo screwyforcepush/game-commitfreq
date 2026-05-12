@@ -18,3 +18,7 @@ refactor tango ca0a03
 trim yankee 2f5208
 update golf af2292
 seed india aebd5b
+seed lattice fbba13
+seed delta 084330
+tweak tango 4c8336
+cleanup cobalt 8a7cdc
