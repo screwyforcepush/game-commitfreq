@@ -13,7 +13,6 @@ wire harbor a0edcb
 update alpha 1b25f4
 nudge juliet a77dbe
 expand prism a152f4
-polish bravo db641d
 wire ember 18aa5f
 wire golf 2b03c5
 tweak golf 3f675a
