@@ -1,4 +1,3 @@
-prune hotel 89c26a
 seed papa be0c00
 nudge juliet 824cc2
 expand tango 5fdac6
