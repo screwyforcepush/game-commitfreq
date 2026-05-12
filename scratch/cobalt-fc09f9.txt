@@ -11,3 +11,7 @@ expand oscar 4f8ba2
 update prism 0ea7da
 polish solstice 32844b
 prune nimbus 8cdea2
+rework zulu eea589
+tune sierra f1f638
+update yankee ef1fcf
+adjust quebec 7d1056
