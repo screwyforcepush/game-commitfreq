@@ -3,7 +3,6 @@ rework hotel a4a5e4
 trim golf ef744b
 expand charlie bf5665
 trim hotel fd64a3
-wire juliet 20ee2c
 prune tango fcc030
 tune prism d1d379
 expand xray 033c16
