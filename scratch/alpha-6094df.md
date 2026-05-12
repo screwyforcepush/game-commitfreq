@@ -11,3 +11,7 @@ tune victor 37c9c2
 cleanup yankee cf1398
 trim echo de7422
 expand mike 0d7e1f
+prune charlie a34a8f
+tweak cobalt 5b1419
+bump tango b528f5
+tweak nimbus d34020
