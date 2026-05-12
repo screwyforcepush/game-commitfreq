@@ -10,4 +10,3 @@ tidy ember 6096e8
 tune hotel fb2a7b
 seed whiskey 3d4334
 seed alpha 0f6475
-polish hotel 6e490a
