@@ -27,3 +27,6 @@ prune kilo 4fe1c0
 update quebec 50b1de
 adjust golf 159625
 tune romeo f335a3
+update oscar 02be52
+update foxtrot 7b9675
+trim delta 147261
