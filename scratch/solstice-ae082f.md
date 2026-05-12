@@ -11,3 +11,6 @@ adjust tango 1e6265
 nudge delta 30fc80
 expand mike dea826
 trim juliet 18ab7d
+seed whiskey 27ff38
+tune kilo 36b444
+wire papa b6f60d
