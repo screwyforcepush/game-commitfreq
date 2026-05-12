@@ -1,4 +1,3 @@
-tidy xray 5b8941
 refactor quebec f2ec6e
 wire tango 3907b4
 wire hotel 7f5647
