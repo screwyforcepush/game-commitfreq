@@ -3,4 +3,3 @@ polish cobalt 18c84a
 seed foxtrot 189898
 tweak quebec 4f0ecd
 tweak xray 55edfb
-adjust quebec 547237
