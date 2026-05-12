@@ -14,3 +14,6 @@ bump mike 764abf
 cleanup zulu be62aa
 tune oscar b68d3c
 update victor 7853ab
+adjust charlie 3595be
+prune lattice 47ecb8
+tidy solstice bdef97
