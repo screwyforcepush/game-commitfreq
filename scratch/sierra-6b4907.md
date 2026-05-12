@@ -4,7 +4,7 @@ bump alpha 60de75
 prune golf 2cab77
 update lattice f7cfcd
 update sierra 8f082a
-rework prism 0f16f4
+tweak sierra 23c6bd
 tune delta f6a5b5
 tweak delta 87074a
 expand papa 9f4169
