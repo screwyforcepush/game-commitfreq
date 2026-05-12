@@ -7,3 +7,6 @@ nudge nimbus 380c4c
 adjust charlie c36c26
 nudge solstice bda807
 nudge zulu 1e6281
+tidy charlie 4417d3
+rework bravo 6a1e41
+tune kilo fe815e
