@@ -17,3 +17,7 @@ trim zulu 04ad11
 wire lattice 1de62e
 trim papa 957a1c
 tune golf 479c1d
+cleanup mike 9139e5
+cleanup xray 17308e
+polish ember 58421d
+adjust xray f74f26
