@@ -4,7 +4,6 @@ cleanup sierra 9f9a72
 prune delta b14da7
 prune foxtrot a68695
 trim bravo 2e96ad
-tune tango 251415
 seed zulu bd57bd
 update nimbus bf1e5a
 rework juliet 5652ec
