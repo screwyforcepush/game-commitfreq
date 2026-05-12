@@ -14,3 +14,6 @@ nudge nimbus 0093b3
 adjust uniform e1ba05
 update bravo 789b5d
 bump lattice cf7a6b
+bump zulu 15e78c
+expand nimbus c5ebce
+wire yankee 396277
