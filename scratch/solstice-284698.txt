@@ -1,2 +1,0 @@
-tune bravo 35b796
-adjust mike 10af26
