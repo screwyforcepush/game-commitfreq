@@ -9,6 +9,5 @@ trim oscar f0c3be
 nudge tango 24c31e
 trim victor 22fd66
 trim delta e5b845
-rework foxtrot 107fa5
 nudge alpha 13a93a
 adjust golf 9f8cb3
