@@ -13,6 +13,5 @@ update juliet 4f5e0f
 seed echo 377adc
 adjust romeo 36de9a
 cleanup whiskey 49de07
-wire mike 33b37b
 rework hotel 1e6347
 tune sierra 00b2e1
