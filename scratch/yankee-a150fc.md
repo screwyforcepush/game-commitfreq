@@ -1,1 +1,1 @@
-update harbor b232e5
+bump nimbus 924edb
