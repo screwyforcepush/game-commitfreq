@@ -1,5 +1,4 @@
 tidy hotel 21dc2b
-update whiskey 9b6838
 tweak papa 3f05c3
 seed yankee c7b1de
 nudge xray e25b41
