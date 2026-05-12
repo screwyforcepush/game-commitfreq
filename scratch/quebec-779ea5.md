@@ -5,6 +5,6 @@ polish bravo 0c996d
 rework november 54f139
 update whiskey f7c476
 trim hotel 700512
-tweak xray 658ec9
+bump prism d44caf
 tune cobalt b47076
 trim hotel f0a014
