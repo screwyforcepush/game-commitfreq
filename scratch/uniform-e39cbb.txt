@@ -1,6 +1,0 @@
-refactor yankee ed80cd
-expand victor e4474a
-adjust oscar 6c79af
-refactor uniform 3c5e13
-bump whiskey 5d78c1
-prune whiskey b2ac17
