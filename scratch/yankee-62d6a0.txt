@@ -13,3 +13,7 @@ tweak harbor f92f65
 nudge xray f4a6cf
 trim tango b120ff
 trim hotel 77c2fd
+update tango 7f0bdb
+polish lima 7eeefa
+expand whiskey 8aa506
+adjust nimbus 9b7f73
