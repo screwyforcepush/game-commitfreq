@@ -1,1 +1,2 @@
 tune solstice 2d0de6
+wire romeo 8fdc27
