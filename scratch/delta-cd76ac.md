@@ -5,5 +5,5 @@ tidy kilo 9122b7
 polish xray 7cf331
 prune prism f5ff36
 rework nimbus 872656
-seed xray 7998d7
+trim nimbus 99c54e
 tweak charlie a6a671
