@@ -4,3 +4,6 @@ rework quebec 4f1b13
 bump echo a9fcdd
 update prism 91e8ff
 update lima 14288b
+seed alpha 5b4cd9
+seed hotel 5c9fe7
+tidy delta d24435
