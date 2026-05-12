@@ -2,7 +2,6 @@ trim victor 132c75
 adjust bravo 1294a4
 adjust romeo 10c459
 refactor kilo ee5b1f
-tweak hotel c0155d
 cleanup romeo fc6f90
 prune papa b42363
 expand quebec d782ed
