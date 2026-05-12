@@ -1,7 +1,6 @@
 tune hotel 7137dd
 update bravo 6ef852
 nudge zulu 234c74
-nudge uniform dad4c8
 cleanup uniform 5d3966
 nudge zulu 389929
 nudge november 388d0c
