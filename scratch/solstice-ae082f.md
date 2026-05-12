@@ -1,6 +1,5 @@
 nudge quebec b92975
 expand xray 25b1b7
-tidy quebec d52960
 cleanup november bb7ea6
 tweak prism b163d8
 trim alpha b8d2be
