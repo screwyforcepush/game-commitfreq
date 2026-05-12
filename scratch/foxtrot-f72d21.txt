@@ -1,0 +1,5 @@
+adjust papa 2cc930
+trim whiskey ae44f0
+nudge echo 3924a5
+adjust romeo 8b8f30
+tweak nimbus 4e6e04
