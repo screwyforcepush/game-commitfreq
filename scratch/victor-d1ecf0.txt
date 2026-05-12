@@ -1,5 +1,0 @@
-prune solstice e6bec5
-tweak foxtrot cdf1ad
-adjust quebec b0dae6
-prune papa da02a3
-seed victor bff9f1
