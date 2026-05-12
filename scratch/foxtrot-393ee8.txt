@@ -11,3 +11,7 @@ nudge yankee fa44a8
 trim bravo 6298cb
 cleanup cobalt 79c916
 update yankee 0a68ec
+tweak hotel c67357
+cleanup quebec 4a47ad
+refactor cobalt 53b119
+rework india b841da
