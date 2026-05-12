@@ -1,7 +1,6 @@
 polish xray eec218
 trim romeo 08acba
 cleanup sierra 9f9a72
-prune delta b14da7
 prune foxtrot a68695
 trim bravo 2e96ad
 seed zulu bd57bd
