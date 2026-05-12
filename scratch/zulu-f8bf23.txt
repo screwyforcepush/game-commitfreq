@@ -1,6 +1,0 @@
-tidy whiskey a4eb85
-adjust kilo 6d0b81
-wire juliet 2c9886
-tweak solstice f0a00a
-seed ember a6bf9c
-bump victor 7f1757
