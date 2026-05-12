@@ -5,3 +5,7 @@ adjust tango f3e80c
 tune xray 00451e
 seed bravo 19565e
 trim solstice 6fc4e4
+tidy papa 6a0d50
+trim romeo 2fff33
+cleanup oscar eb3113
+tidy charlie 586d3a
