@@ -3,7 +3,7 @@ seed juliet f7f80a
 rework xray b05918
 polish kilo 7a89ce
 bump alpha 242542
-cleanup oscar 4d15d7
+nudge november 056090
 wire cobalt 180f75
 prune harbor 68c470
 prune whiskey a24792
