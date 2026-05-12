@@ -4,3 +4,6 @@ prune bravo 2d242b
 prune delta 8a7eac
 seed zulu 0d5adb
 tweak quebec 1d2af2
+prune lattice cfc1d3
+tune echo e002fe
+nudge whiskey a4cd54
