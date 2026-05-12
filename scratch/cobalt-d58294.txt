@@ -1,2 +1,0 @@
-adjust cobalt 84db63
-prune uniform b52302
