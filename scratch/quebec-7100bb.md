@@ -9,7 +9,6 @@ refactor yankee 044d3a
 adjust quebec e4a179
 update papa b934b0
 trim romeo e3a938
-nudge whiskey 460bcf
 tweak yankee a421a5
 refactor cobalt 574800
 seed solstice 2c00ac
