@@ -7,7 +7,6 @@ update sierra 8f082a
 tweak sierra 23c6bd
 tune delta f6a5b5
 tweak delta 87074a
-expand papa 9f4169
 polish golf 47c03a
 refactor solstice d650e7
 update oscar 5a1b97
