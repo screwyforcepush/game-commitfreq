@@ -1,5 +1,4 @@
 adjust uniform 1f16e8
-seed alpha 136ea3
 seed november 779642
 adjust solstice f29066
 rework harbor d8bc5d
