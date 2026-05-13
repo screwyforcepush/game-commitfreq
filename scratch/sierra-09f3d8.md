@@ -9,7 +9,6 @@ expand victor 3b5d9b
 polish echo b26ed3
 tune harbor 99238e
 wire nimbus e3040f
-seed lattice a54c85
 adjust victor c97613
 wire victor 61563b
 update prism bfcc64
