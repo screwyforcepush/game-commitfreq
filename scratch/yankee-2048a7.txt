@@ -1,6 +1,6 @@
 refactor echo 92f178
 cleanup tango 63f966
-cleanup whiskey eded01
+bump quebec 68ded3
 wire hotel 30e9f5
 refactor lima c88d57
 nudge november 4242b7
