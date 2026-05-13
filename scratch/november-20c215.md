@@ -1,7 +1,7 @@
 tune kilo 253f05
 tweak victor 9a1435
 tune solstice cfb7fd
-tweak delta 3180ee
+seed charlie ea8ebb
 refactor foxtrot d21a53
 tune foxtrot 08082f
 nudge oscar 56a186
