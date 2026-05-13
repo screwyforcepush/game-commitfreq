@@ -1,3 +1,7 @@
 tidy lima 7e0837
 expand echo 1066cf
 nudge alpha a56555
+nudge bravo 761129
+tune hotel dcb17d
+tidy quebec be8def
+update uniform 44d81e
