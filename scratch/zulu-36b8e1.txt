@@ -19,3 +19,6 @@ bump tango c427b4
 cleanup charlie f17597
 prune tango ff1d2e
 update nimbus 9c1c12
+update ember d5a4f6
+update xray 24b965
+trim hotel 858d10
