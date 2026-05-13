@@ -1,3 +1,0 @@
-wire india bfd931
-seed bravo 693275
-wire sierra 91a4c7
