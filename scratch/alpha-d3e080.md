@@ -6,3 +6,7 @@ polish xray 2c5773
 tweak alpha 393f44
 wire kilo 21844c
 cleanup zulu 82165c
+adjust cobalt 1c801c
+rework whiskey 311b88
+tweak yankee 058d32
+tweak uniform 2a2b41
