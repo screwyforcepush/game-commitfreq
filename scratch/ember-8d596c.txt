@@ -3,3 +3,6 @@ refactor delta ff6e7d
 update kilo d628fa
 cleanup solstice cb2b2d
 tune bravo 760ad0
+cleanup tango 42fa7b
+rework india 395da9
+polish bravo 763e21
