@@ -14,3 +14,6 @@ tweak prism 7f44e6
 wire quebec 78edd4
 rework ember 2a6f5e
 nudge kilo f02cce
+tweak november 194775
+tidy golf b0b7f0
+trim sierra cae5f8
