@@ -6,5 +6,5 @@ trim november 4705c2
 bump lattice 7101fc
 prune golf 4f64df
 nudge quebec 0bb7d7
-tweak delta 2d9043
+rework kilo 0f6b63
 expand juliet 1937d6
