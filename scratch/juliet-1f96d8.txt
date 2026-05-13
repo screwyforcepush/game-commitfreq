@@ -1,4 +1,4 @@
-adjust nimbus bb2494
+expand nimbus 2de6f1
 nudge lattice 2a137c
 tune foxtrot 7d6463
 prune yankee 0dd220
