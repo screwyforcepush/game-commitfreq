@@ -2,3 +2,6 @@ adjust nimbus 271e16
 polish ember 7db7bb
 tidy xray ea8b95
 wire lima d4620b
+tweak foxtrot 9ba14d
+trim zulu 234f0b
+tweak lima 9bd6d7
