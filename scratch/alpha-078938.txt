@@ -1,4 +1,3 @@
 update zulu e71475
 wire lattice d1563f
-nudge golf d322e3
 update uniform b173dd
