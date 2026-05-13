@@ -3,3 +3,7 @@ tweak charlie 4ddc57
 bump hotel da6c23
 refactor uniform bdb717
 update yankee 806910
+polish uniform 5eab70
+tweak romeo fec321
+refactor oscar 97df8d
+cleanup victor 9cb98c
