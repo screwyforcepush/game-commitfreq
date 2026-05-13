@@ -13,3 +13,5 @@ polish prism 785ee3
 rework uniform 155e74
 trim echo 1a2118
 update kilo a431f7
+cleanup november d3f1e7
+cleanup mike 46498d
