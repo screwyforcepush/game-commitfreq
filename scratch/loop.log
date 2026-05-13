@@ -48584,3 +48584,4 @@ To https://github.com/screwyforcepush/game-commitfreq.git
 18/639  fix: nudge bravo                              drop hotel-f2853e.dat
 19/639  fix: echo polishs                             drop charlie-acfbc9.csv
 20/639  fix: seed harbor (8fdd2b)                     modify hotel-e16433.dat:1
+21/639  fix: trim mike for lattice                    rename yankee-3f1c25.txt -> charlie-1c959b.dat
