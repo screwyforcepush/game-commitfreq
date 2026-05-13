@@ -17,3 +17,5 @@ refactor sierra ee1726
 tidy prism b8213f
 nudge oscar aba1f1
 tidy india 53d0aa
+update alpha 8e7d39
+rework quebec 97f420
