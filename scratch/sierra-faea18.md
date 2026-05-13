@@ -5,3 +5,5 @@ wire lattice ceb350
 adjust cobalt 7781ea
 seed ember 1438d3
 tweak juliet 2e9a2d
+trim harbor aa5af1
+tidy bravo 9e23a5
