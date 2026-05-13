@@ -1,4 +1,0 @@
-tidy tango 4473a1
-tune whiskey f34378
-rework nimbus 387c4f
-adjust mike edf157
