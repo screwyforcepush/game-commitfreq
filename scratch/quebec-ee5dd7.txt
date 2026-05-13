@@ -2,7 +2,7 @@ expand quebec 1d9d88
 tune lima 944303
 expand prism 7947b6
 seed delta 0f2420
-trim uniform a468db
+rework yankee 2e50cc
 rework quebec 2580c2
 cleanup romeo 4a3907
 prune india d21081
