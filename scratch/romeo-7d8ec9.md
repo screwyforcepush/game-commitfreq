@@ -15,3 +15,7 @@ trim echo 1a2118
 update kilo a431f7
 cleanup november d3f1e7
 cleanup mike 46498d
+tune zulu b3617c
+tidy ember c7ad4b
+polish quebec 467e6a
+tweak quebec 044e3f
