@@ -7,3 +7,5 @@ seed hotel ecf9e7
 cleanup mike c888eb
 refactor bravo 51f136
 polish charlie bce640
+rework november b520a7
+polish mike 7ab2b9
