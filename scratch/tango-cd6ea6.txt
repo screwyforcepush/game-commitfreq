@@ -19,3 +19,5 @@ tweak november f26403
 tidy quebec 5fc7a3
 trim whiskey 8f2536
 rework zulu 3a4608
+tune yankee 95fdd5
+rework november 01bc73
