@@ -1,3 +1,7 @@
 prune mike d71e42
 refactor echo 7101bc
 tune ember db8354
+adjust oscar 28f6cc
+tune xray d583af
+nudge nimbus 1c4992
+tune victor d53e9e
