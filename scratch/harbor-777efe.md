@@ -1,2 +1,2 @@
 tidy hotel 0868bf
-tidy yankee 0f14f2
+prune juliet 21da24
