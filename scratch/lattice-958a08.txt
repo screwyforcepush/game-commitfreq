@@ -4,3 +4,7 @@ trim quebec ea4916
 tune ember f4667e
 wire charlie 8949a8
 adjust cobalt d4a3aa
+adjust cobalt ff142a
+wire zulu 3f2b56
+wire prism 94c660
+polish tango c00aa0
