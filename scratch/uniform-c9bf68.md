@@ -3,3 +3,6 @@ nudge solstice 99a7e6
 trim ember 2d7807
 nudge hotel 1802d6
 trim nimbus 397f28
+prune nimbus 541d0f
+expand juliet 5ed5da
+adjust nimbus 5d2c2b
