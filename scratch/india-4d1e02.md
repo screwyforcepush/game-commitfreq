@@ -1,2 +1,2 @@
-seed echo 084f8c
+adjust november 38a601
 nudge quebec 46f507
