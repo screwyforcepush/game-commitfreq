@@ -6,3 +6,7 @@ adjust golf c683d2
 cleanup harbor 350f65
 trim nimbus dc6ea3
 cleanup juliet 10c071
+expand india 9c0906
+refactor yankee 0eaddd
+tune charlie 10e7ac
+tweak sierra 86a554
