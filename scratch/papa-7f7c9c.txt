@@ -1,6 +1,0 @@
-polish golf 64d4c2
-cleanup whiskey f7146a
-tune lima fd19aa
-nudge ember 28938d
-adjust nimbus 312d64
-seed yankee 54d7c3
