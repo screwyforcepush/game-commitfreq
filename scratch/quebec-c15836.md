@@ -5,3 +5,6 @@ refactor ember a630ae
 polish sierra 3babc6
 adjust tango 8fd7ad
 expand zulu 472004
+tune yankee 7cf090
+tune hotel 0d9b4d
+refactor lattice 1c0f72
