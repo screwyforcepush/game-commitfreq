@@ -1,4 +1,3 @@
-rework xray ffa53c
 adjust foxtrot e33b5d
 tune delta b4939c
 rework delta 48518e
