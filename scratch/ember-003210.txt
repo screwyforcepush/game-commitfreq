@@ -1,3 +1,0 @@
-refactor quebec ba30a4
-tweak bravo 78baf7
-refactor hotel 704cea
