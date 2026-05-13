@@ -1,4 +1,3 @@
 rework cobalt 31e7a6
-update echo bb17a4
 update charlie e9049f
 seed nimbus 0c4f2d
