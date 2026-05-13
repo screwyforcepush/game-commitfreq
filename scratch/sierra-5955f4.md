@@ -3,3 +3,6 @@ expand echo e59dfd
 tune lima b9b632
 adjust kilo d1780d
 tweak solstice daa18b
+cleanup juliet 27c63f
+wire echo 1ce4bf
+tweak mike 3fc38d
