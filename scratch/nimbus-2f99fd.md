@@ -3,5 +3,4 @@ nudge hotel b96dcb
 nudge foxtrot b05166
 bump lattice 36b170
 tidy lima bde948
-wire zulu 3549c7
 nudge charlie 330b39
