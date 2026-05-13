@@ -9,7 +9,7 @@ update romeo 3353aa
 refactor zulu 2fe32e
 expand romeo 18fa5a
 refactor november 7a17fb
-polish juliet afffa0
+cleanup lattice 2c656d
 bump victor dd721b
 refactor prism c4a7b6
 trim romeo a81a38
