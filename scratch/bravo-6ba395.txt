@@ -1,5 +1,4 @@
 expand foxtrot 07a5fd
 bump bravo eafbfe
 adjust xray 6a146b
-wire sierra 010dda
 tidy golf a201bc
