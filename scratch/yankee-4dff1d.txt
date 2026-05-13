@@ -1,6 +1,0 @@
-expand hotel 2805ce
-polish delta ca4a86
-prune tango 42c6d9
-seed quebec f15c8e
-tweak mike c8e116
-bump alpha 5d566f
