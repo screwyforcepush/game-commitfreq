@@ -1,7 +1,0 @@
-update india 542be2
-seed papa 65129c
-prune oscar b5ade3
-nudge juliet 73f56a
-polish zulu b5fb27
-nudge papa 9d21e5
-tidy foxtrot c3d412
