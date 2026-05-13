@@ -47552,3 +47552,4 @@ To https://github.com/screwyforcepush/game-commitfreq.git
 521/560  fix: sierra bumps                             append prism-f745ce.csv
 522/560  expand prism                                  rename india-529712.dat -> bravo-44e05a.dat
 523/560  fix: zulu bumps                               drop golf-bb8bc0.log
+524/560  fix: expand prism (41e1a2)                    trim charlie-50be84.dat:2
