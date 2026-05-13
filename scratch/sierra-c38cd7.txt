@@ -11,7 +11,6 @@ tune kilo b8f26f
 nudge romeo 8482a3
 wire juliet 2e4b66
 tweak solstice 617edd
-nudge golf a0bba5
 tidy charlie 0edc68
 bump sierra 560813
 tweak golf 782bda
