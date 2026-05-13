@@ -1,3 +1,2 @@
 adjust kilo 5c4824
-seed xray 88ab2b
 trim papa 76889b
