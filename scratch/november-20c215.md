@@ -1,5 +1,5 @@
 tune kilo 253f05
-adjust charlie 401112
+update solstice c88feb
 tune solstice cfb7fd
 tweak delta 3180ee
 tune foxtrot 040463
