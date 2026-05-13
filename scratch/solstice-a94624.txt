@@ -3,4 +3,4 @@ prune xray 6fb015
 prune echo 39b2d5
 refactor delta dd6183
 trim lattice 87596d
-prune oscar eaa72a
+wire zulu ece0a8
