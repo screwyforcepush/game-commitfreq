@@ -5,3 +5,5 @@ wire bravo 85c0d2
 nudge bravo 45887a
 expand charlie 4684a1
 nudge november 21247b
+trim november d55db3
+tweak papa 2672ec
