@@ -11,6 +11,6 @@ expand whiskey f60fea
 bump foxtrot 690d8e
 seed oscar 5e49da
 nudge quebec 9fcf09
-bump kilo c1f570
+tune delta b458e9
 trim lattice 6ff96f
 cleanup oscar c19f71
