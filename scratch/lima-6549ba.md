@@ -4,3 +4,7 @@ prune golf 5adff5
 tidy romeo 127b8a
 rework cobalt 3f50dd
 update golf e444d8
+rework lattice 7dc3f9
+tune uniform cd56ab
+expand golf 58a54d
+tweak tango 25df68
