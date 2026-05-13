@@ -4,3 +4,7 @@ rework juliet 70cbdd
 tune solstice d1a371
 rework nimbus ebfac3
 cleanup juliet 80ad1f
+prune yankee a4a32b
+cleanup zulu bbca96
+tweak nimbus 7c671c
+tune victor 0c88c9
