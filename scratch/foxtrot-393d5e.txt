@@ -2,3 +2,4 @@ bump alpha 07f99c
 adjust juliet 211ba8
 nudge delta 1a1762
 cleanup mike b21c62
+nudge quebec 993696
