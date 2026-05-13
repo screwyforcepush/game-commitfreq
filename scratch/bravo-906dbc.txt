@@ -4,4 +4,3 @@ update hotel 4e0355
 cleanup whiskey c7698a
 bump harbor 9b3b72
 prune prism a37ac4
-rework solstice 97be20
