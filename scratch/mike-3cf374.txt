@@ -1,5 +1,0 @@
-trim lima 8d6044
-tune whiskey 29c8e8
-expand india cc5f85
-adjust quebec ff9411
-prune papa 37c35c
