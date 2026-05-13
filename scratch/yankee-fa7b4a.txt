@@ -8,3 +8,7 @@ tune foxtrot c7acf6
 prune nimbus 8876df
 wire charlie 44d8f7
 tweak delta c24875
+prune zulu 96578b
+update yankee 99265a
+wire charlie 745777
+expand lattice 7849d0
