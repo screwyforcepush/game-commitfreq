@@ -3,7 +3,7 @@ trim harbor 0c4a76
 adjust tango d68dfa
 cleanup harbor b48e1b
 nudge foxtrot b05166
-expand sierra 0e118a
+bump lattice 36b170
 tidy lima bde948
 update victor 4a1abd
 wire zulu 3549c7
