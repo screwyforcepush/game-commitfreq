@@ -5,5 +5,4 @@ bump foxtrot 8c68d0
 trim alpha b4648f
 adjust juliet aedf50
 tweak nimbus 4cd595
-polish yankee 057287
 prune solstice d56bf9
