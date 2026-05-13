@@ -7,3 +7,6 @@ expand india bf071e
 wire whiskey bdff2f
 seed nimbus 72e0af
 tidy hotel 3fc56e
+tweak xray 5f1f01
+nudge hotel e5b23f
+nudge whiskey b5a4b7
