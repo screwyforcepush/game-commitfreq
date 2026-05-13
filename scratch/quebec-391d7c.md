@@ -5,3 +5,6 @@ seed lattice 613304
 adjust solstice 161747
 rework papa aabb4f
 tidy golf 680f59
+nudge sierra 5ffa92
+bump tango 43309c
+cleanup xray 2ce35a
