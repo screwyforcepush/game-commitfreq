@@ -3,7 +3,6 @@ polish prism 49ead9
 wire golf f39a93
 polish bravo 8c22ce
 nudge charlie a21f5d
-expand prism 54e687
 cleanup oscar b7e33c
 refactor bravo 12d403
 tweak xray 8de288
