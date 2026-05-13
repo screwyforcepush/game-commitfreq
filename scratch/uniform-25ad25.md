@@ -11,3 +11,6 @@ bump hotel 8a0c0b
 cleanup hotel 6302da
 bump xray 82ee0f
 adjust solstice aadea6
+bump prism fcf3b6
+seed juliet 6469a1
+tune charlie 9b789a
