@@ -10,3 +10,4 @@ rework harbor 451d6e
 bump hotel 8a0c0b
 cleanup hotel 6302da
 bump xray 82ee0f
+adjust solstice aadea6
