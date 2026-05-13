@@ -2,7 +2,7 @@ polish whiskey 22f884
 adjust cobalt f5b7b3
 prune solstice f106ca
 tweak alpha aebd60
-polish hotel b9b293
+adjust quebec ebbe4c
 nudge solstice eb319f
 expand yankee 2fbf11
 cleanup golf b892d5
