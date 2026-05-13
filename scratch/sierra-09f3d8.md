@@ -9,7 +9,6 @@ refactor solstice fcc793
 tune harbor 99238e
 wire nimbus e3040f
 adjust victor c97613
-update prism bfcc64
 wire india d85957
 tune prism cb592f
 bump victor 7fd266
