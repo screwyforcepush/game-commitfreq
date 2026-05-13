@@ -20,3 +20,7 @@ adjust ember 8a6c99
 trim juliet 91da12
 wire xray cdfd42
 tidy mike 957cbf
+nudge india 12365a
+nudge juliet a55b83
+prune golf 5c5e5b
+bump tango 6b91b0
