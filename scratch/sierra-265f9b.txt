@@ -1,5 +1,4 @@
 wire harbor f0efe7
-prune foxtrot 32206e
 wire victor 0a9632
 tune romeo 70effd
 tidy oscar 608c38
