@@ -1,4 +1,4 @@
-bump juliet 580742
+prune tango c4700e
 wire whiskey 05ab43
 adjust yankee 019a9b
 tune nimbus 99bb38
