@@ -4,7 +4,6 @@ tune solstice cfb7fd
 tweak delta 3180ee
 refactor foxtrot d21a53
 refactor uniform 639802
-tidy hotel b73f1d
 tune foxtrot 08082f
 nudge oscar 56a186
 refactor oscar 482054
