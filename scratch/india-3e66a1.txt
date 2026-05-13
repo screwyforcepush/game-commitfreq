@@ -1,0 +1,6 @@
+trim november dcad12
+rework lima eacbd4
+tidy prism 580ac4
+tidy lattice c160ed
+polish yankee e7a0ac
+tune november 7fb729
