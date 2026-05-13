@@ -1,5 +1,4 @@
 trim yankee 8e66e3
-polish november d2ce10
 tidy juliet 70869e
 tidy tango eba47e
 tidy november 42b3f0
