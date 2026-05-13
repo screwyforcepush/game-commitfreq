@@ -4,3 +4,6 @@ bump foxtrot 45e4a4
 tweak nimbus 0a53c9
 trim lima cbd26b
 polish lattice a5edde
+update xray cb332d
+tune bravo 692c93
+update solstice 54d649
