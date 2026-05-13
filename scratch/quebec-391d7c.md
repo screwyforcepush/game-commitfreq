@@ -10,3 +10,7 @@ bump tango 43309c
 cleanup xray 2ce35a
 tune yankee e7c7aa
 refactor tango 348f41
+trim sierra cdbb5d
+wire november c069fa
+tweak victor 7b2696
+tidy charlie 28fe2c
