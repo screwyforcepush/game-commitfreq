@@ -4,7 +4,6 @@ trim uniform 282123
 seed alpha c78f80
 cleanup solstice ddb38e
 tidy alpha 2b98fc
-prune golf cfc80c
 refactor echo f42951
 tweak yankee 56d1a8
 rework alpha dc9a65
