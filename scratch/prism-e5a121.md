@@ -2,3 +2,6 @@ prune india f7eeef
 tidy charlie a2584f
 rework quebec 3a0d1c
 seed papa 0ab825
+nudge solstice af429a
+trim mike 9f0cc9
+tidy golf 5b970b
