@@ -2,7 +2,6 @@ prune cobalt dd54b9
 trim ember aec07b
 prune mike 3e3557
 wire prism 90dabc
-seed bravo f1486f
 tidy kilo 2632bd
 seed prism 3366d8
 tidy papa f7ec3d
