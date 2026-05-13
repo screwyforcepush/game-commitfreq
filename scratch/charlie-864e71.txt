@@ -1,8 +1,0 @@
-polish yankee 82576a
-refactor lima a86997
-refactor oscar 11414d
-cleanup kilo f9fcb6
-adjust xray 6655ac
-tune lima 2c75e0
-rework bravo 9f264e
-trim delta 819195
