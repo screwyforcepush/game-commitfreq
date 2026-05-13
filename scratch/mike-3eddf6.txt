@@ -1,3 +1,5 @@
 refactor mike 72a5ef
 nudge kilo 05225b
 refactor lattice 71b604
+bump hotel b61c2d
+nudge delta 79ae0e
