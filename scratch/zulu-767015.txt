@@ -1,5 +1,4 @@
 cleanup lattice 1363dc
-cleanup delta 06f8fb
 cleanup mike 623c0e
 tweak zulu 77dc7d
 refactor november f1d314
