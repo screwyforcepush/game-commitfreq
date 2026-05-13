@@ -1,7 +1,7 @@
 seed victor 8dc384
 expand foxtrot 893779
 nudge golf 446eb3
-adjust november 81185f
+adjust ember ee7839
 nudge uniform fb52b0
 tune november eba664
 tune zulu 1639cf
