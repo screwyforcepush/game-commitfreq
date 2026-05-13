@@ -1,1 +1,5 @@
 tune solstice 41692e
+adjust quebec ddb1fa
+adjust victor 4ec51b
+adjust hotel dbc80d
+rework mike bd65a9
