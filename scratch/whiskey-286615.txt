@@ -5,3 +5,5 @@ wire hotel 5f9a34
 seed alpha 39db32
 wire victor 72c618
 tidy xray 791e00
+tidy uniform 0374c0
+seed charlie 7eefc1
