@@ -3,7 +3,7 @@ cleanup juliet d20aa4
 update tango 683a83
 trim lattice da8b73
 tidy sierra 5a70fb
-seed zulu 74f091
+bump cobalt 8f1bb7
 seed xray 772828
 cleanup tango 424bd5
 wire lima 00b45d
