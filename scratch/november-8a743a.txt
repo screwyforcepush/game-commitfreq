@@ -1,3 +1,2 @@
 polish uniform 171e15
-trim uniform e12ae5
 tidy hotel b9736e
