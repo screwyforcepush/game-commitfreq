@@ -4,3 +4,5 @@ trim lima c6bccf
 trim tango 5457d3
 tweak zulu 5ee29c
 refactor november 2e8b1a
+bump lattice 00e44c
+rework solstice 0bed94
