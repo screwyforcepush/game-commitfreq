@@ -1,1 +1,1 @@
-wire whiskey 413ddd
+trim nimbus 8dd987
