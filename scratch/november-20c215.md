@@ -3,7 +3,6 @@ tweak victor 9a1435
 tune solstice cfb7fd
 tweak delta 3180ee
 refactor foxtrot d21a53
-refactor uniform 639802
 tune foxtrot 08082f
 nudge oscar 56a186
 bump ember 4cc667
