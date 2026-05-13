@@ -4,7 +4,7 @@ trim lattice 598cf7
 nudge delta eb43bf
 trim lima 50d503
 tidy kilo 97cb42
-adjust delta 5ce622
+expand delta 6536a0
 tidy cobalt 0f5c32
 expand uniform 7249c6
 cleanup nimbus 6c93c5
