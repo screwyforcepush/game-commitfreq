@@ -1,2 +1,2 @@
 prune bravo 26a76e
-prune yankee 2a23ab
+trim zulu 56dac3
