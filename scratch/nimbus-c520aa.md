@@ -1,6 +1,5 @@
 bump juliet 7997cc
 refactor cobalt 3a7ba2
-update delta 5f2f44
 prune solstice 9dce03
 prune india e48e2a
 cleanup sierra db17d3
