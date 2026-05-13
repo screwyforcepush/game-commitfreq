@@ -9,7 +9,7 @@ tune mike 74fc8d
 bump juliet 42239a
 bump lattice a02536
 wire echo f28f45
-tidy echo c6546d
+tweak kilo e6cc47
 adjust charlie 2a8a2b
 tidy whiskey b05f21
 update zulu 71f63b
