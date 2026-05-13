@@ -12,3 +12,6 @@ wire ember a97809
 rework oscar f1cbbe
 refactor juliet 3f1967
 tweak hotel 3df216
+tweak yankee 6b8a7d
+rework delta d24255
+expand papa ad4b9c
