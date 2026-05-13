@@ -1,7 +1,6 @@
 rework uniform 131f2f
 trim mike 484d85
 rework quebec f439d6
-wire lattice ceb350
 tweak solstice 304df3
 seed ember 1438d3
 tweak juliet 2e9a2d
