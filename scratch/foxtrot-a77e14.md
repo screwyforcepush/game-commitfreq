@@ -5,3 +5,6 @@ seed romeo d48ecd
 nudge nimbus 7bc56c
 tidy solstice 5c26c0
 update foxtrot a446fe
+prune nimbus 7bf40f
+trim hotel 02140f
+tweak prism 9ce811
