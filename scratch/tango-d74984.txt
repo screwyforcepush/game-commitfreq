@@ -2,7 +2,7 @@ tweak november 3468c2
 wire charlie 7c4f91
 tune delta a7a9cb
 cleanup oscar 8e8fdc
-tune cobalt 538e4e
+seed bravo 4302c1
 bump papa 4909eb
 bump sierra 799a30
 polish delta c36a69
