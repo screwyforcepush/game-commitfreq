@@ -12,3 +12,7 @@ wire nimbus e3040f
 seed lattice a54c85
 adjust victor c97613
 wire victor 61563b
+update prism bfcc64
+wire india d85957
+tune prism cb592f
+bump victor 7fd266
