@@ -11,6 +11,5 @@ nudge ember 343c0e
 wire tango 43a6b3
 cleanup echo 640cb1
 wire mike 6a44f8
-bump victor 8ec438
 polish quebec b92ad9
 refactor juliet 6efe01
