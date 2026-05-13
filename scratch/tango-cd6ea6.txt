@@ -15,3 +15,7 @@ nudge india 098a15
 nudge delta 86a037
 tidy cobalt c3ea4b
 expand delta 7254bd
+tweak november f26403
+tidy quebec 5fc7a3
+trim whiskey 8f2536
+rework zulu 3a4608
