@@ -1,6 +1,5 @@
 rework bravo b1ccc6
 prune xray 6fb015
 prune echo 39b2d5
-refactor delta dd6183
 trim lattice 87596d
 wire zulu ece0a8
