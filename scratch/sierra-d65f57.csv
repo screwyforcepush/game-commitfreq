@@ -2,7 +2,7 @@ seed nimbus 5af550
 trim echo f640be
 tune oscar e7dfcb
 tune charlie 0d336c
-nudge prism ac5165
+bump xray 717e47
 cleanup delta 0c8412
 expand kilo 731102
 adjust foxtrot caa15a
