@@ -1,1 +1,3 @@
 expand prism c4130e
+seed echo 88589f
+adjust cobalt 278382
