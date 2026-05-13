@@ -3,7 +3,6 @@ tune sierra f5ee9a
 prune harbor 49f93b
 update sierra 6083c3
 refactor xray efe53a
-seed whiskey d4e8a6
 cleanup tango 9ab818
 tune xray 5c1035
 nudge alpha e412f8
