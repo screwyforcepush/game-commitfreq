@@ -1,4 +1,3 @@
 tidy lima 7e0837
 expand echo 1066cf
-bump xray afc169
 nudge alpha a56555
