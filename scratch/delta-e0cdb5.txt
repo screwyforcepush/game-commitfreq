@@ -1,6 +1,5 @@
 seed mike 40e5a5
 prune oscar da0b9c
-wire delta 865591
 nudge mike 685e52
 adjust golf c683d2
 cleanup harbor 350f65
