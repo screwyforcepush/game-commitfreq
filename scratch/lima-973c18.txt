@@ -4,3 +4,6 @@ update uniform e982b0
 refactor whiskey a1aa94
 cleanup delta b12bd9
 cleanup yankee 738e47
+update alpha 519998
+tidy quebec 4c44b3
+tweak nimbus 054de0
