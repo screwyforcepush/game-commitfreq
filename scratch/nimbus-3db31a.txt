@@ -4,3 +4,7 @@ tune golf efb711
 polish nimbus 26d2ee
 rework echo 5cabbf
 prune cobalt 691713
+wire delta e352c8
+tune zulu 60f173
+bump nimbus ec2406
+update romeo f67242
