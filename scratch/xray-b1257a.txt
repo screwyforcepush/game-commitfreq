@@ -1,6 +1,5 @@
 rework delta fcee67
 rework foxtrot 4e32ae
-adjust kilo 55eb93
 update mike f4a71c
 refactor echo 89b22c
 update xray aeaad6
