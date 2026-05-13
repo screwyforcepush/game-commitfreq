@@ -2,5 +2,4 @@ adjust romeo 32e203
 tweak zulu 012441
 tidy lima e94861
 rework delta 92500a
-wire quebec da2830
 rework juliet c7911b
