@@ -4,3 +4,6 @@ polish prism b3d3f8
 tweak prism b1b473
 refactor quebec a9f3bc
 trim oscar 2ebc58
+update echo bba976
+tweak hotel ee2b45
+bump prism 52d8ef
