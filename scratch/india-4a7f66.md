@@ -1,2 +1,2 @@
-seed victor 07e02a
+trim cobalt e43948
 nudge alpha 05ba09
