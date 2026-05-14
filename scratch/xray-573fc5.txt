@@ -2,3 +2,5 @@ update kilo 73c44d
 nudge prism 6b5e32
 trim golf 6999a2
 nudge quebec 8744b6
+nudge bravo 73c32e
+wire oscar b9bf80
