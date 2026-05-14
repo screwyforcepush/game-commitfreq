@@ -1,5 +1,0 @@
-polish quebec b67498
-refactor papa 4ec58d
-adjust yankee 3d50a6
-seed tango 60012b
-tune papa dc1195
