@@ -1,4 +1,0 @@
-seed solstice c8acba
-adjust alpha a042f7
-bump tango 50ec72
-tidy kilo ba2769
