@@ -2,3 +2,7 @@ tune ember 3e9600
 nudge sierra ec6b1d
 seed juliet 3dfe46
 tune prism 5c209e
+bump hotel 1eb082
+rework harbor 432fdb
+adjust harbor 75a6f8
+bump lattice bdd573
