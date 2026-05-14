@@ -1,7 +1,6 @@
 wire prism c9e165
 prune nimbus 753cb4
 adjust sierra dd1f02
-refactor foxtrot 68218a
 nudge prism c41677
 adjust ember ea457c
 refactor ember cf5cfe
