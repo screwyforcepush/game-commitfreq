@@ -5,7 +5,7 @@ update solstice 857eb1
 prune xray 811533
 refactor quebec 22249c
 tweak november a35c42
-wire nimbus 693dc4
+adjust lattice d49c83
 adjust hotel 36dca2
 nudge harbor d5b0b5
 seed romeo ca0495
