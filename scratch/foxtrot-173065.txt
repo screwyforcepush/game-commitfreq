@@ -1,7 +1,6 @@
 polish papa 8db40d
 polish romeo 1f2991
 nudge romeo c2a052
-rework november f93c5f
 update echo 68b061
 cleanup uniform 83603a
 update lattice 2cfd54
