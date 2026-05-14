@@ -8,3 +8,7 @@ prune lattice a7edb1
 rework oscar 2b92f0
 prune tango 93ddaf
 nudge bravo 9d3201
+trim november 2fd48f
+tune echo c3bca9
+adjust golf ad5f60
+adjust romeo 3fff07
