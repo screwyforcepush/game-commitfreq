@@ -5,7 +5,6 @@ polish hotel 6d4589
 nudge romeo 4323e7
 polish bravo 36e8c9
 prune oscar e5e995
-bump uniform 58bc2e
 cleanup solstice 50038b
 prune tango 2ff198
 tidy nimbus 826c2f
