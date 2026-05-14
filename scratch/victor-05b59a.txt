@@ -1,5 +1,4 @@
 rework tango 723c81
 bump bravo 667a6c
-tidy delta d61d52
 tidy sierra 5ebd1a
 rework oscar 190b51
