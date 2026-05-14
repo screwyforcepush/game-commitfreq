@@ -6,7 +6,6 @@ tidy xray 302602
 adjust sierra facbee
 polish nimbus 1be70b
 prune papa cc45fc
-seed whiskey 6d92c4
 expand delta 95ddc8
 nudge delta 668a85
 tweak harbor af32e6
