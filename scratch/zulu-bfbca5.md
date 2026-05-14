@@ -3,5 +3,5 @@ refactor golf 60d610
 prune quebec 359c15
 expand charlie 66b029
 tidy delta 7547fe
-rework xray f15587
+cleanup tango 8e0216
 bump golf e11a4b
