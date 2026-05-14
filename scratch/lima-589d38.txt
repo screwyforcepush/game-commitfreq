@@ -1,5 +1,4 @@
 wire solstice 599098
 tidy kilo cbcd41
 bump lima f00dec
-tune sierra a2620e
 tweak yankee 6f523a
