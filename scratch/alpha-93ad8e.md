@@ -10,3 +10,6 @@ refactor juliet ac2325
 expand tango 7bd9bb
 refactor ember 93dddf
 wire lattice a8632d
+cleanup uniform 5d278a
+cleanup nimbus dbe7d7
+rework echo e6c913
