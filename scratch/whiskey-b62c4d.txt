@@ -8,3 +8,6 @@ refactor lattice 279ccb
 wire sierra 9173ef
 prune yankee c24842
 cleanup prism 33654d
+refactor tango a4737e
+tweak cobalt 7d03fc
+wire cobalt 7ee00d
