@@ -8,3 +8,6 @@ rework papa 26cab2
 expand mike 39b899
 prune nimbus ef7664
 tweak quebec fba350
+refactor alpha 0d08fd
+adjust cobalt e38efa
+rework yankee 0e934a
