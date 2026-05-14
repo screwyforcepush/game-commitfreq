@@ -3,3 +3,7 @@ wire tango c5ec6f
 cleanup nimbus 41584c
 trim quebec 622709
 adjust lattice 2176f6
+tidy juliet f97acf
+nudge oscar ac2ce3
+nudge lattice 1b64e4
+tweak golf daa059
