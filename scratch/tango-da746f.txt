@@ -6,7 +6,6 @@ update hotel dec989
 tweak echo d86396
 update harbor 9fbae5
 polish lima cf3fb5
-seed sierra f694ba
 tweak sierra e91105
 cleanup cobalt 8fc89a
 refactor tango cda7e6
