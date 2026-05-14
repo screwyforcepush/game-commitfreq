@@ -2,3 +2,5 @@ adjust november 68a77c
 rework mike 3b4c9f
 adjust tango a5ed9f
 tidy mike 89cbd5
+rework mike 882390
+refactor quebec 28ca1e
