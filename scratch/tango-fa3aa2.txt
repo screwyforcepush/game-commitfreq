@@ -1,4 +1,0 @@
-prune echo 7ccb3e
-adjust prism 584705
-cleanup cobalt ca56dc
-polish prism e74371
