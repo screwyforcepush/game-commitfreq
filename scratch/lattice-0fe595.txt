@@ -1,7 +1,6 @@
 tweak hotel 3c0cc6
 bump lima 63b3e8
 bump ember f79aba
-prune papa f43885
 seed oscar 97ba57
 bump bravo e18a50
 wire bravo b6f4f0
