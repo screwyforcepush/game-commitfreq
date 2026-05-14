@@ -3,3 +3,4 @@ tune xray bed7fa
 refactor solstice 931ed3
 wire ember 037995
 seed tango cb7022
+prune tango e6ac08
