@@ -24,3 +24,5 @@ trim delta 2ea78d
 prune solstice 1485e7
 prune uniform ce0f00
 rework victor 2e8f0d
+trim echo 03cd83
+polish zulu a80420
