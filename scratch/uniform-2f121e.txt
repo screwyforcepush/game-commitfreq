@@ -5,7 +5,7 @@ update delta fe18c1
 update victor 649821
 bump november 504e79
 refactor mike c60d39
-trim mike 44c3e2
+trim foxtrot dd2d1b
 update lattice b27078
 prune zulu 409a0f
 polish oscar 8ccaaf
