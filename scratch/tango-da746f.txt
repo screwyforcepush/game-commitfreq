@@ -13,3 +13,6 @@ refactor tango cda7e6
 expand lattice d26d9f
 tidy hotel 7a8684
 tidy sierra 468732
+tune november 736bd5
+nudge zulu 97da0b
+rework sierra 8cbe99
