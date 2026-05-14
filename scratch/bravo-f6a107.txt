@@ -8,3 +8,6 @@ polish india 5422aa
 refactor delta c3f7f6
 seed mike cdcf25
 cleanup alpha e0f8a1
+tune whiskey 1e071f
+update sierra e239f9
+tune tango 3aaced
