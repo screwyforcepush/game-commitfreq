@@ -2,7 +2,7 @@ bump india bd0c87
 seed uniform 5fb76d
 update nimbus 5ba0fb
 nudge hotel 83a9ae
-prune hotel 606d19
+trim victor f87b99
 bump mike a3cd77
 tune uniform 9d6994
 wire kilo cdcb4b
