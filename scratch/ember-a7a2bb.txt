@@ -6,3 +6,6 @@ tune yankee 3e0613
 rework bravo 33d5c1
 trim november 7c3b00
 polish bravo b9dd20
+polish november 6b3df5
+wire alpha 046455
+polish nimbus a53620
