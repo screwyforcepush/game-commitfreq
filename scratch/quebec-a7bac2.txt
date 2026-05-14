@@ -13,3 +13,6 @@ seed mike 5a94d2
 prune quebec 973784
 adjust kilo 5da893
 refactor ember 0752ed
+polish sierra c0d6ce
+rework tango c008c1
+expand yankee fc72ab
