@@ -1,6 +1,0 @@
-prune bravo 2f59b5
-prune zulu c38421
-tune kilo 898d26
-tweak zulu d520b0
-nudge echo c99aac
-wire yankee 480ea9
