@@ -4,3 +4,7 @@ wire mike 874721
 tweak papa dc1f70
 expand solstice a7165f
 tidy zulu 5eb994
+polish nimbus 9400a9
+wire sierra f03a87
+tweak oscar 7f62f1
+tweak kilo 97c692
