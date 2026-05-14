@@ -4,3 +4,7 @@ update charlie a2f328
 refactor nimbus e9808c
 tune whiskey 7a8d53
 cleanup foxtrot d35aad
+cleanup november 49f305
+cleanup ember 0c1baa
+wire whiskey e3f474
+tweak lima 997916
