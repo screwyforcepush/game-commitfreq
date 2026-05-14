@@ -5,7 +5,6 @@ adjust ember 1d9a5a
 refactor whiskey 8a8bf4
 tidy charlie ec0d4c
 refactor sierra 4d5058
-wire golf d23299
 update tango 35d6c8
 prune quebec e91eaa
 tweak lima 2ac4ff
