@@ -1,3 +1,7 @@
 wire foxtrot 714359
 rework juliet caf61a
 adjust charlie 24be29
+seed lattice 7ffad4
+wire nimbus a8aa75
+tune kilo a96579
+nudge charlie a06e0d
