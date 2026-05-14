@@ -1,5 +1,5 @@
 update echo b02259
-bump juliet cd2000
+wire tango c0e9be
 wire solstice 033151
 nudge mike 510ac4
 tweak foxtrot 6169fa
