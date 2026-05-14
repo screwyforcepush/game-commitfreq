@@ -18,3 +18,6 @@ refactor yankee 0385a3
 cleanup prism f4ac11
 prune lattice 74cda2
 rework prism 0e76a5
+polish prism e97079
+polish november 4e28ab
+polish lattice b4b544
