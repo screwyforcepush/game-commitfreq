@@ -4,7 +4,6 @@ seed golf 593843
 nudge juliet f8d291
 wire nimbus 8d5b06
 wire foxtrot f28770
-bump xray 5105d0
 update cobalt 0e638d
 trim zulu 8b892b
 expand sierra 84fe54
