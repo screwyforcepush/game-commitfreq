@@ -1,4 +1,0 @@
-prune whiskey 867caf
-update hotel 025c2b
-tune papa 81ad4a
-adjust whiskey ca0213
