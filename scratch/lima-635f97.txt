@@ -3,3 +3,4 @@ wire lima fe4f63
 seed harbor 32d31a
 cleanup alpha 4c9e8c
 prune charlie f306e3
+wire xray 858b10
