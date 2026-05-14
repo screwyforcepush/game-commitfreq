@@ -4,7 +4,6 @@ adjust yankee 4f5277
 prune juliet 84f7de
 tune lattice a7f327
 seed quebec 44bab1
-prune quebec ccee31
 nudge zulu 4fc422
 polish charlie 262c36
 rework cobalt df8887
