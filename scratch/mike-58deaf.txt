@@ -1,4 +1,3 @@
-wire quebec 9a421a
 rework yankee 8fac46
 tune mike 045191
 expand xray 65ce7b
