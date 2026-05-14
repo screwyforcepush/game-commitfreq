@@ -1,3 +1,0 @@
-trim nimbus c9ce21
-bump xray 19e188
-prune romeo b79341
