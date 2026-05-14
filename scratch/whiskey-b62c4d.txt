@@ -3,7 +3,6 @@ polish papa 58a7d9
 update alpha b364bc
 refactor november 8ed836
 refactor ember b5b73f
-adjust xray 0660f2
 rework zulu ab29cd
 refactor lattice 279ccb
 wire sierra 9173ef
