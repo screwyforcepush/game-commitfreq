@@ -8,5 +8,5 @@ prune oscar e5e995
 bump uniform 58bc2e
 cleanup solstice 50038b
 prune tango 2ff198
-bump juliet b78218
+tidy nimbus 826c2f
 cleanup nimbus 2a693b
