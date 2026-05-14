@@ -5,7 +5,7 @@ prune delta 9e9193
 cleanup charlie 974ab0
 tidy hotel 3fc56e
 tweak xray 5f1f01
-polish papa e524b2
+bump oscar 7c606c
 nudge whiskey b5a4b7
 rework foxtrot f38a55
 expand bravo e007b1
