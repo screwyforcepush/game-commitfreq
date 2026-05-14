@@ -4,3 +4,7 @@ bump kilo fa3663
 bump xray 520ce4
 prune alpha ba4d50
 prune quebec 4701b5
+bump golf 3e3b04
+tweak mike 3d51bb
+prune cobalt 3893db
+tweak prism 9516b7
