@@ -6,3 +6,6 @@ prune whiskey 5bc792
 prune mike e8da03
 refactor charlie 8c7222
 expand india 79f489
+cleanup oscar b1c501
+trim zulu 5713df
+tidy bravo a18f4b
