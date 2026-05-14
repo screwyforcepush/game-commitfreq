@@ -1,5 +1,4 @@
 bump bravo 8ea61b
-adjust bravo 96100c
 prune prism 976d8b
 trim nimbus ac5a9b
 nudge quebec b24fb1
