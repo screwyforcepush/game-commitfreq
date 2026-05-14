@@ -1,5 +1,0 @@
-rework tango d5b334
-prune quebec feb5dc
-seed tango 323a60
-polish zulu a1df0d
-tweak november 2d3d1f
