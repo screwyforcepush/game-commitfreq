@@ -14,4 +14,3 @@ seed prism 1f358f
 update sierra c46df9
 polish uniform 9904ef
 polish november c09ece
-seed kilo a98f0c
