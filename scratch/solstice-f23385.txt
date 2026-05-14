@@ -6,5 +6,4 @@ tweak alpha 52c476
 tune nimbus 057f92
 nudge november 4132b4
 tune sierra b3fde3
-wire november b9c0e5
 adjust nimbus 3133c9
