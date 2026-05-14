@@ -9,7 +9,6 @@ expand harbor 0ac45f
 tidy papa 469adb
 polish echo 24648c
 refactor foxtrot b16464
-tidy alpha 395d8f
 adjust alpha ac0888
 adjust lattice 79e4b7
 tweak india 9a5efe
