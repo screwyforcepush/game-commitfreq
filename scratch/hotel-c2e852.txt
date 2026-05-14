@@ -1,5 +1,4 @@
 prune nimbus fc80e1
 seed cobalt 0f9451
 trim alpha 5ea941
-prune ember 749137
 seed tango 171406
