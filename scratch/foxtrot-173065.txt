@@ -4,3 +4,6 @@ seed foxtrot 8af4fc
 nudge romeo c2a052
 rework november f93c5f
 update echo 68b061
+cleanup uniform 83603a
+update lattice 2cfd54
+bump zulu 9ca49b
