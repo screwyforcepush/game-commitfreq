@@ -1,0 +1,5 @@
+expand india 81a7ef
+tweak oscar d9706f
+prune kilo a5d2b9
+tune yankee 4f657a
+polish quebec 0e6d88
