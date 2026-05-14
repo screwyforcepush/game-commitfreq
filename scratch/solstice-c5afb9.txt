@@ -1,2 +1,5 @@
 seed nimbus 52dc2e
 tune echo ee8a5a
+expand mike facc6f
+nudge sierra 8e6eb2
+bump golf fb7687
