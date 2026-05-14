@@ -6,6 +6,5 @@ seed ember c559d8
 polish prism c5d950
 cleanup prism ad0e47
 refactor india bbbd97
-tidy nimbus eae599
 update mike 9d2ec2
 rework india 53c878
