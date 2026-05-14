@@ -12,3 +12,7 @@ polish oscar 8ccaaf
 seed whiskey 13d09a
 cleanup foxtrot 1f26e5
 trim tango 20b084
+adjust uniform eabc9d
+update zulu 490d2d
+adjust kilo 756ed2
+adjust sierra adc546
