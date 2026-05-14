@@ -1,5 +1,0 @@
-wire kilo 99cb96
-cleanup alpha aced57
-adjust oscar 788213
-tidy november 67ff84
-tweak lima 78cae5
