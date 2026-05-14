@@ -1,5 +1,4 @@
 rework lattice be41df
 prune november 5a0ab9
-adjust lattice 46a34c
 seed golf 593843
 nudge juliet f8d291
