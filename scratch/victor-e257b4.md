@@ -5,3 +5,4 @@ prune juliet dfc980
 prune cobalt e4fd4a
 refactor mike 6142c0
 tune alpha 831977
+bump hotel 112a78
