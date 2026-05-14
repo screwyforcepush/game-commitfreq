@@ -9,3 +9,5 @@ polish bravo b9dd20
 polish november 6b3df5
 wire alpha 046455
 polish nimbus a53620
+nudge whiskey c181d0
+seed cobalt 2c5c18
