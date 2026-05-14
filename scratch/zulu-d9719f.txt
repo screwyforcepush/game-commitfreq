@@ -22,6 +22,5 @@ prune tango 4a67cf
 polish papa 452d52
 trim delta 2ea78d
 prune solstice 1485e7
-trim bravo 3f8354
 prune uniform ce0f00
 rework victor 2e8f0d
