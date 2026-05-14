@@ -6,3 +6,5 @@ tidy solstice a416a8
 trim juliet a2d71a
 trim quebec 05cec8
 tweak quebec 70298d
+tidy quebec 73bc49
+prune whiskey dea1e3
