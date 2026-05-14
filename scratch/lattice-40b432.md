@@ -2,7 +2,7 @@ wire romeo b3d720
 adjust india 3b0e95
 wire foxtrot a12489
 prune kilo 4e6da1
-cleanup sierra b0af59
+bump delta 27c01b
 wire sierra 975591
 tweak sierra 4b9cda
 seed oscar 45a518
