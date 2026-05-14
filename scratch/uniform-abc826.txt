@@ -1,6 +1,0 @@
-polish quebec c32696
-trim victor 2190ec
-adjust bravo 04b7f8
-trim romeo b846f2
-refactor tango c73528
-adjust tango 8001cc
