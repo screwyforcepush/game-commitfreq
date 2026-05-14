@@ -1,5 +1,4 @@
 prune uniform 977fa3
-update november a7a794
 refactor bravo 606559
 wire kilo aa417e
 refactor tango 8313a5
