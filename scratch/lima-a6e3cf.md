@@ -3,3 +3,7 @@ rework xray 3d0cc4
 update juliet 5210d8
 rework quebec 1677ee
 tidy delta 530a3b
+expand kilo e36b8d
+tidy ember f0f5fd
+expand oscar c82761
+polish solstice 511c3c
