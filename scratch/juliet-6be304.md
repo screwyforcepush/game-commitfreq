@@ -4,3 +4,6 @@ wire nimbus ce0841
 rework delta a5562b
 tune ember 52c64a
 seed yankee 7c0f18
+rework kilo df3b89
+tune mike cd77fe
+prune lattice 15cd15
