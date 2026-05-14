@@ -6,5 +6,4 @@ update delta fe18c1
 cleanup cobalt aafecf
 bump november 504e79
 refactor mike c60d39
-trim papa 25ac1d
 trim mike 44c3e2
