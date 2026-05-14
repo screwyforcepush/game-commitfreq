@@ -4,3 +4,6 @@ bump india a90656
 trim juliet dd9cea
 nudge xray 9f1cd4
 nudge foxtrot f72e36
+update november c7b72e
+wire zulu 4e5cb0
+tweak juliet 8db3d7
