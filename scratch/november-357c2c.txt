@@ -4,3 +4,5 @@ rework whiskey 098307
 tweak cobalt aa11ce
 update solstice cc7024
 wire sierra a5180f
+prune nimbus ed5b4d
+adjust zulu 1e524e
