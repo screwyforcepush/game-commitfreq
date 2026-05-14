@@ -6,3 +6,6 @@ tune delta 527259
 seed harbor c672b1
 seed zulu d32467
 trim whiskey 50c5b3
+prune whiskey b933f3
+rework quebec 7ba3a7
+rework alpha 22a50a
