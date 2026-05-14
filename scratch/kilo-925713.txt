@@ -4,3 +4,4 @@ nudge mike fb052d
 prune quebec b74e54
 tidy echo 1e6bd9
 wire lattice d896b3
+bump nimbus 7fe43b
