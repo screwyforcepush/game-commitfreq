@@ -1,3 +1,5 @@
 wire xray 01adca
 prune solstice ef7c5e
 nudge echo 7ae752
+seed lattice c48946
+seed zulu e43753
