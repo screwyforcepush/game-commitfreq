@@ -7,3 +7,6 @@ nudge lima ab483c
 nudge sierra 558277
 bump cobalt 60e0c5
 wire romeo 272d02
+trim alpha 2b8079
+prune golf cc14a0
+trim hotel d30796
