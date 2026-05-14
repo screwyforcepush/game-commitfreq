@@ -7,5 +7,5 @@ wire nimbus 932182
 bump zulu 59bbd3
 tune india 4843b7
 seed lattice 997317
-trim whiskey ebc32c
+nudge whiskey 610fcc
 update charlie dce47a
