@@ -2,3 +2,6 @@ rework yankee 8fac46
 wire golf 11b9f3
 expand xray 65ce7b
 wire juliet 31c073
+expand uniform d59b3f
+trim juliet f80bbd
+expand solstice fc4998
