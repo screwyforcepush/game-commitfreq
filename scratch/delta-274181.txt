@@ -4,7 +4,6 @@ bump oscar 045ac7
 update kilo e8193c
 rework nimbus 00210b
 tweak cobalt a7844f
-update lima 5a5580
 refactor juliet 34e158
 refactor lattice 3589bc
 tidy whiskey 1bda5d
