@@ -4,3 +4,6 @@ cleanup quebec e3b945
 tweak kilo dd645d
 bump lima e8471e
 nudge delta d954e0
+rework mike ed45f7
+tidy ember 1c84f9
+trim charlie b43661
