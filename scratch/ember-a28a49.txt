@@ -3,3 +3,7 @@ polish echo 259ee1
 trim foxtrot 1c36c5
 prune juliet 70960c
 cleanup uniform 550320
+expand ember 88ccbc
+expand kilo c3b117
+adjust sierra ffcbad
+tune ember 2619df
