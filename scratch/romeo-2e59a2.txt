@@ -14,6 +14,5 @@ polish xray 8de1bb
 cleanup november 8435f8
 tidy solstice 42f1ae
 nudge yankee 2b6127
-update sierra ea7baa
 trim prism 267093
 trim kilo be0100
