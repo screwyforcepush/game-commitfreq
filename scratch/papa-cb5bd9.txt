@@ -7,6 +7,5 @@ rework harbor 432fdb
 adjust harbor 75a6f8
 bump lattice bdd573
 cleanup golf fe1e87
-update cobalt 53ffaa
 tweak tango 84eec4
 update yankee 65889d
