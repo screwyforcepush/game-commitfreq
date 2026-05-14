@@ -10,3 +10,7 @@ wire whiskey 9415da
 tweak quebec 33c0e4
 polish foxtrot 3fad6d
 tune uniform 56d166
+rework lima 2eca43
+tweak lattice c85e96
+expand prism 4bc271
+bump nimbus 2b5850
