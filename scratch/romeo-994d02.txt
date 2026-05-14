@@ -1,4 +1,4 @@
-tidy uniform 0f99f1
+bump uniform 4bcc20
 adjust solstice 01ec7e
 tweak xray 76f15e
 wire cobalt b078e0
