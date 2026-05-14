@@ -8,3 +8,6 @@ nudge yankee cc2c34
 refactor tango 04b89e
 rework kilo d0a080
 rework delta d3a340
+seed ember 1b84a3
+seed november 6925c6
+trim yankee e574af
