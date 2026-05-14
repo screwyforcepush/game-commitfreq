@@ -11,3 +11,5 @@ tune quebec c79875
 update charlie 8a8776
 adjust alpha be9d04
 trim echo d0fea2
+prune lattice c30fb2
+rework oscar b87434
