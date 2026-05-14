@@ -5,3 +5,5 @@ update bravo a36161
 expand uniform 9396b1
 tidy bravo 879e50
 tweak uniform f8d9e5
+trim quebec 09a367
+trim india 55cac3
