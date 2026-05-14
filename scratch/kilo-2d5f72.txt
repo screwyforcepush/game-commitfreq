@@ -2,6 +2,6 @@ prune tango 601488
 adjust victor 2301e9
 nudge zulu 9fecf6
 wire zulu e63474
-bump oscar 000010
+prune foxtrot 18aa37
 rework foxtrot de336b
 tune bravo feab82
