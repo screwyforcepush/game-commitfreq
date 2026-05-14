@@ -8,7 +8,6 @@ trim charlie b43661
 rework golf 83f91c
 bump xray 16cfdb
 tune whiskey b5538f
-update india 952623
 nudge harbor b5b60c
 trim nimbus 181c11
 cleanup prism 3e045e
