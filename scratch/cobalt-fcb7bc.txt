@@ -1,3 +1,0 @@
-trim echo 161066
-expand yankee 71998f
-expand golf a1c2d1
