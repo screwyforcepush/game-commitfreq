@@ -7,7 +7,6 @@ seed india 50dc35
 wire quebec 72c8e0
 trim india 146246
 expand november 080a8b
-adjust alpha d0ec9d
 wire echo 925b94
 rework prism b367c6
 prune juliet cd7c52
