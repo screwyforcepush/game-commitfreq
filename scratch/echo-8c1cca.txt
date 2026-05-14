@@ -3,3 +3,5 @@ tweak oscar d9706f
 prune kilo a5d2b9
 tune yankee 4f657a
 polish quebec 0e6d88
+tidy whiskey 1336d6
+tune hotel 3097ef
