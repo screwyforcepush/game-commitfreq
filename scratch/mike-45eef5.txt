@@ -19,5 +19,5 @@ polish cobalt f84c10
 polish yankee 3d5239
 update uniform 13ff8b
 nudge whiskey 0cf51c
-bump oscar ac993f
+tune nimbus 2d6880
 nudge cobalt ee21e8
