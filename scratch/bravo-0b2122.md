@@ -5,3 +5,5 @@ wire zulu 2d0928
 rework prism 9f3943
 rework xray 4ef816
 bump kilo 5362a9
+rework whiskey 417d10
+polish echo f0a1c5
