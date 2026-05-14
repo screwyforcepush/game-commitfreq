@@ -9,3 +9,6 @@ tune victor ef0723
 polish golf 314c1f
 rework zulu 64e026
 update nimbus bf5411
+polish november fcf148
+bump nimbus 6ef414
+bump solstice 06dfe5
