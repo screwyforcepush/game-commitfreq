@@ -8,3 +8,6 @@ polish nimbus 9400a9
 wire sierra f03a87
 tweak oscar 7f62f1
 tweak kilo 97c692
+polish papa 73c633
+tune foxtrot da504e
+adjust xray d0905c
