@@ -7,7 +7,7 @@ polish quebec e7d54a
 bump nimbus ba240f
 rework yankee 01de53
 tidy uniform 0fe83b
-tune kilo 111f81
+expand sierra 94a66e
 polish delta 6d8b37
 tidy tango 16266b
 trim romeo 87eb5e
