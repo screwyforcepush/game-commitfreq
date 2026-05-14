@@ -9,7 +9,6 @@ wire victor 660687
 bump quebec e88031
 tidy uniform ba8419
 update lima 5063e6
-cleanup golf f74e03
 refactor zulu 6ee185
 wire quebec 6106a0
 adjust kilo 3cf6c1
