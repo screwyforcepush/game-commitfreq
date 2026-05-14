@@ -1,6 +1,0 @@
-nudge quebec 5ae90d
-trim oscar fb8b50
-trim november 4fb33d
-cleanup lattice a61c37
-trim ember 67a575
-tidy whiskey 457ef6
