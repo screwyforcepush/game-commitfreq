@@ -7,3 +7,5 @@ rework xray 4ef816
 bump kilo 5362a9
 rework whiskey 417d10
 polish echo f0a1c5
+rework lima 9abc6e
+bump foxtrot 45e496
