@@ -4,3 +4,4 @@ wire quebec b1f737
 tune oscar 787786
 trim nimbus b0580a
 tweak ember 7b20e8
+nudge nimbus 1d7b98
