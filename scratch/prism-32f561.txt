@@ -1,3 +1,0 @@
-cleanup tango 62f18d
-rework zulu c1dee9
-tweak whiskey f9fc24
