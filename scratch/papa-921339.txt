@@ -1,6 +1,6 @@
 cleanup cobalt 2ab92e
 polish tango ef09d5
 cleanup quebec 76f66b
-update alpha 14c854
+adjust golf f33a31
 adjust kilo 255f0b
 nudge nimbus d12e7f
