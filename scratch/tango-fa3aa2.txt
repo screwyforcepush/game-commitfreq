@@ -2,6 +2,5 @@ polish lima 3c6bfa
 bump papa e89f39
 prune echo 7ccb3e
 adjust prism 584705
-nudge india c47539
 cleanup cobalt ca56dc
 polish prism e74371
