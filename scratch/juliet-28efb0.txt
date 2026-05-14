@@ -1,2 +1,6 @@
 trim charlie ca13dc
 cleanup oscar 55bce6
+nudge ember 53b201
+nudge victor 872a28
+tune india 22185b
+adjust bravo 9d7dd7
