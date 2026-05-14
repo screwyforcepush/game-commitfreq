@@ -1,4 +1,3 @@
-polish lima 3c6bfa
 prune echo 7ccb3e
 adjust prism 584705
 cleanup cobalt ca56dc
