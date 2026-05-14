@@ -9,3 +9,6 @@ nudge ember fa3ebf
 trim tango 0c80be
 polish november 23d3d6
 tweak ember 0f789d
+tweak solstice 968630
+nudge papa 831990
+nudge cobalt 905d07
