@@ -8,3 +8,7 @@ expand bravo cc6400
 update prism f9be26
 cleanup sierra b2baee
 rework bravo 96506d
+prune delta e36075
+cleanup oscar 965eab
+adjust lima 12db36
+tidy hotel 8b14eb
