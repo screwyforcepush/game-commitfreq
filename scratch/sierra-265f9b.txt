@@ -7,3 +7,5 @@ tidy hotel 3fc56e
 tweak xray 5f1f01
 nudge hotel e5b23f
 nudge whiskey b5a4b7
+rework foxtrot f38a55
+expand bravo e007b1
