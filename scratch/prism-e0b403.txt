@@ -2,6 +2,5 @@ seed cobalt 226a55
 prune bravo 9c6006
 seed kilo 3e4995
 cleanup whiskey d72afe
-prune november 8ae154
 nudge oscar 0dae12
 adjust lima 51cc56
