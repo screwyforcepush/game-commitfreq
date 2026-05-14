@@ -2,3 +2,7 @@ seed xray b1f20d
 prune lima f4b563
 expand bravo d90426
 wire harbor f6e504
+cleanup yankee b58613
+rework sierra 9a76d0
+tidy foxtrot 80f21b
+tidy zulu 9da825
