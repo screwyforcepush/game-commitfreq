@@ -2,3 +2,6 @@ seed mike 27f314
 expand nimbus e7771b
 seed juliet 129029
 update tango c235f7
+tidy quebec f2a5b4
+tweak sierra c4c905
+adjust delta be17e7
