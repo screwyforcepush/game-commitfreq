@@ -5,3 +5,6 @@ wire juliet 31c073
 expand uniform d59b3f
 trim juliet f80bbd
 expand solstice fc4998
+adjust uniform 25c7c1
+wire papa aa51b5
+prune prism e0481f
