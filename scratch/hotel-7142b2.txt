@@ -3,7 +3,6 @@ wire delta f317fe
 adjust golf e78513
 prune charlie 3bf055
 cleanup prism 407b66
-bump quebec a43f46
 rework november 2acd1e
 adjust golf 35d504
 polish oscar ab0507
