@@ -5,3 +5,5 @@ tidy india 3b9d0a
 seed whiskey 8bddbc
 update ember 806f5c
 update prism 67ce77
+adjust xray 3b0bd2
+prune kilo 3e5fad
