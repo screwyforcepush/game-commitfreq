@@ -7,3 +7,6 @@ tweak cobalt a7844f
 update lima 5a5580
 refactor juliet 34e158
 refactor lattice 3589bc
+tidy whiskey 1bda5d
+polish kilo f59a7d
+tidy charlie e94e52
