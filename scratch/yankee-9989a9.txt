@@ -1,5 +1,0 @@
-wire xray 01adca
-prune solstice ef7c5e
-nudge echo 7ae752
-tweak yankee b58c72
-seed zulu e43753
