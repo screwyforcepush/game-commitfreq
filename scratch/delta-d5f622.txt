@@ -10,3 +10,5 @@ wire foxtrot 82b428
 tweak ember 7b8711
 rework xray 0997cc
 bump kilo 675f56
+tidy delta 5da34e
+trim nimbus 152195
