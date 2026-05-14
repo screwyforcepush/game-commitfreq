@@ -12,3 +12,7 @@ refactor foxtrot b16464
 tidy alpha 395d8f
 adjust alpha ac0888
 adjust lattice 79e4b7
+tweak india 9a5efe
+polish hotel 2db2bb
+refactor lattice b3d5ad
+prune hotel 5266b1
