@@ -6,3 +6,7 @@ cleanup yankee b58613
 tidy foxtrot 80f21b
 tidy zulu 9da825
 expand india a716d0
+wire whiskey 9415da
+tweak quebec 33c0e4
+polish foxtrot 3fad6d
+tune uniform 56d166
