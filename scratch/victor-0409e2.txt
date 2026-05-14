@@ -1,3 +1,0 @@
-tidy quebec 331607
-seed ember fe4717
-refactor charlie 48b3f7
