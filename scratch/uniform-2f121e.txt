@@ -7,3 +7,5 @@ cleanup cobalt aafecf
 bump november 504e79
 refactor mike c60d39
 trim mike 44c3e2
+update lattice b27078
+prune zulu 409a0f
