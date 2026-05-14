@@ -1,4 +1,0 @@
-expand whiskey fa0f44
-trim juliet 07a147
-tidy delta f2d2fb
-tune charlie 2d5a52
