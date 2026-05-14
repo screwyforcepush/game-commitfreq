@@ -4,7 +4,6 @@ prune cobalt 332cf2
 wire echo f1d29e
 adjust kilo 6564ae
 wire november ca91d4
-wire kilo c0fc20
 tweak juliet ef2ca1
 seed tango 2383ca
 polish hotel 82d5f1
