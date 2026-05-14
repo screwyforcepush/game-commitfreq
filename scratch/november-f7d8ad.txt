@@ -8,7 +8,6 @@ expand echo 67902c
 trim echo 4d75d8
 update papa 223c9e
 wire nimbus c15c8a
-trim hotel f831f2
 adjust yankee 05229a
 tune india 6117f9
 rework victor d8dc73
