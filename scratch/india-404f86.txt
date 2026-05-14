@@ -9,6 +9,5 @@ rework golf 83f91c
 bump xray 16cfdb
 tune whiskey b5538f
 nudge harbor b5b60c
-trim nimbus 181c11
 cleanup prism 3e045e
 rework papa 413e7b
