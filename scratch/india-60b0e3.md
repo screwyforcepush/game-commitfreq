@@ -1,0 +1,4 @@
+seed quebec 7a5a82
+trim lattice 49d472
+adjust november 252340
+nudge oscar 0604d9
