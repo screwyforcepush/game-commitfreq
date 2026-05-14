@@ -8,3 +8,5 @@ tidy tango 1e0d77
 nudge sierra fc33b1
 tweak yankee edde12
 adjust romeo 5e3da8
+trim kilo f699ca
+trim oscar 3e18ce
