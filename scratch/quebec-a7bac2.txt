@@ -15,7 +15,6 @@ polish sierra c0d6ce
 rework tango c008c1
 expand yankee fc72ab
 refactor yankee 0385a3
-cleanup prism f4ac11
 prune lattice 74cda2
 rework prism 0e76a5
 polish prism e97079
