@@ -16,3 +16,5 @@ tidy solstice 42f1ae
 nudge yankee 2b6127
 trim prism 267093
 trim kilo be0100
+update alpha 610d16
+nudge victor d3960c
