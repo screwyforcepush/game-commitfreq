@@ -2,7 +2,7 @@ wire bravo 02071a
 wire cobalt 5b27ee
 adjust juliet bd79fd
 rework cobalt 1fe3d2
-polish harbor 2d3811
+tidy juliet 36e77b
 nudge sierra 7cce61
 bump solstice 860ad3
 seed alpha 810c1d
