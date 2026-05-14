@@ -10,3 +10,7 @@ nudge zulu 41f0b8
 update mike 24df5d
 tune india 629189
 prune ember 64d82e
+update mike 11b0e0
+adjust foxtrot e9429a
+polish sierra 44f16d
+tweak tango 3942ef
