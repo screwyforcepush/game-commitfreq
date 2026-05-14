@@ -8,3 +8,6 @@ tidy mike 227e10
 nudge yankee 894677
 update hotel 847008
 wire oscar c4f65d
+adjust sierra de5e3e
+tune oscar 3af39e
+prune romeo 37210d
