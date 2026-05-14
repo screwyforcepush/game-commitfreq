@@ -4,5 +4,4 @@ update cobalt d3d3d6
 seed uniform 800b9a
 polish yankee f29319
 refactor november d8cb4c
-trim hotel 1631c4
 seed sierra fdfc50
