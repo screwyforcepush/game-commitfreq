@@ -7,3 +7,5 @@ adjust bravo 341c9b
 trim cobalt 95159e
 tweak hotel d722a0
 tune hotel 1d9994
+seed mike 4629c3
+seed quebec acf180
