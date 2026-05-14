@@ -1,7 +1,7 @@
 trim charlie 6316f5
 update quebec 619358
 tune whiskey a3a831
-adjust kilo 5f17e4
+trim golf 252d51
 update harbor 695b28
 tidy whiskey f546c3
 seed delta aabf18
