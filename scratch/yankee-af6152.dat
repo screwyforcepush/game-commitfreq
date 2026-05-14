@@ -6,3 +6,7 @@ tune nimbus 057f92
 nudge november 4132b4
 tune sierra b3fde3
 adjust nimbus 3133c9
+nudge sierra 0013bc
+tune ember 09888a
+nudge victor 14bacb
+cleanup juliet 0bf072
