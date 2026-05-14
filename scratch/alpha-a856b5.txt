@@ -2,7 +2,6 @@ tidy charlie 0fecb5
 seed solstice 41a866
 expand papa d60a19
 tweak cobalt aa11ce
-update solstice cc7024
 wire sierra a5180f
 prune nimbus ed5b4d
 adjust zulu 1e524e
