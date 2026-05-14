@@ -2,7 +2,6 @@ refactor harbor a8a856
 expand tango 3877b8
 trim papa 41ab84
 seed whiskey 8ffb96
-expand hotel 8b8444
 adjust papa 55dc68
 update nimbus d29047
 tweak india 9f0402
