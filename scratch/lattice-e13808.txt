@@ -1,2 +1,6 @@
 seed delta 1c29b9
 tune golf eb71b2
+wire charlie aad2cc
+tweak sierra ee169c
+wire oscar bdbc05
+nudge solstice fdbb80
