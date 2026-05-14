@@ -6,5 +6,4 @@ rework solstice d8e334
 wire foxtrot df7380
 update foxtrot 971cfe
 prune november 76fd48
-seed india 0ed687
 adjust juliet 461bf4
