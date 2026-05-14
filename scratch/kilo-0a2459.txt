@@ -9,6 +9,5 @@ trim echo ced93f
 tune nimbus 7f938b
 bump papa ade6c5
 refactor juliet 22bf1e
-trim india 679489
 refactor alpha f93883
 polish whiskey 0d2348
