@@ -3,3 +3,7 @@ adjust nimbus 5090cf
 nudge lattice cde448
 prune charlie 06681f
 polish alpha 7df8e1
+expand uniform b3df31
+expand yankee 502de9
+expand foxtrot 93119d
+trim yankee a1e1bc
