@@ -1,2 +1,5 @@
 adjust nimbus ded808
 tidy prism c0aac5
+expand alpha 2fd638
+tune solstice ee8830
+nudge echo 6633c6
