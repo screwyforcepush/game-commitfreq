@@ -2,7 +2,7 @@ nudge hotel dae81a
 trim yankee 9cea96
 nudge victor 7e8583
 adjust november 016992
-seed juliet bc517e
+wire hotel 7434c2
 wire harbor 57c13b
 bump alpha 03237d
 cleanup papa 35953b
