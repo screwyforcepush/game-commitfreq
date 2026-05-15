@@ -19,3 +19,7 @@ bump romeo c88683
 update quebec 0dd973
 polish ember 5bdd14
 wire nimbus a0753d
+tidy nimbus 25f338
+wire hotel 78e53d
+trim papa ea910d
+rework romeo c63449
