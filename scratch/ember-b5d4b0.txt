@@ -1,4 +1,3 @@
 update charlie 46bea5
-adjust yankee 0a012a
 seed delta d4bb38
 tidy kilo c577f4
