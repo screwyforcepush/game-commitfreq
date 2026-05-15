@@ -1,7 +1,6 @@
 tidy xray 132852
 cleanup romeo 23260b
 cleanup ember 72874c
-bump tango fa5483
 cleanup cobalt 89be8a
 rework papa 98f3aa
 nudge papa 52d52a
