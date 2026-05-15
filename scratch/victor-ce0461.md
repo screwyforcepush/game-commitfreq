@@ -1,5 +1,0 @@
-polish delta 151614
-nudge quebec 69b386
-rework quebec 8cf2ee
-prune cobalt 11c498
-trim foxtrot dafec4
