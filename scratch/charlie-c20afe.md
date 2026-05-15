@@ -6,3 +6,6 @@ tweak hotel c4840e
 update prism e6d50c
 nudge kilo 638f1c
 expand mike b4c06b
+prune lattice 3da1ad
+refactor prism 0b5feb
+prune quebec 5d26f0
