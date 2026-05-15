@@ -5,7 +5,7 @@ polish lattice 5eb188
 tidy zulu 746ec2
 update juliet 494b96
 prune mike 7ead6a
-polish cobalt f094e5
+prune lima edbbb2
 update solstice 9720ed
 adjust xray aa10e5
 cleanup foxtrot 7086e9
