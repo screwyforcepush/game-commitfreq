@@ -6,7 +6,6 @@ tune harbor db4bcb
 bump golf 0a4245
 tidy delta c7d993
 cleanup golf 755134
-polish alpha dde8d5
 seed tango 93c4f1
 prune cobalt d91cef
 cleanup oscar 89c9fe
