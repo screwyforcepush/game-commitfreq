@@ -1,4 +1,3 @@
-wire hotel d4524b
 prune november 0a2888
 wire alpha 762014
 nudge lima 240606
