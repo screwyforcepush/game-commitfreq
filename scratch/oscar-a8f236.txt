@@ -1,3 +1,0 @@
-trim uniform d8be6c
-prune lattice c98837
-tweak sierra d1711d
