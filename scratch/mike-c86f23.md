@@ -4,7 +4,6 @@ prune delta 92f89a
 bump romeo 69cd72
 refactor mike 24bd83
 trim charlie 0a436a
-polish echo 00e4dd
 update bravo 0268f4
 rework juliet 84d4ed
 polish lattice 3a94c2
