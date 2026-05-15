@@ -3,7 +3,7 @@ refactor charlie 159baf
 bump xray 625265
 adjust charlie bc0538
 tune harbor db4bcb
-update solstice 06af5c
+bump golf 0a4245
 tidy delta c7d993
 cleanup golf 755134
 polish alpha dde8d5
