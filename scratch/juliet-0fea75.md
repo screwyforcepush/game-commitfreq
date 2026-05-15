@@ -6,7 +6,6 @@ adjust yankee ab4bed
 wire india 9933ce
 prune sierra 2fe332
 expand golf bde904
-refactor tango c99443
 polish cobalt d0ce99
 rework november d4d3b4
 prune india a45ef9
