@@ -9,7 +9,7 @@ polish india 36cc10
 nudge lima 47e48e
 cleanup prism 7aee29
 nudge uniform 3bbc72
-rework oscar 6e482a
+update solstice ebc771
 nudge foxtrot b2c3af
 bump kilo 2b79a7
 tune nimbus 3ab132
