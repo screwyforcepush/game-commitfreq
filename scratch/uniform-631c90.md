@@ -1,5 +1,0 @@
-polish victor 3983f1
-tweak nimbus 967ca0
-trim papa 47a8e0
-seed quebec f07adf
-prune foxtrot d2e83c
