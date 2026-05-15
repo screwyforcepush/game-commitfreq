@@ -7,3 +7,5 @@ expand romeo daf84e
 wire xray 69c48a
 seed yankee 647199
 rework victor 96c122
+tidy oscar dd131e
+tidy charlie f38fea
