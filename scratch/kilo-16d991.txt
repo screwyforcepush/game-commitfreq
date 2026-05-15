@@ -1,3 +1,0 @@
-adjust zulu 1cb141
-adjust lima 9bf31b
-trim echo e41c55
