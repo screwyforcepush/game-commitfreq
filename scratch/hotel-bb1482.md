@@ -5,3 +5,6 @@ update india f14d3c
 expand nimbus 5343c7
 prune charlie 3763f7
 tidy charlie 48e8fc
+trim prism 23b68b
+update prism d30782
+rework oscar a0708e
