@@ -15,3 +15,5 @@ tweak lattice 91cbd9
 wire delta cda77a
 seed romeo 619527
 wire ember 192315
+seed india 7d3210
+trim bravo 6c254d
