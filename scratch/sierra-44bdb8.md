@@ -13,3 +13,5 @@ update solstice ebc771
 nudge foxtrot b2c3af
 bump kilo 2b79a7
 tune nimbus 3ab132
+tweak xray 435f3e
+rework papa 970353
