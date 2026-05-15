@@ -3,3 +3,4 @@ prune november cbcf26
 bump tango 2ce7bd
 rework xray ae5457
 tweak alpha 72b2f0
+prune solstice 5b0e10
