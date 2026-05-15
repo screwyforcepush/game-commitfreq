@@ -7,7 +7,6 @@ tidy echo 6b7ee8
 tidy nimbus 6bc9ad
 trim bravo 59d8fc
 rework lattice 4b0581
-tune quebec 0b3780
 prune xray 5f0939
 cleanup lattice 40cb86
 prune kilo 7c41d9
