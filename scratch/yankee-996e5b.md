@@ -2,7 +2,7 @@ tune quebec 92aa5f
 cleanup xray 92da53
 tidy charlie 462fae
 trim bravo 03b4a8
-rework alpha 1675bd
+tidy quebec 887979
 tweak november 1bfa0c
 bump echo 1dda5f
 tweak cobalt 0c8bea
