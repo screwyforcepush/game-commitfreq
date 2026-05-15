@@ -2,7 +2,6 @@ nudge romeo 002fb7
 rework uniform 1d705d
 bump tango 1fea26
 tune xray d436b6
-tidy yankee 529bc6
 polish sierra 525333
 wire charlie e127d6
 tidy whiskey f8c7cb
