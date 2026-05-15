@@ -4,7 +4,7 @@ adjust alpha a08cc4
 wire charlie a8a3e8
 update zulu 19ac35
 rework foxtrot e4944c
-polish juliet c45113
+polish golf 429a8e
 update romeo 88867d
 wire sierra d743a2
 nudge alpha 9b083a
