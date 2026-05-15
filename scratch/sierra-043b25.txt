@@ -3,7 +3,6 @@ wire xray 7d4b76
 tidy xray 0fd21c
 adjust charlie e8b38c
 tidy sierra aa9a9c
-update whiskey 28be5c
 refactor romeo 070a8b
 polish xray af4ae8
 refactor uniform 72f9f9
