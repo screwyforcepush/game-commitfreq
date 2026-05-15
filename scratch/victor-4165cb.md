@@ -8,4 +8,4 @@ nudge tango 012259
 seed golf b186ba
 adjust victor 3b37a0
 polish alpha d71158
-bump solstice b7c003
+nudge solstice cf46a4
