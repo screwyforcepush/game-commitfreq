@@ -1,7 +1,7 @@
 rework tango 4a1636
 cleanup kilo 6b4615
 update yankee a86b4c
-wire golf ffab7d
+trim yankee fb7cdd
 trim foxtrot de7b06
 rework nimbus b0fc47
 prune bravo 726a37
