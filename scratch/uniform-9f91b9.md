@@ -1,4 +1,4 @@
-bump november 54071e
+adjust alpha d266b1
 polish bravo cbe641
 bump sierra e0515f
 expand cobalt 7ba6de
