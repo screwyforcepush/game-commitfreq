@@ -7,3 +7,6 @@ tweak mike ea28dd
 cleanup uniform b533d9
 nudge victor b43085
 tune bravo ba8c3c
+polish kilo a4f715
+adjust uniform 405407
+nudge nimbus 110f9e
