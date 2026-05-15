@@ -14,7 +14,6 @@ rework mike 9e2c43
 tidy papa 29c1f9
 nudge echo a360ce
 tune kilo a8a296
-expand hotel 8edd53
 wire victor a8b7e6
 tweak ember edf30b
 tune foxtrot 05c87a
