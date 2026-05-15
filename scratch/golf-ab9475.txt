@@ -1,2 +1,0 @@
-wire nimbus e1b125
-nudge yankee 0f845e
