@@ -1,3 +1,3 @@
 seed alpha 8b57ff
-rework golf fe6b1d
+trim juliet 1b16fc
 seed uniform c7fecf
