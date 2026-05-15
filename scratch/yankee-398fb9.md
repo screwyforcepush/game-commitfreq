@@ -13,3 +13,4 @@ tweak mike 54058a
 tune solstice 625d35
 adjust prism 742ff0
 seed cobalt f5df93
+wire kilo f76405
