@@ -4,4 +4,3 @@ seed mike cc467f
 polish uniform 087c4a
 seed delta ec669b
 nudge echo 527a80
-adjust hotel 7e6786
