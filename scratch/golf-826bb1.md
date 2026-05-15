@@ -6,7 +6,7 @@ tune kilo b47f7b
 tweak oscar 3ea06d
 tidy golf ceb7d7
 update november c86cf4
-seed zulu acb925
+prune delta cb44be
 polish kilo 7e22e5
 rework quebec 60f8d1
 bump alpha 39ea27
