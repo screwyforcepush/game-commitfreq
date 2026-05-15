@@ -2,7 +2,6 @@ polish xray 6c95e8
 expand golf 8c7a39
 polish india c649d4
 tune mike 28d9c7
-update hotel 607875
 prune kilo 3b891f
 adjust tango 84b90f
 trim nimbus 5c021e
