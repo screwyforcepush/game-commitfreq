@@ -1,6 +1,5 @@
 nudge uniform 0c178f
 seed cobalt 5d8dd2
-bump whiskey 973e45
 seed foxtrot 94ef7e
 refactor victor 83755a
 tune kilo b47f7b
