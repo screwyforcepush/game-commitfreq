@@ -8,3 +8,5 @@ adjust tango 84b90f
 trim nimbus 5c021e
 adjust oscar fdf2e5
 adjust bravo 2b0b37
+update foxtrot 6b1781
+refactor yankee f8afb3
