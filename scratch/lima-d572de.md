@@ -7,6 +7,5 @@ tidy cobalt fcc37f
 tweak uniform 4e3326
 seed kilo 3367be
 nudge bravo f8bc96
-bump prism c086c7
 trim delta b9111f
 trim delta cad639
