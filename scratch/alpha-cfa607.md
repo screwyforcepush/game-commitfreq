@@ -4,3 +4,6 @@ bump papa 47e25f
 rework oscar 7406cc
 tidy xray deca86
 refactor delta 169f21
+adjust ember 58baf5
+nudge romeo 58fa81
+trim papa 48f4dd
