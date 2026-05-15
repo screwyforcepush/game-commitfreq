@@ -5,3 +5,7 @@ nudge alpha 68934e
 cleanup quebec d007d6
 expand kilo e56d97
 nudge hotel bbdf1c
+refactor papa d5047d
+tune hotel 3650fe
+tune november 85953a
+tweak yankee e83491
