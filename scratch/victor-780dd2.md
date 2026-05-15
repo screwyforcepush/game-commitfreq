@@ -15,3 +15,5 @@ trim ember c0b15c
 seed xray 900a49
 prune kilo e4f696
 bump papa df98e1
+nudge tango b8c41f
+tweak yankee 9f8d59
