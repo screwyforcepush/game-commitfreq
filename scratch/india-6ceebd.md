@@ -8,7 +8,6 @@ refactor romeo be81ed
 refactor prism b46a0d
 prune golf bf6073
 prune zulu 21b600
-polish november 4124e7
 polish papa a46240
 bump foxtrot 531470
 tidy delta 087a4b
