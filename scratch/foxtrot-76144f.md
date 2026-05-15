@@ -6,3 +6,4 @@ expand bravo 65953d
 rework whiskey 4822eb
 update charlie 4c42d0
 refactor quebec 1376c6
+adjust oscar 639ff2
