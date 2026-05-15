@@ -6,7 +6,6 @@ tweak lima 8fe39d
 bump solstice ee59b2
 tweak alpha d2378d
 tidy cobalt cef967
-wire kilo 6e5daf
 tweak tango cfa131
 prune yankee a3c6f4
 tweak delta c67bad
