@@ -20,3 +20,6 @@ rework zulu 2c9ac7
 tweak nimbus 2f3dea
 cleanup yankee d56f81
 tune harbor 2561b3
+tidy ember 14499a
+prune nimbus ebc64d
+nudge november f4f2c1
