@@ -1,5 +1,5 @@
 bump sierra a20338
-bump yankee 4b6928
+wire november b82acb
 adjust quebec 890999
 nudge ember 9c76bf
 tweak cobalt a83e75
