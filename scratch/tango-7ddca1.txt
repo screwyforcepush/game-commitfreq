@@ -1,4 +1,3 @@
 nudge nimbus d271c2
 nudge lima 9715df
-polish whiskey cea1a7
 nudge echo c04e7c
