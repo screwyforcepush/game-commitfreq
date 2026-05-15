@@ -11,3 +11,5 @@ nudge yankee b6d02f
 prune oscar 18385a
 rework harbor 77bd7b
 bump quebec 7d7a96
+adjust foxtrot 10a267
+nudge sierra 650ee7
