@@ -2,4 +2,3 @@ bump lima 20460e
 polish echo e3f4e0
 seed zulu 904799
 tune cobalt ac3d2b
-wire whiskey 19cc53
