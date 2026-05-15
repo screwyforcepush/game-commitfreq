@@ -18,3 +18,7 @@ nudge whiskey 3ecccb
 trim juliet fbf965
 wire yankee 7e5e25
 tidy foxtrot d0c574
+cleanup delta f662a6
+trim echo 800cf5
+bump quebec 1d4181
+adjust solstice ff6e8d
