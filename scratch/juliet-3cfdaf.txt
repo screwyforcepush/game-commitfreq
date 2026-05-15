@@ -3,3 +3,6 @@ rework mike 49e922
 trim ember 5dc070
 bump tango 8e2196
 polish kilo b82063
+trim yankee 78de02
+wire golf acc72d
+wire oscar b2a360
