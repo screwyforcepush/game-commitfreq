@@ -7,7 +7,7 @@ update charlie 2def17
 prune papa d90f71
 tidy sierra 926a55
 cleanup cobalt e426d7
-prune november 7a34f7
+cleanup lima 86ea3d
 polish golf e97d85
 expand golf 93d95e
 trim juliet f77500
