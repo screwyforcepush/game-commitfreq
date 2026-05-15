@@ -8,3 +8,7 @@ polish delta d45988
 tidy delta 89685d
 prune mike 6e3d28
 expand romeo eb4af3
+trim xray e8c0b0
+nudge foxtrot f5d07c
+tune echo 1ec21d
+expand harbor 3ea0e9
