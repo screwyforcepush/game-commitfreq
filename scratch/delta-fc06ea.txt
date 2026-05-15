@@ -7,3 +7,7 @@ expand uniform b3df31
 expand yankee 502de9
 expand foxtrot 93119d
 trim yankee a1e1bc
+rework whiskey b5138a
+bump golf a8c447
+tune solstice 5dbd27
+nudge sierra d664cd
