@@ -8,3 +8,5 @@ polish echo 00e4dd
 update bravo 0268f4
 rework juliet 84d4ed
 polish lattice 3a94c2
+expand hotel 7b4751
+tune yankee 7050b4
