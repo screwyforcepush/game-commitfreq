@@ -5,7 +5,6 @@ bump india a4a6d6
 refactor nimbus 8736b2
 seed ember de4d90
 rework alpha ea9226
-prune delta bcf0a5
 update nimbus 1dfe95
 expand uniform 3fa95f
 refactor mike 6ed4de
