@@ -4,3 +4,5 @@ trim lattice 39d606
 polish ember 9da281
 tune ember 50e8a6
 tune tango 1db8aa
+nudge kilo 340830
+bump oscar 3e5113
