@@ -9,3 +9,5 @@ update bravo 59fd04
 adjust november 03e2eb
 cleanup india 00f165
 tweak xray cade65
+bump foxtrot 5957a9
+adjust golf 0ef015
