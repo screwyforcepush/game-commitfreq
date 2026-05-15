@@ -11,3 +11,5 @@ nudge alpha 9b083a
 bump alpha 734781
 prune golf 2a0ea6
 trim alpha 3c1858
+tidy solstice d1f188
+rework hotel 4943cc
