@@ -17,3 +17,5 @@ trim kilo d1f007
 tune tango 750320
 bump romeo c88683
 update quebec 0dd973
+polish ember 5bdd14
+wire nimbus a0753d
