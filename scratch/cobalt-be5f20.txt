@@ -1,3 +1,2 @@
-update quebec 7b4dfc
 tidy whiskey e63db6
 trim lattice e7149f
