@@ -9,7 +9,6 @@ expand echo 6ffda7
 tidy romeo e27fa4
 tidy prism aefa9e
 tweak yankee 773268
-expand delta df96b1
 tweak uniform a042c9
 rework romeo 58a699
 tune mike d6353e
