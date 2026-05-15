@@ -6,3 +6,5 @@ polish kilo b82063
 trim yankee 78de02
 wire golf acc72d
 wire oscar b2a360
+update uniform 5f72b2
+nudge bravo 844d9c
