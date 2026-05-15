@@ -4,3 +4,4 @@ wire alpha db549a
 adjust ember 8b621c
 wire cobalt 3c7773
 rework solstice 18c2c6
+refactor tango 6093e0
