@@ -1,6 +1,0 @@
-cleanup india 2ce8ac
-refactor uniform 67c198
-tune delta a57527
-nudge whiskey 8ba75b
-seed nimbus 1d76b4
-tidy uniform dd53fb
