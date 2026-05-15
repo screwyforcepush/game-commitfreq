@@ -1,5 +1,5 @@
 adjust kilo 4d2588
 trim yankee 81530b
 tune mike c0cc45
-polish charlie bf0b8f
+trim golf 4df33c
 wire nimbus 8dd74c
