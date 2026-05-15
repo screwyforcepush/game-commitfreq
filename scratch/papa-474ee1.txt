@@ -1,7 +1,6 @@
 bump india fb8e77
 bump sierra fbbecb
 rework juliet 7ca488
-tune xray d28d74
 tidy prism 7b7b2d
 tidy quebec 24ea90
 wire romeo 39b4cd
