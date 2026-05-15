@@ -1,5 +1,0 @@
-update hotel 1cb569
-prune delta 638b64
-tweak quebec 7cb824
-adjust delta af8c63
-cleanup nimbus de2b2e
