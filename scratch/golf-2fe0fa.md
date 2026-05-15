@@ -8,7 +8,6 @@ seed echo 297c5c
 adjust sierra 04a494
 tune alpha e7b5b0
 tweak prism 428135
-nudge romeo e79b40
 expand quebec e1c778
 tidy kilo 0924af
 nudge zulu c947cd
