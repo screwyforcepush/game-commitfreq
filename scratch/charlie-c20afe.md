@@ -1,4 +1,3 @@
-adjust tango 568854
 tweak delta fd231a
 cleanup charlie 647b23
 adjust zulu 15d781
