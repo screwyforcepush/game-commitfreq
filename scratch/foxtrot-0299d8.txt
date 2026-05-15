@@ -22,3 +22,6 @@ tune harbor 2561b3
 tidy ember 14499a
 prune nimbus ebc64d
 nudge november f4f2c1
+wire tango 667528
+trim charlie e82ef7
+polish india 311404
