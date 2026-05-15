@@ -9,3 +9,7 @@ polish solstice 92cbbe
 expand victor ed1dbb
 tweak bravo 578f8c
 seed lattice 361235
+trim xray 3f3872
+trim yankee 5396b8
+prune nimbus b752da
+cleanup lattice e54951
