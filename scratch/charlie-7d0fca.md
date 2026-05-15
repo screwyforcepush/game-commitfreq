@@ -5,3 +5,7 @@ prune harbor 85ea81
 cleanup nimbus 8a68b7
 expand charlie 884902
 wire charlie 824715
+tidy xray b8d210
+trim charlie 7f4355
+wire yankee 91606c
+tidy uniform ba91f7
