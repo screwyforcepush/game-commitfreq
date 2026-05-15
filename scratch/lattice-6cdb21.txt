@@ -2,3 +2,4 @@ trim xray 6783fa
 tweak quebec 627584
 tune harbor f947bd
 expand zulu a07903
+wire cobalt fb5376
