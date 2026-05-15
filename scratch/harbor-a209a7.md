@@ -14,3 +14,6 @@ trim juliet f77500
 expand alpha d19f70
 nudge oscar a436ba
 prune november daa622
+bump juliet 2382e8
+bump nimbus 8b8469
+trim uniform 20e1b8
