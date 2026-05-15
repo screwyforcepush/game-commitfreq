@@ -11,3 +11,5 @@ prune xray 5f0939
 cleanup lattice 40cb86
 cleanup tango fbcf1b
 tidy oscar 4a65b6
+bump hotel afc90e
+polish cobalt 8af9ff
