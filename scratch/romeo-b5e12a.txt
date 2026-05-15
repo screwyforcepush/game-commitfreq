@@ -3,7 +3,7 @@ cleanup bravo 27bace
 tweak sierra 028dea
 tweak ember e8e178
 wire echo cf10e8
-rework cobalt 688143
+tune cobalt b92e25
 tidy oscar 1b1c29
 adjust kilo 3a06df
 rework alpha ca196f
