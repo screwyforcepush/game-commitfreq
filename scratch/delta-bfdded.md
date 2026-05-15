@@ -4,3 +4,6 @@ update alpha 0c6ab9
 wire romeo f1286e
 update sierra 200b2d
 adjust oscar 06c852
+update romeo 0e1467
+seed foxtrot 94c297
+nudge bravo ad6d12
