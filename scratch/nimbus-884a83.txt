@@ -9,7 +9,6 @@ tidy cobalt cef967
 tweak tango cfa131
 prune yankee a3c6f4
 tweak delta c67bad
-wire sierra 7e76f4
 adjust juliet 06fbf1
 tweak tango 904659
 trim hotel 94a392
