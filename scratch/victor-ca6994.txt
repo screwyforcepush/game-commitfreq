@@ -4,3 +4,7 @@ expand xray 8ccc41
 tweak alpha 749a37
 tune november f60d9c
 refactor quebec e77aaf
+rework sierra 54e9c4
+nudge uniform c9749a
+update tango 779086
+cleanup nimbus 926802
