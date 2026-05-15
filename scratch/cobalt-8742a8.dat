@@ -12,3 +12,7 @@ nudge cobalt 17e1e3
 wire tango b48200
 tune yankee 46df5d
 cleanup quebec 1f7d8c
+expand lattice ac6a80
+tune oscar 24234f
+nudge lattice f06a81
+trim hotel 1f26cf
