@@ -4,7 +4,6 @@ seed juliet 2b15ca
 tweak yankee 6885b3
 wire bravo 763139
 polish prism 734e67
-bump tango 44b73d
 trim sierra 9fdd0c
 polish mike 4d1bcc
 bump nimbus 362993
