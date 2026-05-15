@@ -10,5 +10,4 @@ rework lattice 4b0581
 prune xray 5f0939
 cleanup lattice 40cb86
 prune kilo 7c41d9
-adjust yankee 6f99dd
 cleanup tango fbcf1b
