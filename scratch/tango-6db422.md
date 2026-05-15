@@ -6,3 +6,5 @@ tweak hotel 48e9d5
 nudge xray 18c6d5
 wire juliet 63b293
 nudge romeo 399d31
+seed charlie 982c21
+trim bravo 04321d
