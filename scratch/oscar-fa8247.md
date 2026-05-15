@@ -6,3 +6,4 @@ adjust kilo 20ac8c
 polish kilo 2849c0
 tidy delta 175b07
 tune delta 1b8544
+prune whiskey f8cc10
