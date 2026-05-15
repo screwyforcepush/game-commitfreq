@@ -1,4 +1,3 @@
-prune mike c1d82d
 nudge victor 6ff0ab
 refactor cobalt 981a1b
 prune solstice 89fdff
