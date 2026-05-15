@@ -1,3 +1,3 @@
 tidy whiskey e63db6
-trim lattice e7149f
+polish echo 6aefa1
 update echo 04c30d
