@@ -4,3 +4,6 @@ expand whiskey 239d5c
 expand mike e91f7e
 update papa 36a0f2
 bump solstice cd4cbc
+trim mike a445ea
+tweak lima 6c4d15
+tune yankee 8832d7
