@@ -4,3 +4,7 @@ update cobalt 83124a
 trim juliet 35d230
 tweak sierra 872694
 tweak whiskey b1f121
+update charlie 95a2e8
+expand charlie 1d9c74
+tweak zulu 41aa23
+bump nimbus dc435d
