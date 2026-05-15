@@ -1,4 +1,4 @@
-nudge whiskey e87d83
+cleanup oscar 10e570
 prune november 3b075a
 nudge romeo 53b1f5
 nudge solstice 64bbae
