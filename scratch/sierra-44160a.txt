@@ -1,2 +1,0 @@
-prune romeo 5d2159
-tune kilo b7affa
