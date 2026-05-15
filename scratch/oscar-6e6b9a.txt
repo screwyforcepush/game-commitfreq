@@ -6,7 +6,6 @@ rework prism c75311
 wire nimbus a64fe3
 polish juliet 4e1828
 expand cobalt 410f27
-expand uniform 9db23e
 adjust papa 4d776a
 adjust alpha 5d14ee
 tidy lima e22d3f
