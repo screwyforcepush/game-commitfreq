@@ -7,3 +7,7 @@ rework whiskey 4822eb
 update charlie 4c42d0
 refactor quebec 1376c6
 adjust oscar 639ff2
+refactor hotel d98347
+expand juliet 39fac0
+prune solstice 574f19
+tweak mike f2f675
