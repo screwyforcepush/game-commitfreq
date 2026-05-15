@@ -7,3 +7,7 @@ wire golf d388d9
 adjust echo b9506f
 expand echo 6ffda7
 tweak quebec b986b9
+tidy prism aefa9e
+tweak yankee 773268
+expand delta df96b1
+tweak uniform a042c9
