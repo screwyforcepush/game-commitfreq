@@ -1,2 +1,1 @@
-seed papa 0bba00
 seed tango 0cbb39
