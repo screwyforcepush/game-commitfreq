@@ -8,3 +8,5 @@ update charlie 95a2e8
 expand charlie 1d9c74
 tweak zulu 41aa23
 bump nimbus dc435d
+bump golf 791256
+trim xray ed3b7c
