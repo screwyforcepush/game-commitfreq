@@ -2,7 +2,6 @@ rework tango 4a1636
 bump hotel 9e425b
 update yankee a86b4c
 trim yankee fb7cdd
-trim foxtrot de7b06
 rework nimbus b0fc47
 prune bravo 726a37
 update ember 89b833
