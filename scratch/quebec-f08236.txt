@@ -2,5 +2,4 @@ seed papa ecc1c3
 rework charlie 0c1ea8
 prune zulu 4ee821
 trim xray f77d2f
-tidy yankee c79b04
 tweak lima 9e4a3d
