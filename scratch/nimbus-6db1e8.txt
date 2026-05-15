@@ -1,5 +1,4 @@
 refactor kilo ef54d1
 bump nimbus ef9f79
-prune tango f8d9fa
 adjust whiskey b30b0c
 prune india 95e78c
