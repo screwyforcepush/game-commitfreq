@@ -1,4 +1,4 @@
-prune quebec 11935f
+trim juliet 58cdb2
 adjust oscar 283c66
 seed bravo 77f113
 update mike 4ff7ad
