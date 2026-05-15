@@ -1,7 +1,6 @@
 bump november 54071e
 polish bravo cbe641
 bump sierra e0515f
-tidy alpha 75b2bb
 expand cobalt 7ba6de
 tidy lattice 9f9640
 tidy oscar c8b84d
