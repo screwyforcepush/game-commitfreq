@@ -7,3 +7,5 @@ tweak papa f75705
 update juliet fd6385
 rework tango decfe4
 rework harbor 4d3b71
+tidy lattice 6c4c15
+cleanup sierra b623c1
