@@ -1,7 +1,6 @@
 cleanup romeo c2e1d0
 cleanup whiskey ef4963
 cleanup oscar 3c4881
-adjust bravo c08e00
 tidy oscar 4dadfe
 polish lima f77a2e
 adjust kilo 20ac8c
