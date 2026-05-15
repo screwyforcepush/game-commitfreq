@@ -9,3 +9,7 @@ polish cobalt f094e5
 update solstice 9720ed
 adjust xray aa10e5
 cleanup foxtrot 7086e9
+adjust solstice 6467e4
+wire juliet 237f88
+update solstice 028894
+tweak foxtrot 76d00c
