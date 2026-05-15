@@ -1,2 +1,0 @@
-prune hotel 2aeaac
-adjust echo 6897b9
