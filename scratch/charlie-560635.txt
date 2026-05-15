@@ -1,5 +1,0 @@
-adjust mike 8c925a
-rework xray 9079a6
-polish quebec 54ba2a
-tweak foxtrot c18495
-polish papa 8f3362
