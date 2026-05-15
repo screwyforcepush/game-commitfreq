@@ -1,4 +1,3 @@
-prune papa b8cdf9
 expand romeo 0a50fc
 trim foxtrot 3aaca0
 wire yankee 225980
