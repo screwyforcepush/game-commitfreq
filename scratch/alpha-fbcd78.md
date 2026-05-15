@@ -8,7 +8,6 @@ adjust india f45b7a
 refactor uniform 310ff2
 nudge oscar eff783
 tune kilo f7f389
-trim yankee 69ccb3
 tweak yankee 756495
 tweak ember 0a0d83
 nudge quebec a47855
