@@ -5,3 +5,7 @@ cleanup hotel 2a4e7d
 prune kilo b714bf
 expand golf 8121dd
 tune india 3dae81
+prune prism 7cd09f
+prune prism c12634
+tidy cobalt fff86d
+refactor lattice 82642d
