@@ -9,6 +9,5 @@ trim bravo 59d8fc
 rework lattice 4b0581
 prune xray 5f0939
 cleanup lattice 40cb86
-prune kilo 7c41d9
 cleanup tango fbcf1b
 tidy oscar 4a65b6
