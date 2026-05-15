@@ -3,3 +3,7 @@ bump delta b28dee
 update ember b25c1f
 wire mike 0c43ef
 rework nimbus 3bc319
+adjust ember dfad13
+trim tango 91da3f
+tidy delta 8b6880
+seed golf 0253c5
