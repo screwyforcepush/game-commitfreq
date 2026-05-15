@@ -3,7 +3,6 @@ expand juliet 5b0b6c
 adjust yankee 46331a
 tidy sierra 1d45d8
 expand charlie ac30b6
-polish whiskey 2e88a3
 seed kilo 38e9f0
 seed juliet 104780
 bump juliet 477ea4
