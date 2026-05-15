@@ -15,3 +15,6 @@ wire alpha 328913
 tweak lattice 36ca20
 polish uniform e9934e
 nudge whiskey 3ecccb
+trim juliet fbf965
+wire yankee 7e5e25
+tidy foxtrot d0c574
