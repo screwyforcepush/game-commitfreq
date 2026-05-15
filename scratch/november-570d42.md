@@ -15,3 +15,7 @@ seed nimbus 455107
 tweak hotel 52f690
 nudge xray b2b52c
 polish romeo 53af53
+tune oscar dd6c37
+rework solstice 0255fe
+rework kilo dd2a39
+polish hotel cf65b5
