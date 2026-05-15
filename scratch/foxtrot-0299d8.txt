@@ -1,4 +1,4 @@
-rework solstice aa74c2
+adjust delta 1a6e72
 rework uniform 54e53b
 update charlie 5a4b81
 tune lima fe3d23
