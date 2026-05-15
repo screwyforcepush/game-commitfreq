@@ -1,4 +1,3 @@
-tweak yankee e288bf
 adjust tango d31139
 polish nimbus fd5621
 trim uniform 3b025d
