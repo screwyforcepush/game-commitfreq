@@ -5,5 +5,4 @@ expand alpha c7ee40
 prune bravo 805107
 refactor ember 033fc2
 seed romeo e169a1
-bump whiskey 15691a
 expand kilo 540a89
