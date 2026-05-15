@@ -5,3 +5,6 @@ tune mike 28d9c7
 update hotel 607875
 prune kilo 3b891f
 adjust tango 84b90f
+prune bravo 3d29aa
+adjust oscar fdf2e5
+adjust bravo 2b0b37
