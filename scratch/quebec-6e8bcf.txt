@@ -3,3 +3,5 @@ refactor lima aad273
 rework nimbus 8c532e
 nudge prism 118a12
 tidy lattice 09518a
+polish hotel 218b7c
+expand romeo 7206e7
