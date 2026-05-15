@@ -11,3 +11,7 @@ tidy prism aefa9e
 tweak yankee 773268
 expand delta df96b1
 tweak uniform a042c9
+rework romeo 58a699
+tune mike d6353e
+refactor juliet 3d2fb8
+nudge juliet 756fbf
