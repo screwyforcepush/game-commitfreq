@@ -3,7 +3,6 @@ rework kilo d32f19
 tune victor 37060c
 expand quebec cbd5b4
 adjust delta 51fc00
-seed charlie 8dad29
 bump oscar 591ff7
 nudge juliet ec040c
 bump xray 731d64
