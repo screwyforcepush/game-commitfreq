@@ -5,3 +5,5 @@ adjust lima aa6828
 tune yankee 7c57ce
 bump alpha 279961
 expand bravo 185fd2
+seed sierra 451bac
+wire oscar a6f32f
