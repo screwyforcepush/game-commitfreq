@@ -6,6 +6,5 @@ rework november 053156
 tweak lima 56b2d4
 seed cobalt f0d879
 prune golf 4046e8
-update papa 025ed4
 cleanup lattice 0d6150
 nudge juliet 179598
