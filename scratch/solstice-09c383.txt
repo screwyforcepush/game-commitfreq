@@ -1,8 +1,0 @@
-tidy papa 5c3a06
-adjust india d471c9
-seed uniform b0c9bf
-adjust whiskey 94c94d
-bump victor bae7fd
-nudge juliet 00d0e3
-refactor tango 4db010
-wire juliet df9c32
