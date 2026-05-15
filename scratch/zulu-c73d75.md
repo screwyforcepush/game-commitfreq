@@ -7,3 +7,7 @@ prune quebec 2787cd
 adjust alpha 925e1d
 update prism 0f23d1
 bump papa 2fe8eb
+tidy yankee b5da6c
+rework tango f11fac
+adjust november d02c76
+adjust papa d6c91c
