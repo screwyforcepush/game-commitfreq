@@ -6,7 +6,6 @@ bump prism 3ddaa5
 tweak india f8ee29
 cleanup nimbus d9531b
 update delta 01ab52
-expand november 172312
 tune golf 4328ad
 polish bravo 15a745
 tweak zulu 8efeb5
