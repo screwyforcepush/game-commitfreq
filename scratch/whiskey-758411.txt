@@ -2,7 +2,6 @@ adjust november 434e48
 seed kilo 48121e
 wire alpha db549a
 wire prism b20fa6
-wire cobalt 3c7773
 rework solstice 18c2c6
 tweak papa f75705
 update juliet fd6385
