@@ -1,5 +1,4 @@
 adjust tango d31139
-polish nimbus fd5621
 trim uniform 3b025d
 tidy tango 87fe28
 tweak bravo 322be2
