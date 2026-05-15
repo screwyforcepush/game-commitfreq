@@ -3,7 +3,7 @@ tidy nimbus f3feba
 wire yankee d400ea
 tweak cobalt 36cb1e
 expand quebec 7e9b02
-rework november 982753
+nudge victor 0803e8
 rework nimbus 6c60c6
 wire uniform 695416
 trim xray 139403
