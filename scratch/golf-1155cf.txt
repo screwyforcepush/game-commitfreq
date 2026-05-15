@@ -13,3 +13,7 @@ polish delta b37a6e
 tweak sierra 446c1b
 tune quebec 6129c8
 refactor sierra b544c1
+bump lattice a397bc
+polish echo 8dce06
+wire bravo ee9236
+tweak ember 458b7f
