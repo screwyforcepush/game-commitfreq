@@ -3,3 +3,6 @@ polish juliet ba47b4
 tune india ad51ec
 adjust quebec 01c082
 rework hotel a401c9
+update mike aff620
+polish november 82f1e4
+tweak oscar 9df521
