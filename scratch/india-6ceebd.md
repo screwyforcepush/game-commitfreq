@@ -10,7 +10,7 @@ prune golf bf6073
 prune zulu 21b600
 polish papa a46240
 cleanup ember ee4d98
-tidy delta 087a4b
+rework golf 4416c5
 wire alpha 328913
 tweak lattice 36ca20
 polish uniform e9934e
