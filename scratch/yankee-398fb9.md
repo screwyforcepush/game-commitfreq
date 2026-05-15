@@ -9,3 +9,6 @@ tweak delta 08d7f7
 tidy papa 8bb8bb
 adjust uniform 7cc83f
 update yankee 2e3710
+refactor lima 075771
+tweak mike 54058a
+tune solstice 625d35
