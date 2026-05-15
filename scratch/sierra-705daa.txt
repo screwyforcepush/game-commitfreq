@@ -2,6 +2,6 @@ update foxtrot 1b24ea
 polish whiskey ebbe24
 rework papa 724c21
 trim nimbus a3d3db
-wire delta bf040c
+cleanup uniform a92f09
 nudge alpha d1bb82
 bump tango 4f5e56
