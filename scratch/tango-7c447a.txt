@@ -2,7 +2,6 @@ trim kilo 85b8ee
 polish solstice dbdffa
 trim papa a0859f
 rework victor 9427a8
-expand xray 5dcdba
 tidy xray e0586e
 rework alpha 3d0cc3
 adjust mike 730107
