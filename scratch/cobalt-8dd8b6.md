@@ -1,6 +1,5 @@
 seed charlie 94adf8
 polish juliet a33535
-tune bravo 9ff1ac
 prune india 75f8b9
 tidy kilo 13e398
 tune victor 9482b6
