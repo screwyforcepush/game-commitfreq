@@ -11,3 +11,5 @@ refactor hotel d98347
 expand juliet 39fac0
 prune solstice 574f19
 tweak mike f2f675
+tweak sierra 9d811b
+expand delta c35cb2
