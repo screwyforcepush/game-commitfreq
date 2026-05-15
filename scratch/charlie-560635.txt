@@ -1,6 +1,5 @@
 adjust mike 8c925a
 rework xray 9079a6
 polish quebec 54ba2a
-trim alpha 7a3cb7
 tweak foxtrot c18495
 polish papa 8f3362
