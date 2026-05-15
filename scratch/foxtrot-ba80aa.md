@@ -5,7 +5,6 @@ tidy juliet 851dd5
 update prism b99941
 wire xray 69c48a
 seed yankee 647199
-rework victor 96c122
 tidy oscar dd131e
 tidy charlie f38fea
 adjust juliet 031a6e
