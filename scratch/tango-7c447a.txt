@@ -6,3 +6,5 @@ tidy xray e0586e
 rework alpha 3d0cc3
 adjust mike 730107
 nudge alpha 5dab22
+wire uniform ac7894
+wire juliet 1f9711
