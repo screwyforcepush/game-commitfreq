@@ -5,3 +5,6 @@ bump sierra e0515f
 tidy alpha 75b2bb
 expand cobalt 7ba6de
 tidy lattice 9f9640
+tidy oscar c8b84d
+update lattice 07a323
+tune prism d6bee8
