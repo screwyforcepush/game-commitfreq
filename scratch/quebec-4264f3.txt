@@ -10,3 +10,6 @@ seed juliet 104780
 bump juliet 477ea4
 cleanup ember fbfacc
 tweak ember 0156a6
+bump quebec 2c7950
+bump hotel c758c3
+expand papa 26ae4f
