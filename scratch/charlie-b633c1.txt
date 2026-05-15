@@ -8,7 +8,7 @@ update hotel 847008
 wire oscar c4f65d
 adjust sierra de5e3e
 tune oscar 3af39e
-prune romeo 37210d
+cleanup nimbus f8a239
 tweak cobalt a176da
 refactor hotel 72f968
 bump whiskey 4a0c85
