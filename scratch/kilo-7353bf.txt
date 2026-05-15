@@ -5,3 +5,5 @@ prune golf 7b2eeb
 expand kilo dadbe7
 wire quebec 375150
 bump juliet 9a2827
+tune kilo 8828f5
+nudge yankee ed4173
