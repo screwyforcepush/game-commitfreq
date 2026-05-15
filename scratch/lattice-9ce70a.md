@@ -7,3 +7,5 @@ tune nimbus c71732
 polish prism 13c63c
 polish lima aabe1e
 wire solstice d5462f
+cleanup yankee 488efc
+polish oscar d520ec
