@@ -2,7 +2,7 @@ tune mike 59d13b
 trim mike a1a3c4
 bump mike 73ba1f
 seed kilo 07831c
-nudge xray 118102
+expand solstice e119bc
 polish lattice 9da3a2
 expand delta 0c159a
 bump hotel 13450b
