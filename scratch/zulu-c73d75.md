@@ -4,3 +4,7 @@ trim ember 80828c
 polish india e98952
 cleanup lima 94e5cd
 prune quebec 2787cd
+adjust alpha 925e1d
+tidy lattice 1cbdc6
+update prism 0f23d1
+bump papa 2fe8eb
