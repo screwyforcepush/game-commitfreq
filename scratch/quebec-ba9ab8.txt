@@ -1,2 +1,6 @@
 wire echo 8dc865
 tune delta e30632
+adjust foxtrot 2f720c
+seed lima 096eff
+seed cobalt fec780
+adjust papa 602657
