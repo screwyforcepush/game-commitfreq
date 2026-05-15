@@ -5,7 +5,6 @@ polish papa dd9ca8
 tune echo f4f9c4
 refactor charlie 369bd2
 nudge juliet 495063
-polish hotel 5e2a12
 tidy whiskey 185671
 bump prism 27c219
 wire november ecadb4
