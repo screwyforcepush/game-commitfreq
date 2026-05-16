@@ -3,3 +3,5 @@ trim mike 3288a5
 polish echo ebc72e
 seed lattice 3162b4
 trim quebec 6a2f41
+adjust prism ff6203
+seed nimbus 850079
