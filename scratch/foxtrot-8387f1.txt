@@ -4,3 +4,6 @@ expand juliet 49645a
 expand whiskey c02e44
 rework cobalt 02bf27
 update kilo fe0177
+refactor sierra b23007
+cleanup sierra d27758
+trim alpha 9776b4
