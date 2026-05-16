@@ -5,3 +5,5 @@ nudge whiskey 8dd428
 tune nimbus 389d91
 prune nimbus 714c5c
 seed juliet 2d3754
+rework quebec 8f3c69
+update delta da6425
