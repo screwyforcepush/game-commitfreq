@@ -3,5 +3,4 @@ adjust mike ba17bb
 rework kilo 46d5e1
 nudge charlie aa48ac
 tidy bravo d0fe74
-seed bravo 0b942b
 prune echo 188d59
