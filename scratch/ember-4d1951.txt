@@ -1,1 +1,5 @@
 tweak hotel 3e8b3e
+rework oscar 6f76c9
+trim quebec 28e7d7
+tidy hotel 0bf3ec
+cleanup delta 34de69
