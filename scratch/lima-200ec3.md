@@ -4,7 +4,7 @@ seed victor e2dbd4
 seed alpha 84a521
 prune papa dc7910
 trim lattice c024b6
-tweak kilo 9cb2f6
+nudge kilo 661ccb
 rework yankee a772f5
 bump lattice c0ac69
 tune yankee 5270c9
