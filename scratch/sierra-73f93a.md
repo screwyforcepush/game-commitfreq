@@ -3,3 +3,6 @@ seed uniform cb661e
 update india 7a30b3
 seed zulu 8da925
 seed victor 891a5d
+expand lattice 5e03e8
+tweak zulu c79e57
+tweak sierra 4938d3
