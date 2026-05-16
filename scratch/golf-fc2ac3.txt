@@ -14,3 +14,5 @@ polish lima e4fbbb
 wire kilo c613d5
 trim juliet 937e08
 cleanup juliet 317d54
+prune nimbus 0dc793
+update yankee 4f1531
