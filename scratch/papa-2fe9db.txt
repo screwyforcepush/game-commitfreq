@@ -4,6 +4,5 @@ trim oscar 1355a2
 tweak november 3276a1
 bump delta d22996
 wire november 0bb16f
-bump hotel 2363c4
 expand lima be5959
 tune lima 380327
