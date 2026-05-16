@@ -4,7 +4,7 @@ bump nimbus b4805c
 trim solstice 18a859
 rework harbor 038e7b
 polish quebec 3527ba
-rework hotel f33fef
+wire harbor 7d5fcc
 nudge charlie 66a1b0
 tidy echo 32acb9
 nudge bravo 4e5cb5
