@@ -6,7 +6,7 @@ prune papa dc7910
 trim lattice c024b6
 tweak kilo 9cb2f6
 rework yankee a772f5
-expand kilo 3ba3be
+bump lattice c0ac69
 tune yankee 5270c9
 tweak cobalt c2e350
 refactor whiskey 3b8b5b
