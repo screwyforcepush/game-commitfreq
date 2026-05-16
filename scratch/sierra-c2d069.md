@@ -1,2 +1,5 @@
 tune whiskey 010829
 nudge november 522b74
+adjust xray b7e9a0
+tweak cobalt ff8106
+polish victor 351dcd
