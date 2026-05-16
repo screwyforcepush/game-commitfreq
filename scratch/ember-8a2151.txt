@@ -3,3 +3,4 @@ nudge whiskey db7e62
 cleanup sierra d4e587
 rework nimbus f0b38e
 nudge delta bb84f4
+bump november 830972
