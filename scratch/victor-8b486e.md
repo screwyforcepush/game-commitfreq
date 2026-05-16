@@ -5,6 +5,6 @@ prune echo 52bbdb
 tidy solstice 8b9121
 nudge tango ebfd9a
 expand yankee 208acb
-polish sierra c5ad21
+wire prism 4c0c32
 tidy alpha 6805e0
 trim lattice bbfa74
