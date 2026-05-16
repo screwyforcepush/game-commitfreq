@@ -4,7 +4,6 @@ update papa 8a4733
 seed bravo 735e7a
 rework solstice f45d51
 tidy india f47729
-bump oscar 94ca70
 nudge echo 64d274
 wire prism be748d
 update sierra dac445
