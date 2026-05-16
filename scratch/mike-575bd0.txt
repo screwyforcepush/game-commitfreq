@@ -1,5 +1,4 @@
 cleanup sierra f78cdc
 bump uniform 463001
-prune bravo bc16f5
 tidy juliet 675c8a
 update quebec 12cb35
