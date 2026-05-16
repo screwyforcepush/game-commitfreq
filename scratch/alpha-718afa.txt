@@ -1,3 +1,0 @@
-seed zulu 50f90d
-adjust tango e75f51
-tune nimbus 17c58b
