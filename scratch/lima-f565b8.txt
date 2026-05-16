@@ -1,3 +1,3 @@
 bump hotel 4bb407
 prune victor 54cd32
-adjust quebec 2e9fb8
+tidy foxtrot 839bf7
