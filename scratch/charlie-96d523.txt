@@ -6,3 +6,4 @@ rework whiskey 788630
 update hotel 1294cb
 tidy delta 6a8932
 tidy kilo 8ca343
+prune november d4e772
