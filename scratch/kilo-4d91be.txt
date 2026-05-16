@@ -1,5 +1,0 @@
-seed juliet 11430d
-update papa cefc9e
-tune xray 7120a0
-tweak november a0d30b
-bump xray 1da011
