@@ -7,3 +7,5 @@ rework victor ab3013
 rework nimbus 8d626c
 trim kilo 04cfac
 tweak lima 91d1e5
+update quebec 45443b
+rework whiskey 38bfd2
