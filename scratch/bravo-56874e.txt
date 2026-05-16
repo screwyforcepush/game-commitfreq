@@ -1,3 +1,2 @@
-wire victor 8c6c28
 seed echo d1f376
 wire echo 650a4f
