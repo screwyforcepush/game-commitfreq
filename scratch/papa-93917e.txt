@@ -3,3 +3,5 @@ adjust victor dc1b5e
 trim xray 2e8621
 wire yankee 1112ed
 bump bravo ccada2
+update romeo a734f5
+tune kilo 0a635f
