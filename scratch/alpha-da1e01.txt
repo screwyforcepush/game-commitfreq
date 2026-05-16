@@ -1,5 +1,4 @@
 adjust charlie 268216
-seed tango 467f4b
 update golf dc2f36
 prune tango bcb9db
 tweak lima 2ef01c
