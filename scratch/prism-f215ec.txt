@@ -3,5 +3,4 @@ adjust hotel 977677
 cleanup golf 4ec33f
 tune delta fefd9c
 cleanup tango 41df5a
-cleanup oscar cc78fd
 adjust prism 11623d
