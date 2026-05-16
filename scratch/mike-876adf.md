@@ -5,3 +5,6 @@ seed whiskey 5969aa
 seed tango fc1e28
 polish nimbus a30db3
 nudge mike 03a2bb
+prune tango 8cd952
+bump solstice d08807
+tidy alpha 1dd4b1
