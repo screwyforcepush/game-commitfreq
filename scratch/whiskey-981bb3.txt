@@ -13,3 +13,6 @@ tune yankee bdd26b
 tweak mike e914db
 bump ember 5a7a85
 tune ember 1b6f38
+update tango 31d2ad
+tweak solstice 026f90
+update lattice 6dc04a
