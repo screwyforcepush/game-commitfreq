@@ -1,3 +1,2 @@
 update hotel 72f93f
-nudge bravo 549355
 tune echo eed7f1
