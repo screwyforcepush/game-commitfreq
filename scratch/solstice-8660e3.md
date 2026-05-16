@@ -3,3 +3,7 @@ wire solstice 674a3e
 tune delta e12e64
 bump romeo 21664e
 tidy lima 75a763
+wire hotel a974db
+cleanup xray 180b93
+expand november 25509f
+bump victor dc0793
