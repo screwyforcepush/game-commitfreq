@@ -12,3 +12,5 @@ prune echo 3d64b6
 rework harbor 652ba3
 trim delta 8d5a7c
 bump lima 634487
+rework quebec edee5f
+rework tango 419752
