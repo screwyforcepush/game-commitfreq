@@ -1,2 +1,0 @@
-trim solstice 92a6fe
-tidy echo b7730c
