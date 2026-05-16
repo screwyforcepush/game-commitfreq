@@ -4,3 +4,6 @@ tune victor e1c5ef
 tweak mike f5655c
 trim india 4cb7a7
 seed india f074fc
+nudge nimbus c3c98c
+tune zulu 179cd7
+expand foxtrot 1ace27
