@@ -6,5 +6,4 @@ prune romeo b70731
 wire delta 587890
 wire lattice b49fc4
 seed bravo 66cc32
-prune harbor cf9304
 expand india c85012
