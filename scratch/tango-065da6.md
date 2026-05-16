@@ -20,7 +20,7 @@ adjust xray 36d699
 update charlie 400422
 trim sierra 18510a
 cleanup ember 1562d3
-update bravo 304075
+nudge foxtrot 11b10c
 tune echo 41d1da
 bump echo 605654
 seed uniform 556958
