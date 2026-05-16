@@ -1,3 +1,5 @@
 cleanup juliet a95778
 wire harbor 123653
 tune solstice 25b7da
+adjust foxtrot a7287e
+prune foxtrot 4cbc88
