@@ -9,3 +9,5 @@ prune nimbus 54bf84
 polish cobalt 2bf514
 seed foxtrot e2cff7
 bump india 5f30ae
+bump zulu 4bf14e
+tune oscar 04d5d6
