@@ -4,7 +4,7 @@ tune golf 6c8641
 wire alpha 3bf396
 prune charlie 588a37
 adjust whiskey 996f25
-wire papa c0e11d
+polish charlie 988162
 rework whiskey 10b95d
 cleanup echo 3dafff
 expand delta 0d739c
