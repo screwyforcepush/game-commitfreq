@@ -1,7 +1,6 @@
 tweak nimbus ee38ff
 tweak yankee aab988
 tweak juliet e8c06c
-polish papa dd9ca8
 tune echo f4f9c4
 refactor charlie 369bd2
 tune ember 757ee3
