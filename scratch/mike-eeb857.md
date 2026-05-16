@@ -4,3 +4,5 @@ tidy zulu b52f30
 trim bravo 5faf17
 adjust oscar 92c0f4
 tune tango e53479
+adjust papa 526321
+tune cobalt 0161b1
