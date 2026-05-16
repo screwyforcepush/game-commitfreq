@@ -1,3 +1,6 @@
 tweak tango d909fc
 tidy mike 6af5fb
 trim prism cfc1df
+tweak nimbus bea4fd
+tweak zulu fd1d95
+tidy oscar 1b0420
