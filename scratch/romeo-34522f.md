@@ -5,3 +5,6 @@ tune alpha 8b2e17
 bump victor 70a1cd
 bump charlie e534db
 seed kilo 428dd8
+trim yankee 42ab91
+adjust oscar 63ddd4
+prune delta 350613
