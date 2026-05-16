@@ -1,6 +1,5 @@
 wire sierra 9d88fc
 wire india 303952
-nudge lima bb4d44
 seed kilo 1d536a
 wire mike 215712
 bump india 31c58c
