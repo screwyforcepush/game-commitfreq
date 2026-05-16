@@ -12,3 +12,6 @@ wire xray 653050
 rework uniform 25e018
 update uniform 02cf88
 update ember be6f76
+tweak solstice ba379e
+tweak lattice 5d37b6
+tidy prism 0dfb43
