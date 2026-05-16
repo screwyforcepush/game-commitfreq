@@ -6,3 +6,4 @@ seed mike fd57d8
 nudge alpha b88be3
 prune nimbus 78ed9b
 prune uniform 98939a
+seed kilo 5df9a2
