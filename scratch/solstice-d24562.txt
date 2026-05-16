@@ -3,3 +3,7 @@ wire bravo 00884a
 cleanup juliet a1d189
 rework cobalt 44c658
 tune delta 3ebc75
+adjust lattice e8dfdc
+tidy alpha 4db9b6
+cleanup india d6411c
+nudge kilo 9381ab
