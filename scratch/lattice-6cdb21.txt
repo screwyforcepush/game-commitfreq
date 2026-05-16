@@ -8,7 +8,6 @@ seed cobalt f6d227
 prune oscar 3e181e
 bump oscar 702489
 bump yankee b0e098
-tidy prism caa65e
 update juliet 7cdf91
 tweak harbor 4bb857
 update alpha 7d0cc4
