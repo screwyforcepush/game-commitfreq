@@ -1,2 +1,2 @@
 nudge xray 79e41c
-cleanup hotel 8bae59
+bump nimbus cde704
