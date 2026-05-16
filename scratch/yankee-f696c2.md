@@ -10,3 +10,5 @@ seed romeo f95414
 trim india 932b93
 expand ember d405c1
 nudge alpha 89e3b9
+adjust kilo 774f11
+tune prism 995b8c
