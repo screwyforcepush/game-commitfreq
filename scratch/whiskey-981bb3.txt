@@ -16,3 +16,7 @@ tune ember 1b6f38
 update tango 31d2ad
 tweak solstice 026f90
 update lattice 6dc04a
+tweak victor 3028b8
+update xray 47b22f
+bump bravo 21025f
+wire golf bf2d32
