@@ -5,7 +5,6 @@ nudge prism 937ad2
 polish delta e6a1ed
 bump whiskey 998132
 tune prism 9c7549
-refactor yankee 199fdd
 cleanup prism aa74b8
 polish golf b8c256
 wire nimbus f8e573
