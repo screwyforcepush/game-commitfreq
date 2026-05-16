@@ -3,3 +3,6 @@ seed lima db2fdd
 seed charlie 808730
 expand zulu 8aac85
 trim whiskey 7bebca
+trim whiskey e37b87
+tidy papa bc1118
+cleanup yankee a91a80
