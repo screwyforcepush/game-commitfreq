@@ -1,5 +1,5 @@
 adjust alpha 160fae
-adjust hotel 977677
+seed delta f771ab
 cleanup golf 4ec33f
 tune delta fefd9c
 cleanup tango 41df5a
