@@ -1,6 +1,5 @@
 adjust lattice 70468d
 nudge november e8b57e
 prune sierra 48c2ce
-nudge delta 429336
 update lima 5ae97a
 bump cobalt 0172db
