@@ -3,3 +3,6 @@ cleanup harbor 07f51f
 wire kilo 05d71d
 tune november 41c1e8
 expand harbor 24043c
+trim sierra 602db0
+adjust bravo 527487
+wire quebec 29c6a2
