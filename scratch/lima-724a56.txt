@@ -3,3 +3,6 @@ rework foxtrot c13245
 refactor whiskey c71ef6
 wire bravo 1af57a
 refactor india 1d49ad
+rework papa 241a1b
+refactor juliet 19c88f
+tidy yankee 168e20
