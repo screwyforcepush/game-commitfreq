@@ -5,3 +5,5 @@ cleanup sierra a6f0fd
 wire victor 216cf1
 tidy bravo 8b3276
 rework victor 00d49b
+prune xray 05c481
+adjust cobalt 0a50b4
