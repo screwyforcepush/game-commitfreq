@@ -4,5 +4,4 @@ prune tango 1db5bf
 seed charlie bfec6c
 tune delta 780998
 tidy echo b8c726
-nudge prism f3dfa7
 prune ember 2d78d8
