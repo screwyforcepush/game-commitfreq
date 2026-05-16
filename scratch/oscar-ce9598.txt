@@ -1,3 +1,5 @@
 tweak lattice 1e037e
 refactor cobalt c24d94
 nudge golf 7bd872
+tidy november c9dee5
+refactor november c507f3
