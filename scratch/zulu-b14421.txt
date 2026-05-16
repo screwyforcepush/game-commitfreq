@@ -3,3 +3,4 @@ polish uniform 32e3c5
 tune alpha 5e574a
 refactor foxtrot 761187
 update whiskey e0ac57
+tidy lattice dd0af3
