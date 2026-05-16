@@ -1,0 +1,4 @@
+expand juliet f8016f
+adjust victor dc1b5e
+trim xray 2e8621
+wire yankee 1112ed
