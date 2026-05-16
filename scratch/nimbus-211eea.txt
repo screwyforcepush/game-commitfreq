@@ -8,3 +8,4 @@ prune kilo 2b4250
 prune uniform 0d57f9
 tune kilo 8b245f
 wire charlie 7ee53a
+wire november b6d001
