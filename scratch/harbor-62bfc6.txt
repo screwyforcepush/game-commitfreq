@@ -2,4 +2,3 @@ tidy juliet ab5b06
 cleanup mike b22141
 rework harbor 08f5ae
 bump sierra 97cd3b
-tidy hotel faca07
