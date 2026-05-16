@@ -1,4 +1,3 @@
-refactor golf e1d51c
 refactor echo 1d68e1
 rework romeo 3c236b
 refactor lima 7d582b
