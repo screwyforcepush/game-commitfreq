@@ -4,3 +4,5 @@ trim echo 57fb81
 cleanup sierra a6f0fd
 wire victor 216cf1
 tidy alpha b173a2
+tidy bravo 8b3276
+rework victor 00d49b
