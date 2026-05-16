@@ -7,3 +7,5 @@ rework quebec 92252a
 wire yankee 252606
 polish whiskey 3c1b6f
 cleanup mike 967153
+cleanup hotel abff27
+refactor romeo 58715a
