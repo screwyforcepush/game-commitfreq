@@ -4,3 +4,6 @@ nudge foxtrot 33e17c
 tidy lima b58f7a
 nudge charlie 5c082a
 cleanup romeo f0d055
+expand oscar aefafb
+tune foxtrot 92388b
+wire solstice 27d990
