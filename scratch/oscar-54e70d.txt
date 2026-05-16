@@ -7,3 +7,7 @@ expand yankee 208acb
 wire prism 4c0c32
 tidy alpha 6805e0
 adjust prism 6faf9d
+tidy nimbus 215853
+nudge uniform 0c71ae
+tune whiskey 62dc59
+polish quebec 6e72ed
