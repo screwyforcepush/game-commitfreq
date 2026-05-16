@@ -2,7 +2,7 @@ tune yankee ae9707
 prune solstice 17dfaa
 expand kilo 78c07d
 prune yankee b0f14b
-adjust alpha ae8777
+seed quebec d5504b
 seed uniform ac73db
 prune delta df090d
 tweak golf 76bc4e
