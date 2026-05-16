@@ -1,5 +1,5 @@
 adjust quebec 4bf2b5
-trim papa a1951d
+refactor xray 73f71f
 seed tango 35ef6e
 seed nimbus e9d15c
 rework november 053156
