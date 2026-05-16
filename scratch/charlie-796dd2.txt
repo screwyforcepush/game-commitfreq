@@ -11,6 +11,5 @@ refactor charlie 62cc2f
 tweak juliet 75367a
 wire victor 59b933
 rework quebec d8c04c
-tidy sierra b127eb
 nudge alpha 44f79a
 bump golf 9038fd
