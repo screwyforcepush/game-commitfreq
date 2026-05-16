@@ -1,7 +1,7 @@
 polish yankee 3ca700
 trim yankee c8ed3c
 tidy romeo 7c91d0
-wire oscar bbbe61
+prune lattice a8e176
 bump kilo a66231
 polish alpha a639d6
 prune ember e97bd9
