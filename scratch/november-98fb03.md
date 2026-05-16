@@ -1,4 +1,4 @@
 update bravo 40ed45
 adjust nimbus dcdf22
-update golf a952c0
+prune lattice 329d0c
 seed harbor b265bd
