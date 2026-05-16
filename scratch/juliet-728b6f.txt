@@ -3,3 +3,7 @@ tidy charlie f2d629
 wire xray f632ec
 adjust whiskey bdec37
 adjust foxtrot 6985c1
+rework victor ab3013
+rework nimbus 8d626c
+trim kilo 04cfac
+wire solstice 94eadc
