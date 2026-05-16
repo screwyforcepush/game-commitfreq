@@ -11,3 +11,5 @@ seed bravo 9919ef
 cleanup yankee 59cba5
 refactor november d5a85c
 seed alpha 3e7e3a
+cleanup india 0f53a6
+adjust hotel 7bd8bd
