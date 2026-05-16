@@ -7,3 +7,6 @@ nudge juliet 92c89c
 tidy juliet 61464d
 cleanup uniform 9c110a
 wire quebec e9d4a8
+tidy hotel d348ce
+tidy mike 7be55a
+tune hotel 90d539
