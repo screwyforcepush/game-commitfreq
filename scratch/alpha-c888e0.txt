@@ -1,4 +1,4 @@
-rework delta 003fba
+bump xray bf7d3d
 update delta 017882
 trim cobalt 36fe3f
 update solstice 338f2f
