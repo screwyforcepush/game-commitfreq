@@ -3,3 +3,5 @@ adjust solstice 6ff63e
 expand papa 38ab2d
 tweak kilo 1a27ed
 trim quebec 7a62cd
+adjust alpha 8506df
+seed nimbus 6e16a1
