@@ -3,7 +3,6 @@ nudge lima 9805fc
 seed tango a5fc47
 cleanup sierra ba303c
 adjust delta 07d2da
-expand foxtrot bdabf8
 adjust lattice 9654ae
 cleanup ember afed7a
 tune nimbus c32086
