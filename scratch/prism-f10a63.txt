@@ -1,4 +1,3 @@
-polish cobalt ec3fbd
 adjust bravo 89ba72
 adjust alpha edd1c2
 tweak lima 49ce0c
