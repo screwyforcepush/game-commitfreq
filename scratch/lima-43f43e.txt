@@ -1,4 +1,0 @@
-nudge delta 25eac3
-tidy prism 0ee70f
-seed tango b41bf0
-refactor quebec 7958a8
