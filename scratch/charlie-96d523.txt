@@ -3,3 +3,6 @@ expand bravo 69a08b
 seed oscar 874b84
 wire foxtrot fac73e
 rework whiskey 788630
+update hotel 1294cb
+tidy delta 6a8932
+tidy kilo 8ca343
