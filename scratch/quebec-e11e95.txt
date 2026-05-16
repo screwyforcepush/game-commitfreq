@@ -1,5 +1,0 @@
-tweak juliet c8ba7a
-seed delta fc0dad
-trim oscar 49ac88
-nudge xray 02d587
-trim victor a92e33
