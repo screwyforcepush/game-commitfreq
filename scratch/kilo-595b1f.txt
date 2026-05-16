@@ -1,5 +1,0 @@
-update hotel 72f93f
-tune echo eed7f1
-adjust uniform 4b4e39
-expand quebec c620f7
-tweak tango fb6abe
