@@ -5,5 +5,5 @@ adjust lattice 8f788d
 rework kilo 4d81e7
 cleanup foxtrot 2ed346
 seed tango 293649
-update oscar bf2ead
+tidy echo a076ac
 nudge november df4acc
