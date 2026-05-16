@@ -5,7 +5,6 @@ tidy november 077df5
 nudge nimbus b91f36
 bump xray 428b3e
 tidy xray 1a386e
-bump romeo 1d3a39
 nudge alpha 3d1583
 expand charlie 944a8d
 cleanup prism 40bb78
