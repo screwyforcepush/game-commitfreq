@@ -3,3 +3,7 @@ expand victor a68f84
 update lattice 02385a
 trim oscar b69b39
 polish uniform f2045d
+rework sierra a76a8e
+nudge november ec12df
+rework zulu 67ee17
+refactor zulu 799681
