@@ -1,7 +1,6 @@
 prune hotel 3b85fc
 nudge xray e74eae
 refactor victor d3bb92
-trim tango 307616
 adjust echo b22e7d
 adjust uniform ba4db2
 tidy cobalt 5c38d0
