@@ -1,5 +1,4 @@
 tweak delta 34a30f
-bump juliet 308d37
 refactor india 09ba70
 cleanup echo be9971
 bump victor c4779b
