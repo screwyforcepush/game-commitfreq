@@ -7,4 +7,3 @@ trim yankee 08d8b7
 bump echo 44d114
 rework lattice bdc6a8
 tune prism 230337
-tune bravo dc3931
