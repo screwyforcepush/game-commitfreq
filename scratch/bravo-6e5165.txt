@@ -1,5 +1,4 @@
 prune nimbus 0016ee
 bump cobalt 367136
 wire victor 933725
-prune lattice fc93d3
 seed hotel 73fabd
