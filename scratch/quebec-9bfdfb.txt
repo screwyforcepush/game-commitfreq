@@ -1,7 +1,7 @@
 polish alpha 5d5b92
 trim lima 745581
 cleanup solstice 65ba74
-prune yankee 9186c7
+wire november 5a8c2c
 seed uniform 200784
 tidy yankee ff871a
 refactor delta c08768
