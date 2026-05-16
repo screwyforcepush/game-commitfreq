@@ -1,2 +1,4 @@
 prune bravo f2a6c7
 update charlie 0fe9ac
+trim harbor 42977c
+trim foxtrot 9103b6
