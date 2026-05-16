@@ -1,2 +1,2 @@
-seed echo 67ec66
+wire oscar 528939
 nudge tango 259be5
