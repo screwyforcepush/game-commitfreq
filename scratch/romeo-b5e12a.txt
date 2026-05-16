@@ -12,3 +12,5 @@ trim quebec 80ab6d
 bump lima 33047b
 expand delta a29574
 tune bravo 6f4374
+wire mike 73dcf2
+update solstice 5f6480
