@@ -1,4 +1,3 @@
-adjust november a2213c
 update quebec 3c30a5
 seed echo 3a92ec
 tune golf 6c8641
