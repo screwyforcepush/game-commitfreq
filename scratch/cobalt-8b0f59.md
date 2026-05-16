@@ -6,3 +6,5 @@ update november a49c34
 seed charlie 22e86a
 seed tango 75aad5
 refactor tango 88882e
+trim sierra 0bd328
+adjust foxtrot 9bb364
