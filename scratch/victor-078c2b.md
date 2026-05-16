@@ -1,4 +1,3 @@
-wire golf 5316eb
 trim cobalt 7ba081
 tune november 7a705f
 adjust hotel 2e2c88
