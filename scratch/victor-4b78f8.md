@@ -7,3 +7,4 @@ update tango 55fff2
 prune quebec a79dc3
 bump solstice a6c9db
 polish xray f765f0
+adjust november 217b68
