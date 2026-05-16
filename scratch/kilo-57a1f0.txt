@@ -3,3 +3,6 @@ expand lattice 62fa77
 tune lattice 4611d5
 tidy ember 66ba6c
 expand whiskey 85d7e6
+bump foxtrot b310ff
+bump harbor 63703a
+tweak yankee 85d4c4
