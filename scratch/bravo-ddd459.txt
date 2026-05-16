@@ -1,7 +1,0 @@
-tidy echo 2b6757
-wire sierra 9b44bf
-trim zulu 857d4a
-prune yankee 27edcf
-cleanup xray 79d4b2
-polish solstice ddad25
-cleanup tango c39263
