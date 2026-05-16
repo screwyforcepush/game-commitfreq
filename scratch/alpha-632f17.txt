@@ -1,3 +1,2 @@
 adjust juliet 744f8b
-update papa ff7cd8
 cleanup quebec 1e3f8b
