@@ -1,7 +1,7 @@
 expand yankee a45e78
 wire romeo 90f218
 cleanup lattice d2f868
-tidy sierra 4dbfea
+wire lattice c4cab3
 expand foxtrot a65f8a
 prune cobalt ab7dbc
 nudge juliet 1786df
