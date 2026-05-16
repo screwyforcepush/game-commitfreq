@@ -12,7 +12,6 @@ rework uniform 9574b3
 wire echo 9e5f92
 wire sierra bce3e1
 refactor oscar dc3611
-trim charlie 33f8c5
 trim lima aec4ea
 wire cobalt ea894d
 expand hotel 1a565a
