@@ -3,7 +3,6 @@ rework golf 7c0355
 update november 85c567
 tidy victor d9a182
 prune juliet 83856c
-adjust hotel 1023ce
 trim prism ac32be
 refactor victor bc0a6f
 expand cobalt df1fd1
