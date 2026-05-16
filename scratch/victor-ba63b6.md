@@ -4,3 +4,6 @@ tune lattice a302a0
 rework cobalt fd808b
 prune prism 5cac2a
 seed lima a87f24
+wire papa 528037
+wire oscar 148955
+adjust sierra e9576b
