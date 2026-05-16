@@ -6,4 +6,3 @@ cleanup whiskey d547cb
 trim nimbus 8a7801
 refactor juliet 31b1c1
 adjust harbor 92bf52
-wire mike 5d3400
