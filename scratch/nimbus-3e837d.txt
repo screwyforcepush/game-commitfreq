@@ -1,4 +1,3 @@
-tune nimbus da7c0f
 tune echo 2c688c
 expand sierra acbd9c
 expand xray 9e535e
