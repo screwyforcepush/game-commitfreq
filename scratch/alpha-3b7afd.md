@@ -9,3 +9,6 @@ refactor india 04e8ad
 bump ember 326b17
 expand nimbus b31d55
 refactor golf 15e399
+wire whiskey 2ee6ab
+tidy tango 0b0a68
+nudge foxtrot 67ee5d
