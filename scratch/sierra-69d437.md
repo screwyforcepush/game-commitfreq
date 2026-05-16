@@ -3,7 +3,7 @@ expand charlie 19051d
 tidy foxtrot ef367f
 prune papa a7def5
 trim delta cbd30a
-seed solstice b01471
+bump charlie d1ba60
 tune solstice a1fcef
 bump lima 5c2005
 trim juliet 5f005a
