@@ -6,3 +6,6 @@ expand yankee 787209
 expand zulu 757c7c
 nudge hotel 32a35e
 polish solstice 0f6e04
+wire foxtrot 107bad
+rework prism 37919c
+expand uniform 5ad5f7
