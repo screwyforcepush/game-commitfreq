@@ -6,7 +6,7 @@ seed november 3be6f9
 rework prism 8d412a
 bump alpha 0b78cf
 polish xray 66ed28
-adjust oscar bb6739
+trim mike 4dc233
 seed yankee f1e495
 polish papa e09c9e
 update november a03f13
