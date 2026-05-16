@@ -1,6 +1,0 @@
-bump whiskey c74783
-tune tango 336fcf
-tidy hotel 90290e
-adjust yankee b5365d
-update alpha dbd884
-bump victor 563d7f
