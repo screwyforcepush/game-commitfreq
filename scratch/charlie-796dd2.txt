@@ -3,6 +3,6 @@ adjust juliet ce18e2
 cleanup charlie 6aeb9d
 seed lattice da4433
 wire harbor 7a22d0
-polish solstice 6c8711
+refactor mike 2b115d
 wire mike a6878a
 tidy charlie 16dc04
