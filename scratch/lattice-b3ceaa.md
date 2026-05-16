@@ -3,7 +3,7 @@ polish november af9e5e
 rework whiskey 65ea1d
 wire golf e124b1
 cleanup november cf053c
-wire sierra 25503e
+update romeo 4e2a02
 tune mike 0da5f9
 nudge oscar c38ae6
 polish charlie a355d1
