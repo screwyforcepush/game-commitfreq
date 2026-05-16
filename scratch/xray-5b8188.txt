@@ -2,7 +2,7 @@ tune oscar 5310a7
 cleanup november 3332a3
 wire golf 7a7ad1
 bump romeo 41dedb
-update quebec 5634c1
+prune bravo d2550a
 wire bravo 809774
 wire zulu 4dbc6d
 tweak xray 98c007
