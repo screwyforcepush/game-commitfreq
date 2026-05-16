@@ -5,3 +5,6 @@ update juliet 60d30b
 tidy xray b51b65
 nudge victor a0cc66
 rework bravo f3a801
+nudge lattice 4f984c
+cleanup cobalt f8edaf
+bump foxtrot c12665
