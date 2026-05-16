@@ -3,7 +3,6 @@ expand xray 10a29f
 trim uniform 449271
 tune solstice 237841
 refactor xray 5a2ab3
-refactor delta 732964
 cleanup ember 3917a2
 wire lima a19398
 trim xray 58fbf7
