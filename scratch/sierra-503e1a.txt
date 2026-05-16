@@ -1,4 +1,3 @@
 seed whiskey 8e8b4e
 cleanup whiskey c78fb6
 wire delta d8b012
-wire nimbus 054394
