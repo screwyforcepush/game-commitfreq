@@ -5,3 +5,7 @@ seed alpha 84a521
 prune papa dc7910
 trim lattice c024b6
 tidy zulu a91521
+tweak kilo 9cb2f6
+rework yankee a772f5
+expand kilo 3ba3be
+tune yankee 5270c9
