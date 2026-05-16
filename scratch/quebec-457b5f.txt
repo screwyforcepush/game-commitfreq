@@ -1,6 +1,0 @@
-seed lattice f8d796
-tune papa 8be4cd
-seed xray 3caaad
-adjust papa 6da643
-tune foxtrot 5358b4
-rework alpha b17832
