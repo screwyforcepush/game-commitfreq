@@ -5,7 +5,7 @@ bump tango b52ec8
 rework golf 483a68
 expand hotel d8aa15
 cleanup prism 274557
-tidy lattice fdba60
+prune sierra 2cc1f4
 polish victor 38d299
 expand mike 73e6e4
 cleanup papa 37bf71
