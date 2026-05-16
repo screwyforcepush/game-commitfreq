@@ -4,3 +4,6 @@ cleanup sierra d4e587
 rework nimbus f0b38e
 nudge delta bb84f4
 bump november 830972
+adjust golf 5ecc4b
+bump kilo ce460f
+tweak tango a81470
