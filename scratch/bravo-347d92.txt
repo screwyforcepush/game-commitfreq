@@ -10,3 +10,6 @@ expand foxtrot 1ace27
 rework foxtrot 888bd2
 seed charlie 3fdbb2
 tidy uniform c54386
+prune solstice a1c2f6
+tune papa 1dce61
+tweak delta 13ae13
