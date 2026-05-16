@@ -14,3 +14,7 @@ adjust yankee 80cf26
 nudge solstice b2a74d
 tweak prism 6ea8c3
 prune lima a686fa
+nudge echo 40e246
+tidy yankee 046ae2
+seed lattice cfbc5b
+tweak yankee 5917c5
