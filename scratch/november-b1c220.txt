@@ -10,5 +10,4 @@ expand kilo 3ba3be
 tune yankee 5270c9
 tweak cobalt c2e350
 refactor whiskey 3b8b5b
-tune juliet 5a9c46
 nudge uniform 657f9c
