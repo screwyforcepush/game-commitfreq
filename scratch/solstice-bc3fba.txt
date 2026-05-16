@@ -6,3 +6,5 @@ adjust delta c9d757
 trim ember e21064
 wire whiskey a27a93
 seed yankee 7bc805
+trim cobalt dd82b7
+trim whiskey e0e85b
