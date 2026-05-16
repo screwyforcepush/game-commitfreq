@@ -4,3 +4,7 @@ cleanup alpha 9a7106
 update lima f665ef
 adjust lattice 004766
 adjust november aada79
+tidy sierra c6bf1b
+update prism 99b8b1
+trim whiskey 0e2ed6
+nudge charlie 014f82
