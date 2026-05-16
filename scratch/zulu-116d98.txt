@@ -1,5 +1,0 @@
-bump india b644d8
-trim alpha 69d4a3
-trim mike 2b10e2
-adjust kilo cfa101
-nudge juliet 2f6017
