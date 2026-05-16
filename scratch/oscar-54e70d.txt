@@ -12,3 +12,7 @@ nudge uniform 0c71ae
 tune whiskey 62dc59
 polish quebec 6e72ed
 adjust november bb5063
+nudge whiskey 85e01a
+prune victor 4e66e5
+tune whiskey 067d74
+polish yankee f054a1
