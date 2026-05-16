@@ -1,2 +1,0 @@
-seed echo d1f376
-wire echo 650a4f
