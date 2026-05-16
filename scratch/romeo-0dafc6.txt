@@ -1,2 +1,0 @@
-wire juliet 2f62d5
-cleanup kilo a4843d
