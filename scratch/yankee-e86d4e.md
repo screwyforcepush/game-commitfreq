@@ -5,3 +5,6 @@ tweak echo 9b81b6
 tune lima 3afa3d
 seed prism 9f68b3
 trim india cd4692
+tweak uniform a4d6a2
+update yankee 9ffb99
+tidy oscar 703f2e
