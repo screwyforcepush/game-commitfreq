@@ -11,6 +11,6 @@ tidy alpha 1dd4b1
 rework uniform 25e018
 update uniform 02cf88
 update ember be6f76
-tweak solstice ba379e
+trim prism 6ab28d
 tweak lattice 5d37b6
 tidy prism 0dfb43
