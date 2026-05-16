@@ -7,7 +7,7 @@ rework whiskey a4c24d
 adjust prism c5f9b5
 wire yankee 740d1a
 nudge juliet 199cb0
-nudge sierra cc9ea2
+rework yankee 528926
 bump tango 64099e
 polish foxtrot 9c84bf
 adjust sierra 1ca41a
