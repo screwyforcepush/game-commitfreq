@@ -8,7 +8,6 @@ nudge mike 03a2bb
 prune tango 8cd952
 wire golf 074edd
 tidy alpha 1dd4b1
-wire xray 653050
 rework uniform 25e018
 update uniform 02cf88
 update ember be6f76
