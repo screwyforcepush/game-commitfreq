@@ -20,3 +20,6 @@ tweak cobalt 9999ab
 adjust xray 36d699
 update charlie 400422
 trim sierra 18510a
+cleanup ember 1562d3
+update bravo 304075
+tune echo 41d1da
