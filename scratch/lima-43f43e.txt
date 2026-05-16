@@ -1,1 +1,3 @@
 nudge delta 25eac3
+trim victor ddfa57
+seed tango b41bf0
