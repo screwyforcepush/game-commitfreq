@@ -1,7 +1,7 @@
 adjust november 498956
 rework xray 02aa2c
 wire xray 2f9c82
-polish solstice b9d898
+tidy sierra 300959
 adjust lima b74a24
 tidy echo 1685ff
 seed alpha 209cff
