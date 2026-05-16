@@ -1,7 +1,7 @@
 update bravo d2f46c
 tweak echo bc5719
 rework solstice 5f5021
-tweak oscar decc7f
+update bravo cb4246
 update lattice 2c2441
 wire nimbus c172df
 wire yankee 080816
