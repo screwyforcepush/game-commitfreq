@@ -1,5 +1,4 @@
 seed whiskey 8e8b4e
-seed oscar a5037b
 cleanup whiskey c78fb6
 wire delta d8b012
 wire nimbus 054394
