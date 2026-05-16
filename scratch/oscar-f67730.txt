@@ -10,6 +10,5 @@ bump november e694a5
 tune quebec 9efd3c
 trim echo 5d6d89
 refactor echo 2dc1a9
-update delta a9e075
 cleanup lattice d7686f
 seed lima 01e3a2
