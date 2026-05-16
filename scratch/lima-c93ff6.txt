@@ -13,3 +13,6 @@ prune juliet a80b18
 polish hotel 709bdb
 prune prism ae9e22
 refactor lattice 47f232
+tidy solstice cca86e
+prune india cc203e
+tweak charlie 48be46
