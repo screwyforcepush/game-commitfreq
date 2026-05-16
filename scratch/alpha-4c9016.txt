@@ -13,3 +13,4 @@ trim charlie c6683f
 seed yankee 7af6fa
 seed romeo 23aada
 trim whiskey 2b2930
+wire cobalt a291c3
