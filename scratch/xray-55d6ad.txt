@@ -1,3 +1,0 @@
-tune solstice bb9565
-prune quebec 930625
-update xray 9fc242
