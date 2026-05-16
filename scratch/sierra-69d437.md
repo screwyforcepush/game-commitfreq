@@ -8,3 +8,5 @@ tune solstice a1fcef
 bump lima 5c2005
 trim juliet 5f005a
 expand november 04c174
+tweak kilo 1ee292
+adjust foxtrot 671499
