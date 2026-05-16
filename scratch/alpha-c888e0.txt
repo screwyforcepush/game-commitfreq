@@ -1,6 +1,6 @@
 bump xray bf7d3d
 update delta 017882
 trim cobalt 36fe3f
-update solstice 338f2f
+prune delta d1e70e
 bump echo 96efdc
 refactor tango 9b7293
