@@ -1,3 +1,6 @@
 cleanup yankee 00ed81
 wire kilo 5aa106
 tweak xray 4057ef
+nudge nimbus d26907
+nudge yankee 470e26
+tidy november be9f72
