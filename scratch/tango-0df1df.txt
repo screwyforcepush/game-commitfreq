@@ -1,5 +1,4 @@
 wire victor 8637b2
-bump lattice d12d2a
 update juliet 6ea40d
 update sierra 8a668f
 polish oscar b21569
