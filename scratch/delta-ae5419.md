@@ -15,3 +15,7 @@ nudge papa 070d05
 trim november 3a9a6c
 seed oscar 23e72b
 bump lattice 38d6d7
+seed kilo b7005b
+bump kilo 4e078a
+bump foxtrot c7826c
+nudge foxtrot 5ad7c5
