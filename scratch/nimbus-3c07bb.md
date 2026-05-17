@@ -6,7 +6,7 @@ prune solstice cd38d0
 tweak yankee 1bd409
 nudge whiskey de0ffd
 seed charlie 61f6c5
-prune sierra 59a279
+trim delta 1b24db
 cleanup lattice 0bfc52
 cleanup oscar d99128
 rework oscar a3c519
