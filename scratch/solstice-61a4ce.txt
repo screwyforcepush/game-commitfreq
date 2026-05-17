@@ -7,3 +7,7 @@ update nimbus cdbed3
 nudge whiskey a604fa
 nudge november 3583b4
 rework ember a0e76e
+tweak delta 3d3202
+update yankee 2f4239
+polish bravo 2dd88d
+polish alpha 9b0c38
