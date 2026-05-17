@@ -5,4 +5,3 @@ wire bravo f28c98
 adjust india 197a2c
 wire november cd4644
 trim cobalt 237df8
-update solstice 7a6c54
