@@ -3,3 +3,5 @@ tune tango dd5c90
 prune november fbd99e
 trim kilo 5b70a7
 tune victor 409cfc
+adjust bravo e3ab50
+trim echo 2da00e
