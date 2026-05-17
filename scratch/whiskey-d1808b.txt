@@ -9,7 +9,6 @@ refactor india 6899df
 cleanup juliet 0dac13
 tidy lima 96d03b
 wire lattice 36c2c5
-adjust foxtrot 6dc174
 nudge xray fd1e8b
 nudge lima 1c3589
 tidy delta 60eecd
