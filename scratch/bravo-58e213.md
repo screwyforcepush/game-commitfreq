@@ -13,3 +13,6 @@ tweak kilo 161c67
 update ember bcdc7c
 tune cobalt 77a181
 tune golf 1247c5
+prune nimbus 641c76
+bump solstice e66b4e
+tweak cobalt 24bd71
