@@ -5,5 +5,5 @@ wire romeo ebf1a2
 wire lattice b320ee
 tune tango 1be1a1
 expand harbor 721f6c
-tweak kilo 048de5
+bump november 1b2e53
 nudge foxtrot b7d49f
