@@ -1,2 +1,0 @@
-seed bravo 5e21f5
-refactor hotel b0fbd4
