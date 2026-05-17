@@ -10,3 +10,5 @@ prune sierra 59a279
 cleanup lattice 0bfc52
 cleanup oscar d99128
 rework oscar a3c519
+tune delta 780c71
+prune prism 3b4406
