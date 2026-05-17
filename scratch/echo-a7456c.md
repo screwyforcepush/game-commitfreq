@@ -6,3 +6,4 @@ nudge mike 96e035
 expand tango fa4916
 trim tango 8c8fba
 wire lattice 0a8f2d
+update echo 96139a
