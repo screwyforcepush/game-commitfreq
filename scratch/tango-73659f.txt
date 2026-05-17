@@ -1,3 +1,2 @@
-wire lima 99aa6a
 seed hotel bf6fd2
 nudge hotel 9b09d2
