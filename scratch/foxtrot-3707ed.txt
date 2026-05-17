@@ -1,4 +1,3 @@
 bump yankee c67f3e
 bump solstice 34c01e
-wire yankee d9378b
 polish mike 6c2678
