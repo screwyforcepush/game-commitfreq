@@ -6,3 +6,5 @@ bump lima 6c329a
 tune foxtrot 65e207
 wire nimbus 0e5894
 polish prism cf4770
+trim sierra b28311
+wire delta 378ad8
