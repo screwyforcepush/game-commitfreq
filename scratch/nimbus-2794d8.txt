@@ -4,3 +4,6 @@ update lima d2dcda
 polish prism 827751
 rework solstice b471ae
 tidy victor ed2dbb
+tidy lattice 42476f
+update echo 40ee10
+polish bravo d07921
