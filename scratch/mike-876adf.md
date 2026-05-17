@@ -2,7 +2,7 @@ expand golf 21cab1
 rework quebec a50170
 wire charlie d31a95
 seed whiskey 5969aa
-seed tango fc1e28
+trim alpha 3b56d7
 polish nimbus a30db3
 nudge mike 03a2bb
 prune tango 8cd952
