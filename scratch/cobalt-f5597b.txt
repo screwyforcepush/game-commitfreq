@@ -1,5 +1,4 @@
 update charlie 1dcd09
-adjust papa e160cb
 tweak juliet eeb142
 wire sierra 2460b7
 cleanup hotel 047c17
