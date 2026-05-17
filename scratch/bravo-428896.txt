@@ -1,5 +1,5 @@
 refactor foxtrot 651907
-tidy bravo 2adce6
+bump lattice 67944b
 refactor hotel 34cf48
 tidy sierra 6d9aaf
 tweak romeo 10d74f
