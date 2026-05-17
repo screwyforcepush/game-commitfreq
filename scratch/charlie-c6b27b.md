@@ -6,5 +6,4 @@ prune cobalt 1746d4
 tidy echo d578f0
 nudge whiskey 50df90
 prune bravo 3b6699
-nudge solstice 89e25e
 update foxtrot 6098c3
