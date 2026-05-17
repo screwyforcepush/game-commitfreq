@@ -3,7 +3,7 @@ tune cobalt 1f10bd
 nudge foxtrot 438bdf
 trim xray 1744e5
 adjust romeo 127360
-tidy november c5bf36
+seed lima f9b635
 prune india d55da2
 tweak alpha 93d460
 bump bravo 9654a6
