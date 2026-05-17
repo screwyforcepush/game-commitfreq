@@ -6,3 +6,5 @@ adjust xray c71a3c
 refactor yankee 05a006
 adjust echo 88b4f7
 prune juliet 18ca82
+refactor kilo 8da19b
+trim cobalt 9f2b12
