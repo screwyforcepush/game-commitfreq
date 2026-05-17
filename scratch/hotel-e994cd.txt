@@ -1,1 +1,5 @@
 cleanup uniform 0fd38f
+cleanup lima 506603
+tidy oscar b8f866
+rework november c64229
+bump lattice b8c0aa
