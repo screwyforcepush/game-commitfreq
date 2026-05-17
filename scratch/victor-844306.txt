@@ -1,4 +1,4 @@
 prune nimbus b0235a
-bump uniform 4a1928
+tidy solstice 213935
 bump xray 2c7d09
 update foxtrot 41e8cc
