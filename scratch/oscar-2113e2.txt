@@ -6,5 +6,4 @@ seed kilo bdc8dd
 nudge echo 577c32
 cleanup cobalt 032ac5
 rework foxtrot 84531e
-tidy echo eee0ba
 expand zulu da0b85
