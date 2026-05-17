@@ -2,7 +2,7 @@ update quebec 28ce70
 polish bravo 4b8dc3
 nudge quebec 27d2b8
 bump sierra 84107c
-cleanup lattice 0fe742
+wire november 6248a1
 prune echo c41935
 refactor bravo 716fa7
 nudge cobalt b2461e
