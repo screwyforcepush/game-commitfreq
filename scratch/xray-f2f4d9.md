@@ -10,3 +10,5 @@ tidy victor 4a4c83
 adjust mike d33a05
 wire quebec 24c009
 tidy hotel a3a0d9
+update tango b298bd
+tweak whiskey 467f9f
