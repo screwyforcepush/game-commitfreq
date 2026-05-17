@@ -3,6 +3,5 @@ tweak india 9635bc
 polish oscar 17a839
 tidy tango eccaa4
 cleanup papa d907be
-adjust echo f39523
 refactor delta 9ea91f
 polish zulu 6924fb
