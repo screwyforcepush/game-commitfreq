@@ -4,7 +4,6 @@ trim kilo 43f2a7
 seed xray 9eefd5
 polish echo dec253
 tweak harbor eaab26
-update sierra 87b3b2
 wire india 8df799
 prune prism 5bcd86
 cleanup tango 31bbab
