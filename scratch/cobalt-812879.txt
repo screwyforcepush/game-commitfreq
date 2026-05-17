@@ -1,4 +1,3 @@
-adjust solstice bf7b5f
 tweak bravo b00110
 polish echo 814f07
 bump delta df9971
