@@ -1,6 +1,0 @@
-polish nimbus 5b6636
-nudge solstice ac14bd
-adjust harbor 32c442
-rework mike 612a2e
-tweak papa 54ba6e
-tidy bravo d39dd6
