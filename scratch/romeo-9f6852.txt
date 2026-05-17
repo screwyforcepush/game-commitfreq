@@ -1,3 +1,0 @@
-refactor november 10d714
-cleanup hotel 8e5367
-refactor delta 32fdf7
