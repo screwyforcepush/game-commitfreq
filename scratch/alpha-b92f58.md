@@ -6,7 +6,6 @@ cleanup lattice 2bec98
 refactor echo 4d37b4
 prune oscar c588ca
 update foxtrot 49e8b9
-adjust yankee 915743
 prune foxtrot c91f70
 tidy whiskey 047f2c
 tune mike c6102b
