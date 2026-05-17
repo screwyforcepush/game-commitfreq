@@ -9,3 +9,7 @@ prune prism 55158a
 tune foxtrot 366648
 tweak prism 180b70
 tidy tango b31fbe
+polish xray f0838f
+tune echo f7b355
+wire lattice 8471e6
+prune alpha 922739
