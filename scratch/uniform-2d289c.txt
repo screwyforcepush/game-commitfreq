@@ -2,5 +2,4 @@ rework zulu 7dba44
 wire oscar e4fa18
 prune foxtrot db7391
 rework uniform 509629
-adjust papa 541fcb
 prune uniform 957e84
