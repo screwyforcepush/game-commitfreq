@@ -1,2 +1,0 @@
-trim echo b48956
-trim prism 56401f
