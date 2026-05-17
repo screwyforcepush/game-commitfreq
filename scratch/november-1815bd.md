@@ -4,3 +4,5 @@ expand november 00d4d5
 trim lima d71143
 polish uniform 2b08b6
 tidy xray 377570
+tune foxtrot 65e207
+wire nimbus 0e5894
