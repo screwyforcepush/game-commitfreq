@@ -8,3 +8,7 @@ tidy quebec 34754f
 cleanup golf e96b50
 rework foxtrot ea8fa7
 nudge ember b0c452
+update mike 710c44
+tweak uniform 355c83
+cleanup victor f2bcba
+polish sierra 2d713c
