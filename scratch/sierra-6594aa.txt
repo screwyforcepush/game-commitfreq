@@ -1,4 +1,4 @@
-polish lattice 13b2c4
+polish uniform 1565cc
 tune papa 5713a7
 wire nimbus 38f570
 nudge alpha 0eb8b5
