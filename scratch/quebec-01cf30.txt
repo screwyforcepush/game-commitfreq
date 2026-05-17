@@ -1,3 +1,2 @@
-wire charlie 9949b1
 nudge alpha c674dc
 adjust foxtrot f79466
