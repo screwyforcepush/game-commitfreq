@@ -18,3 +18,6 @@ refactor ember 5c1858
 seed hotel 50f08c
 tune juliet a355c0
 tidy nimbus b459fc
+tidy papa 91b1c7
+polish prism 0672b0
+prune oscar a5d842
