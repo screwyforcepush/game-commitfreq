@@ -13,3 +13,7 @@ expand whiskey f5bdf5
 wire zulu 8251d8
 bump xray 285cdb
 prune echo 7b44f9
+tweak india d74ad8
+tidy charlie d57910
+bump delta f80f55
+update lima 4da109
