@@ -18,3 +18,6 @@ prune lima 779368
 cleanup prism 329f19
 expand bravo 067da9
 seed quebec cd66b8
+seed hotel 02fac7
+tidy sierra 879a08
+polish ember af0507
