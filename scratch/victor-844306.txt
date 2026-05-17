@@ -1,5 +1,0 @@
-prune nimbus b0235a
-seed romeo 8e5396
-adjust charlie 2455a9
-wire echo 6fa939
-trim lima 9235ea
