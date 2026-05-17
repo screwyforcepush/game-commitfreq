@@ -25,3 +25,6 @@ trim charlie e90016
 wire alpha 788bff
 polish victor 5cb5c0
 tune papa be526f
+tidy solstice 9306f7
+nudge oscar 6c3fc0
+update nimbus a307c8
