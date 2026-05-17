@@ -7,3 +7,6 @@ expand tango fa4916
 trim tango 8c8fba
 wire lattice 0a8f2d
 update echo 96139a
+trim sierra 0fbdb0
+tweak cobalt 322703
+nudge harbor 10799c
