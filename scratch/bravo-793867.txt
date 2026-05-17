@@ -1,3 +1,2 @@
-trim tango 408de2
 wire sierra 467d86
 tweak oscar a13b49
