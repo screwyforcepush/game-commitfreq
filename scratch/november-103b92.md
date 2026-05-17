@@ -1,2 +1,2 @@
-bump alpha 356e6d
+prune ember bf9592
 bump alpha 5980ec
