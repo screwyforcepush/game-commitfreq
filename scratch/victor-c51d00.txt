@@ -8,3 +8,6 @@ refactor mike 80389c
 seed cobalt e271fc
 tune mike 5ee942
 rework lattice 584a8e
+expand tango 5fcdea
+trim sierra 4d3849
+tweak xray 3a1c06
