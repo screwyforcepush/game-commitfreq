@@ -1,6 +1,5 @@
 refactor uniform 9210de
 rework kilo b35183
-adjust yankee eb577b
 tidy foxtrot 45df3a
 rework quebec bab76a
 trim uniform bbc979
