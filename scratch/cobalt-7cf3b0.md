@@ -12,3 +12,6 @@ bump victor 17a1e2
 expand bravo 18f4ae
 tidy ember 1e9b69
 polish hotel 7c2008
+bump oscar 8a157b
+nudge victor aeb73f
+tweak india 6aed49
