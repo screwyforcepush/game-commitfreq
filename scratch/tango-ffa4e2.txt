@@ -1,4 +1,4 @@
-wire romeo 98ccac
+wire solstice 37b55b
 polish tango 59ec19
 bump sierra eb7725
 adjust echo 889ffb
