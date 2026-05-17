@@ -8,3 +8,5 @@ tweak foxtrot 66defd
 bump quebec 8f5b38
 refactor harbor 2410e0
 expand juliet fc6545
+bump lattice 3d4f78
+update victor e3be45
