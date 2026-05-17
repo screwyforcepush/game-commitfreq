@@ -1,6 +1,5 @@
 polish uniform 1565cc
 wire nimbus 38f570
-nudge alpha 0eb8b5
 seed charlie 449682
 update uniform b49246
 cleanup foxtrot 7d6c26
