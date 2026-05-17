@@ -1,2 +1,0 @@
-update foxtrot 307014
-update delta 259bdb
