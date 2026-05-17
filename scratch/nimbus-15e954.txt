@@ -1,6 +1,5 @@
 seed lattice 4309eb
 tidy november 3ce0a1
-tune sierra 113b70
 refactor xray 4d3611
 update charlie a17492
 tune zulu 209b9e
