@@ -1,4 +1,3 @@
 update charlie 42326e
-update juliet e0e598
 tune delta e7157b
 bump prism ec713c
