@@ -2,7 +2,7 @@ adjust tango b08bb1
 bump tango 76bf48
 bump delta df9971
 polish bravo ee52a0
-expand victor 5f99f0
+tune oscar aff840
 refactor papa 6459a0
 update golf 8fb21b
 tune delta 2592c2
