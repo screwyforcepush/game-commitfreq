@@ -2,7 +2,7 @@ bump lima 348d50
 adjust india 8d2bc4
 expand foxtrot 2cbb3e
 refactor tango 9a06b8
-cleanup charlie e390bd
+refactor delta 40443b
 tune bravo 191a64
 update hotel 66fce4
 update whiskey 7741dd
