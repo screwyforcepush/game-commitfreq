@@ -21,3 +21,7 @@ seed quebec cd66b8
 seed hotel 02fac7
 tidy sierra 879a08
 polish ember af0507
+trim oscar 479cce
+prune uniform a26b45
+cleanup mike 9db268
+expand delta 2cbf7d
