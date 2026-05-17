@@ -8,3 +8,6 @@ update foxtrot 0a3dd9
 tidy bravo 410a0e
 update nimbus e308bb
 bump echo 948d12
+tweak nimbus 2e399c
+tidy charlie 339a6b
+expand victor 6db733
