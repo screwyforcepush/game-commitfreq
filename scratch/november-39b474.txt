@@ -4,3 +4,7 @@ rework yankee 5e69a5
 trim golf 3e28e3
 trim lattice fd7ccf
 nudge lima 521998
+tidy quebec 34754f
+cleanup golf e96b50
+rework foxtrot ea8fa7
+nudge ember b0c452
