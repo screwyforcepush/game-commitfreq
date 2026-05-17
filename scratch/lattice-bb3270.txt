@@ -1,3 +1,6 @@
 wire kilo 9a89b5
 bump papa 5c8510
 cleanup lima 16c3ed
+tidy bravo fb0a6b
+tidy sierra 77186c
+wire whiskey addd80
