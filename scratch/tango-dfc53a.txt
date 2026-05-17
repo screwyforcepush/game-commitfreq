@@ -2,7 +2,6 @@ rework nimbus 09114a
 tweak solstice 1bf9fd
 seed yankee d92393
 tweak ember 88f0b9
-tidy mike 96512e
 polish november 05596e
 adjust juliet 08c1d2
 cleanup mike e1ee53
