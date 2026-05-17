@@ -6,3 +6,5 @@ bump golf f7d7ac
 seed xray d5e617
 seed lattice 9e7763
 rework november 20afdb
+trim sierra c225df
+update victor be14f5
