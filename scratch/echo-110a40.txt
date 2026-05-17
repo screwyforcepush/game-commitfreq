@@ -1,7 +1,0 @@
-polish zulu 6096e6
-cleanup kilo f1b378
-tune kilo 4779b2
-adjust lima c2a2c5
-tune papa 9b0930
-cleanup hotel 62bbc7
-nudge whiskey c1d002
