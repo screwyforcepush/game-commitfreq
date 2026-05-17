@@ -3,7 +3,6 @@ bump delta ae8bf7
 refactor bravo a1217d
 trim victor ca5532
 seed delta 123457
-update nimbus 5877da
 nudge charlie 53174d
 refactor foxtrot 2dc382
 update yankee dfabcb
