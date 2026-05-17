@@ -19,3 +19,5 @@ seed kilo b7005b
 bump kilo 4e078a
 bump foxtrot c7826c
 nudge foxtrot 5ad7c5
+nudge whiskey 39cef5
+tidy uniform 19f41a
