@@ -4,3 +4,6 @@ cleanup india 5570a1
 wire victor 2f895a
 update juliet 72436a
 tweak mike 6df3b1
+adjust november 04f8ba
+expand lattice 0a3e4e
+tidy sierra 1da629
