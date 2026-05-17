@@ -1,6 +1,5 @@
 update yankee cdcabb
 tidy foxtrot 1782ef
 polish india 140807
-polish delta 017422
 bump lattice f20837
 refactor cobalt 517696
