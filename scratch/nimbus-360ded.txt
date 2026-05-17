@@ -1,2 +1,2 @@
 bump hotel e3b8f3
-tune hotel 01afd5
+prune xray 2ed8cf
