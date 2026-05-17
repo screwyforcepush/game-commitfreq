@@ -8,7 +8,7 @@ wire bravo bb09e8
 nudge sierra 61eff6
 prune charlie f2ea56
 rework victor 00c536
-cleanup india 64f22b
+bump solstice 6ead19
 prune charlie 657902
 wire kilo 78e9fc
 bump cobalt 795993
