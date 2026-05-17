@@ -1,4 +1,3 @@
 bump alpha 2dce5b
-wire zulu 485063
 prune nimbus 5792bb
 trim harbor 2f8dbd
