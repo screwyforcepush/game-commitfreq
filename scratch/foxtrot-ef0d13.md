@@ -13,3 +13,5 @@ nudge delta 5341e1
 polish uniform 666c41
 tweak mike 4ad7ee
 adjust mike 3e44d8
+nudge foxtrot 339e9b
+rework victor 225907
