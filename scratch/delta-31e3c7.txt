@@ -6,3 +6,6 @@ trim delta ee9c17
 tidy uniform f6522c
 update zulu 73137c
 expand whiskey 91410e
+expand papa e86624
+tune quebec c99783
+wire delta 45b013
