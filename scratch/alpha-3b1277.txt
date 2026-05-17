@@ -9,3 +9,5 @@ nudge zulu 0a5290
 wire zulu ff4148
 tweak delta 6e721b
 trim victor 089592
+trim oscar c808c0
+tweak lattice b6f117
