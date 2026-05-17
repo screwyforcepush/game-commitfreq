@@ -1,3 +1,2 @@
 prune nimbus b0235a
-tidy solstice 213935
 bump xray 2c7d09
