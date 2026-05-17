@@ -1,5 +1,4 @@
 tidy echo dc2575
-prune alpha 6680e5
 expand foxtrot 9c55ca
 seed romeo d23a0b
 cleanup victor 96c471
