@@ -1,7 +1,6 @@
 nudge lima 27d01f
 refactor echo 8c62a4
 bump golf 211657
-trim mike 2e2296
 cleanup xray c280e5
 prune foxtrot 03bc93
 trim delta 89b274
