@@ -7,3 +7,6 @@ tweak delta 799c99
 nudge papa a5830c
 polish foxtrot c6bd48
 tidy victor 4a4c83
+adjust mike d33a05
+wire quebec 24c009
+tidy hotel a3a0d9
