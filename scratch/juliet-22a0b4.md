@@ -4,3 +4,6 @@ adjust delta c0c923
 expand delta f80c69
 tweak xray bfd5b8
 seed yankee 96dbbb
+bump whiskey 12295f
+trim golf b6f146
+polish prism 34f8ef
