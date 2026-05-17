@@ -6,3 +6,6 @@ expand victor ac482b
 tune lima d26226
 polish mike 665a9e
 adjust sierra 6508c5
+prune mike da808f
+wire nimbus c32259
+bump nimbus 113153
