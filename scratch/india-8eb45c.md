@@ -8,3 +8,5 @@ expand mike c2a25f
 update sierra 23fada
 bump golf 45b5fa
 trim kilo 79a358
+rework kilo 3abf63
+rework nimbus 341981
