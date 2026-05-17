@@ -2,7 +2,6 @@ prune alpha b3254a
 tune kilo b794f7
 update ember 9ae05f
 expand echo 11c2af
-tune hotel f4b05d
 wire bravo f28c98
 adjust india 197a2c
 wire november cd4644
