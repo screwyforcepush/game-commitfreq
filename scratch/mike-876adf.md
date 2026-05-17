@@ -10,7 +10,7 @@ tidy alpha 1dd4b1
 rework uniform 25e018
 update uniform 02cf88
 update ember be6f76
-trim prism 6ab28d
+cleanup sierra 2d8f98
 tidy prism 0dfb43
 seed bravo 559a2e
 tweak nimbus c264c2
