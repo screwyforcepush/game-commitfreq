@@ -5,7 +5,6 @@ adjust xray d96fb2
 update sierra 9a8e0f
 adjust alpha 7bc95c
 adjust delta f35adb
-prune lattice d89b02
 wire quebec 126242
 expand lima 19e216
 tweak hotel 6cbc0d
