@@ -1,4 +1,3 @@
-cleanup hotel f8bdd7
 polish oscar 977f87
 refactor harbor e736c6
 seed papa 7532d8
