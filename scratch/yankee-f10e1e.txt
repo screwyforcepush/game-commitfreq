@@ -2,7 +2,6 @@ tune prism 09ff88
 seed whiskey d48ad5
 seed lima 987588
 tidy harbor c3294a
-update sierra bf1d70
 nudge charlie a65cc4
 seed quebec 62e4d4
 wire prism 272a4c
