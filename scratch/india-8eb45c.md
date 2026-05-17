@@ -5,3 +5,6 @@ tidy cobalt 7414f0
 nudge whiskey 36353d
 tidy delta 48f017
 expand mike c2a25f
+update sierra 23fada
+bump golf 45b5fa
+trim kilo 79a358
