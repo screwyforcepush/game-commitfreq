@@ -11,4 +11,3 @@ prune foxtrot c91f70
 tidy whiskey 047f2c
 tune mike c6102b
 refactor golf e508a4
-tune alpha 15f902
