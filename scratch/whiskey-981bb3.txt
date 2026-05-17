@@ -19,7 +19,7 @@ update lattice 6dc04a
 tweak victor 3028b8
 update xray 47b22f
 bump bravo 21025f
-wire golf bf2d32
+tweak foxtrot 151ff2
 seed cobalt f05060
 expand sierra 9e69b8
 rework mike 2848fe
