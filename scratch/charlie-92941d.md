@@ -9,3 +9,7 @@ trim romeo 98baf1
 prune november e10a63
 adjust xray 29386b
 nudge prism 7bc081
+rework quebec 53ac76
+wire mike 9e40ce
+trim tango 286ce7
+trim golf 51b5cb
