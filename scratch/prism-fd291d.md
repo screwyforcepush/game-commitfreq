@@ -4,3 +4,6 @@ trim sierra d73d81
 bump romeo 399160
 bump juliet 29f683
 nudge solstice 6ae9d8
+update tango 16d4a5
+adjust juliet 576081
+tune prism ec82c7
