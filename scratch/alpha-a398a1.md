@@ -1,4 +1,3 @@
-tidy echo dc2575
 seed romeo d23a0b
 adjust ember 88f06a
 rework mike 85b272
