@@ -1,6 +1,5 @@
 seed whiskey 83d0ea
 wire sierra f6f5f1
-tidy hotel 0a6e46
 update sierra 7acac0
 trim cobalt 4dfb64
 tidy tango 38404d
