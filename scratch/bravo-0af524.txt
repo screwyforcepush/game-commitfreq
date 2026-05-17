@@ -6,3 +6,7 @@ expand foxtrot f4ec2c
 rework charlie 32af76
 seed cobalt c02687
 bump kilo 8c7b75
+trim oscar 53e47b
+expand delta 56a7ff
+tune xray 007c0a
+expand cobalt 025ac0
