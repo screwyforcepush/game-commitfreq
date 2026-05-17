@@ -1,4 +1,3 @@
-seed bravo 01c567
 tune whiskey 02b8df
 update golf 008693
 seed uniform 6210be
