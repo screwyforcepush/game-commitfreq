@@ -6,5 +6,4 @@ polish uniform 2b08b6
 tidy xray 377570
 tune foxtrot 65e207
 wire nimbus 0e5894
-nudge ember 76763a
 polish prism cf4770
