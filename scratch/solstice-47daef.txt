@@ -7,7 +7,6 @@ expand romeo 675eef
 wire papa 2bbb9c
 tune foxtrot 36fca5
 nudge romeo b4bc3a
-seed whiskey 44a9f5
 wire victor 74c7fb
 update whiskey a43261
 trim quebec aab304
