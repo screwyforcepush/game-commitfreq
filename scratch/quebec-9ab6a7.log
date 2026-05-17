@@ -2,3 +2,5 @@ expand prism dfa46e
 update uniform b31381
 expand uniform 010359
 tune lattice ac1993
+rework bravo 4a6a75
+tidy romeo 4397da
