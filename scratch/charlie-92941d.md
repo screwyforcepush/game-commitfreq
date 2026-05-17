@@ -12,7 +12,7 @@ adjust juliet f99664
 rework quebec 53ac76
 wire mike 9e40ce
 trim tango 286ce7
-trim golf 51b5cb
+cleanup delta 07df87
 wire cobalt c00e03
 nudge romeo 7e6d06
 polish quebec c4ae70
