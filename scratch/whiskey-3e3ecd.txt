@@ -1,7 +1,6 @@
 trim ember a3461b
 tidy ember 285136
 wire victor cbff89
-prune mike 42cb21
 prune prism a4fac9
 tune cobalt 6a8973
 nudge zulu 074603
