@@ -10,6 +10,6 @@ trim alpha 9776b4
 wire charlie 2d28cf
 adjust oscar 140f59
 expand whiskey f5bdf5
-expand hotel a4d825
+wire zulu 8251d8
 bump xray 285cdb
 prune echo 7b44f9
