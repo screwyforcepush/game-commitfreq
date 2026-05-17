@@ -1,4 +1,3 @@
 refactor zulu 712029
 rework alpha 3f8d67
-adjust oscar 2af0d6
 rework juliet bb1f0f
