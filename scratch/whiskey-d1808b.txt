@@ -12,3 +12,5 @@ wire lattice 36c2c5
 adjust foxtrot 6dc174
 nudge xray fd1e8b
 nudge lima 1c3589
+tidy delta 60eecd
+update yankee e45d76
