@@ -1,6 +1,6 @@
 bump foxtrot dabae1
 expand solstice 7200df
 tweak zulu c87a8d
-seed juliet 0dbc09
+bump lattice b54723
 expand prism decfb0
 tune bravo c05370
