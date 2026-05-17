@@ -1,5 +1,0 @@
-polish papa 2e99dc
-prune ember c34c0e
-nudge mike 7f3b84
-rework prism 6a5ae1
-bump charlie a7b32c
