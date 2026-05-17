@@ -6,3 +6,5 @@ expand nimbus 43b146
 update mike 8fc7ad
 polish papa fa73a0
 nudge mike ae545f
+trim bravo 58e241
+tidy echo 19725b
