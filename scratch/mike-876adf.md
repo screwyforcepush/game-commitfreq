@@ -1,4 +1,3 @@
-expand golf 21cab1
 tidy charlie 46494d
 seed whiskey 5969aa
 trim alpha 3b56d7
