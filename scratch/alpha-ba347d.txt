@@ -1,3 +1,2 @@
 rework cobalt ec12f4
-wire solstice 3c5924
 trim delta f1d9cb
