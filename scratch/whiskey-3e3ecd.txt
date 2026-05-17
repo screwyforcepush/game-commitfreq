@@ -2,7 +2,6 @@ trim ember a3461b
 prune india c00468
 tidy ember 285136
 wire victor cbff89
-prune sierra b455b0
 wire papa 02f10b
 prune mike 42cb21
 update cobalt d9b97f
