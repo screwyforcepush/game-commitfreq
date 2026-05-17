@@ -1,2 +1,0 @@
-tune cobalt 4d41c5
-wire foxtrot 953f47
