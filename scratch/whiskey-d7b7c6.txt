@@ -2,5 +2,5 @@ rework oscar 95bfba
 polish juliet 10b443
 rework india 5b9431
 seed charlie 1f63c8
-nudge xray 9598b8
+adjust foxtrot 584cfb
 tweak nimbus 1e5bf0
