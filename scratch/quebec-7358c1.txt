@@ -1,2 +1,2 @@
-cleanup cobalt 3f1f93
+prune xray 7c9588
 trim cobalt 8a0ee7
