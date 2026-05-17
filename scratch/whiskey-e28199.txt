@@ -1,3 +1,0 @@
-tune november 967e3f
-tidy uniform 48611f
-seed tango 5d2788
