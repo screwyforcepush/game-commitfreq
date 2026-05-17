@@ -3,7 +3,6 @@ tidy lattice 296dce
 update hotel 278d6a
 tweak foxtrot 1ee9a0
 rework mike 3463b9
-rework quebec d84536
 tweak charlie c0d756
 update oscar bad8a5
 cleanup mike 2fc7b2
