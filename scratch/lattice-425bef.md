@@ -21,3 +21,5 @@ expand solstice 1d9aae
 adjust india 819602
 update cobalt faab01
 expand lima 8d426b
+adjust november ab66dd
+update tango c2126a
