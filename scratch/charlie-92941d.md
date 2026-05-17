@@ -14,7 +14,6 @@ cleanup delta 07df87
 wire cobalt c00e03
 nudge romeo 7e6d06
 polish quebec c4ae70
-wire victor 4e35e1
 tidy charlie 1f209d
 wire juliet e71136
 expand india 80dcd2
