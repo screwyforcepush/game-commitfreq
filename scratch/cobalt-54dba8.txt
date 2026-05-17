@@ -1,5 +1,4 @@
 adjust lattice 70468d
-nudge november e8b57e
 tune tango f335a2
 update lima 5ae97a
 bump cobalt 0172db
