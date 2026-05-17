@@ -13,7 +13,7 @@ tune echo f7b355
 wire lattice 8471e6
 prune alpha 922739
 cleanup prism f89873
-tweak mike 1033a8
+update victor fae4d7
 seed juliet f86fe4
 nudge cobalt 61ef94
 tune solstice 1c4ca0
