@@ -1,7 +1,6 @@
 tidy echo dc2575
 update lima dba769
 prune alpha 6680e5
-polish quebec 7e253e
 expand foxtrot 9c55ca
 seed romeo d23a0b
 cleanup victor 96c471
