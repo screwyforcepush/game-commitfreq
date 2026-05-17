@@ -2,4 +2,3 @@ adjust kilo ef7d30
 trim zulu df785a
 tune lattice 43deb5
 cleanup ember 757196
-wire echo 018c8e
