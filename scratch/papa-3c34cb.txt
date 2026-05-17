@@ -1,4 +1,0 @@
-prune golf 6a6325
-trim yankee fae59a
-prune tango 9a735a
-wire nimbus 56164a
