@@ -7,5 +7,5 @@ wire lima d9add8
 tune victor ba8263
 prune whiskey 6a29be
 expand india 9a8adb
-trim foxtrot 31a86c
+tune oscar c198da
 adjust alpha d63516
