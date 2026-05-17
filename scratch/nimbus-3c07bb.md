@@ -7,3 +7,6 @@ tweak yankee 1bd409
 nudge whiskey de0ffd
 seed charlie 61f6c5
 prune sierra 59a279
+cleanup lattice 0bfc52
+cleanup oscar d99128
+rework oscar a3c519
