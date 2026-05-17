@@ -3,5 +3,4 @@ tweak prism bc4bed
 adjust lima 7e649a
 rework kilo 465654
 tweak mike 0a2012
-refactor delta 7e0e96
 update lima e8ba22
