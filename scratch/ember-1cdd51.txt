@@ -1,2 +1,2 @@
 tune cobalt 4d41c5
-trim quebec 209729
+wire foxtrot 953f47
