@@ -10,3 +10,6 @@ expand quebec b5f7d3
 nudge nimbus 4619d1
 bump tango ddfd42
 nudge echo bdb36b
+prune november f478bb
+cleanup zulu f0c60f
+tidy victor 06486a
