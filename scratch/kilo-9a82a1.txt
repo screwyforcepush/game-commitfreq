@@ -1,4 +1,3 @@
-prune foxtrot 85c7a6
 tweak romeo 6e97db
 trim november 14462c
 rework sierra e95f47
