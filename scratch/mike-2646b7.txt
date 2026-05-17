@@ -5,3 +5,7 @@ wire foxtrot 9a4de0
 tweak prism ededdc
 refactor alpha 795bb1
 adjust zulu 847227
+tune charlie 0651b2
+wire oscar 89d496
+tidy lattice 1933d5
+expand zulu 373d68
