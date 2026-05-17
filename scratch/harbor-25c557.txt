@@ -1,4 +1,0 @@
-tune charlie f414ea
-nudge sierra af0550
-adjust hotel 0b3b4d
-adjust golf 1547af
