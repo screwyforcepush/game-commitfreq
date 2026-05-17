@@ -1,3 +1,2 @@
 polish lima 70949d
-adjust whiskey 6be0a9
 refactor victor 444dc1
