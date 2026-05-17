@@ -8,3 +8,7 @@ bump nimbus 254aed
 expand india c87cfb
 tidy lattice 783fa2
 tune solstice b4f1ce
+bump delta 1108f3
+prune mike 7cca73
+cleanup nimbus 13cca9
+polish tango 260574
