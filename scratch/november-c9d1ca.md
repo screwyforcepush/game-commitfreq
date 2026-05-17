@@ -10,3 +10,4 @@ expand echo 59e203
 adjust delta d2b882
 trim hotel db73c3
 nudge foxtrot 7519ea
+prune sierra fdf68f
