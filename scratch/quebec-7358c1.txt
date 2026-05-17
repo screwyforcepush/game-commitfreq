@@ -1,2 +1,2 @@
 prune xray 7c9588
-wire sierra f05881
+cleanup delta f7202f
