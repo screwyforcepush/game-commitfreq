@@ -14,3 +14,6 @@ polish nimbus 117d6f
 wire solstice f14ea0
 prune oscar 28a798
 seed ember 40287f
+prune oscar 5df4aa
+trim foxtrot cf3d47
+tune tango 87c041
