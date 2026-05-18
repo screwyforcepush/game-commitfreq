@@ -7,3 +7,6 @@ wire foxtrot 783f79
 adjust alpha 1ba76c
 wire juliet 4d2a65
 tweak hotel 3581e3
+tweak india 4b2336
+polish uniform 7733a0
+polish hotel ada6cb
