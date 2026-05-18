@@ -16,3 +16,6 @@ cleanup hotel f0b190
 refactor ember fc6386
 trim yankee 6657a8
 cleanup kilo 7ef0e0
+refactor lattice 44fc3b
+tune xray b4a65b
+expand golf 6d1d3e
