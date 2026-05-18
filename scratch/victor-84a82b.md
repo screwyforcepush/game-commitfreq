@@ -2,3 +2,7 @@ tweak cobalt 6bd343
 adjust delta 1a74c3
 nudge golf 4167a5
 wire echo 3a07e3
+update papa d3751e
+tidy alpha 5701f7
+cleanup lattice 156a4a
+update harbor 918559
