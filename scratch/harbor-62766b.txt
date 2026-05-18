@@ -2,3 +2,6 @@ refactor mike 02ac37
 bump tango 3fafd2
 prune echo d096ee
 adjust hotel 5abe74
+refactor echo a9164d
+rework sierra 4db083
+bump lattice 1c0a77
