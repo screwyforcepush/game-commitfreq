@@ -5,3 +5,6 @@ adjust bravo 9e5c48
 nudge charlie d9a679
 expand charlie e21147
 adjust harbor 79ebba
+bump echo 55a915
+wire lattice 11004a
+nudge lattice fa25f5
