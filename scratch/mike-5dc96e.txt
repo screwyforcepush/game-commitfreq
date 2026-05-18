@@ -5,3 +5,7 @@ tweak golf 0c74a3
 update foxtrot 45f61c
 tweak alpha 8dcdb3
 tune xray bbae15
+update november dd0cfd
+expand xray d44da8
+tidy kilo 542e4b
+refactor november ed1b47
