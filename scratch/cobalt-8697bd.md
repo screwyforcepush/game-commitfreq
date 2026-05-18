@@ -1,4 +1,3 @@
-polish tango 26c206
 refactor whiskey 396f38
 cleanup tango d4f7f8
 tune lima 4c2e2b
