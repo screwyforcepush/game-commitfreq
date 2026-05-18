@@ -7,3 +7,6 @@ trim bravo 53cfba
 tune november 45e423
 polish juliet 9b4515
 seed november c0efaa
+seed oscar 4aaeb7
+polish bravo f6b068
+nudge mike 4ff3d2
