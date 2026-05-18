@@ -1,5 +1,4 @@
 update hotel 18d051
-tidy november ae1826
 tidy golf aafce3
 nudge india c7b551
 tweak kilo 782d2c
