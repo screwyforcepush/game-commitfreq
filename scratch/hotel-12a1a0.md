@@ -6,5 +6,4 @@ expand mike e11e9f
 cleanup delta f1c841
 trim juliet 5fe0df
 expand prism 97c71f
-wire golf 425224
 prune zulu 8f78f3
