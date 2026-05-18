@@ -2,4 +2,4 @@ cleanup echo 1df743
 adjust sierra 23be20
 nudge ember 319bf0
 adjust yankee d5db57
-bump sierra 02f141
+prune delta 449d53
