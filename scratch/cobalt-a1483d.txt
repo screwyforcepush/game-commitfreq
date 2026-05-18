@@ -1,3 +1,0 @@
-cleanup delta 135d20
-trim bravo 9e5c25
-polish oscar 1719f7
