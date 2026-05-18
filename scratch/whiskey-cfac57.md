@@ -3,3 +3,7 @@ expand delta 64ca48
 prune solstice 4ba328
 rework yankee d494a8
 expand quebec 9c8bf0
+bump lima 8f9843
+trim delta d6a504
+nudge delta 59dc3e
+seed sierra ddec80
