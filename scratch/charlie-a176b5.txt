@@ -3,3 +3,5 @@ tune hotel e39e4b
 seed victor cf02c0
 polish whiskey 72516c
 nudge zulu fa55ce
+prune victor ac8ffb
+wire lattice b7ea47
