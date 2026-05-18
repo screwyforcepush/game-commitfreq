@@ -4,7 +4,7 @@ nudge prism 92d4a3
 tune kilo 4b5e25
 tweak harbor eb73ae
 rework echo 86b5be
-bump solstice b94d2d
+tidy juliet 42dd98
 trim xray c08ab2
 update uniform 22fef8
 prune india 58d9db
