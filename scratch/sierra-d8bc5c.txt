@@ -1,3 +1,6 @@
 expand solstice f8f8ad
 nudge ember 82d02a
 cleanup solstice d44d2e
+polish sierra fa6484
+nudge foxtrot 4188b8
+polish echo 47c673
