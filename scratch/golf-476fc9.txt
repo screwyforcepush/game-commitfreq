@@ -1,3 +1,0 @@
-wire lima 817723
-seed charlie 6aa9c0
-update whiskey 88899c
