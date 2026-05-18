@@ -3,3 +3,7 @@ update charlie 8d95d9
 tidy lattice 9289aa
 wire echo 06aede
 tune lima 97d288
+tidy oscar e85e79
+rework foxtrot 34d274
+refactor uniform df5a0a
+tune november 787d81
