@@ -1,5 +1,4 @@
 update kilo 779695
 expand echo 8088f7
-tidy nimbus 3652c8
 wire quebec 9e80a3
 trim kilo fd359d
