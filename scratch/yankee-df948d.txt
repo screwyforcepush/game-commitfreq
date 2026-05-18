@@ -2,5 +2,4 @@ cleanup lima 7a89e7
 prune lima 025188
 bump harbor f42cfe
 update xray a9359d
-seed foxtrot f0a2c8
 update november 7ba7a3
