@@ -1,1 +1,1 @@
-bump nimbus e14f43
+update prism 32eac0
