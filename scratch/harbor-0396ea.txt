@@ -4,7 +4,6 @@ refactor quebec b3a05b
 nudge foxtrot a769d9
 polish yankee ff4406
 tweak juliet 103601
-wire romeo ace562
 seed delta 5745bf
 tweak oscar ed2c4c
 expand ember ab2d5f
