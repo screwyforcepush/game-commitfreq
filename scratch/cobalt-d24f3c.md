@@ -1,4 +1,4 @@
-tune cobalt d6dec7
+cleanup quebec d6b8a3
 expand lattice 30ef3e
 seed cobalt df5f9c
 adjust victor a3818e
