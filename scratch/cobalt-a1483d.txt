@@ -1,4 +1,3 @@
 cleanup delta 135d20
 trim bravo 9e5c25
-trim solstice 2ab3c0
 polish oscar 1719f7
