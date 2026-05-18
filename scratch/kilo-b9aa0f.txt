@@ -3,3 +3,7 @@ expand lattice 2ccb38
 cleanup tango f814cc
 nudge alpha 79e482
 adjust yankee 10334a
+seed hotel 76913c
+update xray c6ef85
+expand kilo 3035f7
+cleanup lattice 1fdd58
