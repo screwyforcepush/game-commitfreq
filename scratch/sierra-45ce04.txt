@@ -1,3 +1,6 @@
 tune uniform 10a872
 tune bravo 344f99
 update oscar fbb006
+trim november 61a18a
+tune nimbus cb9c1b
+trim foxtrot a6c7aa
