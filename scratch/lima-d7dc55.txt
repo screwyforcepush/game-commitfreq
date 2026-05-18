@@ -6,3 +6,6 @@ trim tango f30a3e
 tune solstice 363d24
 prune xray 8c179d
 tidy juliet c4818c
+prune delta 73fe12
+tweak romeo f5b19a
+adjust bravo 2946ed
