@@ -1,3 +1,2 @@
-prune foxtrot 479e09
 tidy yankee 530231
 polish tango 40abcc
