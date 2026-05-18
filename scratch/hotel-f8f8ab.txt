@@ -5,7 +5,6 @@ tweak uniform 8a34c2
 prune delta 449d53
 tweak india 4852a3
 trim whiskey a21836
-seed oscar 1c49f3
 cleanup kilo c84e9e
 tune golf ec6296
 expand uniform 2a331e
