@@ -1,4 +1,3 @@
-bump nimbus 15a120
 update xray 995113
 expand zulu 573f0f
 adjust foxtrot 794cda
