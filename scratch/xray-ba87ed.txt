@@ -1,5 +1,4 @@
 tune hotel af8819
 tune golf 7ab8ec
-tidy cobalt fdfffe
 seed quebec c0c0cc
 tune quebec b3c535
