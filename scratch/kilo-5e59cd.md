@@ -4,3 +4,7 @@ adjust hotel c99880
 bump echo a437ef
 prune hotel 6c617e
 prune tango 5ba866
+cleanup solstice 096bfb
+bump charlie a2fa2f
+tune uniform a2f9d1
+cleanup nimbus 374534
