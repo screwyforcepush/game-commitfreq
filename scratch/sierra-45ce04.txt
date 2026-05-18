@@ -8,3 +8,5 @@ tidy whiskey bdcecf
 expand november 9387ab
 tweak uniform b3f447
 expand papa 3279dd
+nudge papa 2a20e8
+trim whiskey 5b6b43
