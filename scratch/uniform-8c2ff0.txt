@@ -1,0 +1,5 @@
+tune papa f43b24
+adjust golf a1b36a
+seed foxtrot d9f678
+wire golf 2f243d
+seed foxtrot 9e22a6
