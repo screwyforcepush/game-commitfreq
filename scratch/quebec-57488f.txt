@@ -3,3 +3,6 @@ trim yankee b82ed3
 tune tango 5d06e8
 tune lima fb4393
 tune cobalt f66cdc
+trim lima 305b0e
+polish ember 0f0ef2
+nudge sierra c227d3
