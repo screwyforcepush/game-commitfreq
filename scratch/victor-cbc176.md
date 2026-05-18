@@ -6,4 +6,3 @@ adjust golf 5343d3
 wire zulu 566687
 polish quebec 267309
 update delta f4f766
-update mike e00f3a
