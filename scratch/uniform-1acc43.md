@@ -6,3 +6,4 @@ trim cobalt 5e6e5c
 seed mike ed389c
 bump echo 738f7d
 cleanup sierra a56f7a
+prune mike 175492
