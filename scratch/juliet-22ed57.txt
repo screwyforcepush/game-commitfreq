@@ -1,6 +1,6 @@
 cleanup lattice 6f7c2a
 prune lattice 8745fa
-tweak juliet 8e7134
+trim whiskey 47dd12
 tidy xray 921293
 bump juliet 86779e
 tune sierra 85f81d
