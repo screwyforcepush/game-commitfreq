@@ -1,4 +1,0 @@
-adjust delta 0ccf7a
-refactor yankee ae4207
-adjust sierra b2a7dd
-update charlie 6ab7a1
