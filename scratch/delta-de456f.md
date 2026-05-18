@@ -1,2 +1,2 @@
 adjust solstice 3772de
-trim delta bacded
+expand bravo 1c4068
