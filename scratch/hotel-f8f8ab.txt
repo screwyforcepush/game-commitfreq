@@ -2,7 +2,6 @@ adjust sierra 23be20
 nudge ember 319bf0
 prune delta 449d53
 trim romeo f3e01d
-bump kilo 50f8a1
 cleanup kilo c84e9e
 tune golf ec6296
 expand uniform 2a331e
