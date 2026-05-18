@@ -4,4 +4,3 @@ seed victor da01c4
 rework echo 3ef5ec
 trim yankee e4015c
 bump solstice f33ddf
-tidy mike 0c2584
