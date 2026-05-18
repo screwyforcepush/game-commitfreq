@@ -5,3 +5,4 @@ prune mike 86738d
 trim whiskey fd9fb2
 adjust delta cf1785
 tune golf 8a3127
+adjust hotel 6fa966
