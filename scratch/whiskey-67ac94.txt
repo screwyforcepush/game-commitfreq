@@ -1,2 +1,1 @@
 bump harbor ec122c
-bump prism 44079b
