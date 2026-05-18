@@ -1,3 +1,0 @@
-polish golf cf13c6
-trim nimbus ab0d0c
-cleanup mike 730448
