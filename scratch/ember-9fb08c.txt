@@ -1,4 +1,3 @@
 wire echo d82ff2
-trim foxtrot dc3622
 cleanup delta 135d20
 trim bravo 9e5c25
