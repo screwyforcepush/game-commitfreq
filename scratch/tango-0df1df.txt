@@ -7,3 +7,6 @@ rework prism 95b823
 seed lima bd84c2
 tweak prism 29cf07
 tidy solstice e05001
+adjust nimbus 0bed1c
+nudge alpha 5071fb
+tune india d7d01b
