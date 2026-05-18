@@ -12,3 +12,6 @@ tidy uniform 2a8a65
 seed delta c4ffa8
 seed echo b3f65d
 update bravo 2ef916
+tune alpha 991ebb
+seed echo 5b4968
+update lattice 35457f
