@@ -6,3 +6,5 @@ refactor sierra e2de92
 polish ember 7258d7
 cleanup uniform caa8ef
 wire ember c0d8ac
+rework hotel f28f72
+cleanup india 819749
