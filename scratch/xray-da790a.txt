@@ -5,3 +5,7 @@ seed charlie 766f09
 expand romeo 5b9cab
 update echo f2129f
 cleanup alpha 626e46
+tidy lattice 213d87
+trim solstice a5e501
+bump yankee 8146f9
+tweak cobalt 976207
