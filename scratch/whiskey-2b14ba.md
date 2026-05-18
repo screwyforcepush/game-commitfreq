@@ -14,7 +14,6 @@ rework november 15ae66
 adjust tango b0a294
 tidy foxtrot 053dfb
 nudge tango 6b4054
-adjust romeo 78bdb9
 nudge yankee 95217d
 prune nimbus 90766d
 update harbor 0ade34
