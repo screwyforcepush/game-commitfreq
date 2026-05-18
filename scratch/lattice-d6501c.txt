@@ -1,4 +1,4 @@
-bump quebec 0fee47
+rework quebec fc7804
 tweak yankee d82004
 wire whiskey f830c0
 refactor harbor 2e1d1a
