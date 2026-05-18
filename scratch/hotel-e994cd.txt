@@ -5,4 +5,3 @@ rework november c64229
 bump lattice b8c0aa
 seed uniform 4ba345
 prune solstice 72146f
-polish yankee f18661
