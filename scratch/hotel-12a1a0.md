@@ -7,3 +7,5 @@ cleanup delta f1c841
 trim juliet 5fe0df
 expand prism 97c71f
 prune zulu 8f78f3
+adjust foxtrot 1774f3
+tune whiskey a4ebfc
