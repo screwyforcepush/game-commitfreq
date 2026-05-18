@@ -8,3 +8,6 @@ adjust charlie 4c8b5c
 prune whiskey 60f506
 prune lima c5059b
 prune kilo 3763cb
+wire sierra af7c30
+expand kilo f0759a
+expand delta ce7d47
