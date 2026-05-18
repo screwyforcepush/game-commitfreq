@@ -2,6 +2,5 @@ update victor 9cb437
 tune victor 6f2109
 seed uniform 1028ae
 polish sierra 2daedd
-tune tango d4a5b7
 rework uniform b7eb59
 refactor nimbus 401f88
