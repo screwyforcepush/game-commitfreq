@@ -1,4 +1,0 @@
-refactor hotel 07b26f
-bump yankee 4e3ee5
-update whiskey a7b92c
-seed cobalt 39dfc1
