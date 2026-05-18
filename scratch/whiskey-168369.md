@@ -5,3 +5,5 @@ rework prism 8924e9
 update kilo 8b200c
 nudge lattice 3adab2
 seed charlie bc2bd7
+adjust xray 0f53ff
+polish foxtrot 22d75e
