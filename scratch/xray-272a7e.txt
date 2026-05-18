@@ -1,3 +1,7 @@
 trim india bc684f
 rework lima c75d8a
 update zulu 940ab1
+adjust bravo 9e5c48
+nudge charlie d9a679
+expand charlie e21147
+adjust harbor 79ebba
