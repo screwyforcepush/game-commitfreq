@@ -1,4 +1,3 @@
-nudge sierra a10ca7
 tune harbor 26aba0
 adjust foxtrot 8c44dd
 nudge oscar e285ef
