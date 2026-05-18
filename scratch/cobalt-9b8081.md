@@ -11,3 +11,6 @@ prune kilo 3763cb
 wire sierra af7c30
 expand kilo f0759a
 expand delta ce7d47
+cleanup whiskey 60c7d9
+expand sierra 5f3ef8
+nudge solstice 6f21a7
