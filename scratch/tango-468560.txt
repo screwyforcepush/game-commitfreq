@@ -12,7 +12,6 @@ rework foxtrot 26799a
 expand whiskey 0ab615
 nudge kilo ba9b8e
 polish uniform 81a77b
-tidy kilo acdc7a
 tweak kilo 0c56d2
 tweak yankee e28570
 nudge victor db727c
