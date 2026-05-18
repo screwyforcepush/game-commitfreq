@@ -4,3 +4,7 @@ tune xray d06e50
 rework nimbus ebfbcd
 expand echo 955d0b
 cleanup foxtrot 587f3d
+tune juliet dd6e1a
+tune nimbus 3c3a2c
+refactor solstice 5ee1e3
+tidy november 6cfa0f
