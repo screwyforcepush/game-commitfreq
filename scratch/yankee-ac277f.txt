@@ -12,3 +12,5 @@ update lima d1be8c
 expand cobalt 730173
 update cobalt d83716
 polish golf 51977b
+trim quebec e95fd9
+adjust mike b562bd
