@@ -5,7 +5,7 @@ trim romeo f3e01d
 cleanup kilo c84e9e
 tune golf ec6296
 expand uniform 2a331e
-trim hotel 90a24c
+cleanup mike b05302
 rework kilo a95510
 cleanup solstice a10cad
 tidy mike 623a39
