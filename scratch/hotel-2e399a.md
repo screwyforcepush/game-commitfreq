@@ -1,1 +1,1 @@
-prune solstice 1a31c1
+trim delta b88c93
