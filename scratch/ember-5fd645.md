@@ -7,3 +7,5 @@ trim sierra 11834e
 update whiskey bdbb7e
 tune quebec 6b44b1
 wire echo d8e1fc
+trim delta ea0c0b
+trim prism 0b3129
