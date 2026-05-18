@@ -6,4 +6,4 @@ seed foxtrot 02159d
 rework prism 95b823
 seed lima bd84c2
 tweak prism 29cf07
-polish oscar 218f20
+tidy solstice e05001
