@@ -1,4 +1,0 @@
-update hotel 18d051
-tidy golf aafce3
-bump uniform 2bff46
-tweak kilo 782d2c
