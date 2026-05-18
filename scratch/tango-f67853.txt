@@ -2,7 +2,6 @@ tidy hotel ce62f6
 tune victor 6f2109
 trim november 9386a8
 polish sierra 2daedd
-tune kilo 224c51
 refactor nimbus 401f88
 tweak bravo 863b1a
 trim whiskey 23011a
