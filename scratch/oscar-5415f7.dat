@@ -2,3 +2,4 @@ prune echo 000f77
 rework nimbus 6f8275
 rework solstice bad334
 cleanup tango 3c2f84
+trim tango 62e7c6
