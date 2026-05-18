@@ -2,3 +2,4 @@ seed prism 55ecea
 wire bravo 523cc7
 nudge nimbus 2b5b0c
 tune alpha 0a88cb
+prune nimbus 815953
