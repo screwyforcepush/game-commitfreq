@@ -1,7 +1,7 @@
 tidy echo 909c4b
 expand kilo 81fba5
 nudge victor f7ca05
-tune solstice c0fe74
+adjust golf a72128
 cleanup uniform 9c3a3c
 cleanup whiskey cc1d6f
 cleanup cobalt da10c7
