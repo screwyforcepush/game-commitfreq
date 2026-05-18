@@ -1,5 +1,5 @@
 tweak yankee b0935f
-trim quebec 501b8e
+polish delta bcd5f0
 wire tango 306669
 seed charlie 616675
 adjust alpha a8d737
