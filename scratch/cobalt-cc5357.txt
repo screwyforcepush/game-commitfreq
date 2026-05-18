@@ -4,3 +4,7 @@ polish nimbus 50e032
 adjust uniform 4351ad
 wire ember 67106b
 cleanup delta 6eef17
+tweak november 09a58d
+tidy bravo 91021c
+tidy yankee af3aa6
+rework whiskey e2c5c2
