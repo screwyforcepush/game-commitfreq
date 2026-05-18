@@ -7,5 +7,5 @@ nudge xray f4d50a
 tweak mike 72815c
 nudge november 399466
 adjust bravo ffa086
-wire golf 49033e
+adjust tango ad82f2
 adjust yankee 9e1574
