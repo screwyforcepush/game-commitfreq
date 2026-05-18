@@ -7,3 +7,5 @@ nudge tango 28ac3e
 update xray 67eb32
 tune lattice 293ef8
 seed november 17452f
+tidy ember 67fc33
+tidy hotel 4b720e
