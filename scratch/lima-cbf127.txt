@@ -6,3 +6,5 @@ adjust lattice e0aa11
 prune charlie b012a6
 polish romeo c06f32
 expand nimbus c52fdb
+update xray 562321
+bump sierra 770d4c
