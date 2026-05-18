@@ -1,4 +1,3 @@
-adjust sierra 6a6c8a
 cleanup echo 1df743
 adjust sierra 23be20
 nudge ember 319bf0
