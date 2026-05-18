@@ -4,7 +4,6 @@ expand sierra 00031c
 seed xray 7587e9
 tidy juliet b1d1be
 expand ember 674771
-rework juliet 50113f
 expand nimbus 1eba76
 tidy solstice aa45ce
 nudge solstice 04363c
