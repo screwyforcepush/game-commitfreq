@@ -2,7 +2,6 @@ tidy golf 30dbf5
 bump juliet d6540b
 tidy nimbus ab956a
 refactor prism ce6cc1
-refactor solstice 60a01c
 nudge xray 13f327
 update bravo b38873
 cleanup delta fd0dc3
