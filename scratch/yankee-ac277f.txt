@@ -1,6 +1,6 @@
 nudge sierra a10ca7
 tune harbor 26aba0
 adjust foxtrot 8c44dd
-rework echo 3ef5ec
+nudge oscar e285ef
 trim yankee e4015c
 bump solstice f33ddf
