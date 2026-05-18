@@ -1,2 +1,2 @@
 cleanup xray b1500a
-wire mike 9201a9
+wire november 6f6849
