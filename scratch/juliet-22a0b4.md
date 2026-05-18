@@ -7,3 +7,6 @@ update oscar efb000
 tidy whiskey ab013f
 trim golf b6f146
 polish prism 34f8ef
+refactor uniform eeb9b8
+update quebec 9efd9f
+rework quebec d9b49e
