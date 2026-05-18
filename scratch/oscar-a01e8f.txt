@@ -7,4 +7,3 @@ tune juliet f0b074
 tweak alpha 4193b6
 bump prism 5563f7
 prune ember db4779
-tidy nimbus 266cbc
