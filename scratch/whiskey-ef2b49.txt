@@ -1,5 +1,4 @@
 wire oscar 352352
-seed ember 9ee80a
 prune lattice 7cef18
 adjust cobalt 55c223
 bump zulu 0493e5
