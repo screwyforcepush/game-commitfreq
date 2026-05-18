@@ -18,3 +18,7 @@ tidy kilo acdc7a
 tweak kilo 0c56d2
 tweak yankee e28570
 nudge victor db727c
+adjust charlie d96ab4
+cleanup solstice 587e7c
+wire charlie 035a0c
+update kilo 4b509f
