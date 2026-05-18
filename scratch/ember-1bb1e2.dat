@@ -3,3 +3,6 @@ update xray 832d78
 tidy lima a68632
 trim alpha ecab93
 update delta 4bd70c
+nudge lattice 52ee74
+tidy lattice f94a6e
+refactor charlie e7f637
