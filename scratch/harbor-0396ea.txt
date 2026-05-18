@@ -1,6 +1,6 @@
 rework juliet 7690a7
 wire kilo 2a1d2e
 trim victor 4e893f
-bump quebec 4394fa
+refactor quebec b3a05b
 nudge foxtrot a769d9
 polish yankee ff4406
