@@ -9,7 +9,6 @@ polish prism 34f8ef
 refactor uniform eeb9b8
 update quebec 9efd9f
 rework quebec d9b49e
-update papa 6ffb1f
 seed november ff0fa5
 tweak charlie dada22
 nudge charlie b49f31
