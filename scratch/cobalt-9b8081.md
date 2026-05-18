@@ -4,3 +4,7 @@ adjust yankee bbb1dc
 polish harbor 626bbe
 polish prism 9cdcf6
 wire yankee b1fe8e
+adjust charlie 4c8b5c
+prune whiskey 60f506
+prune lima c5059b
+prune kilo 3763cb
