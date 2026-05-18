@@ -2,3 +2,7 @@ expand kilo 116507
 update lima d9d2e6
 wire cobalt f560c6
 tidy nimbus fbd068
+tune delta 25cf03
+tidy mike 55ea60
+nudge lattice 675530
+seed uniform d50016
