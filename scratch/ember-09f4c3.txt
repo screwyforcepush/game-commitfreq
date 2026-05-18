@@ -1,7 +1,7 @@
 tweak prism 0104af
 trim kilo 00d09e
 tune india caeccc
-bump zulu 8de61b
+trim alpha fc6eec
 rework bravo 8c7154
 wire lattice 57b23c
 refactor foxtrot e22206
