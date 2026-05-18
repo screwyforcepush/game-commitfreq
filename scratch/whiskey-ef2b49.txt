@@ -8,3 +8,5 @@ bump zulu 0493e5
 nudge zulu e7c0ab
 adjust bravo 1635c3
 tune golf 2accd7
+adjust hotel d102be
+wire tango 250242
