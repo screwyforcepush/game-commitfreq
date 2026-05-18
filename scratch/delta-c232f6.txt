@@ -6,3 +6,7 @@ nudge uniform f8d210
 update lima 7b8098
 nudge kilo f8541f
 polish uniform c6f33b
+rework mike 04aedb
+nudge foxtrot f232c9
+rework delta 6cb763
+polish hotel 57067f
