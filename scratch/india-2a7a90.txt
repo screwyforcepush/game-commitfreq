@@ -1,6 +1,5 @@
 wire delta f7178b
 seed zulu fa6494
-nudge nimbus 6f4292
 prune victor 01f800
 trim delta e55ae6
 expand xray 137456
