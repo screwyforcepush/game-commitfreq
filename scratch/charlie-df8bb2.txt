@@ -1,4 +1,0 @@
-prune nimbus 8f12f9
-wire xray a49816
-prune harbor 1da43d
-update delta aebed1
