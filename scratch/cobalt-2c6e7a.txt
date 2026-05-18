@@ -8,4 +8,3 @@ bump delta 685f1c
 tune xray 225e8e
 tune mike 72430b
 polish mike c20acd
-bump cobalt 848110
