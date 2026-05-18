@@ -7,3 +7,7 @@ update papa cc3804
 seed november 48b5f2
 cleanup nimbus 14fc3b
 tweak mike 0a8dcc
+update echo aaed3b
+seed lattice fb94e0
+wire kilo afa4a8
+refactor zulu e2c31f
