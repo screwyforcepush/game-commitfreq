@@ -3,7 +3,6 @@ expand mike 208e21
 wire echo f5fa6f
 trim foxtrot 5a7757
 update uniform afd92f
-wire delta c6d85c
 polish bravo ae9520
 tidy india 484b2c
 adjust yankee c48287
