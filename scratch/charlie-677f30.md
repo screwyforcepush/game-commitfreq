@@ -6,4 +6,4 @@ tune sierra a4058a
 polish lattice e6096f
 seed quebec c2bb42
 adjust mike 79376a
-nudge bravo 028f68
+seed solstice 3210f0
