@@ -5,3 +5,6 @@ tweak golf 918703
 trim sierra f800ee
 prune nimbus 4c7cc5
 refactor november 3f89e7
+bump lattice b60538
+cleanup hotel 1482be
+rework kilo 3b5831
