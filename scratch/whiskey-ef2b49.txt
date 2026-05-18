@@ -4,3 +4,7 @@ tweak xray 67495c
 prune lattice 7cef18
 bump lattice a97c8b
 adjust cobalt 55c223
+bump zulu 0493e5
+nudge zulu e7c0ab
+adjust bravo 1635c3
+tune golf 2accd7
