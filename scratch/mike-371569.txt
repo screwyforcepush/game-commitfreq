@@ -5,3 +5,7 @@ cleanup uniform 9c3a3c
 cleanup whiskey cc1d6f
 cleanup cobalt da10c7
 tune hotel 0bb8f9
+rework quebec bc39e4
+adjust india 41bc4a
+trim solstice 816700
+rework delta e42de5
