@@ -8,3 +8,5 @@ cleanup hotel 864c65
 update lattice 78daa4
 expand alpha 65ee17
 expand mike 39c957
+polish hotel 148426
+tidy romeo 115c55
