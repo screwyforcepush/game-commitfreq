@@ -1,1 +1,2 @@
 adjust xray 1fae99
+adjust foxtrot 1e86f5
