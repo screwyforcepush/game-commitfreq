@@ -1,7 +1,0 @@
-bump oscar 5ecc0c
-seed lima 516c4e
-trim juliet 9cda50
-update bravo e2a564
-expand sierra 0acb32
-adjust november d66a3b
-tune cobalt 28df52
