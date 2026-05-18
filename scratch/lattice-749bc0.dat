@@ -10,3 +10,6 @@ update tango 96153b
 seed zulu d38d32
 tune november 7a61f2
 tidy ember 4789da
+prune nimbus 9530f4
+nudge alpha dfe831
+tune lima 95b792
