@@ -1,3 +1,5 @@
 adjust delta 003bb9
 tidy juliet 43655a
 tidy uniform 929470
+trim november e4fa1d
+tune lattice 412f0f
