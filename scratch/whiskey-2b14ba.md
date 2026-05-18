@@ -7,7 +7,6 @@ tidy november 526b53
 seed lattice e8dde1
 update nimbus 28789c
 trim nimbus d9687d
-prune xray a4f2ab
 bump ember be4847
 rework november 15ae66
 adjust tango b0a294
