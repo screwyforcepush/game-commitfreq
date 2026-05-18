@@ -4,3 +4,7 @@ seed prism 7a896e
 prune uniform 857370
 tidy ember c922bf
 prune alpha c70fdf
+rework hotel 27c31c
+rework cobalt 7fb0a6
+bump sierra 339725
+prune papa 6656b3
