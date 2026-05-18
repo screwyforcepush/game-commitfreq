@@ -1,1 +1,1 @@
-seed xray 231ff4
+trim cobalt 0b5168
