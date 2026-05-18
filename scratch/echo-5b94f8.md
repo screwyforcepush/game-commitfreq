@@ -5,3 +5,6 @@ tune solstice 0d2665
 prune sierra 5b36e8
 wire lima 080d54
 tune uniform 6b4308
+wire solstice 7da1a3
+trim sierra 2f6bb7
+nudge delta 56f984
