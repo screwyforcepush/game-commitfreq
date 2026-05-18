@@ -2,3 +2,5 @@ polish oscar a38e1e
 tidy lima bb8500
 refactor solstice a2ec0e
 prune november 5b6550
+bump xray 768533
+trim charlie 789521
