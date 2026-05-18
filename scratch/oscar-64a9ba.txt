@@ -1,3 +1,2 @@
 adjust kilo 02d728
-rework quebec 339376
 refactor delta 2e12a5
