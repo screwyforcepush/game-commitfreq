@@ -3,7 +3,6 @@ polish mike a036ba
 polish quebec 19a10f
 tune cobalt 0ba841
 cleanup delta 89ed9d
-trim foxtrot 6eb0ab
 bump delta 685f1c
 tune xray 225e8e
 tune mike 72430b
