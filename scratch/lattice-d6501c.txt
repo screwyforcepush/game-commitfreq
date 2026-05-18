@@ -13,3 +13,6 @@ bump tango 3a1b73
 tidy echo 46bee3
 update tango 5edc7e
 cleanup hotel f0b190
+refactor ember fc6386
+trim yankee 6657a8
+cleanup kilo 7ef0e0
