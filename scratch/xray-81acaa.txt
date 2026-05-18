@@ -2,3 +2,5 @@ expand lattice fab2b7
 update bravo 4f3f2f
 cleanup cobalt 4399db
 tidy xray 3afb34
+rework sierra 7b36cc
+tweak solstice 0893d2
