@@ -1,2 +1,1 @@
-wire nimbus c430fe
 update victor 9cb437
