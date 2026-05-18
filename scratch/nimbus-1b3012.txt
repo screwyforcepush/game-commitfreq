@@ -5,3 +5,6 @@ tweak hotel 0614b8
 refactor foxtrot 358456
 expand lattice 08c1e8
 tune nimbus 463a61
+rework november d5096a
+tidy golf 49aa80
+adjust oscar a9cfb3
