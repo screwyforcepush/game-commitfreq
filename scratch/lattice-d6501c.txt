@@ -5,7 +5,6 @@ refactor harbor 2e1d1a
 cleanup foxtrot e5d759
 tune bravo 8e96e9
 wire papa 75438d
-trim ember 0b6c53
 rework foxtrot e21fa9
 tune mike a07d3a
 rework romeo 00a1f4
