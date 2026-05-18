@@ -1,1 +1,1 @@
-prune hotel f7231b
+prune xray 8b3628
