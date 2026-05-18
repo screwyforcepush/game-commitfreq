@@ -1,6 +1,0 @@
-prune romeo 1f1d4f
-nudge papa a8fe0c
-seed yankee e64065
-tweak lattice 466499
-bump golf 4e887a
-polish lima f8fdf0
