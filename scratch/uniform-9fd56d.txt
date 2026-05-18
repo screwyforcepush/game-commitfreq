@@ -8,7 +8,6 @@ bump lattice a731f4
 rework kilo 345383
 polish papa 6ed554
 refactor victor 867e81
-prune whiskey ec4fa8
 bump charlie 8faa83
 bump xray 1f4276
 wire harbor 4c774c
