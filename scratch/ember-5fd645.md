@@ -1,4 +1,3 @@
-bump sierra 6800bd
 refactor bravo 9e130b
 trim bravo b6aa2a
 trim sierra 11834e
