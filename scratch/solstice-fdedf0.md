@@ -14,7 +14,6 @@ tune kilo cd5753
 tidy kilo e34b82
 polish echo 95d52b
 trim lima 2da976
-polish victor 95e139
 cleanup oscar 2fbce2
 nudge romeo 9edba6
 seed lattice 5b98d9
