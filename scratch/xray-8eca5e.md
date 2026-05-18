@@ -6,7 +6,6 @@ polish quebec 7babd2
 cleanup zulu 02aebf
 tune sierra d301e3
 bump ember d172a7
-cleanup cobalt 3cd2a7
 nudge papa a7da68
 rework harbor 07dd2c
 cleanup mike 0de956
