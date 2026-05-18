@@ -1,5 +1,5 @@
 update golf 04a361
-trim ember 0e8b15
+seed solstice 2eea36
 expand zulu 713be1
 nudge bravo 434fd1
 tune foxtrot fbcdd7
