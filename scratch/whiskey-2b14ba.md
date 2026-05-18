@@ -9,7 +9,7 @@ update nimbus 28789c
 trim nimbus d9687d
 bump ember be4847
 rework november 15ae66
-adjust tango b0a294
+update prism 402fa5
 tidy foxtrot 053dfb
 nudge tango 6b4054
 nudge yankee 95217d
