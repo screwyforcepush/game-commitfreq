@@ -3,3 +3,7 @@ nudge hotel 1c40aa
 cleanup papa 60205e
 cleanup prism 621761
 tweak prism e2fbbf
+cleanup juliet 1c9355
+update alpha caf9c5
+rework quebec 7e7900
+bump november c56518
