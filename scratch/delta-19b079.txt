@@ -9,3 +9,6 @@ expand india 307f4f
 update echo be13db
 tweak xray b6f53e
 bump echo bacdee
+bump solstice 4f0300
+tidy india 287c55
+wire juliet fb5218
