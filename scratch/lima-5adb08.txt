@@ -1,1 +1,3 @@
 adjust delta 003bb9
+tidy juliet 43655a
+tidy uniform 929470
