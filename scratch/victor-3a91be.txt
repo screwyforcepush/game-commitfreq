@@ -1,0 +1,6 @@
+nudge uniform 3ffccd
+seed tango 2ca519
+nudge yankee 12dfa0
+polish mike f9120a
+wire golf fa9b5c
+tune lattice 1dcb3e
