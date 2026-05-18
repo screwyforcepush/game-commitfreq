@@ -2,3 +2,7 @@ expand lattice 60ebd3
 tidy mike c9cced
 tweak hotel f36e2c
 tweak lima 21fb92
+update ember e60f2d
+rework lattice 7ab7d3
+update yankee bfb929
+tidy victor 5d9b37
