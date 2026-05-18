@@ -12,3 +12,6 @@ tune golf 9f6806
 bump yankee 76d8c3
 trim charlie 9b4d60
 adjust lattice a6c5bf
+adjust victor b533e7
+rework papa 11cfcb
+expand india 5caaf0
