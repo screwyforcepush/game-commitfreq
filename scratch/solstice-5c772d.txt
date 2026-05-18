@@ -1,5 +1,5 @@
 adjust xray 1fae99
-adjust foxtrot 1e86f5
+seed lattice 3e1c17
 update zulu 495bb5
 tweak harbor c3c4e4
 wire whiskey c681f9
