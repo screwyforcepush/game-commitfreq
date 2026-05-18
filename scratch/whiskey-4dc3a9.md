@@ -6,3 +6,5 @@ update hotel 36dd0d
 tweak lima 8a7356
 polish whiskey 96bf4d
 cleanup hotel b29fc8
+refactor nimbus 3ce4b8
+adjust kilo 8dc91a
