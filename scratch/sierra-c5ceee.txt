@@ -1,7 +1,6 @@
 adjust foxtrot 638de7
 tune uniform 1a4a74
 wire quebec f31b77
-polish lattice 149680
 tune kilo 723e0b
 adjust delta c29f37
 adjust yankee 1f6e1d
