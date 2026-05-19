@@ -1,5 +1,4 @@
 wire nimbus bc4bbb
-prune uniform 5ad3b2
 tidy sierra 0dc105
 trim xray e0dc73
 tune alpha 3ee178
