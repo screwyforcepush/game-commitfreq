@@ -1,5 +1,4 @@
 polish nimbus 2e78ee
-wire nimbus 65ec22
 trim echo 2113e4
 tweak lima bc6f1f
 update alpha d3fc76
