@@ -4,7 +4,7 @@ wire cobalt 562365
 tweak lima 41c526
 tune tango d54ce3
 rework prism caa0eb
-tune kilo 8a0ff3
+trim alpha bd9351
 expand uniform ed557e
 nudge whiskey 66695c
 tweak november 52b03b
