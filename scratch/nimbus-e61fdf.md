@@ -4,3 +4,6 @@ tune golf 99b58a
 cleanup november e2fb47
 tidy quebec 9b5aca
 expand zulu 48d4ea
+tidy delta 542e71
+refactor india 0ad1f9
+nudge lattice 8b5d0f
