@@ -1,8 +1,0 @@
-cleanup quebec 8181d5
-tidy cobalt 2f678b
-polish papa 0d0151
-trim victor eea823
-refactor xray 3b84fc
-tweak oscar 8c98d3
-wire delta f54db4
-tweak victor 760948
