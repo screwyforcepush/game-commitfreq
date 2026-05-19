@@ -5,3 +5,6 @@ bump bravo 4a08df
 prune victor d04bb6
 tune charlie 227b14
 prune bravo 47d84b
+wire nimbus 5f34c1
+adjust charlie b8cc64
+tweak zulu 1f0ed5
