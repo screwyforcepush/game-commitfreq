@@ -2,3 +2,5 @@ refactor whiskey 4cc42a
 tweak prism 308d3a
 update yankee 59dc41
 tweak quebec 3f4b2e
+trim delta 58125d
+polish echo 4b3620
