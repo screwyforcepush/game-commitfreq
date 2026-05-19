@@ -6,7 +6,7 @@ tune alpha 0356b0
 cleanup echo 574b87
 update uniform 8eb69e
 adjust echo fb8368
-expand quebec aaf49c
+tune quebec e406ae
 refactor charlie 2676ee
 tweak sierra 1c3518
 rework solstice c5ca71
