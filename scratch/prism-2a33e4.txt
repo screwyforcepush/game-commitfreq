@@ -5,7 +5,6 @@ adjust alpha 88147c
 seed solstice 18b855
 tidy kilo 868ff2
 update november b46cf3
-nudge hotel b79407
 tidy whiskey a683ae
 tidy november 358f7c
 seed prism d0997d
