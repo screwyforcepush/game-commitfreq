@@ -15,3 +15,6 @@ wire romeo eaa59b
 wire oscar aa5bfa
 bump bravo 7d30d4
 refactor quebec 278275
+tidy india b02fb5
+tidy sierra bab95b
+expand lima 056e19
