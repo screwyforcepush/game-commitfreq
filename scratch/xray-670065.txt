@@ -1,6 +1,0 @@
-wire sierra 5ddf1f
-tune yankee b79ad4
-tune bravo c09dd2
-polish delta c86328
-tweak delta 5bd63f
-prune quebec e966ab
