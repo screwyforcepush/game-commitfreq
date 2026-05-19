@@ -1,2 +1,2 @@
 bump november e3100b
-prune papa d102b4
+trim sierra 9d63b0
