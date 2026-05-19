@@ -1,6 +1,5 @@
 tweak golf 8a9dc4
 rework quebec 5f20ce
-seed sierra 75f214
 nudge bravo d6a907
 rework foxtrot 31dce1
 seed alpha 5afe53
