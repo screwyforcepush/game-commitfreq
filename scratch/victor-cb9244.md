@@ -3,7 +3,6 @@ nudge nimbus 6a7a8b
 bump whiskey 1b7130
 prune echo 2b4736
 bump november 1cc992
-wire juliet 72978d
 adjust victor db0efd
 refactor tango fffc82
 bump solstice de91dc
