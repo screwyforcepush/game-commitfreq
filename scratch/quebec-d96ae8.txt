@@ -1,6 +1,0 @@
-adjust echo d2cf09
-adjust hotel 7e2fef
-cleanup lima 9f6495
-trim quebec d93c01
-expand oscar ee4e08
-adjust india 555cb6
