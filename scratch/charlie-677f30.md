@@ -5,5 +5,5 @@ prune hotel 895dc5
 tune sierra a4058a
 polish lattice e6096f
 seed quebec c2bb42
-adjust mike 79376a
+expand whiskey 45435d
 seed solstice 3210f0
