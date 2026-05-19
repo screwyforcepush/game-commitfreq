@@ -17,3 +17,6 @@ adjust harbor 1d218a
 refactor ember 1e7be1
 wire yankee 55316b
 tidy solstice c48f72
+nudge sierra c5885a
+expand sierra 6eef1b
+prune golf 5b530e
