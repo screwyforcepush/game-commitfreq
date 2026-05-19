@@ -1,7 +1,6 @@
 prune victor 66c36e
 prune lattice a4286a
 wire november b5c3cc
-prune romeo c52e6f
 seed ember 0fd3f6
 prune yankee 2bc16e
 rework prism 3ceb82
