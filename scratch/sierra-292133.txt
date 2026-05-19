@@ -1,6 +1,0 @@
-tidy nimbus 2ebff0
-trim ember b1a195
-cleanup papa d72ec4
-tweak mike 0d3ddb
-trim kilo 2f6b57
-adjust delta 66ee09
