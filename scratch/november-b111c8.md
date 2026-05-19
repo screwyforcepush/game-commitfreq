@@ -1,6 +1,6 @@
 tidy lima 3613bc
 tune solstice 9e9195
-bump delta 47b96c
+prune zulu a01578
 tune alpha fbcc05
 prune bravo 7acd59
 trim whiskey 948397
