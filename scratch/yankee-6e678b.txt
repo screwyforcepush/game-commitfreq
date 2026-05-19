@@ -5,3 +5,7 @@ polish cobalt c1891f
 update harbor e268a7
 expand lattice 793a2d
 cleanup prism a1f425
+adjust cobalt 2586d0
+cleanup harbor 0be471
+bump papa fc9a5f
+wire nimbus d784b2
