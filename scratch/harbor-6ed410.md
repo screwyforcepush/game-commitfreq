@@ -1,4 +1,3 @@
-wire delta 3bc40e
 refactor zulu 95ed38
 refactor oscar 6b3902
 rework mike ebdba8
