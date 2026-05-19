@@ -1,4 +1,4 @@
-tune romeo b7105b
+wire golf bcd811
 tune sierra 16c2a8
 tidy tango bbddc3
 wire november c4d586
