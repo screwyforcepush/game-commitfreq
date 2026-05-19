@@ -1,0 +1,4 @@
+expand mike cc331e
+trim yankee 60a710
+seed oscar 410eca
+rework zulu 51287c
