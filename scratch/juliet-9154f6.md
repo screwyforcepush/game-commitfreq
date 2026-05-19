@@ -7,7 +7,6 @@ rework prism caa0eb
 trim alpha bd9351
 expand uniform ed557e
 nudge whiskey 66695c
-tweak november 52b03b
 tune xray d249ad
 tweak papa a9be13
 tune quebec 02b173
