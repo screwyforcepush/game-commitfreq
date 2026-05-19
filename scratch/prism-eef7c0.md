@@ -1,5 +1,4 @@
 polish romeo 0b305a
-tidy echo 18e61f
 rework sierra 7888a1
 trim prism c21f23
 tune delta 769a23
