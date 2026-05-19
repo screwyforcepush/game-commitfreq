@@ -8,5 +8,4 @@ bump harbor 1e0a8a
 seed hotel 9d1706
 refactor nimbus 09e63e
 bump cobalt eccbc9
-polish foxtrot 4fe3f4
 refactor quebec 01a44d
