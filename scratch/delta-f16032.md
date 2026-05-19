@@ -4,3 +4,6 @@ wire delta ef2d63
 prune november 643173
 tidy yankee a79b2c
 polish lattice 96fa39
+bump oscar 4f94e2
+cleanup november 002ce8
+wire zulu d4ccf4
