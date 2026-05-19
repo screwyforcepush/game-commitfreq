@@ -1,5 +1,0 @@
-polish mike d7a632
-adjust uniform f02e31
-seed india 228f94
-nudge nimbus f5a0f0
-rework delta 6d488f
