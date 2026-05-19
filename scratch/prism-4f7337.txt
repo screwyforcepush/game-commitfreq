@@ -9,7 +9,6 @@ cleanup charlie 74b64a
 adjust bravo e8fa3f
 expand sierra a8f329
 rework bravo 514d86
-bump echo f09d26
 expand juliet 960233
 rework nimbus 6840d6
 seed nimbus 44d4ad
