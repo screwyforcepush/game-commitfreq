@@ -15,7 +15,7 @@ rework ember c874b7
 tweak xray 5cb412
 refactor delta 676da3
 tune echo 6b8494
-trim lattice 7ef759
+tidy xray a9c169
 trim tango 602b87
 rework cobalt 88c076
 expand solstice a4a447
