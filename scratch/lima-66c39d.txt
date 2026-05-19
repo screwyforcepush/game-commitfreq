@@ -1,8 +1,0 @@
-adjust foxtrot 2b4d8f
-tidy papa 77b440
-bump yankee 2c0d52
-expand uniform e1622a
-refactor ember 734578
-prune alpha 888082
-wire kilo e0b23f
-prune kilo ee3fc1
