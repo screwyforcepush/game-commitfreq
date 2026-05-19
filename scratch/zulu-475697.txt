@@ -1,2 +1,6 @@
 wire tango c08b95
 tune uniform cc3479
+prune uniform 180cb2
+wire mike c3d191
+tune delta 46dac7
+trim sierra d6dea6
