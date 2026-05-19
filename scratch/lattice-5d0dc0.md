@@ -12,7 +12,6 @@ adjust prism 93e2e0
 cleanup cobalt d8e971
 bump papa 65d846
 nudge quebec 6cc4c2
-expand victor 722a57
 adjust charlie abf92a
 bump romeo acba48
 tune lattice 86de87
