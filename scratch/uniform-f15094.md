@@ -13,3 +13,5 @@ cleanup victor 1774cb
 refactor lattice b643dc
 update yankee 1ed8e8
 wire mike ef055f
+update uniform 6a2a82
+trim lattice d82e59
