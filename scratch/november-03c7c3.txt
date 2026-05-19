@@ -6,3 +6,7 @@ rework lima 97559d
 update lattice 117e6b
 polish lattice 2bdd03
 rework quebec f0b537
+trim papa d315a5
+tidy sierra 6bdb51
+nudge sierra 61b086
+rework romeo c0f7f3
