@@ -1,7 +1,6 @@
 polish uniform 08cd74
 update juliet 35f5c1
 nudge delta 066216
-bump mike e4064e
 wire prism 33c473
 cleanup mike b6963c
 tidy oscar 91542d
