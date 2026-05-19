@@ -1,3 +1,2 @@
-tidy romeo 0da22d
 cleanup charlie 735b9c
 bump yankee 64e99d
