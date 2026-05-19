@@ -5,3 +5,5 @@ expand solstice 0d88a4
 expand uniform d73617
 rework nimbus 589ffa
 trim tango adaf96
+rework quebec b9f1ac
+expand romeo 64c029
