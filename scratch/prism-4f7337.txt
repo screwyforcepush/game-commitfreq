@@ -13,3 +13,5 @@ expand juliet 960233
 rework nimbus 6840d6
 seed nimbus 44d4ad
 tidy november 3d41bf
+adjust papa a8e38a
+tweak quebec 772e6b
