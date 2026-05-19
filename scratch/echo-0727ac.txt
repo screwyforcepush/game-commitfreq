@@ -3,3 +3,6 @@ adjust nimbus 8413b0
 adjust cobalt 4c7c4b
 expand whiskey 39e76a
 seed charlie ff5c08
+prune juliet 39e7fa
+rework papa dc2928
+trim foxtrot f53e8e
