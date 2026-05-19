@@ -1,3 +1,0 @@
-seed alpha 4b35f0
-update sierra ff0bad
-tweak november aa8603
