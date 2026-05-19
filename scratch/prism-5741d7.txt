@@ -8,4 +8,3 @@ trim prism 6585f1
 wire papa 3c1da0
 tweak lattice dce418
 adjust alpha 1e9abc
-tidy golf fed42a
