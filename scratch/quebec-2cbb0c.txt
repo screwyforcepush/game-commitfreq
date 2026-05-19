@@ -3,3 +3,5 @@ rework lattice c11cf5
 rework quebec 8a0220
 tidy solstice bbd997
 wire india 3e4602
+wire romeo 2210e7
+nudge mike f9ea09
