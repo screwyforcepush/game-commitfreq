@@ -1,3 +1,7 @@
 wire lima 83792a
 rework papa 9a2650
 bump kilo cec5dc
+bump oscar ec866c
+update prism 02caff
+update alpha ba7136
+polish lattice 5bf512
