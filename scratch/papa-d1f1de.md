@@ -19,3 +19,5 @@ trim lattice 7ef759
 trim tango 602b87
 rework cobalt 88c076
 expand solstice a4a447
+seed whiskey 51e0b7
+adjust uniform 06e6c4
