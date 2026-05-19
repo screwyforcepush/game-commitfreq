@@ -7,3 +7,7 @@ tune nimbus 8600a3
 wire delta d42532
 wire harbor 9bc495
 cleanup whiskey 7669b7
+tune victor 8b5c8b
+update yankee c11399
+nudge quebec f49f0e
+update india 8e6563
