@@ -4,3 +4,6 @@ update sierra 2d5de1
 prune yankee ce659d
 tidy bravo 13736d
 nudge echo 93c35c
+rework bravo a36856
+seed golf a2d979
+tune lattice dc33f5
