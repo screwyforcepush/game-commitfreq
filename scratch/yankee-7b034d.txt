@@ -9,3 +9,7 @@ update uniform 8eb69e
 adjust echo fb8368
 expand quebec aaf49c
 tidy harbor d2ee90
+tweak sierra 1c3518
+rework solstice c5ca71
+cleanup charlie 40d0d4
+refactor cobalt 8c2acf
