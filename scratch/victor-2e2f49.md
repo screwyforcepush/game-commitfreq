@@ -20,3 +20,7 @@ nudge quebec 39d980
 prune kilo b6899e
 adjust bravo 081b82
 bump nimbus 33cf9f
+polish xray e161e4
+adjust juliet 9a3bf4
+expand juliet 372230
+nudge lattice 612975
