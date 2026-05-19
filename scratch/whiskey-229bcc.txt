@@ -10,3 +10,5 @@ refactor nimbus 09e63e
 bump cobalt eccbc9
 refactor quebec 01a44d
 expand cobalt 02d78c
+wire mike de4034
+seed nimbus 03e0e0
