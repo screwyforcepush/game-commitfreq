@@ -12,3 +12,6 @@ update sierra d6ed57
 cleanup delta 773101
 cleanup harbor e5cbce
 update bravo 273c50
+trim hotel fb35ce
+cleanup solstice cc0238
+tune juliet bd0e9d
