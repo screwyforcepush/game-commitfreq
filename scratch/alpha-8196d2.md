@@ -9,7 +9,6 @@ tidy whiskey 0f2b66
 polish quebec 12d44d
 rework uniform 5f21dd
 adjust india 95177e
-adjust alpha 0ab7d5
 update bravo 015a3a
 tidy uniform a64dd2
 wire charlie f2ddcd
