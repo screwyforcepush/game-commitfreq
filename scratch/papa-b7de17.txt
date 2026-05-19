@@ -6,7 +6,6 @@ bump papa 024d93
 rework solstice d74fa4
 refactor echo 36344c
 polish ember 30a793
-tweak kilo 0796ce
 seed sierra 4f5d24
 cleanup zulu 1bb2d4
 adjust xray a8647b
