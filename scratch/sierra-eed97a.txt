@@ -20,7 +20,6 @@ polish foxtrot 387784
 bump whiskey 468522
 bump november 703a36
 tidy mike 7b2e04
-update nimbus 10e291
 refactor sierra 2287e4
 tune victor ab883b
 refactor quebec 5c44a0
