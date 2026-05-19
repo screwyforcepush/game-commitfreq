@@ -1,2 +1,1 @@
-wire quebec 00cfb8
 bump sierra 57b5c5
