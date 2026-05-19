@@ -88760,3 +88760,4 @@ To https://github.com/screwyforcepush/game-commitfreq.git
 498/611  cleanup lattice oscar                         rename solstice-776ef8.dat -> papa-bb3fa9.csv
 499/611  rework quebec                                 append quebec-0420b0.csv
 500/611  chore: expand bravo for kilo                  append prism-d81900.log
+501/611  refactor: tidy bravo                          trim papa-b40a98.md:2
