@@ -10,3 +10,7 @@ tune victor 051e89
 nudge lattice 77c6eb
 adjust xray 179b3b
 tidy tango fda6cb
+bump golf 61ba64
+bump prism 9fa847
+adjust prism 46cd88
+cleanup xray 889e46
