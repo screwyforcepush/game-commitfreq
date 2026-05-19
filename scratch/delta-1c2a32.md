@@ -7,6 +7,5 @@ adjust delta 2c7633
 polish romeo b62d7c
 tweak whiskey 294c7e
 nudge xray a41d40
-tweak whiskey be7765
 adjust victor edeade
 polish bravo 250369
