@@ -4,3 +4,6 @@ trim lattice 9eca45
 wire lima e37cec
 seed echo 477b4b
 update hotel ce46f4
+tidy mike b62629
+polish cobalt 0c3ecb
+expand ember 0b9941
