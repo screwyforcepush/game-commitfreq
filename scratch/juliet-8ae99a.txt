@@ -1,4 +1,3 @@
 seed alpha 4b35f0
 update sierra ff0bad
-tweak quebec cea1ad
 tweak november aa8603
