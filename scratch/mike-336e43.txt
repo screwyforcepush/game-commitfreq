@@ -4,3 +4,6 @@ tweak hotel 5ecd11
 trim sierra 4a7803
 tidy romeo 39b9a6
 trim yankee b18e5f
+update foxtrot e11fd2
+update papa 0506d3
+adjust mike 095156
