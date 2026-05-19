@@ -1,3 +1,5 @@
 tidy kilo 9b7380
 tidy yankee 06a3ac
 tweak delta d5bae3
+tweak whiskey b6e505
+prune lattice 1792c6
