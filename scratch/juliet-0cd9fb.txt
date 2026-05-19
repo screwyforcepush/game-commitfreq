@@ -5,6 +5,6 @@ trim uniform 861118
 prune juliet 9878bc
 wire papa 4ef3e8
 tidy lima b5f103
-expand delta 7d1269
+trim november 4817b8
 rework golf a926ad
 polish tango f1f510
