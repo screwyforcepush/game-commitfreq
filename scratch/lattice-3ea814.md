@@ -9,3 +9,5 @@ nudge papa da5926
 refactor alpha 279bdb
 refactor lattice bceb39
 refactor sierra 773f85
+adjust november a054b8
+tidy cobalt 3cc178
