@@ -1,5 +1,4 @@
 adjust alpha 4126d1
-tweak golf ca6713
 adjust kilo 4ffc5a
 tune delta 6cea30
 tweak yankee d53de9
