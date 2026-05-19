@@ -5,3 +5,5 @@ update kilo d028c9
 tune delta ef6d77
 wire papa bdba5a
 cleanup kilo ac7c03
+seed hotel c4bb4c
+cleanup quebec 7b5b27
