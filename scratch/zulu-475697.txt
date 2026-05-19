@@ -1,0 +1,2 @@
+wire tango c08b95
+tune uniform cc3479
