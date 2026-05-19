@@ -7,4 +7,3 @@ adjust india 1b73a0
 trim prism 6585f1
 wire papa 3c1da0
 tweak lattice dce418
-adjust alpha 1e9abc
