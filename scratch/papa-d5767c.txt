@@ -1,7 +1,0 @@
-refactor delta 584a76
-refactor whiskey 546a9f
-rework juliet 12fe45
-cleanup bravo 6869a1
-refactor india 298412
-tidy ember 12d5bd
-refactor tango 9aff84
