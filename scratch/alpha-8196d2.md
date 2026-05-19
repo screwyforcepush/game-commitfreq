@@ -16,3 +16,6 @@ trim hotel 435621
 expand cobalt 315cbd
 wire juliet c76148
 trim echo 128488
+trim india bc3516
+tidy yankee 164e77
+expand xray 2162e9
