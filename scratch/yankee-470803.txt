@@ -13,5 +13,4 @@ adjust prism 64ae31
 nudge uniform a64f0f
 nudge xray cb74b5
 prune delta 0514cf
-refactor prism 171b3d
 rework quebec 13bb5b
