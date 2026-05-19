@@ -1,5 +1,4 @@
 tweak tango c6d615
-trim xray 8826a2
 wire cobalt c642fb
 wire sierra d65617
 rework foxtrot 073422
