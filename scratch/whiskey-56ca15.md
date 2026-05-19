@@ -6,3 +6,4 @@ tune ember aa8715
 seed foxtrot 95ec5d
 tweak whiskey 68463d
 tidy hotel 735fc3
+tidy quebec 3b5bd4
