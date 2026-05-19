@@ -1,7 +1,6 @@
 nudge india d99e4d
 cleanup echo 70602b
 wire nimbus d35a36
-bump papa 86e40a
 tidy yankee fd58ed
 wire quebec 0de375
 tune harbor ca4aa1
