@@ -12,6 +12,5 @@ bump prism 2701cd
 prune mike 8daf3d
 refactor charlie e2eea7
 wire romeo eaa59b
-update november 4e52f6
 wire oscar aa5bfa
 bump bravo 7d30d4
