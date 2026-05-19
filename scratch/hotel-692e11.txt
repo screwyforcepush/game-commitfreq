@@ -14,7 +14,6 @@ rework papa 125e86
 update victor 24ed1f
 update victor 015988
 bump mike 502e70
-adjust tango 5b2e19
 wire alpha 6a1bbd
 update quebec 070fed
 trim nimbus 07b10f
