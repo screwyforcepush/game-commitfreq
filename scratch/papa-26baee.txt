@@ -1,5 +1,4 @@
 tidy quebec f877ba
-update hotel 652328
 tune delta 4fe8b5
 refactor bravo 2bcf5d
 refactor papa 58a8b7
