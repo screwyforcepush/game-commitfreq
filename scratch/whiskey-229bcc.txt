@@ -4,3 +4,6 @@ update papa 186b33
 tweak hotel 6263dd
 seed yankee 030c20
 nudge golf dcbfe7
+trim lattice 1f887e
+bump harbor 1e0a8a
+seed hotel 9d1706
