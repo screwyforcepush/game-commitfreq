@@ -4,3 +4,7 @@ refactor nimbus a76abf
 bump november f12a76
 tidy prism 37c3ed
 adjust alpha 468f32
+polish papa 1435a5
+wire solstice 485b80
+prune nimbus e60c40
+tune yankee bc91c2
