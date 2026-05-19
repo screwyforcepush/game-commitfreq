@@ -1,4 +1,3 @@
-wire lima 83792a
 rework papa 9a2650
 bump kilo cec5dc
 bump oscar ec866c
