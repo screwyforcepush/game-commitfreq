@@ -10,3 +10,5 @@ nudge whiskey 66695c
 tune xray d249ad
 tweak papa a9be13
 tune quebec 02b173
+cleanup papa 71e3b7
+wire foxtrot 9601ce
