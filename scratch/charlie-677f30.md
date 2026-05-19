@@ -4,7 +4,6 @@ tidy juliet cdcff1
 prune hotel 895dc5
 tune sierra a4058a
 polish lattice e6096f
-expand whiskey 45435d
 rework yankee 5db61b
 tune echo e6a54f
 tidy delta 80f0e3
