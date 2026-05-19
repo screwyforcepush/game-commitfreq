@@ -7,3 +7,5 @@ seed tango 815b77
 rework juliet 459927
 polish bravo 6b147c
 tidy whiskey 0f2b66
+polish quebec 12d44d
+rework uniform 5f21dd
