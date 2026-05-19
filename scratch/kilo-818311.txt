@@ -7,6 +7,6 @@ trim lattice 8c8f3b
 polish solstice dff7c6
 expand mike 8276da
 refactor uniform 2f92bf
-refactor alpha 94d67f
+rework alpha 6080fc
 polish delta c683a7
 nudge harbor 19f9a8
