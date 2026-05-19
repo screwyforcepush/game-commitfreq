@@ -4,3 +4,4 @@ wire lattice 0cf431
 prune oscar 5c000d
 tweak quebec bc61dd
 expand quebec bcb134
+tune solstice 864c58
