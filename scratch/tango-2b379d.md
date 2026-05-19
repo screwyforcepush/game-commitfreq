@@ -9,3 +9,5 @@ adjust victor 0854e8
 seed foxtrot 1b1b61
 prune lattice a111b1
 tweak november 1ac43f
+nudge uniform 74411a
+polish victor 86ee8e
