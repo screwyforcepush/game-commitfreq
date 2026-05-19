@@ -9,3 +9,5 @@ update whiskey 1c06da
 refactor lattice eca60a
 adjust xray 031839
 update yankee 1ed950
+tidy bravo c51bae
+rework whiskey 2a5c77
