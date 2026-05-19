@@ -1,2 +1,2 @@
-bump india 5101e0
+adjust alpha 24b0d6
 prune tango 5d3a6a
