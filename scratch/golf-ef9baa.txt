@@ -3,3 +3,7 @@ update solstice a8b5bc
 rework delta 1166c2
 tidy foxtrot dfcf54
 update xray 249034
+tidy whiskey 9e010c
+wire papa e6c417
+cleanup november 7f6a17
+wire kilo c9fde3
