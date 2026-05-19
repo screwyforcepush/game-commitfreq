@@ -9,5 +9,5 @@ trim echo 8dd6ac
 nudge quebec fc0c63
 prune delta 220c0c
 polish victor 3ac34c
-adjust golf 60430b
+tidy tango 9258a4
 seed lattice bdaa0b
