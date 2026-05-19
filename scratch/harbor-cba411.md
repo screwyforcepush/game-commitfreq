@@ -7,3 +7,4 @@ cleanup bravo d814f0
 refactor foxtrot 6afbe4
 wire papa 5694fa
 nudge bravo 0e9ab3
+bump november e0ea82
