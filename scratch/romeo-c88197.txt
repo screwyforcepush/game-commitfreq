@@ -1,5 +1,4 @@
 seed lima 451b2c
-bump kilo 470aeb
 prune charlie eabef7
 trim nimbus ac1063
 refactor lattice dcc96a
