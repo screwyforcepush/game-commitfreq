@@ -5,7 +5,7 @@ prune nimbus b7fcc4
 nudge romeo 40d817
 expand echo a0a7b5
 bump golf 6e0132
-polish juliet fdd322
+polish hotel ccaec1
 adjust solstice 59739d
 prune solstice d31024
 bump cobalt acb51f
