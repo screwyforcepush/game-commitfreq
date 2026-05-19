@@ -7,3 +7,4 @@ cleanup india e8a9e7
 wire solstice 1ffa0a
 adjust xray df706d
 rework lattice 9791d4
+tune nimbus 8a007d
