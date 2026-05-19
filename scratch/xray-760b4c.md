@@ -6,3 +6,6 @@ expand alpha e9deaa
 expand nimbus 763b8d
 seed uniform 22d5c6
 expand lattice 628939
+nudge echo 7cd99f
+polish lattice ab2308
+rework kilo 7c35ec
