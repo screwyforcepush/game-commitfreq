@@ -5,5 +5,4 @@ refactor solstice b44d19
 seed victor 62bf1b
 bump sierra fb766e
 update lima fa9382
-seed zulu 97573d
 expand foxtrot 45b21e
