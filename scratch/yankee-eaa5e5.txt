@@ -4,4 +4,3 @@ tidy alpha 7faaec
 polish solstice 66d608
 tune quebec cfbf0b
 trim whiskey c68b5e
-tidy india 2baedd
