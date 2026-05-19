@@ -1,7 +1,7 @@
 expand ember 20cdb9
 trim lima ed98fa
 update india 0600a3
-adjust echo 085b81
+refactor delta 6decd3
 refactor solstice 72a4cb
 tidy juliet 31c4a2
 tidy kilo 923de6
