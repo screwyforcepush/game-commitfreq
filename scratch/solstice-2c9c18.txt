@@ -4,3 +4,6 @@ nudge oscar 1d0805
 tweak yankee 0d7d57
 rework echo 568785
 cleanup quebec b915bc
+adjust india 030771
+tune victor a5220e
+tweak quebec e03555
