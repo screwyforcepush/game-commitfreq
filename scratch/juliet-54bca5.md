@@ -12,3 +12,4 @@ tweak cobalt f20f4d
 prune delta f0557d
 rework prism 006be4
 tidy foxtrot b56b5a
+prune nimbus 333182
