@@ -5,3 +5,6 @@ update lattice af6e7e
 tidy harbor 861473
 rework solstice 4f0be0
 prune sierra f9950c
+bump papa 900a3b
+polish papa 831a6d
+tweak yankee 635186
