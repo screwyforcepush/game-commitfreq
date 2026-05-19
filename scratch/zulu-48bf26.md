@@ -6,7 +6,7 @@ rework yankee 2b4cc7
 tweak xray 0542e9
 seed yankee 1e3ec1
 expand november 5dcdd8
-tweak victor a1dc85
+update xray 44db54
 refactor quebec ffa6c2
 polish solstice 0731e4
 tweak solstice c7b251
