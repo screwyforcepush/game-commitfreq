@@ -16,3 +16,7 @@ tweak charlie c4eee7
 trim kilo 2a268b
 cleanup bravo f91c2a
 prune prism d7c27b
+prune echo 0ed771
+seed bravo 19a111
+tidy tango 881e64
+expand golf 16179c
