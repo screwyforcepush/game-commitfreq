@@ -7,7 +7,6 @@ adjust alpha 468f32
 polish papa 1435a5
 wire solstice 485b80
 prune nimbus e60c40
-tune yankee bc91c2
 nudge sierra 193b1d
 rework charlie 7d4fc4
 prune zulu 800c97
