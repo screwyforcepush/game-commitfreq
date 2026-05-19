@@ -1,6 +1,6 @@
 wire nimbus bc4bbb
 prune uniform 5ad3b2
 tidy sierra 0dc105
-cleanup papa b80be3
+trim xray e0dc73
 tune alpha 3ee178
 tweak lattice 5c9421
