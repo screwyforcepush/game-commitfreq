@@ -3,7 +3,6 @@ polish whiskey 1d3fa6
 adjust nimbus c4c799
 prune yankee 6042ef
 tune xray 275dc6
-polish victor abb97b
 cleanup bravo d814f0
 refactor foxtrot 6afbe4
 prune bravo f59b90
