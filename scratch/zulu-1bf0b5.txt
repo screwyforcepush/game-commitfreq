@@ -1,4 +1,0 @@
-update whiskey b6578d
-prune oscar 42ce70
-tweak bravo 63fe1e
-adjust mike 2a8bad
