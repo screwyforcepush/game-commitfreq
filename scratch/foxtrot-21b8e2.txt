@@ -1,6 +1,5 @@
 adjust alpha 4126d1
 tweak yankee d53de9
-adjust alpha 461f21
 trim xray 704684
 polish delta 9a31af
 nudge romeo 697d65
