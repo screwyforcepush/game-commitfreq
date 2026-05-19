@@ -3,7 +3,6 @@ polish oscar b4afd1
 rework papa 239385
 polish bravo 1002e5
 prune lima 29709e
-seed november d5caba
 wire uniform 7d547b
 tidy golf e2e6f4
 nudge uniform de7684
