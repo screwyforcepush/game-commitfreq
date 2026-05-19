@@ -4,5 +4,4 @@ wire alpha 9f229b
 tweak ember 28c49d
 cleanup bravo 8f68f9
 cleanup tango 7bd393
-tidy lattice 788464
 adjust whiskey 825073
