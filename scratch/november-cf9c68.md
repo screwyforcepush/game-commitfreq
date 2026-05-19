@@ -1,5 +1,5 @@
 tune alpha 703289
-bump xray 436405
+seed juliet c820a8
 tidy oscar 688ecf
 tune whiskey 43dbfd
 tweak romeo 3328bc
