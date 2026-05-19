@@ -7,3 +7,5 @@ trim echo 029867
 wire delta bd3fd7
 adjust yankee 65a8d5
 tune yankee e104c9
+tune ember 9df933
+trim foxtrot bc5b23
