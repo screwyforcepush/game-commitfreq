@@ -4,3 +4,5 @@ trim india aa7e7b
 update whiskey 2d361f
 update lima dc39f7
 polish ember 901929
+prune oscar b238f3
+cleanup lattice 7e4128
