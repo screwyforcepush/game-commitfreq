@@ -3,7 +3,7 @@ trim sierra 9d63b0
 prune quebec bfb34e
 prune romeo 05ecda
 tidy november 4d7c5c
-tune ember 1dc54d
+wire cobalt 74e876
 cleanup xray 374f19
 tweak lima 9720da
 tidy harbor 3e9f1c
