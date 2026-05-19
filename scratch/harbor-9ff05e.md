@@ -1,7 +1,6 @@
 nudge cobalt c8e541
 cleanup juliet 29f56d
 expand november f95647
-rework papa 57639e
 tune mike 0867d3
 cleanup sierra ced559
 rework mike bc084f
