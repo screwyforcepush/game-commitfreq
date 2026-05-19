@@ -1,2 +1,2 @@
 expand nimbus b7c44f
-prune alpha ff678d
+seed nimbus ed03ea
