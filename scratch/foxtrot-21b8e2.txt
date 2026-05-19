@@ -1,6 +1,5 @@
 adjust alpha 4126d1
 adjust kilo 4ffc5a
-tune delta 6cea30
 tweak yankee d53de9
 adjust alpha 461f21
 cleanup victor 53ec8d
