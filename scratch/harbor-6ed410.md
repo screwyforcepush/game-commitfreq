@@ -10,7 +10,7 @@ adjust solstice a549ce
 seed lattice 96e569
 wire xray 5701ce
 adjust cobalt 358cce
-cleanup ember e07d0f
+rework ember 4005ef
 cleanup yankee f6f2b0
 expand charlie abb5fb
 polish zulu ae17c4
