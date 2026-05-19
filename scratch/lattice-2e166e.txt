@@ -2,5 +2,4 @@ expand nimbus 79a6f2
 expand zulu f67b0f
 wire oscar 8da810
 tidy sierra db0f4a
-tune sierra 3293f7
 tidy sierra 9c035e
