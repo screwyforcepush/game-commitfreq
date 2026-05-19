@@ -3,3 +3,5 @@ prune golf 67d411
 bump xray 5aac6f
 cleanup hotel ccc0ec
 tweak hotel 5ecd11
+trim sierra 4a7803
+tidy romeo 39b9a6
