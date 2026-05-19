@@ -1,2 +1,6 @@
 adjust oscar 6bf8ff
 trim ember bbd56b
+rework victor 0ca29b
+seed quebec e4678a
+rework mike cafd03
+refactor sierra 6c31e6
