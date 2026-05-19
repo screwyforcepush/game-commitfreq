@@ -2,7 +2,6 @@ polish golf 53ef49
 wire nimbus cb84a9
 wire echo df1b5b
 cleanup golf 103d66
-bump ember e42391
 expand whiskey 0f9b99
 tweak prism fc4ecc
 prune whiskey 3f9d2a
