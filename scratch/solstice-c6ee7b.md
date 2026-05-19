@@ -8,3 +8,6 @@ wire tango 13d046
 tune echo 4a1b92
 adjust bravo bf19c0
 bump papa 1fb953
+rework zulu c9edb2
+refactor echo 5993bf
+tune charlie 702fc6
