@@ -1,7 +1,0 @@
-trim charlie 5c5fb9
-seed mike 837b9e
-trim quebec ad7601
-rework lima b0d973
-adjust mike b06925
-rework cobalt 2c23c2
-tidy india 0e6b18
