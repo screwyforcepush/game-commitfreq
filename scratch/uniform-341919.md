@@ -4,3 +4,7 @@ tidy juliet a08cd6
 cleanup romeo a5c811
 tidy foxtrot d1c4c4
 bump whiskey cc21cb
+cleanup mike debc20
+tweak nimbus 00890c
+update hotel 278555
+prune foxtrot 8efa37
