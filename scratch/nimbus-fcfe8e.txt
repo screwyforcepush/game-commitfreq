@@ -3,7 +3,6 @@ cleanup delta a1864c
 cleanup victor 411bbf
 seed tango 31546a
 seed november ad281d
-adjust prism e59cff
 tune echo b45171
 refactor zulu 874f61
 cleanup whiskey 963a97
