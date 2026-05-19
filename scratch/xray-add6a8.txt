@@ -11,3 +11,5 @@ update nimbus 71761f
 update golf 0cbc48
 tune juliet 244282
 rework ember 73c3cd
+rework foxtrot e3e388
+tweak solstice 79f7fb
