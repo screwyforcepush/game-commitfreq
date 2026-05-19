@@ -3,7 +3,7 @@ bump alpha f5b89d
 prune juliet adff5d
 seed solstice c3400a
 rework yankee 2b4cc7
-tweak xray 0542e9
+bump kilo e4e718
 seed yankee 1e3ec1
 expand november 5dcdd8
 update xray 44db54
