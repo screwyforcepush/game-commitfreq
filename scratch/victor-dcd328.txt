@@ -1,5 +1,0 @@
-tweak india 1e4980
-adjust echo 86d6cb
-nudge foxtrot 59d1e6
-seed lattice 78c037
-tweak hotel d236af
