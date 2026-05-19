@@ -1,6 +1,6 @@
 adjust foxtrot 2b4d8f
 tidy papa 77b440
-prune echo 019e7e
+bump yankee 2c0d52
 expand uniform e1622a
 refactor ember 734578
 prune alpha 888082
