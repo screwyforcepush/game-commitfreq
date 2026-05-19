@@ -1,5 +1,5 @@
 wire lattice 6215c9
-tune solstice 813e11
+trim prism 20324d
 cleanup solstice af3696
 nudge yankee 15af29
 wire romeo b23d65
