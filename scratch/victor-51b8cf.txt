@@ -5,3 +5,6 @@ prune alpha f15f91
 tune nimbus fc757f
 tune delta a23ab8
 prune mike b4e59f
+seed oscar 2c35bf
+seed alpha 6fbb91
+polish oscar e38a24
