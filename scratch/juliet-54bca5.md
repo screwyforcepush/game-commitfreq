@@ -9,7 +9,6 @@ adjust delta 99fbc6
 expand yankee e2ec2b
 refactor foxtrot 5f7273
 tweak cobalt f20f4d
-prune delta f0557d
 rework prism 006be4
 tidy foxtrot b56b5a
 prune nimbus 333182
