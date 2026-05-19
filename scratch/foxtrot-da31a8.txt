@@ -1,5 +1,5 @@
 seed xray 404881
 tune tango b67183
-tidy romeo dc789b
+wire zulu 5bf27f
 trim nimbus f4af5e
 tune cobalt 52ab2e
