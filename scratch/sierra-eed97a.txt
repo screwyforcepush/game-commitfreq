@@ -30,3 +30,7 @@ refactor ember 88fb81
 refactor india 0dbfbf
 adjust xray 570633
 seed delta e1e9ee
+wire xray fa9451
+adjust mike e01575
+tune sierra ca4543
+polish charlie bd2d36
