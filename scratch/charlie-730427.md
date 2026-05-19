@@ -3,7 +3,6 @@ seed juliet 2b03dd
 expand romeo f57ab0
 wire charlie bdd4cc
 tweak lima 92b4cc
-tidy charlie ac6481
 nudge tango efdebd
 cleanup quebec f02f1f
 expand ember 36e349
