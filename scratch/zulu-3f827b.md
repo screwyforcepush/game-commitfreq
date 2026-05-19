@@ -6,3 +6,5 @@ trim bravo d24f2b
 bump yankee 20551d
 trim cobalt cf7681
 bump lattice e07b52
+wire echo 744068
+prune prism b97bbc
