@@ -1,5 +1,0 @@
-rework solstice 37270f
-prune whiskey 2df29d
-refactor sierra aac398
-cleanup charlie 52b3eb
-tune solstice 03a34e
