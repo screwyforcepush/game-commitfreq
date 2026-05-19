@@ -1,4 +1,4 @@
-bump xray 73128a
+trim kilo 39cb4d
 rework yankee a27a87
 polish zulu 479c69
 trim india f4feef
