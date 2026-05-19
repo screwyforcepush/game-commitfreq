@@ -1,4 +1,3 @@
-adjust solstice 563778
 tweak lima 1de1f5
 update delta 32c1e6
 tune juliet bcdb52
