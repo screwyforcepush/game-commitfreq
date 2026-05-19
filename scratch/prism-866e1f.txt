@@ -1,3 +1,0 @@
-polish hotel 92f3c3
-expand quebec 2a1a27
-rework xray 4a436b
