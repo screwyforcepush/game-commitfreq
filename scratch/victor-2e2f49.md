@@ -16,7 +16,7 @@ refactor quebec 278275
 tidy india b02fb5
 tidy sierra bab95b
 expand lima 056e19
-rework yankee 8fa595
+nudge quebec 39d980
 prune kilo b6899e
 adjust bravo 081b82
 bump nimbus 33cf9f
