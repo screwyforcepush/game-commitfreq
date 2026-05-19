@@ -7,3 +7,6 @@ rework yankee ff1067
 cleanup charlie 3e76be
 bump lima 115ff6
 prune solstice 31fb91
+tidy sierra 996450
+polish romeo 639574
+adjust uniform 7f77fe
