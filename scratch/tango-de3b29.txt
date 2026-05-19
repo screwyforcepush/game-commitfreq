@@ -6,3 +6,7 @@ update lima dc39f7
 polish ember 901929
 prune oscar b238f3
 cleanup lattice 7e4128
+cleanup lattice b1b72b
+tune victor d8c880
+tweak xray 151a44
+bump charlie 6f27b2
