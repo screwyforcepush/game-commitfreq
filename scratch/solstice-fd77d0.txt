@@ -1,0 +1,2 @@
+prune xray af2197
+prune romeo 6973f1
