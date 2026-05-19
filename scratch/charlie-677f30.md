@@ -9,3 +9,7 @@ rework yankee 5db61b
 tune echo e6a54f
 tidy delta 80f0e3
 adjust quebec 81406d
+update bravo bc2f93
+update alpha c58f6b
+tweak juliet b7b98f
+tidy kilo d32f58
