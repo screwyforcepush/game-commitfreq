@@ -6,3 +6,6 @@ wire romeo 014898
 bump victor 4ce836
 tidy uniform 0a00f0
 nudge papa da5926
+refactor alpha 279bdb
+refactor lattice bceb39
+refactor sierra 773f85
