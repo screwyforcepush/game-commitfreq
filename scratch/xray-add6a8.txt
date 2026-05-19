@@ -1,4 +1,3 @@
-prune november 304cfd
 rework alpha 270404
 trim bravo 7a1972
 tidy whiskey 5f2abe
