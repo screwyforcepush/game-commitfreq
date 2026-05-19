@@ -7,7 +7,6 @@ trim cobalt cf7681
 cleanup kilo 735cad
 prune prism b97bbc
 tweak romeo ff2da6
-bump nimbus c100cd
 cleanup harbor b1c7d3
 bump whiskey aa4cc5
 expand juliet a2ff87
