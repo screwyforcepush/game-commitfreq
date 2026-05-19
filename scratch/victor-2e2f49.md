@@ -12,7 +12,6 @@ prune mike 8daf3d
 refactor charlie e2eea7
 wire romeo eaa59b
 wire oscar aa5bfa
-bump bravo 7d30d4
 refactor quebec 278275
 tidy india b02fb5
 tidy sierra bab95b
