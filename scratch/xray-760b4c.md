@@ -2,7 +2,7 @@ polish mike 362db5
 tweak golf cb53d6
 refactor kilo 98f520
 cleanup victor 071c44
-tweak hotel ea7a08
+adjust yankee c77359
 expand alpha e9deaa
 expand nimbus 763b8d
 update mike dbe8ca
