@@ -14,3 +14,6 @@ cleanup ember e07d0f
 cleanup yankee f6f2b0
 expand charlie abb5fb
 polish zulu ae17c4
+tweak hotel 01a893
+wire golf 228eb2
+seed oscar 3ccfc7
