@@ -5,3 +5,5 @@ prune kilo 2541c1
 adjust uniform c2d9e8
 adjust victor b18163
 refactor solstice 7e4071
+prune delta 7b60fa
+wire solstice 83b085
