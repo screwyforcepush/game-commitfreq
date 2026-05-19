@@ -7,3 +7,4 @@ trim cobalt cf7681
 wire echo 744068
 prune prism b97bbc
 tweak romeo ff2da6
+bump nimbus c100cd
