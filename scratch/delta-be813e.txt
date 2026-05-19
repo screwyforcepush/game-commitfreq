@@ -7,3 +7,4 @@ wire lattice 7fe3e2
 prune prism a8e5bb
 bump harbor 71dc79
 update oscar 689cfe
+wire zulu 5d4ed1
