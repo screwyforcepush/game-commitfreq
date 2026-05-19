@@ -2,7 +2,7 @@ polish whiskey db2072
 rework prism 95d805
 cleanup november 5671df
 update prism 03db2c
-wire xray 5e0644
+update golf ab5d31
 tune nimbus 8600a3
 wire delta d42532
 wire harbor 9bc495
