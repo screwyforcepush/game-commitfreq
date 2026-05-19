@@ -7,7 +7,7 @@ seed golf c54f89
 tidy lima 9bbaa0
 adjust victor 0854e8
 seed foxtrot 1b1b61
-prune lattice a111b1
+tune november 85fda5
 tweak november 1ac43f
 adjust victor ffc627
 polish victor 86ee8e
