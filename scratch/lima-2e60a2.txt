@@ -10,3 +10,7 @@ tidy nimbus cd4921
 adjust tango 636905
 rework prism d0ad7c
 tidy cobalt 0cc6b2
+expand bravo 488761
+refactor sierra 077e0e
+refactor juliet 46f1a7
+nudge zulu cf61ca
