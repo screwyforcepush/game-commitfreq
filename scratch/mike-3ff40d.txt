@@ -1,4 +1,0 @@
-adjust bravo 3b3685
-refactor quebec b9d22c
-bump charlie feadf5
-tune cobalt 352b7d
