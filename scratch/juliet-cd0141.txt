@@ -1,7 +1,6 @@
 cleanup hotel 6f005f
 trim romeo ef2816
 tweak nimbus 36cf0d
-update tango a85458
 expand alpha 774150
 refactor delta e66a66
 adjust oscar fadfc1
