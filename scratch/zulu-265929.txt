@@ -1,5 +1,0 @@
-rework yankee 8e6eb1
-tidy bravo ef6fe5
-cleanup foxtrot 1973ae
-rework solstice a6e7f8
-tune delta 6b0e35
