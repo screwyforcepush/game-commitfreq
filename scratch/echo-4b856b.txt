@@ -1,5 +1,5 @@
 tune delta 4736ad
-tune india b699c0
+prune uniform b0ad4e
 bump echo a4720c
 cleanup juliet dd9610
 prune whiskey 8bf4a8
