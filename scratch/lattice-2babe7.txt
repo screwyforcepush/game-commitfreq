@@ -1,4 +1,3 @@
-bump foxtrot 53505a
 tune lattice eb357a
 tweak prism 1595b4
 nudge nimbus 3a9996
