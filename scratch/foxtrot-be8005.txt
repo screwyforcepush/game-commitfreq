@@ -3,6 +3,6 @@ tidy xray 3847cb
 nudge uniform a32908
 tune harbor f82c52
 rework alpha 3e367b
-tune quebec 059aaa
+polish prism bc5ca6
 bump lattice 3763d0
 adjust bravo e427ac
