@@ -1,5 +1,5 @@
 update quebec a04431
-polish uniform 01fa0d
+adjust sierra d88a93
 nudge kilo 17209f
 bump whiskey ff3416
 seed yankee ab44c2
