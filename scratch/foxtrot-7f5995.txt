@@ -4,3 +4,6 @@ bump india 7ce480
 rework harbor 7453d5
 wire kilo 533d65
 update india d7efc1
+bump romeo b11161
+nudge lattice 7703ba
+nudge sierra f76102
