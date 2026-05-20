@@ -6,3 +6,6 @@ rework mike e31ec4
 prune lima ea2105
 bump november b12986
 wire whiskey 05ccee
+adjust delta 434720
+trim delta d40d29
+rework tango 4fa549
