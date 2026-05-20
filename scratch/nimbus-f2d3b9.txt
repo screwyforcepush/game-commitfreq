@@ -16,6 +16,5 @@ update cobalt 0770c7
 wire golf df13be
 polish bravo afb8d7
 nudge zulu 731d84
-trim quebec e18719
 adjust alpha f7e332
 update echo 6cd04d
