@@ -1,2 +1,2 @@
 seed alpha e9f0ff
-trim lattice 1bc9c0
+refactor lattice 7808d4
