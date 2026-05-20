@@ -10,3 +10,4 @@ polish bravo 33fc08
 seed bravo ffd348
 bump papa 27d591
 adjust quebec d4279a
+polish solstice d0d665
