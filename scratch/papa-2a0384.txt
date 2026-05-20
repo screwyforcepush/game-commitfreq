@@ -9,7 +9,7 @@ bump lima 115ff6
 prune solstice 31fb91
 polish romeo 639574
 adjust uniform 7f77fe
-nudge whiskey ed8acc
+bump yankee 3e894c
 tweak juliet 33645b
 tweak kilo f2428a
 rework prism 8b77db
