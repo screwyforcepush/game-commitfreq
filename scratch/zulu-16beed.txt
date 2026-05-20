@@ -1,5 +1,4 @@
 adjust india d5f22a
-prune quebec 961ee7
 cleanup sierra d2b939
 update romeo 033448
 trim xray 24f8ac
