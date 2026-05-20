@@ -3,3 +3,5 @@ seed tango ada89f
 trim mike f1921f
 seed victor 9b5cf5
 cleanup yankee 22425f
+nudge romeo 2b5137
+polish november 6f3271
