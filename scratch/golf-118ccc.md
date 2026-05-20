@@ -18,3 +18,6 @@ polish foxtrot c1e2a4
 adjust oscar f5f7e9
 update echo 18d0cb
 tweak ember fe1e41
+cleanup juliet 7f945a
+polish november df397c
+cleanup cobalt fefc13
