@@ -5,3 +5,6 @@ bump nimbus 15cb54
 bump juliet fa9c42
 prune november ba27e1
 update yankee a517e3
+nudge victor e9fb41
+nudge romeo 92b030
+nudge delta 61d3a2
