@@ -1,4 +1,4 @@
-nudge hotel 9e3800
+tidy yankee 394b68
 rework lattice c11cf5
 rework quebec 8a0220
 tidy solstice bbd997
