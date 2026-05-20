@@ -2,4 +2,3 @@ adjust zulu ca7082
 tune uniform cc4aea
 bump papa 47cb68
 tidy kilo 3e85d5
-wire xray f47812
