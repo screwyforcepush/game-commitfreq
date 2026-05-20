@@ -4,3 +4,7 @@ expand victor 9e3389
 rework ember 19bdec
 cleanup golf 1824fb
 expand romeo 48b4d3
+rework yankee fc0b55
+trim sierra fdc260
+bump prism a25f44
+tweak foxtrot 3b915f
