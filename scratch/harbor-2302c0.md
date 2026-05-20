@@ -9,3 +9,7 @@ cleanup romeo 5988b6
 polish foxtrot b6be43
 cleanup ember 57e1e0
 refactor xray 1b6c5b
+tweak victor e517f7
+polish quebec 456dd0
+refactor papa f485b0
+refactor india 28e204
