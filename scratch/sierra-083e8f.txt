@@ -6,7 +6,6 @@ trim xray 7f92a2
 tune mike cbc8b5
 trim foxtrot 86099a
 bump hotel 5cccf6
-update nimbus 23ffeb
 trim lima eec52e
 adjust sierra d006bb
 seed hotel 28be63
