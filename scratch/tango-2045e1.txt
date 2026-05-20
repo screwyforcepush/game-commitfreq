@@ -8,7 +8,6 @@ tune juliet 46415c
 nudge quebec 2322bf
 cleanup zulu bdb8e7
 nudge romeo fa3495
-nudge tango 16fd31
 prune bravo 0932a8
 rework zulu 7041ae
 wire solstice aec186
