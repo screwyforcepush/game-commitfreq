@@ -1,2 +1,0 @@
-prune charlie ceca2d
-trim mike fdc205
