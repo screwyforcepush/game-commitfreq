@@ -1,6 +1,5 @@
 refactor hotel 5c71cf
 cleanup lima 9d447e
 expand bravo 425177
-update echo 5f9972
 nudge oscar 4b7d67
 tweak papa 9c08d5
