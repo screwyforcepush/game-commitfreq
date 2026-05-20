@@ -1,3 +1,2 @@
-tune kilo 1959e1
 trim sierra 706dfd
 wire nimbus b72148
