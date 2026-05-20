@@ -2,7 +2,7 @@ adjust sierra 997c5c
 bump zulu 90c7a8
 cleanup echo 65186f
 prune cobalt af7412
-rework november d03871
+tidy harbor b8cb3a
 wire mike b54386
 bump harbor 51b523
 tweak yankee 39aa3c
