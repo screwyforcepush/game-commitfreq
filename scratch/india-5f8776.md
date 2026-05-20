@@ -1,4 +1,4 @@
-prune yankee 6b3210
+adjust lima f286b1
 trim oscar b4f2cd
 adjust papa 78816a
 trim kilo fe772f
