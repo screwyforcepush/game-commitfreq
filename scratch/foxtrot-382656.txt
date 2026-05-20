@@ -11,3 +11,5 @@ adjust delta 69a724
 tweak ember 04c8e0
 prune xray 50c500
 tidy sierra 4cc0da
+cleanup golf fe5840
+trim uniform 59a97b
