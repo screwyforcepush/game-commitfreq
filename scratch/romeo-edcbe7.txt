@@ -1,3 +1,6 @@
 expand lattice dd97d3
 tidy whiskey c36f7c
 update delta 2a17f2
+tidy golf f7deac
+prune xray 42912a
+tweak papa 198143
