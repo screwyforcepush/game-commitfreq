@@ -6,7 +6,6 @@ rework bravo 67fb92
 rework echo cd7791
 expand romeo d46dee
 adjust echo ca6de8
-rework whiskey 2699c4
 adjust papa 1c237d
 nudge bravo 899f40
 adjust uniform c668cb
