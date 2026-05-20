@@ -3,3 +3,5 @@ tune oscar 765ba4
 trim delta 6a3402
 update solstice 546cf1
 wire solstice 7925d9
+tidy hotel 33068c
+trim victor b6d82d
