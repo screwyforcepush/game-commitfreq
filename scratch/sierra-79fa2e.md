@@ -3,3 +3,5 @@ trim victor f7117e
 wire india 2dac32
 seed ember aa5d9d
 expand delta 3c7d14
+expand yankee 2ddc11
+tidy mike 314b3b
