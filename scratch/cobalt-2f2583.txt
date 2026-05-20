@@ -32,3 +32,4 @@ tidy xray d58f1d
 tidy cobalt e31f47
 expand quebec 78f61c
 tidy golf b47eb4
+cleanup hotel a003c8
