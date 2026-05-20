@@ -5,3 +5,6 @@ adjust alpha b6a436
 wire hotel 793a90
 tune harbor ff5d75
 expand tango 39ed08
+adjust victor 8ed592
+expand quebec 6cded4
+trim golf 26478c
