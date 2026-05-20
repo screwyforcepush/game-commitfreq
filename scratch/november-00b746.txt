@@ -16,3 +16,6 @@ nudge yankee 88cd8f
 trim oscar 1bd6ee
 bump harbor 8efdc5
 nudge lattice 8eb8f4
+wire solstice 92fd03
+wire november a219b7
+wire harbor edcf76
