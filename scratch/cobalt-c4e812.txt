@@ -3,3 +3,5 @@ rework prism 35f2ef
 update lima 982dae
 rework xray 0d2bde
 rework tango c69908
+adjust hotel b39efe
+wire alpha ae8d8e
