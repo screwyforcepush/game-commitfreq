@@ -1,5 +1,4 @@
 seed lattice 5f629d
-tune delta 9f7aa8
 rework mike 64e8eb
 rework oscar 3365ed
 refactor uniform e72766
