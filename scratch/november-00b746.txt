@@ -10,7 +10,6 @@ bump alpha 8f5d94
 refactor romeo a3fa8e
 tweak delta 040af9
 tweak charlie 56bbf9
-bump hotel cc7b9d
 wire quebec 699056
 prune quebec 25ee72
 nudge yankee 88cd8f
