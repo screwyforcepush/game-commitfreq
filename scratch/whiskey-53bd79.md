@@ -3,6 +3,5 @@ expand prism 3c63c4
 adjust yankee 4787e8
 tidy echo 169b13
 refactor tango e8ac0a
-prune kilo 65a4e7
 prune lima 159875
 tidy yankee 720b3c
