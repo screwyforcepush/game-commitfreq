@@ -13,3 +13,5 @@ bump foxtrot 43428b
 update alpha a8fa8b
 wire bravo 94caa9
 rework sierra c5fc13
+bump nimbus 38fdb9
+tweak foxtrot 64e04e
