@@ -9,5 +9,4 @@ nudge quebec 2322bf
 cleanup zulu bdb8e7
 nudge romeo fa3495
 nudge tango 16fd31
-cleanup prism 856cb5
 prune bravo 0932a8
