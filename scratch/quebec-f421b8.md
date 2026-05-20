@@ -11,3 +11,4 @@ nudge delta 61d3a2
 seed kilo eac3cf
 trim echo 0b3978
 expand prism 7ff306
+adjust sierra f1ed6a
