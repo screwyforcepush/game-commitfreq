@@ -1,5 +1,4 @@
 tidy sierra 490ae9
-adjust mike 618cb4
 polish zulu 6c4475
 prune quebec f86e8e
 refactor nimbus beb4e9
