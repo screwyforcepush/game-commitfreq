@@ -4,7 +4,7 @@ adjust kilo bd3a84
 prune mike f023a6
 seed papa 90bfb9
 expand ember 84a8ee
-tune kilo 161d48
+tune solstice 7810ae
 rework whiskey ae8621
 tidy nimbus cd4921
 rework prism d0ad7c
