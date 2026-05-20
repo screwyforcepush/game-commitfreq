@@ -2,6 +2,5 @@ refactor xray e4ab84
 tweak yankee fb2db8
 update nimbus db6b3a
 polish uniform a25abb
-refactor papa 19074b
 bump ember 9825c4
 nudge lattice 3af5c0
