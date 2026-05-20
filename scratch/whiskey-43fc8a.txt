@@ -5,4 +5,4 @@ polish lattice 3ae6fb
 prune juliet d0bf39
 prune zulu f1c265
 tweak uniform 4675e7
-tune alpha 134719
+seed victor 948521
