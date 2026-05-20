@@ -11,3 +11,6 @@ update tango 49ad0b
 wire solstice ee7696
 rework nimbus 227711
 nudge lattice 165a16
+adjust echo c23ada
+trim papa 066bfa
+prune delta 402217
