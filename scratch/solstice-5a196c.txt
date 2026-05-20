@@ -1,2 +1,1 @@
 prune yankee aff302
-prune xray cd078c
