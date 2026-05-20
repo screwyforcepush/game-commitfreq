@@ -2,5 +2,4 @@ bump india 8d9906
 polish xray fba4e5
 adjust november e48d6d
 tidy lattice bb2e65
-update romeo 7fc2fa
 refactor delta aa4304
