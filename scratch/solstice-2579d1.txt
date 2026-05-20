@@ -1,4 +1,0 @@
-update tango 8ce427
-tweak hotel 72aab5
-seed hotel db1c0b
-rework india ffd01f
