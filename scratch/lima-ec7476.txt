@@ -1,2 +1,1 @@
-trim tango a7ca25
 seed alpha 0a9121
