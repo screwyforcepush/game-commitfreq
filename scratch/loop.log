@@ -98608,3 +98608,4 @@ To https://github.com/screwyforcepush/game-commitfreq.git
 96/581  wip: refactor golf xray                       append lattice-000576.dat
 97/581  docs: tidy oscar (4540ff)                     trim papa-330067.log:1
 98/581  wire echo (7c14f4)                            rename delta-1ff974.log -> oscar-720f0e.csv
+99/581  fix: tweak ember                              trim bravo-ed4a9f.log:1
