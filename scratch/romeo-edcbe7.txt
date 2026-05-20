@@ -1,6 +1,5 @@
 expand lattice dd97d3
 wire india 92d766
 tidy whiskey c36f7c
-expand delta d1b78a
 update delta 2a17f2
 seed bravo d4990e
