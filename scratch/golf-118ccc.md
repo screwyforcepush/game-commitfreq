@@ -21,5 +21,4 @@ cleanup juliet 7f945a
 polish november df397c
 cleanup cobalt fefc13
 cleanup papa 959d5e
-bump november 927269
 tidy cobalt cc8369
