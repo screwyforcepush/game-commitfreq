@@ -6,3 +6,7 @@ prune juliet 079856
 refactor bravo 72bfc1
 tweak whiskey 5c90bc
 adjust quebec 171e50
+adjust oscar ce5baf
+bump nimbus 8244c7
+rework tango 1f93e6
+update sierra dd6b13
