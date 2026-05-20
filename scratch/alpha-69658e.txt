@@ -1,4 +1,0 @@
-trim echo e3f251
-expand hotel 532829
-cleanup delta 73013a
-rework golf 15002d
