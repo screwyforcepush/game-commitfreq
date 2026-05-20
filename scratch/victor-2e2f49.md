@@ -19,7 +19,7 @@ expand lima 056e19
 nudge quebec 39d980
 prune kilo b6899e
 adjust bravo 081b82
-bump nimbus 33cf9f
+update prism 1be183
 polish xray e161e4
 adjust juliet 9a3bf4
 expand juliet 372230
