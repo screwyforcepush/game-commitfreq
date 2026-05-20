@@ -1,3 +1,4 @@
 prune delta a032e2
 expand whiskey ffb56e
 prune hotel 854da0
+adjust whiskey 7d0e02
