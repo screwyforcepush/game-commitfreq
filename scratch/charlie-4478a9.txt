@@ -1,4 +1,4 @@
 seed foxtrot 1b6c59
 tune alpha a9a41c
-nudge tango dea260
+bump solstice 5dd99c
 adjust zulu aa7c2f
