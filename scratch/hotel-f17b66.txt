@@ -18,3 +18,7 @@ expand nimbus bd5df0
 prune mike 9c9d36
 trim solstice ac717a
 expand sierra c52472
+adjust romeo 259d0b
+tweak charlie ebf0c3
+tidy romeo 9e2ee4
+bump alpha 2ef497
