@@ -6,3 +6,6 @@ adjust echo 0c3844
 polish foxtrot a8883b
 tidy foxtrot abfd76
 cleanup bravo af9613
+expand echo 4e9d85
+rework echo eba58e
+trim uniform 93149c
