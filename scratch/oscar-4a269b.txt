@@ -13,3 +13,6 @@ refactor bravo 515deb
 nudge oscar fbe101
 rework kilo 8f1cc8
 adjust victor f68935
+trim lima bdf75a
+rework whiskey 2635f6
+cleanup hotel 539342
