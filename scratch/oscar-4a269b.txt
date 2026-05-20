@@ -2,7 +2,6 @@ adjust solstice 6b6921
 wire harbor 65dbe6
 prune charlie d298d7
 rework sierra 091f1c
-prune kilo 36a5e0
 cleanup romeo ec9c44
 tidy delta 56bab1
 rework tango 0d395d
