@@ -21,3 +21,5 @@ trim november e66f57
 seed echo a2e049
 expand oscar a4cb85
 nudge harbor 16963d
+update lattice 732b02
+wire charlie ebf95e
