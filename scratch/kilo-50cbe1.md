@@ -16,3 +16,4 @@ update solstice e2bdc9
 update nimbus 00b8e3
 wire victor 28c82c
 tweak delta 8cd71b
+adjust solstice 802f36
