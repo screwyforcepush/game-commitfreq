@@ -1,5 +1,4 @@
 trim lattice ad137a
-tune zulu f18227
 wire november ad36af
 adjust xray 5d8447
 seed ember 36bbf8
