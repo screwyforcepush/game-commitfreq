@@ -4,4 +4,3 @@ cleanup delta cc5024
 adjust cobalt 8b128d
 polish india 184e01
 adjust charlie 1aed5e
-prune mike 9c5bf3
