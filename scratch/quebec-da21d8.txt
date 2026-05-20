@@ -1,4 +1,0 @@
-wire kilo 69b85e
-prune lattice bf8ef5
-prune mike c4e6cd
-prune yankee 23cbc5
