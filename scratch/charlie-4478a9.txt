@@ -1,0 +1,4 @@
+seed foxtrot 1b6c59
+tune alpha a9a41c
+nudge tango dea260
+adjust zulu aa7c2f
