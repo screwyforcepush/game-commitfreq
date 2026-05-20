@@ -4,3 +4,7 @@ refactor echo f36d69
 tune uniform 0dba96
 cleanup india 77e8fd
 trim india a3bb48
+rework yankee 21bb45
+rework bravo 46a69c
+tidy prism 49f62b
+wire sierra 23e61f
