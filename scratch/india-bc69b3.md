@@ -8,3 +8,7 @@ expand tango 39ed08
 adjust victor 8ed592
 expand quebec 6cded4
 trim golf 26478c
+tune zulu cd6a66
+update uniform cc18cd
+polish mike 5bc1fb
+prune papa 77ce6e
