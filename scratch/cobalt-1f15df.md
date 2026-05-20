@@ -1,4 +1,0 @@
-tune delta 144d57
-tweak xray ee99e4
-tune juliet cb00e4
-prune hotel 0025f8
