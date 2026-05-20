@@ -2,7 +2,6 @@ tidy lima 19ced9
 polish whiskey 4f767a
 cleanup prism ad7c63
 rework solstice e3ad8a
-tweak yankee c97c4f
 trim juliet 25c3a8
 cleanup delta 68ca74
 expand yankee 1a1e63
