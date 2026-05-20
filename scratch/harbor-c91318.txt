@@ -1,3 +1,0 @@
-trim nimbus a2e571
-polish delta c64cd7
-prune foxtrot cda5a4
