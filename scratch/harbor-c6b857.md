@@ -3,7 +3,7 @@ seed quebec f3bcc8
 wire alpha 3459e4
 adjust whiskey cae332
 wire lima 328e23
-bump victor 04bb2e
+bump oscar b4577b
 tweak charlie cbae40
 tune echo a7b77b
 rework quebec b8a9d1
