@@ -22,3 +22,7 @@ refactor papa 698e72
 bump foxtrot 5912f0
 adjust juliet 8d86d2
 prune sierra b3df70
+expand romeo d557c5
+cleanup romeo dcacbc
+refactor yankee 83cb77
+refactor ember 28b9b7
