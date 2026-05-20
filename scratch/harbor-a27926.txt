@@ -1,3 +1,2 @@
 prune lattice ea9a74
-tune papa c88422
 tune kilo 246651
