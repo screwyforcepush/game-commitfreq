@@ -1,1 +1,1 @@
-wire romeo a4220d
+trim cobalt b2ec05
