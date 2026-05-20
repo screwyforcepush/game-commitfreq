@@ -1,6 +1,5 @@
 tidy oscar c82d01
 seed echo 31c01d
-seed delta 0e7a80
 adjust romeo 468f57
 seed golf 4d6590
 polish foxtrot e56208
