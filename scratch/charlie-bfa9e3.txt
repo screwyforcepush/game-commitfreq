@@ -2,7 +2,7 @@ adjust hotel 42544e
 rework nimbus de31f7
 prune sierra 2d18be
 tweak golf 5fc9f9
-update juliet 5dc664
+prune november 0937a4
 refactor foxtrot 4ec6ea
 refactor solstice 474051
 polish prism dada61
