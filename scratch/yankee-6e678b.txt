@@ -18,3 +18,6 @@ tweak foxtrot 64e04e
 cleanup sierra 31f979
 wire tango 1d8826
 trim november e66f57
+seed echo a2e049
+expand oscar a4cb85
+nudge harbor 16963d
