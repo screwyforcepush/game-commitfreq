@@ -8,3 +8,6 @@ polish prism 883990
 seed lattice 17cda1
 polish juliet 50cb04
 rework mike 1d4c1c
+trim india c8219c
+polish november d2c42c
+trim november 99faa8
