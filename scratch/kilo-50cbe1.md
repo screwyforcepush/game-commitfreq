@@ -1,4 +1,4 @@
-polish november 1c1d75
+bump lattice 0af20e
 refactor zulu 6b97a2
 adjust whiskey 54747b
 seed juliet 57d244
