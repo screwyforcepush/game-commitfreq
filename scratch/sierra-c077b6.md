@@ -7,3 +7,6 @@ refactor xray 4905c6
 prune cobalt bf8ff2
 polish hotel e2ed66
 tune foxtrot ef9dbf
+adjust sierra 0091e2
+tidy xray fc2022
+wire ember a553a6
