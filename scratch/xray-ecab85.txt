@@ -1,2 +1,1 @@
-rework lattice 821e79
 wire romeo a4220d
