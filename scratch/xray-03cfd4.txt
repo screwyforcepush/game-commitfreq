@@ -8,3 +8,5 @@ wire harbor fcee0d
 wire victor 2b90f8
 polish bravo 33fc08
 seed bravo ffd348
+bump papa 27d591
+adjust quebec d4279a
