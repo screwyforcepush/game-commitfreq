@@ -1,0 +1,4 @@
+tune kilo 1959e1
+adjust tango f9a7a8
+trim sierra 706dfd
+wire nimbus b72148
