@@ -6,7 +6,7 @@ wire zulu 926d56
 nudge echo 399644
 cleanup lima 707474
 adjust nimbus 5f51a9
-trim foxtrot ebe9f2
+seed golf 8bdf1c
 prune mike 7e48d5
 polish delta 79244b
 seed lattice 3e5bcb
