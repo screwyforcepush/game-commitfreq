@@ -8,3 +8,6 @@ update yankee a517e3
 nudge victor e9fb41
 nudge romeo 92b030
 nudge delta 61d3a2
+seed kilo eac3cf
+trim echo 0b3978
+expand prism 7ff306
