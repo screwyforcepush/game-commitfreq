@@ -15,7 +15,6 @@ expand juliet dc03cd
 wire echo 1c0abf
 prune zulu 3c9085
 polish foxtrot c1e2a4
-adjust oscar f5f7e9
 update echo 18d0cb
 tweak ember fe1e41
 cleanup juliet 7f945a
