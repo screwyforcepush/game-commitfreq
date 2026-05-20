@@ -4,3 +4,4 @@ adjust sierra 027c1c
 tune kilo fd3d29
 adjust uniform 0d3e20
 tune echo 93b146
+nudge nimbus 49a98a
