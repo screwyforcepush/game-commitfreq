@@ -6,4 +6,3 @@ tidy mike 314b3b
 prune tango e2ea2b
 tidy hotel b0644d
 seed whiskey 02ebc9
-adjust delta 04db00
