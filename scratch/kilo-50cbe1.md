@@ -6,7 +6,7 @@ tune solstice 84b490
 nudge kilo c967a4
 prune echo 312cfe
 tidy november df33b2
-bump zulu 612f1c
+prune india 586554
 adjust foxtrot 55ebe8
 rework foxtrot ea4bb5
 refactor prism e5ca76
