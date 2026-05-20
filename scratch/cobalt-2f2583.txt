@@ -29,3 +29,6 @@ refactor uniform 967f5a
 cleanup india f97f13
 update zulu ffa61d
 tidy xray d58f1d
+tidy cobalt e31f47
+expand quebec 78f61c
+tidy golf b47eb4
