@@ -3,7 +3,6 @@ bump oscar c6696a
 polish golf 995879
 tidy sierra f07ff4
 polish harbor 1b4343
-refactor victor 4fa882
 update xray 67bf18
 tidy solstice 590c9e
 tweak quebec 1b92eb
