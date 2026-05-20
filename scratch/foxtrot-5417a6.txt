@@ -1,6 +1,0 @@
-polish oscar 044f04
-tidy yankee 15b34c
-refactor delta 14295f
-expand romeo 1f9266
-tweak xray 8e7c95
-tweak quebec 1e4bf1
