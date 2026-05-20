@@ -3,7 +3,7 @@ bump alpha 004ad5
 trim ember 3fff99
 expand kilo 3cdfee
 adjust echo 0c3844
-polish foxtrot a8883b
+seed lattice b9b72d
 tidy foxtrot abfd76
 cleanup bravo af9613
 expand echo 4e9d85
