@@ -9,3 +9,4 @@ adjust nimbus 5f51a9
 trim foxtrot ebe9f2
 prune mike 7e48d5
 polish delta 79244b
+seed lattice 3e5bcb
