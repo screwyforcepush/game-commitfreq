@@ -14,3 +14,7 @@ trim uniform 59a97b
 bump yankee eb93da
 refactor papa bb6beb
 update nimbus 3665b8
+trim sierra 9d9657
+refactor zulu 852bb8
+update tango ef65f3
+expand foxtrot 2e201d
