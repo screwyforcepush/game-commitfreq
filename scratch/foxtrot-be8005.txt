@@ -1,4 +1,3 @@
-tune golf c9c104
 adjust victor c02e3d
 tidy xray 3847cb
 nudge uniform a32908
