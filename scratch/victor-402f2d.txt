@@ -4,5 +4,4 @@ seed kilo cf9466
 nudge oscar 25e644
 expand xray 7825fa
 wire foxtrot 566303
-tidy sierra f40a95
 expand papa 6cf05b
