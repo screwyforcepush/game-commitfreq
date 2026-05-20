@@ -1,7 +1,6 @@
 expand bravo 435f08
 tweak tango eb08cb
 prune november 484086
-expand quebec 8b3ca1
 rework delta 5854a9
 bump harbor 83c395
 tweak xray 375ec1
