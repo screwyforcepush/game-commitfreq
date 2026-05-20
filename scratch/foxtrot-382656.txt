@@ -7,7 +7,6 @@ seed sierra 862d62
 trim zulu d066ff
 bump zulu d8c6ff
 bump hotel 707213
-adjust delta 69a724
 tweak ember 04c8e0
 prune xray 50c500
 tidy sierra 4cc0da
