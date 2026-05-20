@@ -4,3 +4,5 @@ rework tango c01151
 wire hotel b750be
 refactor prism bf082d
 polish mike fa7641
+wire papa e43c3b
+trim sierra 69d53d
