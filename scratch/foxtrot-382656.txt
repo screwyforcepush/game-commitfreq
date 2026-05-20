@@ -5,7 +5,6 @@ bump whiskey 04f564
 rework mike 5210c6
 seed sierra 862d62
 trim zulu d066ff
-bump zulu d8c6ff
 bump hotel 707213
 tweak ember 04c8e0
 prune xray 50c500
