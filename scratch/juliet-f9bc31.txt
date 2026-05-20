@@ -8,3 +8,6 @@ adjust cobalt a91654
 wire kilo 1e9b15
 update oscar bc1379
 wire hotel b80321
+tweak charlie fae600
+rework november e03cfc
+trim uniform e1a2fc
