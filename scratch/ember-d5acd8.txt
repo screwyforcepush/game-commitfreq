@@ -1,0 +1,4 @@
+wire nimbus f1f551
+wire xray 9cc525
+trim echo e2b76d
+trim cobalt 2482b0
