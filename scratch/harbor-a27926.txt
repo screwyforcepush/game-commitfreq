@@ -1,2 +1,2 @@
 prune lattice ea9a74
-tune kilo 246651
+bump lattice b62530
