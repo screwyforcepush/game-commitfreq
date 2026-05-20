@@ -17,3 +17,6 @@ bump charlie ff0794
 trim delta caaa9f
 bump zulu 16f09c
 rework uniform 1af577
+tidy india 33672e
+trim zulu 955e54
+tune alpha bd9579
