@@ -12,3 +12,6 @@ polish yankee 4fadf0
 trim papa ab43a2
 tidy yankee 30735a
 prune quebec 12fcac
+refactor juliet 671bce
+tweak solstice da1155
+prune yankee 1da706
