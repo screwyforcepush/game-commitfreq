@@ -1,2 +1,4 @@
 nudge charlie 7320fe
 bump hotel 82f9a0
+nudge foxtrot 379eed
+expand yankee 0b7409
