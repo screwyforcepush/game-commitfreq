@@ -7,3 +7,5 @@ tidy tango 611870
 bump tango 19abcf
 prune sierra 205c1e
 bump lattice 7678e4
+tidy sierra c0cb66
+tweak quebec 409a11
