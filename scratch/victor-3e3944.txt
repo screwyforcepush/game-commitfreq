@@ -3,3 +3,5 @@ expand lima ec2c25
 bump victor c3ac63
 refactor echo 82e6b0
 rework juliet 77db83
+trim whiskey 9b77ab
+prune prism 9932c7
