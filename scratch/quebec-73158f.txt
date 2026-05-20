@@ -3,3 +3,7 @@ expand bravo 00c5d6
 rework hotel 393dc1
 cleanup kilo d9c7df
 cleanup prism 746e3d
+tweak romeo 960164
+tidy delta fd605a
+prune lattice c04981
+nudge juliet 60dae3
