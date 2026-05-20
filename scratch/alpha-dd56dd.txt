@@ -4,3 +4,5 @@ wire sierra 67ff68
 tweak alpha 508342
 rework prism 7a5cb9
 tweak whiskey 234157
+rework alpha a93c0c
+rework xray 5486a3
