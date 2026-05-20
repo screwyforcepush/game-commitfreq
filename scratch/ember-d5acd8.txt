@@ -1,2 +1,6 @@
 tune tango 0d04bf
 trim cobalt 2482b0
+polish tango e56ace
+prune whiskey bd38fd
+tidy delta 876b5b
+adjust xray 41d235
