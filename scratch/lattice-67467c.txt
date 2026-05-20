@@ -1,2 +1,6 @@
 wire juliet f6ceac
 wire quebec c68c15
+wire golf 24c64f
+nudge romeo 0aaac2
+prune kilo a3ce87
+tweak xray 63fc20
