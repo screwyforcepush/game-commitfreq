@@ -6,7 +6,7 @@ seed lattice b9b72d
 tidy foxtrot abfd76
 cleanup bravo af9613
 expand echo 4e9d85
-trim uniform 93149c
+update uniform c4804c
 nudge delta 947bc2
 tune echo 849582
 refactor zulu be365b
