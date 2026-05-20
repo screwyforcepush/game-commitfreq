@@ -5,3 +5,6 @@ prune sierra 549e90
 bump quebec 8d972c
 cleanup juliet a61c2a
 tune cobalt dba380
+tidy india 2fc6c9
+trim yankee e7ca96
+wire yankee 176fa0
