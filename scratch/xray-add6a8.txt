@@ -20,3 +20,7 @@ tidy solstice c48f72
 nudge sierra c5885a
 expand sierra 6eef1b
 prune golf 5b530e
+trim foxtrot 948107
+adjust alpha ff3e42
+trim charlie ff6ab3
+seed solstice 7cf51a
