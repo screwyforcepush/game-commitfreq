@@ -15,3 +15,6 @@ wire bravo 94caa9
 rework sierra c5fc13
 bump nimbus 38fdb9
 tweak foxtrot 64e04e
+cleanup sierra 31f979
+wire tango 1d8826
+trim november e66f57
