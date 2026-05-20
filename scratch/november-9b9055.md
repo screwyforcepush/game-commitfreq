@@ -9,7 +9,6 @@ bump juliet bbaf91
 tweak charlie ff460f
 nudge oscar e04d46
 nudge quebec 010dd4
-trim quebec 67cca5
 wire india d2dfc1
 adjust mike c23cf8
 trim delta c00c49
