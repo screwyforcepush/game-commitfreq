@@ -1,4 +1,3 @@
-refactor hotel 5daf01
 rework delta 083b25
 seed nimbus 019234
 polish whiskey e3c8ce
