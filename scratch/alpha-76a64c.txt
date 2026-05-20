@@ -7,3 +7,5 @@ nudge yankee c72e32
 bump uniform 115606
 bump zulu b05d0c
 tune charlie 157317
+prune cobalt 34ae44
+wire solstice 02aacc
