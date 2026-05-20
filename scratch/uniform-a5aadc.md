@@ -5,3 +5,5 @@ trim alpha f2ccfc
 nudge echo acf3db
 wire echo 077787
 nudge uniform 0bcac0
+trim ember 819d88
+trim romeo 6337e3
