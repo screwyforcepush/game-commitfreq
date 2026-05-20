@@ -9,3 +9,5 @@ polish cobalt 80b714
 adjust uniform b189c3
 rework echo fdd3cc
 seed charlie 1659f9
+nudge yankee c6b12d
+trim juliet 6a2586
