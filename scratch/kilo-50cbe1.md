@@ -13,3 +13,6 @@ refactor prism e5ca76
 adjust prism 8b8eac
 prune sierra 3ac597
 update solstice e2bdc9
+update nimbus 00b8e3
+wire victor 28c82c
+tweak delta 8cd71b
