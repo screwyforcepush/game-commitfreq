@@ -22,3 +22,6 @@ nudge whiskey a00024
 nudge delta 239b84
 rework kilo 684742
 polish victor cddf7c
+polish tango 322804
+adjust uniform 7980a1
+tweak zulu 317064
