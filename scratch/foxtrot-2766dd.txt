@@ -3,7 +3,7 @@ tune charlie 0ef090
 trim sierra f062ef
 adjust lattice f97e11
 trim juliet 998401
-trim whiskey a1c6a8
+nudge echo 6370a1
 rework papa bc5ea7
 tidy ember 9851e8
 adjust oscar bc5cbd
