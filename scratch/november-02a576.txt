@@ -6,3 +6,5 @@ rework echo aebf77
 refactor whiskey 258b7f
 expand lattice b636d5
 tidy alpha c69767
+adjust hotel 3c9670
+prune oscar f680e9
