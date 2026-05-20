@@ -3,7 +3,6 @@ rework lattice 1120da
 tidy harbor 750661
 prune tango 4317ef
 trim whiskey 4a52cd
-update zulu 6f8a19
 trim zulu e60a4d
 tune sierra 0bd5b6
 trim lima 000c35
