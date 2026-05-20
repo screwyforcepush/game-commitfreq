@@ -1,6 +1,5 @@
 tweak oscar 6bc02d
 rework xray c10088
 adjust tango 41e91d
-wire xray d217f3
 tidy india db6174
 adjust ember 6c26ef
