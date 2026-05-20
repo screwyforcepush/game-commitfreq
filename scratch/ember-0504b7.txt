@@ -7,3 +7,6 @@ wire solstice f377c7
 tune lattice 9cb023
 adjust foxtrot e351e5
 trim bravo c3d4bd
+adjust charlie 576b86
+tweak ember 676dcb
+adjust hotel 31bdf8
