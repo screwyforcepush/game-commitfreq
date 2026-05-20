@@ -14,3 +14,6 @@ tidy zulu 138c7f
 wire whiskey f2b51d
 prune nimbus 019202
 tidy tango 7ad146
+trim tango f8fb15
+bump solstice 66f6d5
+tidy ember bffdcf
