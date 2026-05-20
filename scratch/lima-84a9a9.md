@@ -11,3 +11,7 @@ polish romeo f3226c
 trim bravo 73478f
 tidy hotel ea3e0c
 tweak foxtrot 8f0305
+polish whiskey 8e7839
+tidy ember a217b4
+expand charlie 4a2898
+update nimbus 0a305c
