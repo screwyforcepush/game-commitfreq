@@ -7,3 +7,6 @@ update tango 4c8528
 trim yankee 01972d
 adjust solstice b9c4a6
 bump juliet bbaf91
+tweak charlie ff460f
+update victor 3ba550
+nudge oscar e04d46
