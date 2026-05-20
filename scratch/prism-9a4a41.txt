@@ -1,5 +1,4 @@
 cleanup quebec 134ebc
-tidy golf c4804e
 tweak november 806fa0
 tidy delta aeacf9
 trim prism 242150
