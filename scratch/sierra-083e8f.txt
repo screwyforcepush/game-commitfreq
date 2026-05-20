@@ -8,4 +8,4 @@ trim foxtrot 86099a
 bump hotel 5cccf6
 update nimbus 23ffeb
 trim lima eec52e
-bump cobalt 6cc9a5
+adjust sierra d006bb
