@@ -1,4 +1,0 @@
-bump echo cdf362
-seed quebec 546289
-adjust oscar 87480e
-bump whiskey f9e8f9
