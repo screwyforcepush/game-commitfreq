@@ -8,3 +8,6 @@ adjust golf 3b8706
 adjust delta 179395
 nudge kilo 9455b2
 polish romeo f3226c
+trim bravo 73478f
+tidy hotel ea3e0c
+tweak foxtrot 8f0305
