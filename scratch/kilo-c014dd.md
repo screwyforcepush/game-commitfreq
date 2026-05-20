@@ -1,4 +1,3 @@
-update echo 75576b
 nudge delta 82e18f
 wire november 68867b
 adjust lima 2356ae
