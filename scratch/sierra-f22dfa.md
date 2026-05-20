@@ -1,6 +1,5 @@
 wire nimbus bc4bbb
 tidy sierra 0dc105
-nudge tango a0ec10
 tune alpha 3ee178
 tweak lattice 5c9421
 expand golf 86a6e3
