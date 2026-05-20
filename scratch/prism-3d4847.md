@@ -3,3 +3,7 @@ expand kilo c63e31
 nudge lattice 70ed69
 expand victor b414c3
 tidy india c09a99
+update hotel def96c
+expand solstice ef9e48
+rework bravo 9973c5
+nudge hotel e10ebd
