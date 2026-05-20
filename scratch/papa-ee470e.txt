@@ -3,7 +3,6 @@ wire victor edd252
 rework zulu 9494cc
 prune yankee b59be0
 tweak juliet 8a12d5
-seed romeo 705221
 trim prism c9260c
 tidy echo 887dec
 tune juliet ddb622
