@@ -5,7 +5,6 @@ seed victor 9b5cf5
 cleanup yankee 22425f
 nudge romeo 2b5137
 polish november 6f3271
-polish cobalt 80b714
 adjust uniform b189c3
 rework echo fdd3cc
 seed charlie 1659f9
