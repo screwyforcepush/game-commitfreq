@@ -4,3 +4,6 @@ tune charlie 26d5f6
 cleanup charlie 47fe61
 tune juliet 4c4b3f
 tune romeo dc441a
+adjust lima 1963c9
+tune delta e5cb46
+polish delta 2d4548
