@@ -8,7 +8,7 @@ expand alpha 88cf05
 wire bravo b2e682
 rework lattice 67e1e0
 refactor golf fdbe1e
-bump delta f844b3
+trim sierra 6e69fc
 update cobalt 3ed896
 trim alpha cd132c
 expand juliet dc03cd
