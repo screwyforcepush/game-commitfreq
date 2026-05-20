@@ -9,7 +9,7 @@ wire kilo 159889
 expand oscar ead3bc
 seed oscar dde7f4
 nudge delta f7502a
-nudge foxtrot aa6793
+seed ember 887ad9
 tidy papa 0b078e
 nudge whiskey f8b4b2
 update cobalt 0770c7
