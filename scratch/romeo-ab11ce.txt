@@ -1,6 +1,5 @@
 tune uniform 315590
 prune oscar 8e7580
-nudge oscar aa1f8f
 cleanup victor ddcd2b
 refactor charlie 5f141a
 rework foxtrot 185b99
