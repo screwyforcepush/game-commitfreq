@@ -14,3 +14,5 @@ rework harbor 6365b3
 prune november 4a2de5
 refactor golf 0bab54
 refactor foxtrot d21698
+expand quebec 479f1b
+tidy victor a8601c
