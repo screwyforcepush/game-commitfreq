@@ -7,7 +7,6 @@ nudge kilo c967a4
 prune echo 312cfe
 tidy november df33b2
 prune india 586554
-adjust foxtrot 55ebe8
 rework foxtrot ea4bb5
 refactor prism e5ca76
 adjust prism 8b8eac
