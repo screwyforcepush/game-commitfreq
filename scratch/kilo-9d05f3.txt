@@ -1,4 +1,0 @@
-update quebec 03b8a7
-prune papa db8dbb
-cleanup victor 4fbd74
-polish harbor 4ebd73
