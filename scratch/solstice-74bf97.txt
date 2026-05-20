@@ -8,3 +8,7 @@ prune oscar 7c7feb
 trim nimbus 64a9ee
 nudge whiskey 588edc
 bump solstice dedca2
+rework juliet 27583e
+tidy solstice a692e2
+nudge ember 081ce2
+tweak bravo e71379
