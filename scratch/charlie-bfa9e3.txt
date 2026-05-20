@@ -4,7 +4,7 @@ prune sierra 2d18be
 tweak golf 5fc9f9
 update juliet 5dc664
 refactor foxtrot 4ec6ea
-bump november 0e0abe
+refactor solstice 474051
 polish prism dada61
 rework india 8f42f9
 wire quebec 7153ef
