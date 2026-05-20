@@ -5,7 +5,6 @@ seed golf 4d6590
 polish foxtrot e56208
 polish lattice 398076
 nudge lattice c99be8
-nudge ember c2dec4
 update delta 12e26f
 seed solstice 37ac91
 wire ember b2db72
