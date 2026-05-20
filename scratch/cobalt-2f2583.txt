@@ -10,7 +10,7 @@ rework charlie 01faf1
 trim india 32e4ef
 tidy quebec 223cf3
 refactor mike 33b12e
-tweak november 74c8e2
+wire november f547e4
 adjust charlie 952b2b
 trim delta 3d951e
 nudge uniform 862e6f
