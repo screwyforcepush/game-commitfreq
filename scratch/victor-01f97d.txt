@@ -16,3 +16,5 @@ expand alpha 12b308
 rework romeo 676f7b
 update foxtrot 57a155
 tidy kilo e7a0e8
+tune quebec f3be7c
+trim yankee 38ae73
