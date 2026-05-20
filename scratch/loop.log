@@ -99570,3 +99570,4 @@ To https://github.com/screwyforcepush/game-commitfreq.git
 55/549  uniform trims                                 trim mike-afb05f.csv:2
 56/549  wip: prune cobalt (0a26ba)                    trim romeo-102661.txt:2
 57/549  wip: prune quebec (7b96ed)                    append charlie-d82969.dat
+58/549  fix: prune yankee                             rename yankee-139b76.dat -> kilo-fd155f.csv
