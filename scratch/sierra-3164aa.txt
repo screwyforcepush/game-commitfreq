@@ -2,3 +2,5 @@ seed uniform 83a0dd
 refactor uniform 317dae
 seed delta 714386
 update echo 7047be
+bump lattice 38ea25
+tweak juliet 67b387
