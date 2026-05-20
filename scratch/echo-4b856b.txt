@@ -1,4 +1,3 @@
-tune delta 4736ad
 prune uniform b0ad4e
 bump echo a4720c
 cleanup juliet dd9610
