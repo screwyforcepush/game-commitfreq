@@ -5,3 +5,7 @@ update golf 1a5cf7
 tune solstice 33ec35
 trim uniform c65ca3
 update hotel 2edfe4
+rework india dcb16e
+rework alpha b6c3ae
+bump foxtrot e0c811
+polish lattice 8aa7a7
