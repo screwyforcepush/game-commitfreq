@@ -38,3 +38,5 @@ adjust golf ada6c5
 seed tango a1116a
 cleanup kilo a8e7a9
 trim alpha 2bc055
+nudge golf 72c2a5
+expand hotel 21094d
