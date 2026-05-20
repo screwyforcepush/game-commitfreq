@@ -3,3 +3,7 @@ update india 9a6450
 tune foxtrot 400352
 nudge echo 35b0a0
 wire cobalt aa35af
+tune mike 03d016
+cleanup alpha 219216
+nudge alpha 17b00d
+tidy lima 8a04ce
