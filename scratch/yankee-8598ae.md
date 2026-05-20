@@ -3,7 +3,6 @@ wire harbor 5f882f
 bump nimbus 7866b5
 adjust kilo 11c479
 prune golf 172918
-prune foxtrot 085df3
 wire harbor fba57c
 trim charlie 5702ba
 bump solstice 54ddf2
