@@ -7,7 +7,6 @@ polish nimbus 54f754
 nudge yankee bdf973
 tidy lima f575d1
 rework charlie 01faf1
-trim india 32e4ef
 tidy quebec 223cf3
 refactor mike 33b12e
 wire november f547e4
