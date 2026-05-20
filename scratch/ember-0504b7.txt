@@ -5,3 +5,5 @@ tidy papa 1dda87
 wire oscar 299685
 wire solstice f377c7
 tune lattice 9cb023
+adjust foxtrot e351e5
+trim bravo c3d4bd
