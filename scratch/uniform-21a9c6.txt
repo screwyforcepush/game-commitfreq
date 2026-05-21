@@ -1,5 +1,0 @@
-tune papa 37dc6a
-cleanup foxtrot 7e18f8
-tweak golf 25a664
-seed quebec 565ded
-prune zulu b545bd
