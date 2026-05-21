@@ -1,4 +1,3 @@
-wire zulu 32b22d
 trim xray 9bf972
 tidy whiskey 94ea00
 tweak november 994340
