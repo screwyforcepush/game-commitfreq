@@ -9,3 +9,6 @@ tweak ember 826ae5
 polish xray d0d739
 nudge yankee 179d80
 adjust india 6453ce
+cleanup zulu bdc94f
+rework hotel e8190f
+adjust delta 3fd4df
