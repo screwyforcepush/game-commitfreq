@@ -1,6 +1,5 @@
 tweak juliet 96fbcf
 tidy victor 537b3b
 refactor xray b98b32
-wire november 67f226
 nudge charlie 67b1d5
 adjust oscar 15ae42
