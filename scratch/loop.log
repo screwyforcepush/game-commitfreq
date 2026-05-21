@@ -104031,3 +104031,4 @@ To https://github.com/screwyforcepush/game-commitfreq.git
 438/560  wip: tidy prism                               drop victor-5a8e77.dat
 439/560  wip: lattice updates                          append mike-5c40e0.csv
 440/560  trim uniform kilo                             append uniform-2af2b0.csv
+441/560  build: tweak lima (46e7f6)                    rename prism-4083df.csv -> november-f47115.txt
