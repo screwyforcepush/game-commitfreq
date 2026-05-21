@@ -11,3 +11,5 @@ update lattice 43d7bf
 rework golf 9bf69f
 tidy quebec 843be1
 polish foxtrot ab2ab6
+tidy golf 2da9b5
+refactor quebec e39991
