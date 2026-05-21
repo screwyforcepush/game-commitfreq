@@ -1,3 +1,0 @@
-seed mike bd0e1a
-tune papa 385f59
-expand yankee feeaac
