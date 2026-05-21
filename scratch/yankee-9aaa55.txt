@@ -14,3 +14,7 @@ bump tango 5ac87a
 prune tango d79b30
 cleanup lattice 2c15fc
 expand cobalt 515ca4
+bump harbor 50c495
+tune hotel cd86d0
+cleanup xray 8dd1ce
+tidy uniform 212964
