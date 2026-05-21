@@ -3,5 +3,4 @@ expand papa c26c01
 prune yankee 25d564
 polish oscar 468a8a
 update nimbus 5e840b
-seed november c9ccf6
 tweak sierra 5cb1ef
