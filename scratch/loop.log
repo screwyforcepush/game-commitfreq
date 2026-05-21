@@ -107334,3 +107334,4 @@ To https://github.com/screwyforcepush/game-commitfreq.git
 55/393  tweak delta                                   create hotel-42374e.md
 56/393  alpha wires                                   drop golf-2dec53.log
 57/393  alpha tweaks                                  rename prism-74d2a4.dat -> charlie-88e0d5.dat
+58/393  build: update oscar for solstice              trim solstice-5c6365.csv:5
