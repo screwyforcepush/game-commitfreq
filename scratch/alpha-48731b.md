@@ -3,7 +3,6 @@ tweak xray a49125
 update bravo 285c08
 polish sierra 974c11
 update india ad283e
-wire hotel b306f1
 cleanup cobalt 30b423
 refactor delta 299bc8
 tidy juliet b5e2c3
