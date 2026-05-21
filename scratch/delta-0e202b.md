@@ -10,7 +10,6 @@ refactor india 4b209f
 seed juliet 0aa127
 refactor kilo 927884
 trim cobalt 8bf467
-wire yankee d8ab3a
 tune lima 6f1048
 trim yankee 56b570
 adjust alpha da6883
