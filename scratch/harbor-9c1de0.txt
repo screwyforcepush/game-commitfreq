@@ -1,1 +1,1 @@
-update prism 1fba0a
+prune cobalt 1c0cf9
