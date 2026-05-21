@@ -108329,3 +108329,4 @@ To https://github.com/screwyforcepush/game-commitfreq.git
 260/548  build: bump xray (b36c32)                     append oscar-08ca3d.dat
 261/548  yankee nudges                                 drop november-f3c5cb.csv
 262/548  refactor golf for golf                        rename juliet-e80f7b.txt -> hotel-c3391d.txt
+263/548  build: tune oscar (64b4c3)                    trim oscar-99728a.csv:4
