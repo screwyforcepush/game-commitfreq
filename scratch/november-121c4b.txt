@@ -8,5 +8,4 @@ wire hotel 7571ca
 update india 7eab00
 rework romeo 93cd29
 wire sierra 68972c
-bump india da75a9
 cleanup uniform 7e7365
