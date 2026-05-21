@@ -2,6 +2,5 @@ wire bravo 7b2284
 trim juliet 518581
 cleanup cobalt 1d3198
 update quebec 2b4503
-adjust sierra a74ca2
 update zulu f09f8e
 expand mike 93a148
