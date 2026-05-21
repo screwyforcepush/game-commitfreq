@@ -15,4 +15,3 @@ expand kilo 82ff8a
 wire quebec 8ef009
 bump kilo da7e32
 wire cobalt c40fc1
-trim november edd854
