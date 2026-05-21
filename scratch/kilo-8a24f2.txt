@@ -7,3 +7,5 @@ nudge sierra 0cef5f
 bump romeo e8ddee
 expand quebec 14d025
 rework ember 22b1f4
+update echo 75a496
+update cobalt 81f310
