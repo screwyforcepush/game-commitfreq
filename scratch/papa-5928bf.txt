@@ -1,3 +1,0 @@
-prune hotel 162acd
-tune november b1b1da
-tweak yankee b09f3d
