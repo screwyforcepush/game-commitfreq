@@ -2,4 +2,4 @@ expand hotel d5a9c0
 seed uniform 88722a
 cleanup yankee 1116d9
 rework yankee d940ff
-cleanup juliet cc142c
+bump solstice 79f03a
