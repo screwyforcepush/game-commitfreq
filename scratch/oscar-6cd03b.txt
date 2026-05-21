@@ -1,6 +1,6 @@
 tweak juliet 96fbcf
 tidy victor 537b3b
 refactor xray b98b32
-adjust oscar 15ae42
+trim papa 3f3f0c
 polish quebec 219b77
 adjust golf 319782
