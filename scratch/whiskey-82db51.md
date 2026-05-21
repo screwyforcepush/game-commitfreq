@@ -19,3 +19,5 @@ tune delta ea9862
 update alpha 9f73d8
 polish juliet 5f1a74
 tidy papa ae8c43
+tidy xray a8131a
+expand echo b9a165
