@@ -1,2 +1,2 @@
-wire oscar 37d39d
+trim solstice 387104
 cleanup charlie 3f980c
