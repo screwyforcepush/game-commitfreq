@@ -6,3 +6,6 @@ tweak bravo bb3ba0
 trim cobalt 3ecca3
 expand zulu ee6b31
 prune victor c3f517
+tidy cobalt 50498c
+trim echo 4a9a82
+expand echo ce1322
