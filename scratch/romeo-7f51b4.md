@@ -1,4 +1,3 @@
-rework hotel d0c3c4
 bump echo 27fe27
 seed yankee 79f1e6
 polish foxtrot 0433f9
