@@ -6,3 +6,6 @@ rework xray fc2120
 tune ember 524bb3
 prune kilo 4646f3
 nudge alpha a7596c
+tidy quebec 31c252
+bump zulu ce7dea
+tune whiskey a497ce
