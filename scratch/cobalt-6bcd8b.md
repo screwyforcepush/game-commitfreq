@@ -7,7 +7,6 @@ bump whiskey 897198
 wire bravo 6a465b
 trim bravo a63f98
 tune cobalt 686beb
-nudge foxtrot c46c84
 bump sierra a43ee8
 rework victor edf117
 expand uniform 356e1e
