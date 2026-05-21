@@ -1,2 +1,4 @@
 update tango 957f15
 wire romeo c5ff47
+tidy delta 8f67c7
+wire alpha 1a8500
