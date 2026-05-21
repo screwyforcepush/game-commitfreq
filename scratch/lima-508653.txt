@@ -9,7 +9,6 @@ tidy cobalt c3061d
 trim quebec a15028
 nudge victor 71acb7
 wire oscar 70d41c
-trim golf 2b751f
 polish zulu dc0472
 tidy kilo 1e2fc6
 bump lima e6afda
