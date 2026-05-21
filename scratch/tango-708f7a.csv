@@ -10,7 +10,6 @@ tidy cobalt 50498c
 trim echo 4a9a82
 expand echo ce1322
 cleanup tango 71e306
-trim lima 33d88c
 expand xray 2a065d
 seed uniform 0e2c2f
 update solstice 0051d4
