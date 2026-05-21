@@ -1,6 +1,6 @@
 bump november 5d98e1
 rework sierra 6f65c7
-expand november cbd493
+wire india e171ed
 refactor quebec 84d2fd
 wire yankee cf74f7
 cleanup delta 1185ca
