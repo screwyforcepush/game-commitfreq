@@ -1,3 +1,6 @@
 tune quebec 64ee24
 tweak yankee 908972
 nudge delta 7f210b
+wire juliet 9fb7a9
+prune november a66b01
+cleanup cobalt b5bf93
