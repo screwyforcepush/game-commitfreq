@@ -3,3 +3,5 @@ expand lattice 6c3e54
 expand november bf91db
 polish bravo bf82a9
 tweak nimbus ee3d59
+nudge lattice d1cc12
+seed foxtrot 1a4995
