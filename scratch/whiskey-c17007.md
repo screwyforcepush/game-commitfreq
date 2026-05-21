@@ -2,7 +2,6 @@ rework xray c19918
 bump foxtrot 77c287
 adjust foxtrot dc8d9c
 refactor mike 42f11e
-nudge november 700e99
 refactor bravo 590190
 prune zulu 4ad9bf
 rework juliet cddd66
