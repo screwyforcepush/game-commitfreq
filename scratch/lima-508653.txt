@@ -12,4 +12,3 @@ wire oscar 70d41c
 polish zulu dc0472
 tidy kilo 1e2fc6
 bump lima e6afda
-wire hotel dd9842
