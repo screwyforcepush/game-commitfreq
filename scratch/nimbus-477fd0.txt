@@ -8,3 +8,6 @@ expand tango c47ad1
 bump bravo 4c32d2
 expand sierra dbb06f
 tidy prism 5e303e
+tidy xray cbae45
+nudge nimbus baf0f3
+tidy november a87f41
