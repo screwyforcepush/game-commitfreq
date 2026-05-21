@@ -5,7 +5,6 @@ adjust oscar c8f76e
 expand charlie 103dfb
 tune oscar 513811
 nudge harbor 21c7c6
-trim whiskey e74e4c
 tweak hotel eadb98
 tweak romeo 86e5f1
 refactor echo eaebc0
