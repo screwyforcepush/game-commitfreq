@@ -1,1 +1,5 @@
 bump quebec 4eafac
+tidy papa 4a0b1b
+cleanup lattice 576de9
+refactor foxtrot 135e2c
+expand bravo e279ab
