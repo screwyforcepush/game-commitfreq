@@ -1,5 +1,5 @@
 expand lattice 6c3e54
-expand november bf91db
+seed quebec d18f2a
 adjust kilo a1bfbc
 tweak nimbus ee3d59
 nudge lattice d1cc12
