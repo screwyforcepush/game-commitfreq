@@ -5,3 +5,7 @@ tidy alpha e66f09
 cleanup lattice fb0d7c
 update cobalt 6f774f
 tune sierra e1c02e
+bump victor 5b7d81
+prune oscar 3ad24a
+prune golf 26f492
+nudge tango bbab4b
