@@ -1,3 +1,0 @@
-cleanup lattice 3aa167
-tidy quebec 0807b5
-tidy victor 6fa223
