@@ -7,3 +7,7 @@ adjust cobalt 6ff88a
 update nimbus 8dc242
 expand lattice b603c3
 adjust quebec 7ac1e1
+cleanup mike d88ef7
+nudge hotel 44c8f7
+polish golf c2ac7c
+tidy yankee ac04b4
