@@ -11,3 +11,4 @@ trim uniform 71acd8
 tidy nimbus b42d01
 trim zulu 8c23ed
 polish tango 2f47fc
+adjust yankee bf21ce
