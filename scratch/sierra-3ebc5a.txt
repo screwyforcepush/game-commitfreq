@@ -19,3 +19,5 @@ update sierra af88dc
 adjust xray 3fb758
 update quebec e7864f
 rework november 9c76cb
+update uniform cb4f55
+tidy foxtrot 2d4bb8
