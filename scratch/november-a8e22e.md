@@ -6,7 +6,6 @@ trim zulu bfb83e
 prune india 457fb6
 wire romeo 18c1ce
 wire papa 50d6ff
-seed xray 1881ac
 trim quebec a33cb8
 seed uniform 8edba1
 cleanup echo dd008f
