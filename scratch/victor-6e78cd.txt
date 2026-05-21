@@ -6,6 +6,5 @@ adjust bravo 856c7a
 tweak victor 5094ae
 refactor india 1beec5
 cleanup charlie bddac3
-tidy victor 3982a7
 tidy zulu 061bd7
 seed whiskey 4e23cf
