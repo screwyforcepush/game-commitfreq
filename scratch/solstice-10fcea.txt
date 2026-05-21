@@ -1,5 +1,4 @@
 tidy golf 4b5ce5
-rework solstice e8d4c7
 update quebec 4b5232
 adjust victor 24bbb8
 polish sierra 3972a7
