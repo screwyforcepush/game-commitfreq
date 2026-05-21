@@ -8,7 +8,6 @@ wire bravo 6a465b
 refactor mike c9f6a5
 bump nimbus e8eff9
 bump sierra a43ee8
-rework victor edf117
 expand uniform 356e1e
 adjust november 64df1c
 seed prism 73db2a
