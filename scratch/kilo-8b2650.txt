@@ -11,3 +11,5 @@ polish lattice 8e5473
 tweak alpha 31387c
 seed uniform a1e021
 polish solstice 12885c
+expand tango 96d14f
+rework kilo ae255d
