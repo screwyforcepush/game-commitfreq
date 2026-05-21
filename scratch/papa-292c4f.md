@@ -5,3 +5,6 @@ trim papa 5ec077
 rework nimbus e10d04
 adjust oscar 5ea4de
 nudge kilo ec05ad
+adjust juliet d6b690
+nudge romeo 43777e
+update quebec 71c3c0
