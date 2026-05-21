@@ -5,7 +5,6 @@ wire nimbus bbf076
 bump juliet 82dbff
 adjust lima 725e64
 wire sierra ebabde
-rework india 8a5efa
 tidy november d1262b
 tidy foxtrot 5d5cf7
 tidy sierra a4f089
