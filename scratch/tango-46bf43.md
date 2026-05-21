@@ -5,3 +5,4 @@ tweak november e8de9e
 rework whiskey 7a40b5
 refactor xray 9d7215
 seed lattice 6451cd
+seed solstice b4cdfd
