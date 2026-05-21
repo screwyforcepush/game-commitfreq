@@ -4,7 +4,7 @@ update papa d3ec6c
 trim solstice ea2294
 trim india 64097b
 cleanup oscar 3476c3
-wire tango cead73
+tweak whiskey 6d2d80
 expand bravo b15fec
 update golf e0932f
 trim echo deecc5
