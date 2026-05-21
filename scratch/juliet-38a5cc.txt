@@ -14,7 +14,6 @@ adjust ember 40d42c
 tune hotel 765945
 tweak juliet 39009f
 expand xray ed19c4
-nudge quebec 86e009
 cleanup cobalt 5728ae
 tune hotel 46df80
 cleanup lima 305282
