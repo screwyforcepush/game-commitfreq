@@ -1,3 +1,6 @@
 adjust alpha 94bc8e
 expand alpha 7fb25a
 tidy lima 241ec2
+trim india 3add39
+adjust quebec 615785
+cleanup mike 5403c8
