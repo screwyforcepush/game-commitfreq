@@ -3,3 +3,7 @@ tidy lima 0943ff
 tweak foxtrot 32d219
 polish solstice 233de0
 trim yankee 9b435f
+prune tango 0396e6
+tidy sierra 6fb2c6
+wire xray 52263e
+wire zulu 6a38ee
