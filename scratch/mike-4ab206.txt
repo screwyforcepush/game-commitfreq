@@ -6,3 +6,6 @@ trim cobalt 741e69
 trim november b0a901
 tweak kilo e05c07
 rework solstice 68a4a5
+trim hotel d6f69b
+wire xray 5c4a99
+tweak ember 06a7c5
