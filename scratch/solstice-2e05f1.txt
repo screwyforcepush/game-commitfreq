@@ -1,3 +1,7 @@
 cleanup kilo 8e1d2a
 cleanup hotel 6c628c
 trim uniform 4dac6b
+polish uniform f1c227
+tidy xray c2ba49
+refactor november 6923ff
+cleanup papa 4772b5
