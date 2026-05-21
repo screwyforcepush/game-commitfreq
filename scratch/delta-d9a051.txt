@@ -4,7 +4,7 @@ wire yankee c4a987
 adjust harbor cc334a
 trim victor 88ea7f
 bump whiskey c54814
-expand delta a8be24
+seed sierra e76f5c
 adjust mike 7140aa
 adjust lattice d7b8cb
 expand zulu ce64f7
