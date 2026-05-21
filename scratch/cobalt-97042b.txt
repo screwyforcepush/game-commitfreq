@@ -7,3 +7,6 @@ expand charlie 103dfb
 update romeo ef53d7
 nudge harbor 21c7c6
 trim whiskey e74e4c
+tweak hotel eadb98
+tweak romeo 86e5f1
+refactor echo eaebc0
