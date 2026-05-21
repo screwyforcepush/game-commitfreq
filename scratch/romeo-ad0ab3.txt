@@ -3,3 +3,6 @@ wire oscar eb10c5
 tune echo b03e59
 polish cobalt 79129a
 tweak hotel cdc9c2
+seed cobalt 53f872
+tune nimbus 9b86a7
+tune delta 288da8
