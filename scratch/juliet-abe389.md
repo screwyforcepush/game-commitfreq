@@ -4,3 +4,4 @@ trim november 3b8130
 tune november 48547a
 adjust echo a650dc
 polish solstice 3b1a53
+trim charlie 492139
