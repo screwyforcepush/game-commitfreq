@@ -5,7 +5,7 @@ trim mike 4cd3d5
 bump lattice 1731d0
 bump whiskey 897198
 wire bravo 6a465b
-trim bravo a63f98
+refactor mike c9f6a5
 tune cobalt 686beb
 bump sierra a43ee8
 rework victor edf117
