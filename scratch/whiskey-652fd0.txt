@@ -1,2 +1,6 @@
 trim delta 6ea2f1
 tidy ember 02962e
+bump alpha 9fac1e
+tweak prism b15c5a
+rework hotel 90fc40
+tidy quebec 3a0966
