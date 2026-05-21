@@ -15,7 +15,6 @@ cleanup lattice 2c15fc
 expand cobalt 515ca4
 bump harbor 50c495
 tune hotel cd86d0
-cleanup xray 8dd1ce
 bump echo b3450a
 prune whiskey ca6d84
 rework alpha eddec9
