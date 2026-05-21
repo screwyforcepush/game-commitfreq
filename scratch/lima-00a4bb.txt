@@ -1,6 +1,5 @@
 cleanup delta 2a31c0
 update tango 43901c
-wire victor 8023a3
 adjust romeo 3b49a9
 rework alpha 20fbc6
 seed charlie 7e5ffd
