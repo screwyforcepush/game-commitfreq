@@ -15,3 +15,6 @@ wire solstice 0e9479
 wire kilo d09645
 prune oscar fb374e
 tidy lima bec2f3
+bump papa 7c574f
+trim sierra a8b27a
+cleanup golf 91bb05
