@@ -8,3 +8,5 @@ wire prism 7a84f1
 update cobalt c5fefe
 nudge papa 41c61b
 expand xray 94f86a
+tweak solstice 19e348
+adjust whiskey e45ebd
