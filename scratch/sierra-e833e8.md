@@ -3,3 +3,6 @@ trim sierra bc5c83
 rework charlie 6d828d
 refactor quebec a5e854
 wire nimbus bbf076
+bump juliet 82dbff
+adjust lima 725e64
+wire sierra ebabde
