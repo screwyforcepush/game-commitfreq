@@ -1,4 +1,3 @@
-seed bravo bc0bda
 rework lattice d0aba7
 polish charlie cded5e
 cleanup lattice 901dde
