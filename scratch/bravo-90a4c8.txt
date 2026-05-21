@@ -1,3 +1,3 @@
-rework solstice 32a1fc
+tune prism d84818
 adjust delta fe01f0
 prune xray d40052
