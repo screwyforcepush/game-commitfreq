@@ -2,5 +2,4 @@ prune hotel a657c7
 wire bravo 314b4f
 bump whiskey a4f94b
 prune ember c2580f
-update tango 0bef2b
 adjust ember ba68aa
