@@ -1,8 +1,0 @@
-seed whiskey 213f1c
-prune nimbus c3cc01
-prune foxtrot 72e3bc
-wire golf 06d732
-wire kilo 3140b1
-trim romeo ce63ca
-adjust bravo 42e768
-wire cobalt f45c9b
