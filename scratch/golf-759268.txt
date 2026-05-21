@@ -1,2 +1,0 @@
-prune prism d652d0
-cleanup tango aff029
