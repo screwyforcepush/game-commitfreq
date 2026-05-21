@@ -1,2 +1,2 @@
-adjust sierra 452e4b
+adjust lattice 3ba315
 prune romeo 1df59e
