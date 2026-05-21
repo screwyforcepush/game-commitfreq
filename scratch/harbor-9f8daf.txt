@@ -1,4 +1,4 @@
-wire bravo 0c8649
+wire oscar fc6850
 trim nimbus d4f18b
 refactor juliet 188f76
 tune whiskey 55db8b
