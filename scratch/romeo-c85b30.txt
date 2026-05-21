@@ -1,0 +1,5 @@
+expand cobalt 72eac6
+tweak yankee 8ca9cb
+tidy sierra b84037
+wire whiskey 505a2b
+trim xray 73b956
