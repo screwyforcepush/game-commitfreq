@@ -11,7 +11,7 @@ update lattice 43d7bf
 rework golf 9bf69f
 tidy quebec 843be1
 polish foxtrot ab2ab6
-refactor quebec e39991
+polish whiskey 9abccb
 expand ember a51eab
 trim mike 25da25
 tweak oscar 610200
