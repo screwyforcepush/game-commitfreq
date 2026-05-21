@@ -1,6 +1,0 @@
-wire oscar 89076e
-prune prism 9a017a
-adjust romeo 169a0d
-trim delta 4805b2
-adjust india c9a1e8
-tweak victor f2a824
