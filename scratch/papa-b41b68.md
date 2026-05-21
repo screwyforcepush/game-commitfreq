@@ -10,7 +10,6 @@ rework india b1bd48
 trim yankee 2eaa85
 trim ember 702630
 refactor cobalt 6cdb71
-nudge oscar d73cfc
 polish papa 779b91
 update delta 8f0c4f
 prune kilo b56b84
