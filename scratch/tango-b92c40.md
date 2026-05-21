@@ -1,4 +1,3 @@
 cleanup whiskey 1b72b2
 trim victor dba060
-refactor juliet b57782
 adjust quebec 2a2555
