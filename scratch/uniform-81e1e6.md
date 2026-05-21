@@ -6,3 +6,4 @@ wire victor dd6877
 adjust bravo cbcf44
 adjust charlie 299472
 tune golf 210b94
+wire prism 988761
