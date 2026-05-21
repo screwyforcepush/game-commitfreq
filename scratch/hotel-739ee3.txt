@@ -6,3 +6,6 @@ seed hotel 3133b2
 cleanup xray 712f75
 tidy yankee f3f82a
 adjust zulu 5082a4
+tidy prism bbb879
+rework prism 6c1443
+tidy oscar 553172
