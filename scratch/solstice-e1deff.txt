@@ -1,5 +1,0 @@
-nudge nimbus c1fdbe
-prune mike 755bca
-prune papa b9241e
-wire zulu 519bc8
-cleanup foxtrot 3218b7
