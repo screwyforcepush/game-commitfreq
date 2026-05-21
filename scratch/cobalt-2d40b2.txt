@@ -1,4 +1,0 @@
-prune cobalt 2b3273
-prune oscar bfb7c3
-tweak victor 1764b9
-prune uniform 8333a7
