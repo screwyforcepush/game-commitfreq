@@ -1,2 +1,1 @@
-prune nimbus 856bf0
 tidy juliet 497b57
