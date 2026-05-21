@@ -1,5 +1,5 @@
 bump yankee ccff4a
-wire november 8fa607
+expand foxtrot 8f9da4
 prune quebec 7fdb65
 cleanup zulu c8df8b
 tidy lattice c9769b
