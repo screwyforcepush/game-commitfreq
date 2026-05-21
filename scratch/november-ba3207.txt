@@ -5,7 +5,6 @@ wire nimbus 9c14b3
 tweak bravo e0793b
 nudge tango 884c9c
 expand kilo 2fe61d
-adjust charlie c699ce
 adjust lima f73454
 rework oscar 7b13e5
 tidy charlie 7c9236
