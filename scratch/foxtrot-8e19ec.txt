@@ -1,6 +1,0 @@
-nudge golf 092215
-nudge quebec 85fd60
-adjust delta bc1a03
-seed hotel 906a2b
-trim juliet 2f1d9c
-tidy prism 823d7d
