@@ -4,3 +4,5 @@ nudge sierra 68fcfd
 cleanup golf 499add
 trim lima a12759
 polish november 894297
+tweak hotel cfebec
+rework lattice 191fe3
