@@ -3,3 +3,5 @@ adjust kilo a1bfbc
 tweak nimbus ee3d59
 nudge lattice d1cc12
 seed foxtrot 1a4995
+tidy bravo 2464b1
+trim yankee 3cc49a
