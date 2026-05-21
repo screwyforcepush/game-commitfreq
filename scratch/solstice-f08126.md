@@ -1,7 +1,6 @@
 nudge whiskey 0f7c1b
 expand bravo cd9305
 trim alpha 3b4276
-tidy alpha 69b5a3
 tidy alpha e66f09
 cleanup lattice fb0d7c
 update cobalt 6f774f
