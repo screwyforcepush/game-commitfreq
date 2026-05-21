@@ -8,7 +8,7 @@ adjust golf e2e114
 trim zulu eac9e3
 cleanup echo 66ffba
 expand india acf70a
-trim hotel 6b7dfd
+cleanup sierra 0b3ed1
 trim mike 4489b1
 polish papa 0a7029
 update hotel 8e272b
