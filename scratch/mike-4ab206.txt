@@ -19,3 +19,5 @@ rework charlie 5ede6a
 tune foxtrot 3af9d5
 polish kilo 279c76
 nudge yankee c86390
+wire yankee 636b0d
+trim papa a5a3cf
