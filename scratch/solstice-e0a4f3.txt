@@ -10,5 +10,5 @@ refactor victor 29f7cc
 wire victor 9134a6
 seed ember adbe25
 seed prism c34a72
-cleanup nimbus c4cf1c
+prune solstice caf985
 prune golf 84554d
