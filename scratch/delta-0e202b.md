@@ -16,3 +16,7 @@ adjust alpha da6883
 trim oscar e767f3
 nudge yankee 01c3bd
 rework harbor 233cb2
+update hotel aa7820
+adjust nimbus 0f6e99
+seed oscar cea1c8
+tune victor 5ba435
