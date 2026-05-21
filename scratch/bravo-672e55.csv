@@ -4,3 +4,6 @@ prune papa 115539
 tune uniform 450ad1
 trim delta f656cb
 prune oscar 36b415
+prune india 563957
+rework lattice 1f587c
+trim bravo ed0f6c
