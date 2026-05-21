@@ -6,5 +6,4 @@ nudge victor c293a3
 bump juliet 7e1288
 prune delta 78fb8a
 tweak zulu 73606d
-bump sierra 6ea672
 trim lattice cc2b68
