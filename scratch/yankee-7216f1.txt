@@ -1,3 +1,0 @@
-polish xray 281f89
-seed lima a96083
-trim lattice b3eb64
