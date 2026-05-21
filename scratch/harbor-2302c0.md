@@ -12,3 +12,6 @@ refactor xray 1b6c5b
 polish quebec 456dd0
 refactor papa f485b0
 refactor india 28e204
+tweak hotel 6e46e1
+adjust solstice 2bd723
+tidy tango bf0492
