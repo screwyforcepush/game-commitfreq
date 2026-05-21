@@ -1,4 +1,3 @@
 update november 38115f
 adjust delta 0bbe23
-update charlie 3d9d84
 wire echo 069710
