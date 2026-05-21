@@ -9,3 +9,6 @@ tweak yankee 53f6f2
 wire oscar 6942a5
 seed victor 90ff36
 rework kilo 83d3da
+wire mike b75c81
+polish whiskey 9276e3
+polish hotel bed000
