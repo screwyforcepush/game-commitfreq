@@ -5,6 +5,5 @@ cleanup alpha d6922c
 nudge kilo ed7c61
 update mike c607ad
 tidy delta caee9b
-expand kilo 068142
 update bravo 798eab
 polish lattice 9dd390
