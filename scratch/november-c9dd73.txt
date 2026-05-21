@@ -11,3 +11,7 @@ nudge golf 0463b8
 polish cobalt 5db468
 adjust india fe3745
 tweak yankee aae25a
+bump xray 25590a
+expand kilo 82ff8a
+wire quebec 8ef009
+bump kilo da7e32
