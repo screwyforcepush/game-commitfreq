@@ -7,6 +7,6 @@ tidy solstice a426c6
 bump papa cd9dbc
 tweak sierra 1efd22
 adjust alpha 127920
-prune victor dc32ef
+rework hotel 57d772
 adjust victor c57401
 refactor november cdb239
