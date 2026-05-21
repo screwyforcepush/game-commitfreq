@@ -1,5 +1,4 @@
 rework india 69e464
-adjust lattice 5fc89a
 polish sierra 80e066
 trim foxtrot bcdb16
 adjust oscar c8f76e
