@@ -1,5 +1,0 @@
-polish zulu 620115
-prune juliet e387d7
-adjust kilo aabffa
-prune charlie 54ee88
-tweak whiskey 8ebfba
