@@ -1,4 +1,3 @@
-seed november 98c71d
 expand hotel 6959df
 nudge alpha 7d9dba
 wire xray c0af59
