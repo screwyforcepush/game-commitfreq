@@ -11,7 +11,7 @@ nudge bravo 63af38
 tune sierra e768a8
 wire kilo 4591fc
 trim delta bf87b7
-seed zulu 17d6aa
+rework quebec cda56f
 bump quebec 2bcabb
 tweak victor 6dcbcd
 cleanup quebec b16e38
