@@ -2,7 +2,7 @@ nudge foxtrot a942f0
 trim xray a59bfc
 polish xray c89596
 seed tango 4f0610
-update foxtrot b0a755
+rework nimbus 0027c9
 bump ember c4ee65
 trim harbor 4c6230
 trim papa 44f4f5
