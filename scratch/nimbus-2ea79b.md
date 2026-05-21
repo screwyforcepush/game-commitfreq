@@ -3,3 +3,7 @@ polish tango 7657e0
 nudge bravo 1298ba
 nudge lima 267584
 tidy kilo 883678
+bump quebec 9921d8
+tidy xray 16b0f5
+adjust tango e1b496
+adjust nimbus 0f8b2d
