@@ -4,3 +4,6 @@ tidy oscar 8b0e4b
 trim quebec 64d45f
 tweak yankee 99eb7b
 expand whiskey 82ffc0
+prune solstice 2bbba8
+polish kilo 2ceb08
+adjust golf ece91e
