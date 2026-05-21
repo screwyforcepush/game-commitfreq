@@ -1,3 +1,7 @@
 expand whiskey d8aa74
 trim charlie feedce
 nudge golf 5756c2
+cleanup tango 6e4f74
+rework uniform 64d70f
+seed oscar ba6a7f
+seed bravo 546be5
