@@ -2,7 +2,6 @@ refactor nimbus dc5e1d
 trim sierra 95f635
 cleanup harbor d05c0c
 expand whiskey 13cd8e
-trim yankee 2f21f7
 seed charlie 3e0640
 adjust hotel 156a7d
 wire oscar 1e3680
