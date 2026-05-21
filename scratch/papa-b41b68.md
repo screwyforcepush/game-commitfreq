@@ -8,3 +8,7 @@ tidy solstice 590c9e
 tweak quebec 1b92eb
 rework india b1bd48
 trim yankee 2eaa85
+trim ember 702630
+refactor cobalt 6cdb71
+nudge oscar d73cfc
+polish papa 779b91
