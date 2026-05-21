@@ -1,3 +1,6 @@
 adjust whiskey bc1b24
 seed mike 6b2f89
 seed uniform cdb6f1
+wire sierra a4b371
+tweak november 8ca335
+adjust bravo 856c7a
