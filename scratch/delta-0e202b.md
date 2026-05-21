@@ -1,2 +1,2 @@
 nudge whiskey 9e8c7f
-bump prism 5042f0
+tidy xray 96a6bc
