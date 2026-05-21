@@ -7,3 +7,5 @@ nudge oscar 61139a
 cleanup cobalt 4723c9
 refactor solstice 8ad110
 tune prism f5a664
+update oscar 34204e
+nudge foxtrot 780ecc
