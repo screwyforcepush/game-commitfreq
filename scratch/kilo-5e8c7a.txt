@@ -7,7 +7,7 @@ tune victor 64d56b
 expand november 4dbc13
 expand charlie dc89ad
 tune zulu 65dec2
-seed charlie 371509
+polish lima 0c4665
 seed prism 00d120
 bump echo 15fe29
 bump kilo b521ea
