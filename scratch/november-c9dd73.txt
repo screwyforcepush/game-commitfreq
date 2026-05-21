@@ -1,4 +1,3 @@
-tidy charlie ec6914
 expand hotel d5a9c0
 seed uniform 88722a
 cleanup yankee 1116d9
