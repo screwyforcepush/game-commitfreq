@@ -4,7 +4,7 @@ polish xray c89596
 seed tango 4f0610
 rework nimbus 0027c9
 bump ember c4ee65
-trim harbor 4c6230
+prune sierra d07958
 trim papa 44f4f5
 trim oscar 12df86
 seed foxtrot 5f0a6d
