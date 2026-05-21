@@ -4,3 +4,7 @@ rework harbor a3d83e
 seed tango 6f51e0
 bump mike e5bed7
 cleanup yankee e863c2
+rework quebec 1e2b45
+expand solstice ea2bf6
+update xray 0e5bbb
+adjust november 75ebc4
