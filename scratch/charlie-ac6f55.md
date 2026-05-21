@@ -1,4 +1,3 @@
-trim lima e7e1af
 rework quebec 938cfa
 prune november 8eec57
 prune foxtrot ef140d
