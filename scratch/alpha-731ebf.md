@@ -6,3 +6,7 @@ bump solstice ca36d7
 trim delta 49fbec
 rework foxtrot 1fd577
 expand golf 72d99e
+adjust delta 46ae83
+trim xray 811732
+nudge juliet c390d6
+wire nimbus 1b8592
