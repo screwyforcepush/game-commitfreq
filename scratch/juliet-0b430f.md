@@ -5,3 +5,6 @@ update yankee 7304ee
 polish victor 2ef622
 tweak echo ac56ae
 prune cobalt 4ff3a0
+expand charlie 5b6132
+tidy lima b1306e
+tidy cobalt e1a7f8
