@@ -5,3 +5,5 @@ bump yankee abfcb4
 seed lima 28d079
 update romeo 61d90e
 tidy papa b19288
+tidy oscar 0b6e10
+tidy oscar c7988c
