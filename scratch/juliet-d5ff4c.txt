@@ -6,3 +6,4 @@ expand whiskey 13cd8e
 trim yankee 2f21f7
 seed charlie 3e0640
 adjust hotel 156a7d
+expand quebec 14797a
