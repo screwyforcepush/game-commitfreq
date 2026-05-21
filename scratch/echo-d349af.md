@@ -1,6 +1,6 @@
 nudge quebec d71c77
 adjust ember 6f1849
-tidy ember 975b07
+adjust lattice 77e095
 expand november cbf547
 cleanup tango 45e84b
 rework november da88ac
