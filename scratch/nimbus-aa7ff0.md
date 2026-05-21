@@ -7,7 +7,6 @@ update india 70c84d
 cleanup ember ac8ce0
 update xray de55af
 tidy romeo 0650fe
-trim nimbus ffa607
 adjust india dc5535
 update lattice 43d7bf
 rework golf 9bf69f
