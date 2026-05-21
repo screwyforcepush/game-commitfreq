@@ -1,1 +1,5 @@
 seed zulu 944d1d
+tidy echo 02968d
+nudge delta 66491e
+nudge foxtrot 0a30d8
+tune lattice f3407f
