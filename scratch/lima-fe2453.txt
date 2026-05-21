@@ -1,7 +1,0 @@
-seed papa 3e4c59
-tweak ember d38a44
-cleanup foxtrot 24c110
-nudge victor ebef19
-adjust alpha 3e2676
-refactor oscar 11d346
-polish solstice 42b884
