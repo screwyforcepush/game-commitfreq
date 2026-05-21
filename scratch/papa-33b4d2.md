@@ -3,7 +3,6 @@ trim uniform 1c5b2a
 rework whiskey 44abb0
 seed whiskey eb59e6
 rework alpha 191bc2
-wire prism 8bdb88
 cleanup tango 1fc49f
 tidy charlie aeef78
 refactor lima 1eb2b7
