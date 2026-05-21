@@ -1,6 +1,6 @@
 adjust whiskey 7bc500
 rework delta cda21d
-prune november 833524
+prune xray f51efc
 refactor yankee 16e3e0
 polish charlie 9b8c06
 refactor ember 5faa82
