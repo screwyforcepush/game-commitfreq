@@ -1,4 +1,0 @@
-polish delta 79f31d
-tidy tango 9662c5
-tweak sierra 32d0df
-update delta 01fdcd
