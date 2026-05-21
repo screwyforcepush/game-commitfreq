@@ -10,3 +10,6 @@ tweak sierra 0a07b4
 rework uniform 7e8448
 nudge lattice c2e726
 wire golf 3ac17e
+rework india f2d436
+expand kilo ead17a
+tune foxtrot dfeb2a
