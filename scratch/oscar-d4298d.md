@@ -10,3 +10,5 @@ tweak charlie 494149
 wire nimbus 995316
 seed yankee 36db94
 update echo 2b825e
+adjust xray 699b76
+nudge romeo e70fc3
