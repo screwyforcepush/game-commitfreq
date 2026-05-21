@@ -7,3 +7,6 @@ bump quebec 9921d8
 tidy xray 16b0f5
 adjust tango e1b496
 adjust nimbus 0f8b2d
+wire charlie 9aecc1
+expand bravo 44e96c
+update november f63cc5
