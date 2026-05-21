@@ -8,6 +8,5 @@ refactor romeo 58de01
 refactor oscar 30f49c
 wire hotel 6ce24d
 tweak alpha 62d302
-rework echo f28693
 prune yankee e2132b
 update juliet f68ae1
