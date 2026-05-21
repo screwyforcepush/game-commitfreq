@@ -3,7 +3,6 @@ bump oscar c6696a
 expand bravo 956d66
 tidy sierra f07ff4
 polish harbor 1b4343
-update xray 67bf18
 tidy solstice 590c9e
 tweak quebec 1b92eb
 rework india b1bd48
