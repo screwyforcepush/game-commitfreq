@@ -8,3 +8,5 @@ rework quebec 1e2b45
 expand solstice ea2bf6
 update xray 0e5bbb
 adjust november 75ebc4
+nudge golf 38ea0d
+nudge juliet 239de9
