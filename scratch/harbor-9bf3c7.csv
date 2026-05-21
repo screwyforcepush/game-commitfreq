@@ -6,7 +6,7 @@ tune kilo 0c138c
 trim delta 987a7d
 polish harbor b3d26f
 cleanup november c0f9cd
-nudge zulu 8cac48
+prune delta 79851b
 prune charlie 10ae0f
 prune solstice 74fd44
 tune charlie bac5be
