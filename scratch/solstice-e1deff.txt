@@ -1,4 +1,4 @@
-adjust lattice c1160c
+nudge nimbus c1fdbe
 prune mike 755bca
 prune papa b9241e
 wire zulu 519bc8
