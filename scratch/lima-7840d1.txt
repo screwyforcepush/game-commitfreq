@@ -4,3 +4,5 @@ tune solstice c23785
 tweak whiskey d00e77
 nudge bravo 5eaf8c
 tidy xray 13012a
+tune golf 3677c2
+tweak tango 230a20
