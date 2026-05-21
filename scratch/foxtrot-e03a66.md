@@ -1,6 +1,5 @@
 update quebec 1cef40
 nudge oscar 52de0c
-trim india bb2c11
 cleanup alpha 25c540
 update lattice 08c869
 expand lima 1e1afe
