@@ -1,4 +1,3 @@
 prune xray c267a8
-nudge echo 741c39
 bump foxtrot f7681e
 polish echo 552d9b
