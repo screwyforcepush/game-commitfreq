@@ -4,7 +4,6 @@ rework lattice 83d330
 expand sierra 1000d7
 tidy sierra 041af6
 expand uniform d7f036
-rework nimbus 5c554b
 polish papa 23242b
 expand echo 1ce005
 cleanup xray 22af8a
