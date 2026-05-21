@@ -6,6 +6,5 @@ nudge romeo 929421
 adjust lima f1d5fd
 cleanup solstice b95819
 update cobalt f0af8c
-refactor victor 9ac36b
 tidy whiskey 5c727c
 polish kilo 1fb9fc
