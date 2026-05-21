@@ -4,3 +4,5 @@ polish solstice 6d36f2
 cleanup xray 2bb519
 cleanup yankee 71c112
 wire ember 6fe1a6
+adjust hotel 485307
+nudge foxtrot c5a294
