@@ -7,3 +7,6 @@ wire zulu 0ff9e0
 tweak mike 0c319b
 rework juliet 231eb3
 adjust delta 291d65
+tweak lattice 1f677f
+wire cobalt 8a019b
+cleanup alpha 726c05
