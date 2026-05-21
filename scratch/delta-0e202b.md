@@ -13,3 +13,6 @@ trim cobalt 8bf467
 wire yankee d8ab3a
 tune lima 6f1048
 trim yankee 56b570
+adjust alpha da6883
+trim oscar e767f3
+nudge yankee 01c3bd
