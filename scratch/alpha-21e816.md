@@ -4,3 +4,5 @@ nudge nimbus a5bea7
 adjust xray b4074b
 polish foxtrot 07b6b6
 seed solstice 6ff8db
+polish kilo 4dae3c
+tidy charlie 2bd116
