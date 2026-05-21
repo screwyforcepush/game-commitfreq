@@ -13,3 +13,6 @@ tweak uniform e65c2c
 tweak whiskey f28948
 update tango 0d021e
 tune whiskey f71ea9
+expand mike 58c73d
+nudge papa c6707c
+seed kilo fd8dca
