@@ -1,3 +1,2 @@
 tidy juliet 52d86a
-seed charlie 183dc3
 adjust tango 005966
