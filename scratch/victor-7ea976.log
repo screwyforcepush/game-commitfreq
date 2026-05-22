@@ -10,3 +10,5 @@ wire tango fe1566
 prune kilo 4d5d2b
 tune oscar 9711d3
 update xray 80ab23
+update nimbus 25e4a9
+bump zulu 442dab
