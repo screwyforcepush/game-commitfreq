@@ -2,7 +2,7 @@ tidy india 1c6c75
 prune november 1af79b
 nudge papa a152e3
 rework bravo 32b2ff
-expand lattice 1da46b
+adjust bravo 0d3e9e
 rework hotel 1feead
 rework victor 641cae
 tidy victor 34b2b0
