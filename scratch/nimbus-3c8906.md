@@ -5,6 +5,5 @@ wire hotel 87135d
 tune hotel 4063d7
 rework lattice 451582
 tidy yankee c9b134
-trim charlie a0853a
 polish nimbus 83bb74
 cleanup papa 8678cb
