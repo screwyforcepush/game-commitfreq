@@ -1,4 +1,3 @@
-update yankee 23ec04
 adjust victor 265d49
 expand lattice 4f6b8d
 bump papa fded38
