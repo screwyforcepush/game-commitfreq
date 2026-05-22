@@ -9,7 +9,7 @@ prune hotel 081327
 tweak alpha 5b2e5a
 nudge xray 164041
 cleanup delta 24b82e
-prune charlie f41396
+bump alpha 3d7fe3
 seed cobalt c49e18
 tune zulu dbe9b3
 nudge bravo a74b53
