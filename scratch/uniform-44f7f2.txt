@@ -5,3 +5,6 @@ wire lima 9320b8
 prune lattice 66c36d
 trim papa d7bb26
 tune lima 3e8e1b
+expand zulu f616e9
+nudge lima ef3f4e
+trim november 50d377
