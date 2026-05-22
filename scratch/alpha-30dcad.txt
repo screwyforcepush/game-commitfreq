@@ -1,5 +1,0 @@
-tune uniform baabda
-wire delta 3779d6
-prune solstice 6268ad
-seed cobalt 049abd
-expand xray dbac12
