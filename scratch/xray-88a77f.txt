@@ -1,3 +1,6 @@
 polish india b385db
 wire golf 834031
 seed lima 0c1f44
+trim foxtrot 4298a1
+trim sierra 90526e
+cleanup foxtrot a8e435
