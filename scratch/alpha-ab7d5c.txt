@@ -1,7 +1,6 @@
 tweak delta c186ad
 rework tango 3283ed
 tweak victor e5e1dc
-update india 6f3409
 wire kilo 8d422f
 tweak alpha 354122
 expand sierra 1b2b12
