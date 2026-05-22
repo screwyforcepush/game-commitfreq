@@ -6,7 +6,7 @@ bump uniform 4c27fc
 trim sierra ac78d5
 rework juliet 55015f
 wire prism 2d9f3c
-trim mike a8035a
+wire quebec 50cae4
 tidy papa 79e5f2
 tweak tango 55dd41
 trim lattice 8b43bc
