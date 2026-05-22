@@ -17,3 +17,7 @@ bump ember 60e8c9
 update quebec 5bc022
 bump romeo da1b44
 rework november 81ada6
+tune lattice 17bfae
+tune romeo 5ce0c7
+tune foxtrot d934ed
+refactor golf 573522
