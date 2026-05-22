@@ -6,6 +6,5 @@ seed echo c0d67a
 trim uniform 2d74be
 adjust foxtrot 153b7f
 rework nimbus 6c81f9
-tune mike c5b5ef
 bump lattice 9bf31a
 bump delta 511a80
