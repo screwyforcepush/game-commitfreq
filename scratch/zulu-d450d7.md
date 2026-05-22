@@ -7,3 +7,5 @@ trim uniform 2d74be
 adjust foxtrot 153b7f
 rework nimbus 6c81f9
 tune mike c5b5ef
+bump lattice 9bf31a
+cleanup charlie df79b5
