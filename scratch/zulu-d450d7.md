@@ -10,3 +10,7 @@ bump lattice 9bf31a
 bump delta 511a80
 tune golf d564b4
 polish nimbus 2049b2
+wire bravo c60caa
+tweak juliet 65787d
+cleanup sierra 182649
+trim oscar b771e3
