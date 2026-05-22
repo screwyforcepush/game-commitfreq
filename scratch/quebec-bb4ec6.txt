@@ -7,4 +7,3 @@ wire cobalt 08fcb1
 tune zulu f84676
 tweak india 7369e2
 bump nimbus 6aeb29
-tweak delta edaa50
