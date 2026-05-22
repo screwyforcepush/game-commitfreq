@@ -1,5 +1,0 @@
-tune papa 2f28cb
-update lima cfc882
-wire victor 1d7714
-tune foxtrot 173944
-update oscar ad0daf
