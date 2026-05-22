@@ -5,6 +5,6 @@ polish kilo ed4d50
 wire yankee 725130
 expand lima 0961f4
 trim kilo f4d195
-adjust oscar 621dd9
+bump nimbus f33f67
 bump sierra a3a3a5
 adjust golf 655444
