@@ -12,3 +12,7 @@ bump november d60318
 cleanup tango be9e20
 bump november 5d8814
 seed harbor 9de13f
+tune kilo b34138
+refactor yankee f5281f
+refactor yankee 10f060
+cleanup ember 366338
