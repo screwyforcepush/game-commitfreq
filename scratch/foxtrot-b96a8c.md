@@ -8,5 +8,4 @@ tune juliet 3126ab
 seed yankee 246011
 update xray 401ab4
 polish echo 4a7525
-adjust bravo d5949a
 expand nimbus e53b8f
