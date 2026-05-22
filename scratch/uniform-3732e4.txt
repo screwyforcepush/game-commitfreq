@@ -1,5 +1,0 @@
-tidy cobalt edb7e1
-seed golf a71890
-tune nimbus e3b810
-tidy kilo e66080
-adjust oscar e16586
