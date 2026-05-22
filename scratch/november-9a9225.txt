@@ -1,6 +1,5 @@
 adjust oscar 5e3a8e
 trim kilo 72b042
-trim november 3b8130
 polish solstice 3b1a53
 prune ember 48d84c
 cleanup tango 27d991
