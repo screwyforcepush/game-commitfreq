@@ -3,3 +3,6 @@ update alpha 999204
 expand lattice 5e4cd5
 tweak kilo 37fd80
 rework mike 9edd17
+polish juliet 11f830
+update prism 0cc30b
+tune ember 6af072
