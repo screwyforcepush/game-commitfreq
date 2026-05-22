@@ -1,5 +1,5 @@
 seed tango a97665
-prune echo 7b05e5
+seed kilo 21ff89
 cleanup nimbus a4f200
 seed nimbus ac4f0f
 trim oscar 1ee5d9
