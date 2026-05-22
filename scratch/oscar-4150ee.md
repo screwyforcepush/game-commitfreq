@@ -3,3 +3,7 @@ cleanup golf 2b088c
 cleanup charlie aaddcc
 update foxtrot 852d8d
 seed solstice 5d82bf
+prune tango 344127
+trim sierra 3566e5
+rework uniform 14942c
+nudge india 1b594b
