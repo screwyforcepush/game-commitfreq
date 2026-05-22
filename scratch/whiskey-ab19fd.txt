@@ -6,3 +6,6 @@ refactor alpha 5a5c50
 bump solstice 01edd0
 tune lattice 3c6a1a
 expand hotel 8311e0
+expand ember 2dd239
+update juliet 458f74
+trim cobalt f29e27
