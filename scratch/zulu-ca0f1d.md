@@ -1,4 +1,3 @@
-tune whiskey 79a9af
 bump charlie 266929
 trim uniform 0f44f0
 cleanup kilo a3419f
