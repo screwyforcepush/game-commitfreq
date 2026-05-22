@@ -4,7 +4,6 @@ wire prism 8255f5
 expand quebec 225cf5
 bump alpha 96073b
 expand juliet 251c85
-nudge echo bed85e
 tidy quebec db7d0a
 prune kilo fc289f
 nudge november 069865
