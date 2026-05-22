@@ -4,3 +4,7 @@ update quebec 40c4b0
 tune bravo 190a8e
 update quebec e3103f
 nudge tango 88d75f
+nudge foxtrot 37a37d
+nudge yankee 58e146
+nudge cobalt 1e399c
+tidy november 060178
