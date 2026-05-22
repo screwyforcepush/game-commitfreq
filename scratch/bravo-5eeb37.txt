@@ -7,4 +7,3 @@ prune delta ee33ae
 polish kilo ed4d50
 wire yankee 725130
 expand lima 0961f4
-prune golf b45c97
