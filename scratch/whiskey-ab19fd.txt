@@ -1,4 +1,3 @@
 expand alpha fa6d8e
 adjust alpha 7073d4
-refactor quebec ad20fe
 prune victor 72f9b2
