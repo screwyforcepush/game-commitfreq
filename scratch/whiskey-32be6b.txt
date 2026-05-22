@@ -1,3 +1,3 @@
 adjust sierra 11daad
-update november 71f2f1
+trim xray c68392
 wire echo 061aa3
