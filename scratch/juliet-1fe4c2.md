@@ -3,7 +3,6 @@ tweak golf 8ff927
 tune kilo 1b4422
 trim solstice dca21b
 nudge zulu 167969
-trim lima 9ab75d
 tweak tango 593061
 wire cobalt 0687f7
 nudge delta e04be4
