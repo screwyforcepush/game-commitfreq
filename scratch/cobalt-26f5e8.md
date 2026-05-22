@@ -1,7 +1,7 @@
 tune solstice 072860
 tune nimbus cbf68c
 wire lattice f841ef
-wire november 7bae10
+nudge juliet 4ee66f
 tweak romeo 6db556
 rework prism fa2ca1
 expand tango b13779
