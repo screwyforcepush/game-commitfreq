@@ -4,3 +4,6 @@ adjust whiskey 26ee98
 adjust delta f17fd8
 expand nimbus 3ef2b5
 expand ember efc21d
+bump whiskey bd7f7f
+seed romeo f93f51
+nudge november 38ea91
