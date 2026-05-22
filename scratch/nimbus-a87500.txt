@@ -1,4 +1,0 @@
-tune uniform e608c2
-prune tango 31a252
-seed hotel 45bfcd
-nudge nimbus f30a63
