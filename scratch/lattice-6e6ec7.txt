@@ -1,6 +1,0 @@
-seed golf d83b19
-rework charlie 5382ff
-wire whiskey 46716d
-tweak papa 2428e5
-refactor lima 601ee4
-cleanup foxtrot 4908f4
