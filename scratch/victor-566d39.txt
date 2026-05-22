@@ -1,2 +1,0 @@
-prune india 542700
-prune quebec 60ede2
