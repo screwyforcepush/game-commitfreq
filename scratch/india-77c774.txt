@@ -6,4 +6,3 @@ update lima 505595
 tweak victor 1b19a1
 wire sierra a25e60
 tidy tango c05c48
-prune cobalt 35c5b0
