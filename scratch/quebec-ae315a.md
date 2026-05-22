@@ -3,7 +3,7 @@ adjust hotel 72fc75
 tidy delta 12c4d4
 rework mike 860ba1
 cleanup juliet dcf48b
-wire xray 454a79
+bump papa 66590a
 trim kilo fc627c
 wire victor 709d0e
 prune bravo 972cc7
