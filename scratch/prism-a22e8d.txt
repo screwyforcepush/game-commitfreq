@@ -1,0 +1,5 @@
+trim charlie 1266c0
+trim november c205f4
+trim ember 457b95
+adjust yankee 8c4bfa
+cleanup papa 9c132b
