@@ -1,2 +1,5 @@
 nudge tango 93b237
 bump oscar 697878
+bump cobalt 356e88
+trim lima 506a44
+trim golf 5ecbf4
