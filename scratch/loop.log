@@ -113186,3 +113186,4 @@ To https://github.com/screwyforcepush/game-commitfreq.git
 382/491  mike tunes                                    modify lattice-6e6ec7.txt:5
 383/491  rework sierra for lattice                     drop lattice-6e6ec7.txt
 384/491  prune xray xray                               append sierra-27fb46.csv
+385/491  docs: rework alpha xray                       append foxtrot-100a7e.dat
