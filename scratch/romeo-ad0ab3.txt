@@ -7,5 +7,4 @@ seed cobalt 53f872
 tune nimbus 9b86a7
 tune delta 288da8
 rework xray 9f7347
-bump november c96c0e
 tidy alpha 4e4644
