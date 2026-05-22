@@ -12,3 +12,6 @@ seed november 24e562
 tidy papa 4e3847
 tune alpha 22f841
 tidy tango 118757
+adjust lattice 613aab
+rework cobalt f5f7d1
+rework kilo eda074
