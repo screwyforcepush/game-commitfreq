@@ -1,5 +1,4 @@
 cleanup echo e4cee9
-prune november df9f60
 prune foxtrot c01ce0
 adjust delta 09c678
 cleanup foxtrot 1af982
