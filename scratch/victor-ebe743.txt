@@ -6,3 +6,5 @@ adjust bravo 4c1253
 cleanup juliet a98c7e
 wire juliet 7e58bd
 update alpha dc086e
+wire solstice 0c8243
+seed solstice 2bf159
