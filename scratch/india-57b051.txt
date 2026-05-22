@@ -3,5 +3,4 @@ tweak golf 16d9df
 adjust nimbus d61725
 rework quebec a9568f
 tune foxtrot fa948c
-rework mike 6e708e
 tune zulu a48deb
