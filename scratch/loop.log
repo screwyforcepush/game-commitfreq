@@ -110242,3 +110242,4 @@ To https://github.com/screwyforcepush/game-commitfreq.git
 129/478  build: cleanup xray (1b4eda)                  create quebec-5d6801.csv
 130/478  wip: bump kilo                                append golf-6dae30.log
 131/478  docs: expand papa for oscar                   drop xray-bdaa60.log
+132/478  fix: trim kilo for yankee                     trim papa-1081f0.dat:1
