@@ -11,3 +11,5 @@ update juliet 93e8f4
 rework delta fdff51
 cleanup india 5b7572
 refactor cobalt 1a5b76
+wire zulu 1f7122
+tweak lattice fe4b41
