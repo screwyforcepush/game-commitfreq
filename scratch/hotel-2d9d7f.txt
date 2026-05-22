@@ -1,5 +1,0 @@
-tune quebec 64ee24
-tweak yankee 908972
-nudge delta 7f210b
-wire juliet 9fb7a9
-tidy november 5fe6fe
