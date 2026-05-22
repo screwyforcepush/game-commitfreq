@@ -5,3 +5,5 @@ prune zulu b57627
 adjust foxtrot 4feafc
 tune echo f27f86
 tidy kilo dba453
+nudge mike 906a7e
+cleanup alpha 4e780c
