@@ -6,6 +6,5 @@ bump cobalt 80829c
 rework yankee 6db49c
 prune bravo e029da
 bump juliet 4737de
-adjust bravo 08136a
 tweak solstice 178661
 polish delta 9ac050
