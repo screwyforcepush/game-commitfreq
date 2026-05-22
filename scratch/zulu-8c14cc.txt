@@ -1,8 +1,0 @@
-cleanup juliet f4421f
-tweak juliet 1406a4
-nudge whiskey 4a77bd
-prune mike 18f712
-refactor hotel 38f1a2
-bump delta 46e9aa
-nudge quebec 971189
-tidy delta 24f4d9
