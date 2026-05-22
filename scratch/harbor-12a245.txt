@@ -13,3 +13,6 @@ refactor oscar f4dd73
 wire whiskey 8227ec
 seed cobalt 8528ba
 trim nimbus 7f1b64
+seed quebec b3bf88
+tidy oscar e07c6b
+tune quebec c4e444
