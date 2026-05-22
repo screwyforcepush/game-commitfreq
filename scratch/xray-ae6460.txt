@@ -12,3 +12,4 @@ expand uniform 6b84fe
 prune cobalt b78084
 expand oscar 355fa7
 expand lattice 33bbc6
+seed hotel df73d2
