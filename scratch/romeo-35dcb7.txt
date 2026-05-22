@@ -17,3 +17,7 @@ adjust quebec 944217
 cleanup alpha 63fbad
 prune golf 6d705a
 expand victor aa935c
+tidy oscar a3e098
+rework foxtrot 59e826
+rework oscar 7ec80a
+wire echo 0552eb
