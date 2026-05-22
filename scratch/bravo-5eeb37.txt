@@ -1,4 +1,3 @@
-wire nimbus 3f74df
 adjust hotel cf062c
 nudge golf 7698c1
 prune delta ee33ae
