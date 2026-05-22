@@ -1,5 +1,4 @@
 wire foxtrot 58067a
 rework oscar fa1506
-tidy sierra b5e614
 tweak cobalt 733e6e
 nudge victor d6ece5
