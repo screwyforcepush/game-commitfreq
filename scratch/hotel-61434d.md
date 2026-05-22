@@ -3,7 +3,6 @@ nudge bravo 787799
 nudge hotel 31ada9
 nudge zulu 748e60
 adjust tango 1eaa7b
-bump quebec e4f2da
 polish charlie 500f8f
 refactor foxtrot 795a61
 expand tango 6b540b
