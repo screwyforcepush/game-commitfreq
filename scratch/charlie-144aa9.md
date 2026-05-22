@@ -2,7 +2,6 @@ nudge uniform 369bb7
 trim charlie f42fa3
 bump bravo d60ca0
 prune tango b35c1c
-rework kilo b15738
 prune xray 26d81b
 wire harbor 4fd8e1
 tune echo 2815f3
