@@ -14,6 +14,6 @@ refactor tango ae23fb
 tweak xray 01d3a9
 trim zulu ef4a21
 bump ember 60e8c9
-update quebec 08bd77
+update quebec 5bc022
 bump romeo da1b44
 rework november 81ada6
