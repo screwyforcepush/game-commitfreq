@@ -9,6 +9,6 @@ adjust juliet 2c7497
 tune romeo 4d5bc0
 nudge charlie 50a2b2
 expand uniform 6b84fe
-tune cobalt 420cec
+prune cobalt b78084
 expand oscar 355fa7
 expand lattice 33bbc6
