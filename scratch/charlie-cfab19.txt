@@ -1,5 +1,4 @@
 trim victor da812f
-tidy foxtrot ab5819
 bump xray c7502e
 tune sierra da052d
 rework november 75a080
