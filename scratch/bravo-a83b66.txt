@@ -1,3 +1,0 @@
-tidy hotel 29d9c0
-seed november c99622
-prune india 9d668c
