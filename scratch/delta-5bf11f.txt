@@ -1,0 +1,5 @@
+polish quebec 8179b4
+tidy juliet 17ccc3
+prune lattice 0e0d0f
+prune xray 3927d2
+prune golf 2b75d2
