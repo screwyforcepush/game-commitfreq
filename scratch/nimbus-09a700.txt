@@ -1,7 +1,6 @@
 wire ember 445ee7
 refactor mike afe4a4
 polish papa 05fb3d
-bump prism 5bd478
 tidy yankee ab9232
 nudge yankee 197556
 trim echo d0c2a3
