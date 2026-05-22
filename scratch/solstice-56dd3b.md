@@ -1,7 +1,7 @@
 trim quebec df0b1f
 prune echo 1e09c6
 bump kilo 9ca7c6
-cleanup uniform 141029
+wire november a26586
 update lattice 4982d6
 trim victor 24f99d
 tune papa c3620b
