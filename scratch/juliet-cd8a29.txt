@@ -1,7 +1,6 @@
 seed uniform 4c050b
 polish november 94dfe0
 wire alpha 3a3f66
-polish xray 08f015
 wire prism b9bdd2
 tweak yankee 03a662
 adjust foxtrot 7d4f0a
