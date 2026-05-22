@@ -5,7 +5,6 @@ tweak whiskey 2a9ef8
 tweak hotel 0bc81c
 tweak mike 789973
 polish harbor cde53c
-adjust lima bffc2c
 polish juliet a21a89
 nudge zulu 939886
 adjust zulu 89dd4e
