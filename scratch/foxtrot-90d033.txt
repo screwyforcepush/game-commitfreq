@@ -1,0 +1,2 @@
+seed tango a97665
+prune echo 7b05e5
