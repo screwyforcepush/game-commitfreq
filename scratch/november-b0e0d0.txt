@@ -5,7 +5,6 @@ tweak yankee 9a2ae7
 prune cobalt ce0de6
 nudge papa a27668
 bump yankee f04810
-trim quebec 32a500
 rework sierra aff0d0
 tidy harbor be170c
 seed prism 33dd56
