@@ -1,8 +1,0 @@
-adjust whiskey 7bc500
-rework delta cda21d
-prune xray f51efc
-refactor yankee 16e3e0
-polish charlie 9b8c06
-refactor ember 5faa82
-tweak victor 27359a
-cleanup november 2c3feb
