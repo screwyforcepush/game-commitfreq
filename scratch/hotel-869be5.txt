@@ -9,3 +9,4 @@ tune lattice 3c56a0
 tweak zulu 49e704
 adjust whiskey d95966
 cleanup lima 78fcb1
+wire hotel 7c3d30
