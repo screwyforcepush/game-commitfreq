@@ -1,2 +1,0 @@
-bump yankee 1bbcc3
-prune uniform 2d0358
