@@ -4,3 +4,5 @@ bump lattice 173c69
 bump bravo 410c39
 seed papa e019ce
 prune prism 87343f
+tidy lattice 8a84ee
+prune lima 676dba
