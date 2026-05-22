@@ -5,7 +5,6 @@ tweak november b68308
 tune bravo d6fb1b
 wire kilo 11a3e1
 tweak bravo cd65a1
-update prism a757c8
 update sierra 316d61
 prune india 875e93
 cleanup cobalt 7b4af2
