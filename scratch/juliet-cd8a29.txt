@@ -20,3 +20,5 @@ bump quebec e3b143
 tune kilo cd39db
 seed quebec d54e91
 tweak prism eaf6c6
+adjust prism 8a76a8
+tweak foxtrot 8aca83
