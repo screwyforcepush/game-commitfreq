@@ -5,3 +5,7 @@ adjust solstice e71e5c
 seed bravo 85a836
 update sierra 3bc43f
 cleanup romeo 7dc680
+update papa bb3929
+wire xray 817d64
+refactor xray 18f034
+cleanup lattice db3c84
