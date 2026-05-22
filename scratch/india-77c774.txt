@@ -1,4 +1,3 @@
-wire bravo aad340
 seed foxtrot 9d2693
 expand lattice 450866
 seed echo 772f8b
