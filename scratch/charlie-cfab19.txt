@@ -1,4 +1,3 @@
-trim victor da812f
 tune sierra da052d
 rework november 75a080
 cleanup charlie 01db6f
