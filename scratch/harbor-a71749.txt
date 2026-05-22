@@ -1,3 +1,2 @@
-adjust papa 26aefd
 update tango 3becf1
 tune whiskey 2f63c1
