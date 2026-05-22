@@ -13,3 +13,5 @@ bump foxtrot 773208
 seed foxtrot 59c671
 cleanup lima a10444
 rework november 46054d
+adjust solstice 1d751d
+tidy whiskey aa6ad9
