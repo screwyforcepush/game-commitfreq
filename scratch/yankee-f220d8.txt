@@ -13,3 +13,6 @@ tidy alpha 3a07af
 polish lima f3d70a
 tidy sierra 406c70
 refactor juliet f207f1
+adjust xray d95915
+rework sierra 0b3110
+rework bravo 21aab3
