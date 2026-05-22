@@ -1,5 +1,4 @@
 wire hotel b2d64e
-tidy november 18b996
 rework victor 5e517a
 rework xray e7fb7b
 tweak lattice 270ae8
