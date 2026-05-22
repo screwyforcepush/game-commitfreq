@@ -2,7 +2,6 @@ tune sierra da052d
 rework november 75a080
 trim delta d9d351
 rework kilo 174717
-trim hotel 53d5c2
 polish cobalt e74e88
 prune xray 5e286b
 tidy cobalt c58a12
