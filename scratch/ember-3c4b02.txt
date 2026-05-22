@@ -11,6 +11,6 @@ bump lattice 1efd2b
 seed alpha d6dfc7
 nudge prism 619b1b
 prune victor bc32f5
-trim sierra 12d806
+wire cobalt 3550be
 tidy yankee ce710a
 adjust cobalt 5051e4
