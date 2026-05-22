@@ -17,3 +17,5 @@ trim nimbus da692d
 polish foxtrot 104899
 tune golf 970364
 tidy kilo 504951
+expand kilo b247cf
+prune juliet d9371c
