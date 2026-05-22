@@ -15,3 +15,5 @@ cleanup alpha 3a2503
 update victor b986f1
 prune quebec 1ab798
 cleanup echo f54de3
+expand prism bfdcd7
+trim cobalt 506d35
