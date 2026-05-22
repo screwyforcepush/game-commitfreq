@@ -1,4 +1,3 @@
-seed quebec 51022c
 rework oscar 7bb45e
 seed uniform 88ac9e
 wire lattice 959c9c
