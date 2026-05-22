@@ -14,3 +14,5 @@ adjust whiskey 5778dd
 bump golf 8916c6
 adjust tango e2cb62
 nudge yankee 7d0d73
+adjust uniform ce9dad
+tune juliet 650734
