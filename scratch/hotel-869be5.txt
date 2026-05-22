@@ -4,3 +4,6 @@ bump sierra f913dc
 nudge ember 268932
 wire golf 2f0377
 bump nimbus 7f25a8
+wire foxtrot c28ecf
+tune lattice 3c56a0
+tweak zulu 49e704
