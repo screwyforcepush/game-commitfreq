@@ -4,3 +4,5 @@ wire lima 0884d5
 tune golf d27ee7
 tune solstice b07419
 seed alpha 40041d
+tune whiskey 47536e
+tune uniform a8a66a
