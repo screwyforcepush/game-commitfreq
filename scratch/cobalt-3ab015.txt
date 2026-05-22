@@ -6,5 +6,5 @@ adjust bravo 0d3e9e
 rework hotel 1feead
 rework victor 641cae
 tidy victor 34b2b0
-trim bravo 433563
+nudge whiskey d25718
 expand mike e73c9d
