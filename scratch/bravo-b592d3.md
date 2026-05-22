@@ -12,7 +12,6 @@ polish echo 320bb7
 bump xray cbde3e
 seed victor 7cf1ce
 expand kilo f8dc9e
-nudge echo e2587b
 seed golf ffe36b
 polish whiskey 6f270b
 wire romeo 9238ed
