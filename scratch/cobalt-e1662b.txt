@@ -19,7 +19,6 @@ tune ember 013671
 prune romeo fc7057
 wire india 42431a
 nudge romeo d28e98
-rework hotel a38c1c
 bump juliet c18601
 wire charlie 36aebd
 update lima 3ae349
