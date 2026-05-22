@@ -1,7 +1,6 @@
 tweak juliet 2504e3
 rework sierra 275a97
 adjust tango c84b47
-bump cobalt 0e63c0
 adjust whiskey 9676d9
 rework xray 152d3f
 prune solstice fe7722
