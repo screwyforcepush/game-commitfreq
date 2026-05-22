@@ -9,3 +9,7 @@ prune xray 5e286b
 tidy cobalt c58a12
 tune hotel 8d11a0
 nudge solstice bae1d4
+prune bravo e543c1
+adjust lima b677a2
+polish nimbus bb66dc
+expand tango 9c671d
