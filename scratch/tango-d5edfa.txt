@@ -5,3 +5,7 @@ adjust juliet 70549d
 seed charlie cc820a
 adjust uniform 68a2d5
 rework nimbus b38ed0
+rework victor 5df770
+nudge victor 20ae55
+tweak yankee fc74eb
+prune romeo 3be939
