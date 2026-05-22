@@ -7,3 +7,6 @@ update nimbus 58b4a2
 expand oscar 3b796d
 bump xray 08f44c
 tweak yankee 224113
+cleanup golf 39248b
+polish prism 7ce08d
+prune lattice 9ec6ea
