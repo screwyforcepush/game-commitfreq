@@ -4,7 +4,6 @@ nudge xray 4885a1
 adjust oscar 08b6be
 bump solstice 0918d4
 rework whiskey 49e77a
-trim prism 0a9e62
 tidy juliet db3a4b
 trim oscar 7b2615
 polish romeo d40787
