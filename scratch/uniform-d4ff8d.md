@@ -9,3 +9,7 @@ update papa bb3929
 wire xray 817d64
 refactor xray 18f034
 cleanup lattice db3c84
+trim lattice ab2b7f
+tweak ember f0014e
+tweak golf 5052cd
+refactor lima 43ef95
