@@ -9,3 +9,6 @@ wire solstice 4d834c
 tune uniform 80d488
 prune nimbus b8072c
 prune oscar 9ea4c2
+tweak yankee 5ef1f2
+wire lattice 443a1e
+update romeo 3974ec
