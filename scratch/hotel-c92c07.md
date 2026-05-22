@@ -4,3 +4,4 @@ cleanup oscar 56b3ee
 wire oscar f42ac4
 nudge prism cd095c
 seed november 31a2b2
+tune nimbus af7820
