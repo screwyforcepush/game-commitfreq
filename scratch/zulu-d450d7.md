@@ -10,3 +10,5 @@ bump lattice 9bf31a
 bump delta 511a80
 rework uniform e9909d
 trim prism 064967
+tune charlie 2c6834
+polish nimbus 2049b2
