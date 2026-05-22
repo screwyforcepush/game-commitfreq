@@ -7,7 +7,6 @@ update solstice 635060
 tune bravo b07ae6
 trim solstice 466a81
 adjust mike 96424c
-cleanup quebec 5b493f
 adjust ember 1a8f1f
 adjust juliet 732f47
 nudge xray 699587
