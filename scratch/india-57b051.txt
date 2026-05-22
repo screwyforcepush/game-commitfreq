@@ -1,3 +1,6 @@
 wire zulu f98641
 tweak golf 16d9df
 adjust nimbus d61725
+update quebec 80edc1
+rework quebec a9568f
+tune foxtrot fa948c
