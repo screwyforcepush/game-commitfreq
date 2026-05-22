@@ -1,4 +1,3 @@
-polish sierra ecaa75
 wire nimbus 3f74df
 update victor d3cf87
 adjust hotel cf062c
