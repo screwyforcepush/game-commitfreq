@@ -1,2 +1,1 @@
-trim quebec 587a46
 update juliet c97f96
