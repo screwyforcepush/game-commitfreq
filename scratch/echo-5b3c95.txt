@@ -1,5 +1,5 @@
 tweak alpha ab1f88
-wire nimbus 6f0c0e
+adjust cobalt d1e84a
 rework delta ed7d9a
 update solstice a70b13
 update foxtrot 0a6d63
