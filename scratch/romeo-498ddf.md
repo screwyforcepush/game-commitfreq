@@ -1,5 +1,5 @@
 bump kilo 808cb8
-update golf 69c826
+expand solstice 154bf2
 rework golf 72f679
 refactor echo 414ca6
 tweak uniform 58a698
