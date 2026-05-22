@@ -3,5 +3,4 @@ expand sierra aae2f3
 cleanup juliet fdb81c
 cleanup golf 04d9c1
 seed solstice a729cd
-wire hotel 7d41f5
 refactor juliet 1d9f43
