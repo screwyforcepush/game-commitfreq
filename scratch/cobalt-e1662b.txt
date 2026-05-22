@@ -14,7 +14,6 @@ seed whiskey 4e03a2
 tweak yankee 1ba3d0
 trim lattice ccd2ce
 bump juliet 94e7d3
-adjust november 545704
 tweak delta 80a371
 bump kilo 518564
 tune ember 013671
