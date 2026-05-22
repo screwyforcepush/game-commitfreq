@@ -8,7 +8,7 @@ trim kilo 7d5d35
 cleanup victor b001cc
 wire oscar 61f447
 rework yankee 613444
-adjust prism c632a0
+rework india 1cbc5f
 bump foxtrot 773208
 seed foxtrot 59c671
 cleanup lima a10444
