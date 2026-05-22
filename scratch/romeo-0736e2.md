@@ -1,5 +1,4 @@
 refactor echo 86d71b
-update hotel a66148
 tweak whiskey 15d628
 tune oscar 74d2e7
 wire golf 261acc
