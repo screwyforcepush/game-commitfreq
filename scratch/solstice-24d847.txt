@@ -1,2 +1,0 @@
-prune prism c965bf
-polish kilo 851c19
