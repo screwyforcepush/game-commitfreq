@@ -1,4 +1,3 @@
-tune uniform dd5180
 expand bravo ea3996
 update india cb5bf2
 tune bravo 9e8f57
