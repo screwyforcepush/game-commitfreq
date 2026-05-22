@@ -2,7 +2,7 @@ update juliet c97f96
 bump cobalt 3bee58
 bump lattice 173c69
 bump bravo 410c39
-seed papa e019ce
+update sierra 0ecbb1
 prune prism 87343f
 tidy lattice 8a84ee
 prune lima 676dba
