@@ -2,7 +2,6 @@ tune sierra e5bcca
 tidy whiskey 583ab9
 trim victor c5824b
 adjust quebec 7cabf3
-trim prism 76a470
 cleanup echo 48c7e1
 nudge nimbus a2e2cc
 seed zulu 741834
