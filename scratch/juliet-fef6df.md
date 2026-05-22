@@ -10,4 +10,3 @@ nudge lima df7aae
 tweak alpha b6a007
 refactor yankee 68a95b
 polish november 5185c8
-prune yankee 0d95f1
