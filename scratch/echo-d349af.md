@@ -2,7 +2,6 @@ nudge quebec d71c77
 adjust ember 6f1849
 adjust lattice 77e095
 expand november cbf547
-cleanup tango 45e84b
 rework november da88ac
 update charlie bfbd3c
 seed india 614676
