@@ -1,6 +1,6 @@
 trim kilo cd7256
 polish harbor 6b8c7a
-wire yankee 477faa
+rework solstice 7e6f8f
 bump yankee 091f78
 update foxtrot 3e9d28
 rework zulu 0d53ee
