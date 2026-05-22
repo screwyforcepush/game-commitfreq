@@ -6,4 +6,3 @@ nudge uniform 1a9eb6
 expand xray cac158
 tune papa def38b
 adjust solstice 7f7831
-nudge delta 2a4818
