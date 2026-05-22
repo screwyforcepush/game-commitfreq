@@ -14,7 +14,6 @@ refactor yankee 0a6996
 tweak nimbus e59a91
 adjust juliet d7e710
 tune harbor 3a2259
-refactor foxtrot 9f29c2
 tune yankee 309a9a
 tune cobalt 32f762
 rework uniform c03d46
