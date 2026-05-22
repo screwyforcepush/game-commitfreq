@@ -2,3 +2,7 @@ tidy charlie 08c54c
 update golf ce6ef0
 tune uniform 140f4a
 tune delta 6e2514
+adjust november eb085a
+adjust sierra 0bcb3d
+nudge echo a5edbd
+tweak hotel 0a37d0
