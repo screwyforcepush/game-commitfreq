@@ -1,3 +1,5 @@
 bump quebec 5bb135
 tweak papa 87c9a2
 polish november d4ff49
+trim delta c9a2d5
+cleanup tango e9821f
