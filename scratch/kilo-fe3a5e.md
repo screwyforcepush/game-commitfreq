@@ -1,4 +1,3 @@
-nudge uniform cb7d74
 adjust golf 808751
 adjust tango c7f785
 tune victor b0dd71
