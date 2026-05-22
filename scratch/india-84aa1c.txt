@@ -6,3 +6,6 @@ bump india 8f42b5
 rework solstice 0db3df
 wire oscar 5adaa9
 trim nimbus d0cdc4
+tidy xray f91e60
+tidy golf 9bef4b
+wire nimbus 7ca201
