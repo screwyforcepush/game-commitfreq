@@ -5,3 +5,5 @@ rework mike 860ba1
 bump prism 86dbc4
 cleanup juliet dcf48b
 wire xray 454a79
+trim kilo fc627c
+wire victor 709d0e
