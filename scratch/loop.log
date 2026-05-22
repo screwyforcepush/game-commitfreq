@@ -113213,3 +113213,4 @@ To https://github.com/screwyforcepush/game-commitfreq.git
 409/491  fix: india prunes                             trim nimbus-b9bfdb.csv:5
 410/491  build: adjust india for bravo                 trim yankee-43208d.csv:6
 411/491  docs: tidy yankee nimbus                      rename nimbus-c4a75e.dat -> mike-c626dd.dat
+412/491  docs: nudge sierra                            drop foxtrot-90d033.txt
