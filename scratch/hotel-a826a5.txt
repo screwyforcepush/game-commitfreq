@@ -4,4 +4,4 @@ prune quebec ab3ae2
 wire victor adfa06
 polish solstice adb20a
 cleanup echo 029257
-cleanup india 5db42b
+adjust hotel cdc219
