@@ -14,6 +14,6 @@ seed foxtrot 59c671
 cleanup lima a10444
 rework november 46054d
 adjust solstice 1d751d
-tidy whiskey aa6ad9
+polish papa 0fe4da
 tidy ember 665b82
 bump quebec e3b143
