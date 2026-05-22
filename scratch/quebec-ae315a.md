@@ -6,3 +6,6 @@ cleanup juliet dcf48b
 wire xray 454a79
 trim kilo fc627c
 wire victor 709d0e
+prune bravo 972cc7
+polish uniform 02b15b
+cleanup uniform 582ffb
