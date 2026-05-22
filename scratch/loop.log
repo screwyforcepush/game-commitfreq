@@ -110880,3 +110880,4 @@ To https://github.com/screwyforcepush/game-commitfreq.git
 287/614  fix: trim foxtrot for oscar                   modify oscar-579aae.dat:2
 288/614  golf expands                                  append harbor-6407b5.csv
 289/614  wip: polish golf (6e9600)                     append yankee-f220d8.txt
+290/614  tweak delta for quebec                        rename bravo-ccab5f.csv -> juliet-151070.dat
