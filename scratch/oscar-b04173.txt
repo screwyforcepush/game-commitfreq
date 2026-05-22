@@ -1,3 +1,0 @@
-trim delta b27a74
-adjust yankee 01dfd2
-refactor hotel c504a0
