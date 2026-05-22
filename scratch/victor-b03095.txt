@@ -19,3 +19,6 @@ wire bravo 11ede8
 update cobalt 616e1b
 update mike ee3b74
 wire bravo 04aa4a
+prune nimbus 123eca
+nudge solstice beefdb
+update alpha 8340c7
