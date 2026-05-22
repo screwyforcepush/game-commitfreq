@@ -5,3 +5,4 @@ seed nimbus 1e7621
 wire delta fc2c9d
 trim ember 828f59
 seed prism de1b1c
+prune zulu f4916f
