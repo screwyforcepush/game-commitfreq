@@ -7,3 +7,6 @@ bump foxtrot 71d624
 bump echo 5d0231
 nudge juliet 4f0a7e
 tidy ember 68bcdc
+seed india cfd3a6
+seed quebec 7d0f42
+nudge whiskey c71b41
