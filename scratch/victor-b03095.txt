@@ -14,7 +14,6 @@ nudge romeo e70fc3
 tune foxtrot c6a933
 nudge november 2227f1
 refactor november 483a65
-update juliet 22aa54
 refactor november 204217
 wire bravo 11ede8
 update cobalt 616e1b
