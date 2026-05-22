@@ -17,7 +17,6 @@ wire november 063719
 tweak alpha 76b9b2
 refactor november 7b8fc6
 refactor ember 157f23
-tidy mike 89407c
 cleanup kilo 88e0d3
 wire tango 540a81
 expand mike a442ea
