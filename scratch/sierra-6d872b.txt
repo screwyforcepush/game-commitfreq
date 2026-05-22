@@ -4,4 +4,3 @@ adjust quebec 2c8750
 tune oscar 887468
 cleanup november 699df4
 tidy foxtrot 274f7a
-prune alpha 3cbf15
