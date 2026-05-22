@@ -1,5 +1,4 @@
 trim kilo cd7256
-polish india 850505
 polish harbor 6b8c7a
 wire yankee 477faa
 bump yankee 091f78
