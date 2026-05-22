@@ -1,3 +1,0 @@
-prune juliet 00b3ea
-prune prism 62731e
-wire papa 9a36a7
