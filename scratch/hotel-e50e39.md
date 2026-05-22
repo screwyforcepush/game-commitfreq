@@ -3,7 +3,6 @@ adjust yankee b56a4d
 expand echo f56a63
 refactor solstice da1216
 bump cobalt 80829c
-tidy india 1c68b2
 rework yankee 6db49c
 prune bravo e029da
 bump juliet 4737de
