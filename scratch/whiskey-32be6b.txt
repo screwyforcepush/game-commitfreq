@@ -1,7 +1,0 @@
-adjust sierra 11daad
-trim xray c68392
-wire echo 061aa3
-tune prism 78c8b0
-seed victor 037413
-tune whiskey b0f26a
-bump delta db0637
