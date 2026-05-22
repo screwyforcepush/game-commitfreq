@@ -5,7 +5,6 @@ nudge zulu 748e60
 adjust tango 1eaa7b
 polish charlie 500f8f
 refactor foxtrot 795a61
-trim alpha 45e8bb
 refactor juliet 4dc324
 wire golf c7fd9d
 prune kilo d5ec67
