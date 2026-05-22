@@ -1,3 +1,0 @@
-update quebec 90bca6
-seed november 785735
-adjust alpha 5ce0ec
