@@ -4,3 +4,6 @@ tune oscar d20a35
 seed lima dd5e76
 cleanup victor 9ee525
 nudge cobalt febac4
+tune xray dc27e5
+expand victor cdd92f
+tune kilo 5fff1a
