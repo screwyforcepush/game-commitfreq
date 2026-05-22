@@ -3,3 +3,7 @@ adjust uniform d0718c
 adjust sierra a61289
 seed november 6bed00
 seed echo c0d67a
+trim uniform 2d74be
+adjust foxtrot 153b7f
+rework nimbus 6c81f9
+tune mike c5b5ef
