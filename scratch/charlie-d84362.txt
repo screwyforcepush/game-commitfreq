@@ -2,7 +2,7 @@ polish juliet 316768
 expand cobalt c831cc
 bump nimbus d93b74
 adjust victor b01543
-expand whiskey 87dced
+nudge uniform 1a9eb6
 expand xray cac158
 tune papa def38b
 adjust solstice 7f7831
