@@ -9,3 +9,7 @@ prune yankee 75531b
 tweak sierra cbc188
 prune november af5cfc
 tweak ember 98bf45
+polish oscar fd4805
+cleanup india a758b3
+adjust november 270dbc
+nudge yankee e1859f
