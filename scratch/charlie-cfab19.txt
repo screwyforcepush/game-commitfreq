@@ -1,5 +1,4 @@
 trim victor da812f
-bump xray c7502e
 tune sierra da052d
 rework november 75a080
 cleanup charlie 01db6f
