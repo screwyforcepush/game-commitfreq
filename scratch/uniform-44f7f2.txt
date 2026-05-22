@@ -10,7 +10,7 @@ trim november 50d377
 polish lima 5e385c
 rework lattice 7c73ab
 rework prism 31ebba
-polish juliet 896d98
+tidy xray c5c780
 wire november ed82b3
 rework harbor be478f
 prune nimbus 445b73
