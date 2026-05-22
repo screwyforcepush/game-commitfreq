@@ -1,4 +1,0 @@
-seed sierra 1f1717
-tune lattice 841536
-expand solstice 6583e2
-cleanup kilo a8ffe2
