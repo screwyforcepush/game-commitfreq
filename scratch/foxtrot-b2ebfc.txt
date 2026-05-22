@@ -6,3 +6,6 @@ trim mike 30a49d
 adjust alpha a4ba0f
 trim lattice a28eae
 tweak oscar 1f80e9
+tidy juliet c96534
+trim quebec 43b98c
+nudge india 64b60f
