@@ -11,3 +11,6 @@ rework mike 344ee3
 tweak juliet 03b1bf
 refactor whiskey 6b162a
 refactor zulu 83da18
+expand quebec d0eab1
+nudge echo eac877
+wire november 063719
