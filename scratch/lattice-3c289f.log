@@ -5,3 +5,6 @@ expand romeo 233793
 tune oscar be6dc0
 prune xray 6040c3
 nudge solstice 54291e
+tune prism 301885
+prune foxtrot 45e742
+tweak echo f5b3c3
