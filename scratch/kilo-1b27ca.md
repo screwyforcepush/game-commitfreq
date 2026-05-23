@@ -6,3 +6,5 @@ expand lattice af082d
 nudge sierra 0a2d94
 polish sierra 2c57a4
 seed kilo 470d2e
+rework nimbus b5926c
+wire zulu c7444b
