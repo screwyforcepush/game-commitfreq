@@ -1,8 +1,0 @@
-refactor whiskey 0a72a7
-update uniform a3374f
-trim echo fa75f3
-rework juliet 5ec761
-trim echo b82715
-cleanup zulu 3f0eba
-polish mike 05a4c8
-nudge oscar 6228eb
