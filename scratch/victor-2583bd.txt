@@ -12,3 +12,5 @@ refactor golf 464cea
 rework uniform 2653e7
 seed mike cdcf55
 trim alpha ffcd54
+update kilo b05939
+trim quebec 0eb5e4
