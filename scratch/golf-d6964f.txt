@@ -11,7 +11,6 @@ wire romeo e4c5ab
 prune charlie 6fc2b3
 seed uniform dec9c4
 adjust xray 09ac8f
-tweak foxtrot 2f7c63
 adjust lattice b2595f
 refactor xray 0c92b4
 rework lima 239e3e
