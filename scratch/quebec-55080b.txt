@@ -1,7 +1,0 @@
-trim sierra 22dc11
-tidy echo f448d7
-nudge quebec 08d343
-tweak prism 951b74
-tweak alpha e26e68
-prune papa 8189fe
-refactor kilo 403809
