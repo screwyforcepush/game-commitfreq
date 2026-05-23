@@ -1,4 +1,3 @@
-bump xray 2a864a
 update zulu 090a7d
 cleanup india 40d226
 update solstice 906ff3
