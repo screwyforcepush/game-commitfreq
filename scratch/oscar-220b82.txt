@@ -1,3 +1,0 @@
-tune victor d28f80
-trim lattice ad55bc
-adjust prism 863e26
