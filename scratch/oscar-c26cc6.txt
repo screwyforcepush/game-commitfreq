@@ -1,5 +1,4 @@
 seed cobalt 2a9168
-wire delta b4e257
 polish solstice 76398e
 rework cobalt acde6d
 polish nimbus 312e09
