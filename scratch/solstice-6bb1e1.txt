@@ -1,5 +1,0 @@
-tune foxtrot 52ef0c
-expand uniform 6c240a
-prune charlie 1929a6
-trim tango db8fa3
-seed charlie fb36c0
