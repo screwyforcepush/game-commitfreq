@@ -5,5 +5,4 @@ bump alpha e88b13
 polish india de401f
 refactor hotel c4b639
 adjust cobalt aed2ce
-prune kilo 9ebc33
 cleanup lattice 87228e
