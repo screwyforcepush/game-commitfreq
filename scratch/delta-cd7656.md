@@ -8,3 +8,5 @@ bump november f9e60a
 adjust quebec e4426c
 wire harbor 3028b3
 wire juliet af36cb
+rework yankee 717bd7
+tidy delta b761cf
