@@ -23,3 +23,6 @@ trim uniform afeab3
 tune lima dddbc9
 nudge papa d431d9
 tune ember 5ed2e0
+tune charlie 46ae64
+bump yankee 247b37
+tweak oscar fe476c
