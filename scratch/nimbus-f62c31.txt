@@ -1,1 +1,4 @@
 cleanup quebec 0cd6c8
+bump mike 7abd46
+seed hotel 8d1f98
+wire hotel e8088e
