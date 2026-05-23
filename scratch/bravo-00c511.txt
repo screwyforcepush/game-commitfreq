@@ -1,7 +1,0 @@
-tune india 99007b
-adjust quebec 2d5326
-wire ember ce3d6b
-prune uniform 3e9582
-adjust charlie 4a7707
-tidy juliet ce9979
-wire papa e81c90
