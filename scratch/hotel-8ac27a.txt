@@ -1,0 +1,3 @@
+seed hotel 0fe79c
+wire hotel ca3cf8
+wire uniform 989f9f
