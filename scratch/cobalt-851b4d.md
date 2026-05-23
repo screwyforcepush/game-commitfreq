@@ -6,3 +6,7 @@ tune quebec c36de0
 adjust sierra 4aab1b
 nudge harbor 3c161f
 refactor yankee fd8b4e
+refactor delta cc054d
+tune bravo 7a5919
+trim juliet 5c402b
+bump oscar 647b62
