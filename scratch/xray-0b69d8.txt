@@ -4,3 +4,6 @@ wire golf 92885b
 cleanup whiskey 948571
 tidy harbor 24c18c
 prune ember 23b71b
+tune oscar 84ab0b
+tidy papa c34546
+tidy oscar df1888
