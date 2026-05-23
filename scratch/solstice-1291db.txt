@@ -7,3 +7,5 @@ wire juliet 11ef54
 adjust kilo 626d52
 tweak whiskey 41074e
 nudge romeo 183a24
+wire hotel 511e39
+cleanup mike 6a5824
