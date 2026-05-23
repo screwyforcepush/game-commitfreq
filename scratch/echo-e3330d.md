@@ -5,3 +5,5 @@ trim victor 95c911
 seed nimbus d07607
 prune yankee ef7985
 seed sierra b9af4e
+tune foxtrot f12faa
+adjust golf 94543d
