@@ -5,3 +5,6 @@ update oscar aebf49
 trim india 1ace93
 expand victor 084df8
 polish prism fc7af1
+tune prism a66f2f
+update echo 0666da
+cleanup victor adf6a7
