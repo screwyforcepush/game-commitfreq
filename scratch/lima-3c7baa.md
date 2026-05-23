@@ -14,3 +14,6 @@ rework india 30d9c7
 bump yankee e2591f
 expand tango 25adcb
 rework lattice 3f475e
+refactor november c0d2c9
+bump yankee 015818
+trim alpha ba7d40
