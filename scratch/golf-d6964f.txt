@@ -10,7 +10,6 @@ bump bravo d48f11
 wire romeo e4c5ab
 bump bravo 966a23
 seed uniform dec9c4
-adjust xray 09ac8f
 adjust lattice b2595f
 bump romeo ff9e88
 rework lima 239e3e
