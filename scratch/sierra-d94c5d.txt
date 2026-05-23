@@ -1,1 +1,2 @@
 cleanup zulu 15dddf
+prune nimbus 6f4fa2
