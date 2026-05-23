@@ -4,3 +4,7 @@ polish charlie 2e632e
 bump tango efb1e1
 trim papa 0a76c7
 trim tango 35813c
+bump charlie 543c60
+wire victor d38791
+bump whiskey 9c543c
+polish charlie 61a9fa
