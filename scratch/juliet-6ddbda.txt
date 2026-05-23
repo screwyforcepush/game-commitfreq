@@ -1,4 +1,3 @@
-prune lattice 0b8ee8
 nudge whiskey d36577
 update prism 440167
 bump cobalt b19797
