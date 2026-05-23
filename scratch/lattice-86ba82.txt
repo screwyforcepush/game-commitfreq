@@ -1,1 +1,3 @@
 tune whiskey 51d7b5
+seed juliet 8ad828
+adjust charlie ae75f5
