@@ -9,3 +9,5 @@ tweak india f9afc2
 rework kilo 8cb886
 tidy juliet f42a15
 trim november 42d927
+adjust mike 936ab6
+tidy charlie b7b88a
