@@ -9,3 +9,5 @@ expand xray ccbe1d
 nudge lattice 147ccb
 refactor alpha fe6447
 nudge sierra ce5015
+trim tango 9fc85a
+cleanup foxtrot 39489e
