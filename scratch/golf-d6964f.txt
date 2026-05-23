@@ -14,3 +14,4 @@ adjust xray 09ac8f
 adjust lattice b2595f
 bump romeo ff9e88
 rework lima 239e3e
+tweak nimbus 6e5e40
