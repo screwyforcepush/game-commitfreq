@@ -1,6 +1,5 @@
 update golf 99d75e
 bump bravo 7d9e4a
-tidy india 546590
 adjust lattice 126ae7
 refactor tango 0bb2df
 wire tango ad3175
