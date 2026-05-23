@@ -1,7 +1,6 @@
 prune xray 3139d1
 tune cobalt 556fa9
 rework golf f9ba11
-nudge oscar f68ac3
 nudge golf b8a8d8
 wire tango 0dfa3e
 nudge echo e1df0a
