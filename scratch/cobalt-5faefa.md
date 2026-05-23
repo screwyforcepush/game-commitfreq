@@ -11,4 +11,3 @@ refactor hotel b35c27
 refactor romeo 52c217
 adjust charlie 358757
 expand hotel 786bf3
-wire bravo 834ac9
