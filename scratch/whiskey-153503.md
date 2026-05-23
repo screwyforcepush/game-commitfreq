@@ -5,3 +5,5 @@ trim alpha ec5d4d
 tweak charlie 345514
 nudge india cf2e21
 prune november cb0399
+rework foxtrot 4aec46
+update yankee 0d4b52
