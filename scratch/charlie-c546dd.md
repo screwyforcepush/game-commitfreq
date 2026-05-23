@@ -4,3 +4,7 @@ rework kilo 28c4cd
 tweak hotel b04ce3
 nudge lima 8c9ac3
 polish xray 25ab23
+cleanup harbor 576d97
+refactor november 97766b
+update kilo cc3260
+rework mike fa42d6
