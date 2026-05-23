@@ -6,3 +6,7 @@ polish nimbus 1b0b54
 nudge cobalt c05783
 tidy ember 605237
 wire foxtrot c76195
+polish india 89b37b
+polish delta 2f30c2
+adjust lattice b10fd8
+trim cobalt e1ac41
