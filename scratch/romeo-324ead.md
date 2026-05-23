@@ -16,3 +16,7 @@ tidy india 4f2e78
 seed solstice 72edb1
 trim uniform 4801cb
 expand prism 1b410c
+tune tango bf46ac
+trim whiskey 9e8a5b
+expand nimbus 60d26a
+wire ember 9e8409
