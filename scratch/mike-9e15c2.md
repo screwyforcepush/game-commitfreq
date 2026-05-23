@@ -5,3 +5,7 @@ rework mike 24ad3b
 update prism 32e4fa
 wire zulu 1747b7
 rework foxtrot 18a081
+wire november 9b9ba5
+seed india 0bea9d
+nudge india 000777
+wire november 4d781a
