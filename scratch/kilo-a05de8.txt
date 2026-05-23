@@ -2,7 +2,6 @@ cleanup papa cf4cbe
 adjust prism 57d25d
 polish harbor e2e48b
 tune juliet dd405a
-seed yankee 1661a0
 wire nimbus 1d3ed2
 tweak juliet 94384b
 refactor whiskey bc7e8c
