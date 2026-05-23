@@ -1,4 +1,3 @@
-trim golf e33d8d
 tweak november edc726
 cleanup mike e502e1
 rework sierra bca455
