@@ -22,3 +22,7 @@ adjust xray 1a5541
 tune yankee f41d3a
 bump juliet f952b8
 polish charlie cf4b55
+update golf cf36d4
+tidy papa 30c4e0
+nudge papa 1d53fc
+tidy kilo 4e818b
