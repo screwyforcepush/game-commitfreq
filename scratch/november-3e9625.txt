@@ -1,4 +1,0 @@
-adjust tango 3afb27
-seed nimbus 3bd87a
-tidy uniform f8b7fd
-tune mike 062dff
