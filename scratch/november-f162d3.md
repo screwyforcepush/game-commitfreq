@@ -6,3 +6,4 @@ nudge india 5f07e7
 tidy whiskey 4aa15e
 cleanup xray 76ecb1
 update delta 08b2a9
+tune quebec 08b3d2
