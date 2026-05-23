@@ -1,2 +1,5 @@
 bump harbor 6f6c99
 trim papa 166381
+update prism bb72a9
+update nimbus 0f621b
+rework papa a89ced
