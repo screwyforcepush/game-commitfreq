@@ -4,3 +4,7 @@ cleanup victor 3553c4
 tune bravo 954c3d
 nudge zulu 7e4fd6
 cleanup papa 3cf90e
+expand sierra 9ecd36
+trim juliet 5078d0
+trim sierra 4d1a6c
+trim lattice b6f9d3
