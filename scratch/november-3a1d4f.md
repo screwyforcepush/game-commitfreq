@@ -7,7 +7,6 @@ nudge lattice 962846
 update xray 01e9c2
 refactor whiskey 28cbca
 tweak echo e59289
-prune whiskey 614d91
 trim nimbus 063b37
 prune alpha 22a1ca
 update india 12c266
