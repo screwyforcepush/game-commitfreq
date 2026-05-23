@@ -4,3 +4,5 @@ polish solstice 71d9db
 bump xray 3cb764
 adjust bravo 66b69e
 nudge yankee e5d478
+trim foxtrot 2b75d9
+refactor bravo b83bdd
