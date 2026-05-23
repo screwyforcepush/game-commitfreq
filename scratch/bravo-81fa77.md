@@ -10,7 +10,6 @@ wire golf 184ba4
 refactor november e44089
 update golf 0a6333
 rework delta ab81d8
-prune alpha a97356
 rework quebec 2ed1df
 prune mike 8b03bf
 wire lattice 83fbb0
