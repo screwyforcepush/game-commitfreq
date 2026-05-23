@@ -2,3 +2,4 @@ update papa 1f57c5
 tweak ember 0b7e82
 refactor golf 9c827f
 trim echo 8c47e6
+bump solstice 812f03
