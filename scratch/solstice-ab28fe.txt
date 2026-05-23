@@ -3,5 +3,5 @@ cleanup india cf6013
 cleanup uniform 69727e
 refactor cobalt bb944e
 trim mike d97142
-prune whiskey 48e859
+update yankee 442af5
 polish bravo 19a0c6
