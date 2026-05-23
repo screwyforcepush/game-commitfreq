@@ -25,3 +25,6 @@ tune ember 5ed2e0
 tune charlie 46ae64
 bump yankee 247b37
 tweak oscar fe476c
+expand foxtrot 9d79e3
+trim alpha 7ff918
+nudge papa 973498
