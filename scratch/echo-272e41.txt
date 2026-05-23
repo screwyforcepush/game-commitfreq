@@ -10,3 +10,7 @@ tune bravo c3c0d3
 bump victor 759837
 cleanup lattice 1cb906
 expand romeo 190f42
+update quebec f4a5bb
+wire lattice 790800
+tidy mike 042b62
+tweak xray 5cc8be
