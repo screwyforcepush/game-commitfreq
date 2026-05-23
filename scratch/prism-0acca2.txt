@@ -1,1 +1,5 @@
 prune kilo 69527c
+nudge alpha fa9ac8
+tune whiskey 770ffa
+seed oscar f4c31b
+seed uniform 11823c
