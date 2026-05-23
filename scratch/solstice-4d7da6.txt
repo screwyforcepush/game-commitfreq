@@ -1,2 +1,5 @@
 cleanup zulu df3b66
 tweak cobalt 1f2f16
+wire lattice a5f716
+wire quebec 7324d8
+rework delta c2012c
