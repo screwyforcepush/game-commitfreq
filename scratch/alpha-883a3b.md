@@ -23,3 +23,5 @@ polish whiskey cbf685
 seed nimbus d826d2
 update bravo 33b0f8
 expand alpha 99811b
+tune solstice 2dfb23
+wire foxtrot 40d8e0
