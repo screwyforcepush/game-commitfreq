@@ -12,3 +12,7 @@ rework golf beaf67
 bump juliet 5e0b5e
 trim nimbus 201be5
 rework nimbus 6cb0f4
+nudge hotel 0010e5
+nudge romeo a5bc4a
+rework juliet c8160f
+expand golf 39ac44
