@@ -5,3 +5,6 @@ prune charlie cc460c
 expand uniform cac7aa
 cleanup ember 8b0717
 polish hotel a773c2
+trim quebec 538c41
+wire bravo 98ce5f
+cleanup delta b386f4
