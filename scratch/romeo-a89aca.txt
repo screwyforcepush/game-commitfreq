@@ -3,3 +3,6 @@ expand echo 944efd
 cleanup oscar 28639f
 nudge foxtrot 3ae003
 expand tango 3f1bb7
+refactor bravo 4ca907
+adjust bravo 9926fc
+tweak hotel 8b09cb
