@@ -6,3 +6,5 @@ nudge harbor 3db2b2
 seed kilo af822c
 tweak charlie fb37a5
 trim hotel d173e3
+nudge uniform 0bf743
+update nimbus 9163d1
