@@ -6,7 +6,7 @@ bump lattice 1dc6f1
 tune tango 7c9ba6
 trim cobalt 219758
 update xray 97017d
-trim lattice 91f860
+tune bravo c3c0d3
 bump victor 759837
 cleanup lattice 1cb906
 expand romeo 190f42
