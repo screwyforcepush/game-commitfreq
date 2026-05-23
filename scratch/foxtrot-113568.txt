@@ -6,3 +6,7 @@ update cobalt def896
 trim prism c74673
 tidy zulu 61994d
 nudge sierra fafda6
+nudge tango 39a6e8
+tidy whiskey 12e291
+trim lattice eb167b
+cleanup cobalt 84dec4
