@@ -9,5 +9,5 @@ prune juliet 495ec6
 prune tango b1c39a
 update uniform 30a046
 cleanup prism 8a4112
-bump foxtrot cae9ee
+trim golf e42814
 seed kilo cf865e
