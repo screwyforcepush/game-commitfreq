@@ -1,5 +1,4 @@
 bump hotel 6011f2
-prune delta d20246
 adjust bravo ee95bf
 adjust alpha b1fdea
 rework sierra 5b1c0f
