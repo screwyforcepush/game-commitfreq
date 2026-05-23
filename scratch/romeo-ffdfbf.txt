@@ -5,3 +5,7 @@ wire lima 23aebd
 expand whiskey b62e0b
 expand quebec 219943
 cleanup bravo eb60e1
+nudge bravo 2443fd
+tidy sierra 76f7a4
+rework oscar cfb979
+wire india 311f4b
