@@ -4,3 +4,7 @@ tune india f8b28d
 nudge whiskey 320b23
 wire november 859932
 adjust nimbus 18cf36
+tune november 333dd8
+tune charlie 88de1b
+trim yankee 7763d8
+bump delta 268b8d
