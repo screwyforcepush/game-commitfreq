@@ -8,3 +8,7 @@ tidy xray 74787b
 adjust alpha 57a4cb
 cleanup kilo 957782
 prune lima ba99e8
+cleanup hotel 841eab
+polish foxtrot 09795e
+cleanup november 2b55d1
+tweak quebec e0a01b
