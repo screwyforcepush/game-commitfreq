@@ -7,5 +7,5 @@ seed sierra 09c07d
 bump lima 6e9aa7
 tweak romeo 15652d
 bump mike 8eb492
-prune tango 5812b1
+trim solstice 4b6027
 tune alpha ad90be
