@@ -4,7 +4,7 @@ adjust romeo f039ad
 cleanup whiskey 3d1c6f
 polish papa 6d2bb1
 polish echo 846e25
-refactor delta b01687
+tidy yankee 128658
 nudge sierra ee0978
 tweak juliet 0aa42c
 tidy harbor ca594e
