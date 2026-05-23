@@ -5,7 +5,6 @@ tune cobalt b17fa4
 seed lima ea5942
 prune charlie 44dbc3
 nudge golf d47b6e
-trim victor 1e3cde
 prune zulu e6cff6
 adjust kilo d3f754
 rework echo a15794
