@@ -1,5 +1,4 @@
 wire foxtrot 3d9a4f
-prune uniform 3207c9
 prune romeo ded010
 adjust nimbus 568b98
 seed oscar 8501b7
