@@ -14,3 +14,6 @@ update quebec f4a5bb
 wire lattice 790800
 tidy mike 042b62
 tweak xray 5cc8be
+expand oscar 031ab1
+polish oscar 051bdd
+rework november a2dc99
