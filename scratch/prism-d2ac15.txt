@@ -5,3 +5,7 @@ rework oscar e45ca9
 tune quebec 56552a
 polish nimbus 001c66
 seed delta b77310
+update nimbus 9da197
+refactor charlie a0a512
+adjust delta ac844b
+bump lattice 32968e
