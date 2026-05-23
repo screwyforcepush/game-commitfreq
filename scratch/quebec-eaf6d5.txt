@@ -7,3 +7,6 @@ bump alpha 3e007b
 trim romeo e506c6
 wire india 091cd2
 cleanup papa d3d407
+wire prism 63435c
+expand nimbus 5986d7
+adjust sierra 01a6a9
