@@ -2,5 +2,4 @@ nudge lima cd9622
 tune ember 03ff4f
 bump foxtrot 799ef9
 bump kilo dfee82
-prune papa 92b283
 prune mike 658e4b
