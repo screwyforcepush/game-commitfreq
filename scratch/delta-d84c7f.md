@@ -29,3 +29,6 @@ prune charlie 414fe2
 polish charlie d0b2e9
 cleanup romeo 81c4bb
 tune uniform 27f8d4
+tidy mike 7d3c5f
+adjust sierra 4e8e3d
+expand papa 15a915
