@@ -2,7 +2,7 @@ wire sierra 2eace3
 tune yankee d4666c
 expand foxtrot 0c4a83
 seed lattice a35fdc
-tidy solstice e71893
+cleanup oscar 7daa50
 cleanup romeo 135964
 prune quebec d06d4e
 bump romeo cb78f4
