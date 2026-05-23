@@ -1,4 +1,0 @@
-polish echo 4149ba
-refactor foxtrot fc0e71
-tidy oscar 0ea597
-tweak whiskey ea9167
