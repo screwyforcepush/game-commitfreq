@@ -4,3 +4,6 @@ wire kilo ce1a8b
 trim uniform 8ad4e7
 prune oscar c18b12
 adjust tango cecc08
+prune quebec a9e736
+rework hotel ad4955
+prune bravo 0bbb7e
