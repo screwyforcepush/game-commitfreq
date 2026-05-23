@@ -11,3 +11,6 @@ refactor hotel b35c27
 refactor romeo 52c217
 adjust charlie 358757
 expand hotel 786bf3
+seed delta 502943
+wire sierra 21ac6a
+wire lattice c9fb34
