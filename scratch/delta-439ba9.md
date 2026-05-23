@@ -4,3 +4,7 @@ tune golf c6f508
 tune victor e3ce82
 tidy lattice 7445fb
 bump november a15416
+rework yankee 073aa3
+wire mike 1d82bf
+polish charlie 0d83c5
+rework zulu 5482e1
