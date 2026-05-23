@@ -1,2 +1,6 @@
 update oscar 370b64
 polish kilo 4694e6
+wire tango 72bd5e
+wire uniform 71fbca
+tidy oscar 01a418
+tidy november 3b53bb
