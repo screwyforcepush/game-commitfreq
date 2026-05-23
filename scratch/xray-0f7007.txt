@@ -1,5 +1,0 @@
-seed oscar 9d48de
-seed whiskey 67e9be
-tidy romeo 26543b
-prune bravo d0e837
-tune nimbus 49a4e9
