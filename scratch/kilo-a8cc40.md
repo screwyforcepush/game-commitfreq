@@ -1,4 +1,0 @@
-wire delta aa1696
-bump xray 245c06
-wire victor a50a49
-polish hotel 45dcde
