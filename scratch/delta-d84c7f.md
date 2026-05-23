@@ -18,3 +18,7 @@ adjust juliet 77b0ae
 tweak romeo ca91f3
 tune tango 58da1f
 polish victor deaea3
+adjust xray 1a5541
+tune yankee f41d3a
+bump juliet f952b8
+polish charlie cf4b55
