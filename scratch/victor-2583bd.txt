@@ -6,7 +6,6 @@ tune solstice 334263
 tune uniform 781e3b
 cleanup yankee 2e9f91
 bump charlie acd59e
-trim golf a0e328
 rework romeo d954b7
 polish charlie 9897b0
 refactor golf 464cea
