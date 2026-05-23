@@ -14,7 +14,6 @@ prune papa c1025c
 tweak india 1eda47
 adjust lima 90ec3a
 trim juliet 442e51
-tidy yankee 78a7dd
 tidy yankee d9d5ad
 prune whiskey fae35f
 refactor india b13876
