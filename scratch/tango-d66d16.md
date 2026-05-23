@@ -6,7 +6,6 @@ seed lima ea5942
 prune charlie 44dbc3
 nudge golf d47b6e
 prune zulu e6cff6
-adjust kilo d3f754
 update kilo 70b7f0
 update foxtrot e47d9c
 tweak mike 2065e1
