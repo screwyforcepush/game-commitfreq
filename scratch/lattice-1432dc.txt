@@ -1,5 +1,4 @@
 update uniform 4580af
-trim whiskey b6a004
 tidy romeo 11c959
 polish foxtrot 589d87
 update oscar aebf49
