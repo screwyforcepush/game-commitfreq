@@ -10,7 +10,7 @@ polish quebec d12bac
 nudge xray 164041
 cleanup delta 24b82e
 bump alpha 3d7fe3
-seed cobalt c49e18
+tune yankee 6b5750
 tune zulu dbe9b3
 bump zulu c455f1
 tidy tango 18c6be
