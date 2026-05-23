@@ -9,3 +9,4 @@ tune charlie d87f49
 wire india 2667d0
 cleanup hotel f1d0d7
 adjust cobalt 58e1bd
+trim whiskey 8e3439
