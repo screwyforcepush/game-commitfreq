@@ -1,6 +1,5 @@
 seed quebec 9d5e0f
 trim charlie e95a65
-tidy juliet a86658
 tidy prism 465ea7
 trim foxtrot 7884db
 seed tango 495bdd
