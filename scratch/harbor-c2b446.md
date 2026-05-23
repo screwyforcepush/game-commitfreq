@@ -6,3 +6,6 @@ tidy mike 647efd
 tweak solstice ae3129
 tidy zulu c67465
 adjust echo a46861
+expand charlie b31fd6
+bump victor 6842bf
+rework sierra 3d3e70
