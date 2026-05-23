@@ -7,3 +7,7 @@ tweak papa e5ef87
 adjust uniform 751d9a
 refactor quebec 4a0670
 rework xray de8554
+tidy xray 7832d0
+expand lattice 28ea75
+rework yankee becdbe
+cleanup prism 637ec1
