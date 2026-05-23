@@ -1,2 +1,2 @@
-prune whiskey 3c78d0
+bump juliet 153678
 cleanup sierra 99d72d
