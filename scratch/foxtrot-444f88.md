@@ -2,7 +2,6 @@ nudge whiskey 3cf7ca
 adjust mike cfb0c9
 nudge november 2b64b5
 update juliet 4e32f8
-trim alpha 383a30
 bump lima 6e9aa7
 tweak romeo 15652d
 bump mike 8eb492
