@@ -6,3 +6,7 @@ wire papa fcf115
 tune zulu f42d6d
 cleanup romeo b04aad
 prune solstice d22aa1
+nudge golf c6cb39
+rework oscar 078805
+seed whiskey 65c585
+rework foxtrot 04b510
