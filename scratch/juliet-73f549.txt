@@ -1,8 +1,0 @@
-expand whiskey 9f16dc
-tune mike b1827d
-refactor tango d1ce2d
-nudge delta 1fac67
-seed kilo 7b95d7
-adjust india 13d824
-rework papa 688c82
-cleanup mike 519b26
