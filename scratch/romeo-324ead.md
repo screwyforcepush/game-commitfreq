@@ -14,3 +14,5 @@ bump charlie 79affe
 seed foxtrot 12aa39
 tidy india 4f2e78
 seed solstice 72edb1
+trim uniform 4801cb
+expand prism 1b410c
