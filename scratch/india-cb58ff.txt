@@ -12,3 +12,7 @@ bump november c33097
 cleanup quebec e1501c
 tweak romeo 86740a
 wire mike 997574
+wire ember 6a77d4
+adjust xray 644110
+update charlie c56533
+update ember 274268
