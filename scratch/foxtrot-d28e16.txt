@@ -2,6 +2,6 @@ wire juliet a98589
 tidy solstice ce9a3f
 rework charlie 34d0af
 expand tango 399aef
-adjust sierra 484a05
+expand hotel 7f421f
 cleanup kilo fae95c
 tweak echo dded9a
