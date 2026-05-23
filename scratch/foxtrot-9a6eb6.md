@@ -8,3 +8,7 @@ wire prism 00bd9b
 trim sierra 368ec9
 nudge solstice f3a052
 tweak solstice c69836
+rework golf beaf67
+bump juliet 5e0b5e
+trim nimbus 201be5
+rework nimbus 6cb0f4
