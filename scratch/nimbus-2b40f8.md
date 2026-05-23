@@ -6,6 +6,5 @@ adjust india 6b3ec2
 tune sierra aaec1f
 seed kilo a08a10
 tweak romeo da79fb
-update lima bc5586
 tweak xray eef53a
 bump solstice 39d068
