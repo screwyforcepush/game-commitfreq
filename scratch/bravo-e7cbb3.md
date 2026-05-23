@@ -4,7 +4,7 @@ trim quebec 9deade
 nudge whiskey 1c46ac
 rework nimbus 51434c
 expand india 7350bf
-adjust lima 2d8c58
+update foxtrot c7d9e9
 seed xray 343fb0
 polish mike 4d1811
 rework hotel fc8bfb
