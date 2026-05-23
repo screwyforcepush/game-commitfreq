@@ -4,3 +4,7 @@ expand quebec 2a19e9
 tune golf c80b89
 tune charlie 4f81fe
 trim november 2f5290
+expand victor 12b2d6
+tune papa e353a5
+rework charlie fd079d
+refactor sierra 0bde68
