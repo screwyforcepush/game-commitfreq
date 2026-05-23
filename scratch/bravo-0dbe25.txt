@@ -1,4 +1,0 @@
-bump solstice 60f049
-prune bravo caca64
-tune november 7972d7
-tune uniform e0c2f9
