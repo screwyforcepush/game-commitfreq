@@ -9,3 +9,7 @@ update yankee 0d4b52
 cleanup hotel b8b320
 tune oscar 64b511
 tidy harbor b63ebf
+seed solstice e0d0d9
+wire ember 90c715
+tweak juliet 3dc6ec
+tweak ember 0b59c7
