@@ -5,3 +5,7 @@ refactor charlie 2c0275
 update prism 58dd17
 trim yankee 285f5c
 tune kilo fda26c
+expand xray ccbe1d
+nudge lattice 147ccb
+refactor alpha fe6447
+nudge sierra ce5015
