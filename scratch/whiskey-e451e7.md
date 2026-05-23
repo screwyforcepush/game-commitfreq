@@ -9,7 +9,6 @@ expand romeo 32b5e3
 rework uniform 23a2a4
 trim lattice 042941
 bump uniform 50c3e5
-bump bravo 9fc3ed
 seed kilo 77e11c
 tidy lima b231c6
 polish bravo c9a9bf
