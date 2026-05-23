@@ -4,7 +4,6 @@ adjust prism 4328ed
 tweak delta c85731
 prune oscar c18b12
 adjust tango cecc08
-rework hotel ad4955
 nudge foxtrot 705f11
 adjust oscar 3ce962
 tidy lima f8aedb
