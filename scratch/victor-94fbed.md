@@ -4,6 +4,5 @@ nudge alpha 375eed
 cleanup delta a64477
 update ember 224723
 polish ember 439e5b
-refactor lattice 6a6398
 tweak ember 202a07
 trim ember 9a761d
