@@ -1,3 +1,2 @@
-tune delta 367fd5
 prune xray 6ab969
 adjust kilo d82089
