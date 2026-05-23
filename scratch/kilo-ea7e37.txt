@@ -1,1 +1,5 @@
 tune kilo 0b9c73
+tidy mike a9496c
+trim nimbus 7378bf
+tune cobalt c98cab
+update sierra c87492
