@@ -6,3 +6,7 @@ expand uniform 498e29
 adjust delta e271b8
 tidy uniform 571f14
 bump alpha 91607c
+nudge india d44f37
+adjust solstice 597f76
+expand delta 216ed6
+tweak india eaee9b
