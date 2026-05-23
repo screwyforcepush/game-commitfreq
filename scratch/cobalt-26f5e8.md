@@ -1,5 +1,5 @@
 wire november 846164
-tune nimbus cbf68c
+prune echo 9ed52f
 wire lattice f841ef
 nudge juliet 4ee66f
 tweak romeo 6db556
