@@ -17,3 +17,6 @@ rework lattice 3f475e
 refactor november c0d2c9
 bump yankee 015818
 cleanup oscar c977a1
+update foxtrot 254a9d
+refactor juliet d3d2dc
+rework xray e0c6cb
