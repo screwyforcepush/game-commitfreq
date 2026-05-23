@@ -4,5 +4,5 @@ trim solstice 52ad2e
 wire xray 0f5011
 tweak solstice ac0b54
 prune cobalt b362e0
-bump quebec 733782
+tune yankee 7fe196
 bump november 6ee0f0
