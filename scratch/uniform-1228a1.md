@@ -12,3 +12,4 @@ prune quebec 1b144a
 tune alpha 04b0be
 tidy tango 1b33c2
 tune delta c5f738
+prune whiskey 9ed613
