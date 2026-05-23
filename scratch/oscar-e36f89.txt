@@ -1,4 +1,3 @@
 seed quebec 9d5e0f
 trim charlie e95a65
-bump uniform fb04e5
 tidy juliet a86658
