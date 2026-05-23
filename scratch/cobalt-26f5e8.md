@@ -1,4 +1,4 @@
-tune solstice 072860
+wire november 846164
 tune nimbus cbf68c
 wire lattice f841ef
 nudge juliet 4ee66f
