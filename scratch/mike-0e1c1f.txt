@@ -3,3 +3,6 @@ refactor lima a3cc52
 rework alpha 0abf04
 update tango 43af65
 tweak uniform 7d5d7e
+trim lattice 064777
+prune charlie 9f2406
+polish india 134efd
