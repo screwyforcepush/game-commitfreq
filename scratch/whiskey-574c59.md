@@ -3,7 +3,7 @@ bump alpha a6db9c
 expand juliet 07183c
 tidy yankee 7371c3
 tune uniform e69799
-rework alpha 8eea29
+adjust november aa43da
 prune whiskey 29a22d
 polish ember 8b86eb
 trim ember c4db85
