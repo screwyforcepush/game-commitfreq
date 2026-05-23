@@ -8,5 +8,4 @@ bump nimbus 7e5457
 prune whiskey 2ce726
 adjust yankee 38eb75
 polish alpha 4d0d10
-nudge alpha 1f3449
 nudge cobalt d986f3
