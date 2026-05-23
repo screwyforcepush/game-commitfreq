@@ -6,3 +6,7 @@ expand sierra 42eb63
 adjust whiskey ebb1c8
 polish sierra 41bfe4
 tweak india f9afc2
+rework kilo 8cb886
+tidy november 7a8d16
+tidy juliet f42a15
+trim november 42d927
