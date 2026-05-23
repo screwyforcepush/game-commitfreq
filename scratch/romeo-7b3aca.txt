@@ -4,3 +4,7 @@ update prism bb72a9
 update nimbus 0f621b
 wire papa 15cdb4
 tune oscar 3862e2
+nudge solstice a54925
+prune xray 6a005d
+expand delta c9e0ad
+tweak kilo 86207b
