@@ -17,3 +17,5 @@ trim xray 71e0c9
 nudge foxtrot 44ed9e
 adjust juliet 77b0ae
 tweak romeo ca91f3
+tune tango 58da1f
+polish victor deaea3
