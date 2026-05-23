@@ -4,3 +4,6 @@ bump tango 7a1c40
 nudge echo b65801
 adjust victor ef3510
 tidy foxtrot 0fcbd5
+adjust juliet 65e8d8
+tidy echo d49732
+wire charlie c43a4b
