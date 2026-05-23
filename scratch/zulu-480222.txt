@@ -1,4 +1,4 @@
-polish quebec 3c6d0a
+trim golf 44a971
 refactor oscar cd984a
 prune uniform 4500f5
 expand charlie 28ab06
