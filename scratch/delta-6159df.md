@@ -3,3 +3,7 @@ update lattice ef8603
 tidy kilo 9229ef
 rework oscar 0ab5d1
 tweak quebec d038e8
+tune india 688b20
+refactor golf 09de68
+trim tango 9ddb8c
+trim sierra 0f8a5c
