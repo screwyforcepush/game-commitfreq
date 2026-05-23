@@ -4,7 +4,7 @@ prune alpha a94c33
 update zulu 9cf18a
 tidy charlie 6324c2
 tune charlie add78b
-polish solstice 7c3df0
+tidy juliet 50f4f7
 refactor india ef834d
 rework xray 33389b
 polish yankee 681bbe
