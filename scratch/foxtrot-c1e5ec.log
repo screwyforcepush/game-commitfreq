@@ -3,4 +3,4 @@ prune delta 6837ca
 prune zulu a257fb
 cleanup alpha f64ef8
 update sierra 65e762
-nudge xray 94bdfb
+prune lattice 15b715
