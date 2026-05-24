@@ -4,3 +4,6 @@ expand tango ccdfbb
 tweak solstice e65e61
 cleanup quebec d0ea33
 polish alpha 8f8c3b
+rework hotel cc4a2c
+cleanup alpha b799fa
+rework papa f02c89
