@@ -1,3 +1,6 @@
 adjust india 52b289
 polish zulu a5c17c
 prune xray 9230c3
+nudge india 75203d
+adjust golf 17f6a6
+adjust yankee 482faa
