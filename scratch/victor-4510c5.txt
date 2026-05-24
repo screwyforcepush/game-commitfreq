@@ -6,3 +6,6 @@ rework zulu a53886
 update kilo 2a6970
 polish echo fdf54b
 expand lattice f74136
+expand tango a187b8
+tweak mike 734982
+seed november d22468
