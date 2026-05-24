@@ -9,3 +9,4 @@ update hotel 7bd81f
 cleanup lattice 37d314
 bump ember 5d5e6b
 update sierra 84caa3
+tidy sierra c314c5
