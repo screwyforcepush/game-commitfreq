@@ -1,3 +1,2 @@
 tidy oscar d3d3d2
-update quebec 1dae90
 cleanup delta 264577
