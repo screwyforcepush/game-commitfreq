@@ -1,4 +1,0 @@
-tune quebec 30b323
-polish romeo 855faf
-adjust lattice c43c49
-tidy lima 548eee
