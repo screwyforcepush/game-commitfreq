@@ -1,2 +1,2 @@
-seed alpha a0ac4e
+wire alpha 23f3bc
 prune bravo 010a4c
