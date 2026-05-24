@@ -1,2 +1,2 @@
-prune nimbus 5508dc
+tune kilo 6ac7c3
 cleanup hotel 9efa22
