@@ -4,3 +4,5 @@ trim cobalt 4fcd0c
 update zulu a24358
 wire zulu 55b883
 adjust kilo e64f8c
+tune zulu 52537f
+nudge alpha 55ae70
