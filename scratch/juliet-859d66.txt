@@ -6,3 +6,6 @@ cleanup victor a4de55
 tweak prism f55a22
 adjust nimbus 89cb4a
 update hotel 7bd81f
+cleanup lattice 37d314
+bump ember 5d5e6b
+update sierra 84caa3
