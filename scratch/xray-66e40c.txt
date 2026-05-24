@@ -1,4 +1,0 @@
-prune delta 30ee34
-seed india 956046
-tweak india 3d8fd5
-nudge delta 3dba66
