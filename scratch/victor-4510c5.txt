@@ -3,3 +3,6 @@ rework cobalt 47c2e9
 trim echo 307c2c
 tidy victor 8332ef
 rework zulu a53886
+update kilo 2a6970
+polish echo fdf54b
+expand lattice f74136
