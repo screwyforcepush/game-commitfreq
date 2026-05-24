@@ -2,3 +2,6 @@ nudge echo 3bc59d
 nudge cobalt 1103ef
 wire quebec 3812c6
 bump yankee 46093a
+tweak victor d65293
+trim sierra 0515b9
+wire whiskey 72f630
