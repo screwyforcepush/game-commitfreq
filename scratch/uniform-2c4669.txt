@@ -11,5 +11,5 @@ bump juliet e1f056
 bump lattice 28a7f2
 prune kilo ea863f
 cleanup bravo a50b88
-cleanup foxtrot 63b351
+wire november a768c1
 expand romeo fc474b
