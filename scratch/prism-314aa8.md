@@ -12,7 +12,7 @@ tune uniform 23e591
 trim kilo 3fe7ef
 tweak juliet 435239
 seed delta 3df562
-cleanup india 6a1e73
+trim echo dc0c18
 wire zulu 300ddb
 trim lima 524ae6
 tune hotel acd9ab
