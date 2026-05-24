@@ -3,5 +3,5 @@ tune alpha e44482
 wire juliet 2840c1
 adjust prism dd92e4
 adjust delta b511d8
-rework yankee c85f08
+tune ember 582366
 bump xray f11868
