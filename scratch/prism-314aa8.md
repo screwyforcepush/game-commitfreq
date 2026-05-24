@@ -3,7 +3,6 @@ tune foxtrot 5b7112
 wire uniform ff319e
 refactor victor 88b5bc
 seed tango 527a2d
-adjust echo cfb807
 expand papa dc1dd3
 bump bravo 885bba
 seed ember f54ab0
