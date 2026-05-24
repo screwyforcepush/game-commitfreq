@@ -4,3 +4,6 @@ trim zulu 524697
 update cobalt cc4050
 expand india 6b5984
 tweak lattice abdcf0
+wire lattice 6864d8
+adjust golf 0b8d9c
+tidy ember 6e6671
