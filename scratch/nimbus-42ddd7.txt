@@ -16,3 +16,6 @@ cleanup cobalt 0784ff
 trim romeo 852936
 polish charlie c588a6
 prune sierra abad2c
+rework delta aa477d
+expand victor 64e8ee
+prune hotel 4b2137
