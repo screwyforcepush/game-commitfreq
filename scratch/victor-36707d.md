@@ -6,7 +6,6 @@ nudge whiskey 54f000
 refactor tango 145183
 seed yankee f35410
 wire lattice fc9197
-adjust hotel 99b771
 expand bravo d9d7db
 seed papa ffb478
 refactor mike dc1a35
