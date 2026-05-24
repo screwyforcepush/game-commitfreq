@@ -1,5 +1,4 @@
 tune alpha d59815
-tune november e8a122
 wire november 3e1549
 cleanup delta 05c892
 prune foxtrot f03f9f
