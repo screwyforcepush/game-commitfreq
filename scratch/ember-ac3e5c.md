@@ -5,3 +5,6 @@ trim lattice 842305
 wire lattice 252716
 tweak mike 42205b
 cleanup lattice 833d6e
+trim solstice 6cb4d9
+bump lima 309462
+polish quebec 3e8fba
