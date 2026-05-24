@@ -7,3 +7,6 @@ wire yankee 17388c
 expand xray 4ca24f
 tidy cobalt 5bc835
 tune alpha 5cf390
+cleanup echo 0fd15a
+expand lattice c9217a
+seed prism a3916c
