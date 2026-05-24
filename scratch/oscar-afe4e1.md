@@ -4,3 +4,5 @@ update nimbus 0a9293
 prune golf 88f598
 rework echo f160d1
 polish solstice 8794c9
+trim echo ccf067
+tune solstice 82b7be
