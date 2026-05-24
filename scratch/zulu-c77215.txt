@@ -1,2 +1,0 @@
-tune lima aa26dc
-nudge oscar 256abb
