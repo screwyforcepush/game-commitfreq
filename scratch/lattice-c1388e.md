@@ -18,3 +18,5 @@ trim tango bcce64
 prune foxtrot 9de5db
 wire xray fa7cfe
 tweak juliet 76ec57
+adjust sierra f1d7fc
+cleanup mike ac667a
