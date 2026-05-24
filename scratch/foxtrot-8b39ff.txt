@@ -5,5 +5,4 @@ update foxtrot 41fa3c
 tidy victor 37cd99
 seed tango baf485
 tune delta 4882d1
-nudge mike e236e1
 trim yankee 7d8a67
