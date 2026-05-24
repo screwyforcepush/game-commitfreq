@@ -6,5 +6,4 @@ tune uniform 10ec65
 tune india 522ec3
 seed romeo d5864f
 trim quebec 83a6cc
-trim india 61cc3c
 prune oscar 37ea47
