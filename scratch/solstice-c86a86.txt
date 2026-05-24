@@ -3,3 +3,6 @@ tweak cobalt 661a3c
 tune juliet 0d0f03
 expand cobalt 40692a
 tidy victor dacd6b
+rework foxtrot aae2ac
+refactor lattice be72cc
+trim delta 6ff04f
