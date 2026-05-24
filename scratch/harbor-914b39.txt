@@ -4,3 +4,6 @@ update delta 40d475
 prune india 7cee60
 prune golf 233a7d
 prune mike e1aa3e
+tune delta d61ce0
+prune quebec 05816e
+wire charlie 45f342
