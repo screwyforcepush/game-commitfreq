@@ -1,6 +1,5 @@
 rework cobalt 2d8790
 tidy charlie 539a27
-rework juliet 24157c
 refactor victor 797c0c
 tidy alpha b54b3d
 wire whiskey b34d94
