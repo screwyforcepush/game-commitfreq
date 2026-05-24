@@ -1,6 +1,5 @@
 polish echo 55d8f3
 cleanup yankee af40bf
-wire lima b9dce8
 bump juliet ab27a9
 wire lattice 4a823b
 trim echo caefbc
