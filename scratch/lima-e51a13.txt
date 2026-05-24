@@ -1,3 +1,2 @@
 prune golf aba0ee
-prune alpha 6f758c
 seed golf 02489b
