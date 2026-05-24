@@ -1,3 +1,5 @@
 rework whiskey 9f9cb4
 bump prism 5d74d3
 cleanup solstice ee245b
+adjust yankee 4efc45
+trim bravo 49380b
