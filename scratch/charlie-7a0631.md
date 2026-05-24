@@ -4,3 +4,7 @@ bump xray 5cffb6
 trim november 214850
 polish delta 1e0ca9
 refactor uniform 97d53c
+expand quebec 6684d3
+rework kilo f7a875
+expand golf b7fb1d
+tweak hotel 6fae03
