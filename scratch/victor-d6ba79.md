@@ -8,3 +8,6 @@ expand sierra e3637a
 tweak papa be0be4
 cleanup tango 548674
 nudge yankee 7069a2
+tweak hotel 1c3f89
+cleanup november bd2dbd
+tidy hotel 187ecd
