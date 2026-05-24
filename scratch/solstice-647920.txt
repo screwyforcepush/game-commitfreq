@@ -1,7 +1,7 @@
 cleanup hotel 4d0ddd
 expand quebec 88c812
 wire charlie ff6c34
-wire golf ed35c5
+update solstice 41b5b6
 nudge kilo 026f66
 refactor delta 122329
 wire mike bc2717
