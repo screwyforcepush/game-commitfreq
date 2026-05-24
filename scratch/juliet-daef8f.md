@@ -4,7 +4,7 @@ trim cobalt 4fcd0c
 update zulu a24358
 wire zulu 55b883
 adjust kilo e64f8c
-tune zulu 52537f
+wire whiskey 8c6b5c
 nudge alpha 55ae70
 adjust kilo f0c376
 polish yankee ba7c9e
