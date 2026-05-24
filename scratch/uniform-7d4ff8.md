@@ -4,3 +4,5 @@ wire lattice e29e3a
 polish alpha 403e14
 bump sierra 24c035
 trim victor 4bcc11
+adjust tango 541c76
+wire ember e36aeb
