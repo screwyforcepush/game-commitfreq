@@ -4,6 +4,5 @@ rework hotel fe27c5
 cleanup lattice 387a2b
 wire quebec 28389c
 nudge charlie 43cd14
-prune solstice 493a4a
 prune lattice c235f3
 cleanup oscar 150edb
