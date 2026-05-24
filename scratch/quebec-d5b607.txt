@@ -1,1 +1,4 @@
 nudge charlie b95ad1
+seed echo 98bf3a
+nudge kilo 3687f8
+tweak echo bebe51
