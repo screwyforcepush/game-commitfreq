@@ -6,3 +6,6 @@ tidy mike b8f130
 cleanup victor 69c562
 expand yankee 533508
 prune ember 916ea3
+bump zulu 0d065b
+tidy solstice 68a06a
+refactor alpha 5e824d
