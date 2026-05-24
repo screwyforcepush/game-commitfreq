@@ -8,3 +8,5 @@ wire bravo f76c64
 adjust foxtrot f90e08
 wire juliet 1027f8
 seed alpha e99d85
+prune prism 628d51
+polish ember 626c8e
