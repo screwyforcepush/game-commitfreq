@@ -1,5 +1,4 @@
 trim oscar a7be25
 seed alpha 5be24a
-seed mike 0001a5
 tune juliet 4d5763
 tweak kilo 614178
