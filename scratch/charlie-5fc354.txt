@@ -10,3 +10,6 @@ seed solstice 13ade3
 tidy uniform 627232
 rework victor 798770
 rework hotel c49724
+rework uniform 642e73
+trim victor d26794
+expand tango 14f63a
