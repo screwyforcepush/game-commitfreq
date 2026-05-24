@@ -4,7 +4,7 @@ expand cobalt 75758d
 nudge sierra 243cc0
 wire xray b256df
 bump hotel e67291
-seed romeo eddcf5
+trim lima 5838f0
 bump uniform 7f314d
 polish solstice 7c8ea1
 polish lattice 400b1a
