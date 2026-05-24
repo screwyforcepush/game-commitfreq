@@ -1,2 +1,2 @@
 seed alpha a0ac4e
-cleanup zulu a44636
+prune bravo 010a4c
