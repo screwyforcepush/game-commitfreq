@@ -1,7 +1,7 @@
 expand ember 93f038
 tweak ember ee3365
 tweak delta 2a6d6f
-update solstice 5fe37a
+seed solstice 7fe46c
 wire victor 8bc3be
 prune november 013239
 seed prism fd4de2
