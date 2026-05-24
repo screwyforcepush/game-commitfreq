@@ -5,5 +5,5 @@ refactor mike ecbab0
 polish delta 0c4899
 seed alpha 999472
 cleanup romeo 37e9c0
-adjust yankee b6909b
+prune lima 4b264f
 seed solstice 13ade3
