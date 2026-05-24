@@ -4,3 +4,6 @@ cleanup tango f3afba
 prune alpha 89526f
 cleanup echo 607123
 tidy charlie e2600f
+prune solstice f112b0
+rework yankee 74316a
+prune foxtrot cf38ea
