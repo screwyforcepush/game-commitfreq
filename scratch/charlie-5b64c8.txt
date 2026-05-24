@@ -1,3 +1,2 @@
-seed kilo b32b19
 nudge india 5627c0
 adjust solstice e673fe
