@@ -3,7 +3,6 @@ update kilo 64db81
 tune romeo 198d6a
 tweak lattice 1f1371
 tweak mike 2decab
-polish xray 44661f
 refactor yankee 72d8d7
 update juliet 50cb29
 tune prism 0334f9
