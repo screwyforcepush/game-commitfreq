@@ -7,3 +7,7 @@ expand yankee 6cfa3d
 update papa 483ca4
 nudge harbor ba59c5
 adjust kilo fa1459
+rework foxtrot bec1e9
+rework hotel e2cc89
+tune lattice b2bf5a
+tweak india faa86d
