@@ -13,3 +13,4 @@ adjust lima 1731ff
 seed delta 522567
 tweak mike adba44
 prune alpha 714625
+trim nimbus f07281
