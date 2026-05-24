@@ -4,3 +4,6 @@ tune victor 56c4ba
 cleanup uniform 43bc0a
 nudge whiskey 35769b
 nudge kilo 198e39
+trim november 3d3915
+trim papa 32a1a3
+tune charlie 587d6b
