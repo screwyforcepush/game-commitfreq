@@ -12,3 +12,5 @@ tweak solstice 7c6e26
 tidy whiskey 72902f
 tidy yankee 49fb49
 cleanup papa f02cdf
+refactor yankee c75e04
+adjust bravo 76d5b7
