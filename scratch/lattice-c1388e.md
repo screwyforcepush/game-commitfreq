@@ -2,7 +2,7 @@ wire prism 659b20
 wire yankee aa4389
 prune foxtrot bc920c
 wire tango 8b2d71
-polish xray 3655bf
+bump sierra c3f2df
 seed whiskey fa5198
 refactor victor dc9d31
 nudge hotel 1b2b7e
