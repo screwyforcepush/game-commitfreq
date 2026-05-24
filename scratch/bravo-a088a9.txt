@@ -1,3 +1,2 @@
-adjust echo a63c2d
 tidy yankee 871593
 refactor oscar 398fc8
