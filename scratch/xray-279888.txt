@@ -1,6 +1,5 @@
 nudge romeo 990c8d
 tune foxtrot 1976b3
-update alpha bbb364
 trim oscar beb78f
 wire uniform 6946d0
 tweak solstice 58408d
