@@ -12,5 +12,4 @@ seed november d22468
 polish echo 05f224
 trim victor 28fe2c
 refactor yankee 625f4e
-rework yankee 924861
 rework xray 550219
