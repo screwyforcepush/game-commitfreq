@@ -7,3 +7,7 @@ polish solstice 8794c9
 trim echo ccf067
 tune solstice 82b7be
 seed solstice c84e8c
+tune india 81d5ca
+tweak romeo ed5bf0
+rework uniform 38f6cf
+tweak delta d0799c
