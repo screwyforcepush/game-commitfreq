@@ -7,3 +7,5 @@ adjust solstice aeb4fb
 adjust mike 9fbadd
 trim echo 7a8102
 update lima c56b0b
+tune alpha 15f924
+tidy golf 6bcc85
