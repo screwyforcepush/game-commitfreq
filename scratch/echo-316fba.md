@@ -5,3 +5,7 @@ rework uniform a2835f
 adjust uniform 0557fa
 expand yankee 916952
 adjust papa 8dfae9
+wire yankee 8fcf16
+wire bravo d53914
+prune ember 0f7d71
+trim zulu 5b470d
