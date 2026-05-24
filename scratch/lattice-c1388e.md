@@ -12,3 +12,5 @@ tune foxtrot a08ac1
 wire bravo 2dc077
 expand papa 0993cb
 cleanup echo 571340
+polish quebec 1b9e9d
+adjust india 0c93bf
