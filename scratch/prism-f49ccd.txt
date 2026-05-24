@@ -1,6 +1,0 @@
-adjust quebec d6d81a
-tweak echo 0de587
-tune zulu b8164f
-adjust charlie fddf31
-tune oscar 09b5f7
-seed bravo 6f9278
