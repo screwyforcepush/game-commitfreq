@@ -9,3 +9,5 @@ tune solstice 349ab0
 prune nimbus 2e1ea7
 bump delta 99621d
 tidy solstice 3567f0
+wire hotel 952725
+polish tango db7739
