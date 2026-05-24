@@ -1,7 +1,6 @@
 prune romeo f21dad
 expand yankee 8fdfbe
 cleanup lattice eea5e3
-refactor hotel 4a7e55
 tweak echo f6661c
 prune yankee fdb34e
 expand cobalt e3bd46
