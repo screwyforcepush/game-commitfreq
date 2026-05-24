@@ -4,7 +4,6 @@ wire harbor 39920d
 prune alpha fbeccb
 expand uniform c9741d
 expand kilo e3b4a2
-rework hotel b799c6
 rework delta 770422
 tidy nimbus 113c89
 trim nimbus 04fb9c
