@@ -9,3 +9,6 @@ expand mike 83d915
 trim juliet aef0e6
 trim india 41aac8
 prune nimbus e6a86f
+trim juliet 8b5743
+trim nimbus a85c77
+cleanup tango 832bc3
