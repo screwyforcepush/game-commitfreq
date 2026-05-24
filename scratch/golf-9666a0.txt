@@ -1,2 +1,0 @@
-tune echo 48d37d
-tune sierra 8e68e5
