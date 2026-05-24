@@ -2,3 +2,7 @@ trim lattice f1d62c
 tune prism 60d452
 trim delta 8b9de8
 prune uniform 7ee530
+trim november f76d36
+cleanup delta df511e
+bump xray e768c2
+nudge mike 07b040
