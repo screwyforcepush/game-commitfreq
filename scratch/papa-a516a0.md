@@ -19,3 +19,4 @@ update cobalt 7a592a
 expand foxtrot 9117d9
 expand november fe5fed
 nudge alpha 91e571
+tidy solstice f5fbea
