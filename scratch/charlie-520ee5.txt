@@ -9,7 +9,7 @@ bump oscar 2c3d6b
 adjust lattice 1c0e3a
 nudge oscar 4c71d0
 wire mike 234824
-seed whiskey b38ded
+tidy cobalt 0ec6aa
 tidy sierra 4b67be
 seed zulu 185c09
 seed solstice bfdb7b
