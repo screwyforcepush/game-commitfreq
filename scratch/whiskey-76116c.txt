@@ -6,3 +6,6 @@ seed romeo 80056f
 cleanup kilo 72934f
 seed sierra 279bf1
 wire kilo 2d26e5
+adjust cobalt 9a737d
+tune papa 29a8c1
+nudge oscar b5fb0a
