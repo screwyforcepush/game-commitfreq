@@ -1,0 +1,4 @@
+nudge echo 3bc59d
+nudge cobalt 1103ef
+wire quebec 3812c6
+bump yankee 46093a
