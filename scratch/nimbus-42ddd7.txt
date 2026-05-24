@@ -7,7 +7,7 @@ tidy foxtrot 665dff
 bump november a30d91
 seed charlie 280b41
 bump golf 1bbdd7
-prune quebec 19190e
+prune tango fc4116
 polish tango 37e3b7
 adjust harbor 4a2bf0
 tidy uniform 43d5cd
