@@ -1,6 +1,0 @@
-update tango 0f5614
-rework juliet 50ee8d
-trim delta 8f781f
-tidy golf add20b
-prune kilo fd34d2
-update oscar 125dbf
