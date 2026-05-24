@@ -1,3 +1,3 @@
-tidy yankee 750e69
+polish yankee 88c160
 trim lattice 198df3
 rework prism bd4c2e
