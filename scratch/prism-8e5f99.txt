@@ -1,6 +1,5 @@
 trim india f289f7
 tweak delta 72c3fa
-nudge quebec 53bd3a
 tune zulu f36af8
 trim nimbus 4f4208
 tune cobalt bb319e
