@@ -22,3 +22,6 @@ refactor whiskey fca7b5
 tweak ember 361c29
 adjust xray 7ec7dd
 cleanup zulu 2fb1a8
+update juliet 1a70f9
+tidy solstice b46bd4
+trim nimbus 43633e
