@@ -2,3 +2,6 @@ polish november 792919
 expand lima b84f9f
 update solstice b3a167
 trim golf df052f
+rework nimbus 04a2d0
+polish nimbus 798db9
+tweak hotel 2c215c
