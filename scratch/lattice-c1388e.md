@@ -4,7 +4,6 @@ wire yankee aa4389
 prune foxtrot bc920c
 wire tango 8b2d71
 polish xray 3655bf
-trim ember ef3fdd
 seed whiskey fa5198
 rework zulu 6be366
 refactor victor dc9d31
