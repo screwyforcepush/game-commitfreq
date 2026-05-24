@@ -6,3 +6,6 @@ refactor oscar a1de88
 rework delta 46929e
 trim quebec 423ba4
 tune papa 4eff4e
+tidy solstice 03b95b
+rework hotel 3044e9
+polish golf 4ac89d
