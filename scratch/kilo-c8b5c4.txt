@@ -9,6 +9,5 @@ nudge india d2f37b
 bump lattice 45703d
 refactor quebec 2be2c3
 update ember ab629b
-update xray ae9800
 tune prism 21e32e
 prune romeo d855cf
