@@ -1,5 +1,4 @@
 rework bravo bbbac1
-wire prism 3604ea
 tidy whiskey d6336b
 polish lattice 40210f
 tune bravo e47f60
