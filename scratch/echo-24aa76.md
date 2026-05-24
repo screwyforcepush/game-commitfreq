@@ -7,7 +7,6 @@ prune whiskey 4c550a
 refactor quebec ccc9dc
 bump bravo 8e554d
 tidy kilo 87fcba
-expand solstice 4cd8ee
 rework bravo 8696e0
 wire kilo 82aa71
 tune zulu 7d9eee
