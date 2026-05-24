@@ -17,3 +17,5 @@ prune hotel f5283d
 trim solstice c9a5e6
 trim golf d7bfdf
 update india 88c556
+tidy mike 679410
+tune oscar cad90f
