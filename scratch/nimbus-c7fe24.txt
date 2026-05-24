@@ -18,3 +18,6 @@ seed xray 155962
 tune yankee e1c6af
 expand nimbus 79a691
 tidy victor 8f4f99
+wire kilo ac2e2f
+cleanup charlie bb7ffe
+rework romeo 4bbd2a
