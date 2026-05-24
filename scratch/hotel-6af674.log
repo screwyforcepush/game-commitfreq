@@ -5,3 +5,6 @@ tune alpha 0bb5ed
 prune alpha fbeccb
 expand uniform c9741d
 update harbor 254dfb
+rework hotel b799c6
+rework delta 770422
+tidy nimbus 113c89
