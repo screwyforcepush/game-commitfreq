@@ -10,4 +10,3 @@ wire prism 1716ed
 nudge prism e7f2cf
 bump lattice 9a0a5a
 seed romeo a30873
-rework nimbus 2ad22c
