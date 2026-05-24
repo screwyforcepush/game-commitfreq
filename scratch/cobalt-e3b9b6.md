@@ -15,7 +15,7 @@ tune hotel 7f4897
 trim victor 52e152
 rework tango b2be70
 refactor kilo c4b269
-bump romeo a3e201
+expand lattice 9ef3dd
 refactor oscar 7b7aef
 seed lima 39d7be
 bump delta b4f554
