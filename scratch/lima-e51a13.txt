@@ -1,2 +1,1 @@
-prune golf aba0ee
 seed golf 02489b
