@@ -14,3 +14,5 @@ seed delta 193e91
 tune bravo 61f092
 tidy cobalt e4247f
 update zulu a8ad04
+expand nimbus cb7741
+adjust cobalt ab8add
