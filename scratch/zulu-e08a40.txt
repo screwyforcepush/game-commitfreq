@@ -1,3 +1,0 @@
-tune kilo 3a6570
-seed kilo 6f7199
-prune bravo 610cea
