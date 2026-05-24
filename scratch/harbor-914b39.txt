@@ -1,5 +1,4 @@
 bump hotel a9662f
-adjust alpha 5b913b
 update delta 40d475
 prune india 7cee60
 prune golf 233a7d
