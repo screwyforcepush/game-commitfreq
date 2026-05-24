@@ -9,3 +9,7 @@ adjust xray 12f057
 nudge zulu 14d540
 tune india 34ce96
 tweak tango 17925f
+nudge tango af9dd7
+expand tango 09e97b
+nudge mike dd2d9a
+prune delta c55181
