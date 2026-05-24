@@ -8,7 +8,6 @@ tidy tango bd32f9
 rework foxtrot 8a7d80
 wire sierra 9a55ef
 trim yankee 027607
-bump quebec 948b95
 prune papa e24a85
 wire lima e97459
 update papa 156be4
