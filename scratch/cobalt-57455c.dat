@@ -6,3 +6,6 @@ prune tango 879d88
 bump alpha 440f3f
 bump quebec 8aab7a
 tune solstice 349ab0
+prune nimbus 2e1ea7
+bump delta 99621d
+tidy solstice 3567f0
