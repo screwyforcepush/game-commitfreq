@@ -5,5 +5,4 @@ seed prism f24f3f
 tune uniform 10ec65
 tune india 522ec3
 seed romeo d5864f
-trim quebec 83a6cc
 prune oscar 37ea47
