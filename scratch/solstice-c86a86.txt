@@ -6,3 +6,5 @@ tidy victor dacd6b
 rework foxtrot aae2ac
 refactor lattice be72cc
 trim delta 6ff04f
+tweak sierra 5bd95a
+trim nimbus 79418d
