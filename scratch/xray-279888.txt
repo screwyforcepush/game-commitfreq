@@ -3,6 +3,6 @@ tune foxtrot 1976b3
 update alpha bbb364
 trim oscar beb78f
 wire uniform 6946d0
-polish prism fec6c9
+tweak solstice 58408d
 trim nimbus 0f115f
 adjust prism 8206e7
