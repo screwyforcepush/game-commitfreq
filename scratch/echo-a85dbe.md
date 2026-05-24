@@ -6,6 +6,6 @@ wire xray b256df
 bump hotel e67291
 seed romeo eddcf5
 bump uniform 7f314d
-tweak nimbus d01c45
+polish solstice 7c8ea1
 polish lattice 400b1a
 adjust victor d709d4
