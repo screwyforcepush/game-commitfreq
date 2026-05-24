@@ -7,3 +7,6 @@ adjust alpha e5eea5
 cleanup lattice acdd1d
 refactor hotel 3bf368
 nudge foxtrot 813bd8
+trim sierra feee52
+trim india 39077c
+polish delta 16a8b0
