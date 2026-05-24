@@ -8,6 +8,5 @@ seed romeo e61eba
 tweak kilo 9cb907
 bump echo afed5d
 trim cobalt 8b29c4
-seed whiskey c7554a
 polish xray 78a0b2
 tidy victor 82b5a7
