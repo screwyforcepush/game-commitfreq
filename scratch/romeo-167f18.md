@@ -1,5 +1,4 @@
 wire echo 7c8ce9
-polish quebec bc7ba1
 nudge romeo d75c47
 tidy india 2cbaf3
 trim delta 42c878
