@@ -1,5 +1,0 @@
-bump november d6d79b
-trim nimbus bd88c1
-adjust juliet c96aee
-polish xray a1d6be
-update cobalt ac5b81
