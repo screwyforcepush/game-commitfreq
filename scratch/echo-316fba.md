@@ -1,5 +1,5 @@
 tune yankee cf5987
-cleanup solstice 2acf14
+tidy oscar 34ff19
 tweak victor cc3490
 bump ember 9f2bb7
 adjust uniform 0557fa
