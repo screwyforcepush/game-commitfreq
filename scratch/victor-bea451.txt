@@ -1,4 +1,4 @@
-tune victor 84996b
+wire nimbus 95b495
 adjust sierra d7409f
 adjust kilo 861281
 wire oscar 3843b9
