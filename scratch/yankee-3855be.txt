@@ -4,3 +4,5 @@ trim golf b89891
 update zulu 150fd6
 trim lima be85a4
 trim alpha e5e0ad
+adjust hotel f78c3b
+rework quebec 4327cf
