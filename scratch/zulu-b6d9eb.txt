@@ -11,3 +11,6 @@ polish harbor 30069d
 nudge zulu 9ac6e2
 wire yankee 08df6c
 tidy prism 798955
+tune harbor 00dd17
+seed tango 289965
+trim cobalt 75137b
