@@ -1,7 +1,7 @@
 nudge uniform 57aa56
 seed echo 85f4ca
 cleanup whiskey bc4096
-bump foxtrot 6551a3
+prune whiskey 424b0d
 tweak lima d9c347
 update victor 099bbb
 bump november 456533
