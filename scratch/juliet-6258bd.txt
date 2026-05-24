@@ -3,7 +3,6 @@ expand delta d14d1a
 cleanup juliet 01cab0
 refactor quebec d97536
 seed nimbus 9ff0b5
-tweak foxtrot 16f27e
 cleanup sierra ed126f
 adjust golf 265257
 trim golf 84cb42
