@@ -1,2 +1,5 @@
 cleanup yankee e62d64
 tune sierra 6a212b
+update solstice 6453aa
+refactor foxtrot d25671
+rework mike b02df0
