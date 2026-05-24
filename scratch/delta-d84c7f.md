@@ -23,7 +23,6 @@ bump juliet f952b8
 polish charlie cf4b55
 update golf cf36d4
 nudge papa 1d53fc
-tidy kilo 4e818b
 bump quebec 28b533
 prune charlie 414fe2
 polish charlie d0b2e9
