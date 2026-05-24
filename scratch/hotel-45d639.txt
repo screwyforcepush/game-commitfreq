@@ -14,3 +14,6 @@ tidy cobalt 19b5cc
 prune papa 7d2505
 seed lattice 41542c
 rework harbor 38e642
+seed papa 88e17b
+tune sierra 9b7318
+tune mike 53eabc
