@@ -2,7 +2,7 @@ adjust bravo bea1bd
 tune oscar 57394a
 rework hotel fe27c5
 cleanup lattice 387a2b
-wire quebec 28389c
+tweak delta 978c15
 nudge charlie 43cd14
 prune lattice c235f3
 cleanup oscar 150edb
