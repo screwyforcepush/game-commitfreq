@@ -1,4 +1,3 @@
-tidy charlie 595453
 tidy whiskey ede39d
 nudge golf 008b55
 bump bravo 2be375
