@@ -10,7 +10,6 @@ tweak tango cc3a84
 rework kilo b6d365
 adjust echo e2fcc7
 update lattice f2b290
-tidy foxtrot aec739
 cleanup golf 1014d3
 nudge charlie 63e9ed
 bump bravo cbc3a9
