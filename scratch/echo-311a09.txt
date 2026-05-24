@@ -4,3 +4,5 @@ wire uniform 0661f4
 cleanup lima 0d942d
 trim prism 7a2930
 bump uniform 381c6d
+tune hotel 87bf3c
+wire mike 78184e
