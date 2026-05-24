@@ -5,5 +5,4 @@ tweak yankee 96eba0
 adjust kilo 20441b
 seed golf 4e1ec2
 tweak kilo 705382
-tune oscar 101d60
 wire lattice 667f77
