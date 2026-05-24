@@ -2,3 +2,7 @@ bump echo 1d43a8
 expand xray db036b
 tidy oscar 29e91a
 expand prism 979d72
+rework solstice e5e332
+cleanup solstice 66b63a
+trim yankee 7dd021
+trim sierra 4dd46b
