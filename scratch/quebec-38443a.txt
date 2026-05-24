@@ -1,7 +1,7 @@
 tweak bravo 0bd74e
 rework charlie 209e64
 tune india f8b28d
-nudge whiskey 320b23
+tidy oscar e703ca
 adjust nimbus 18cf36
 tune november 333dd8
 tune charlie 88de1b
