@@ -5,7 +5,7 @@ nudge sierra 243cc0
 wire xray b256df
 bump hotel e67291
 seed romeo eddcf5
-seed delta 9a5e83
+bump uniform 7f314d
 tweak nimbus d01c45
 polish lattice 400b1a
 adjust victor d709d4
