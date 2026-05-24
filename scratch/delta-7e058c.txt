@@ -14,3 +14,6 @@ prune kilo 9ae459
 tune kilo a0d2c1
 prune echo b0fada
 cleanup november 1d4249
+polish india e51d57
+polish yankee 3f451b
+bump victor c97cb5
