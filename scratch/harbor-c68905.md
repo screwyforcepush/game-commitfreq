@@ -4,3 +4,6 @@ expand nimbus 364f5e
 adjust mike 722597
 wire golf c491c6
 adjust whiskey 9be227
+adjust kilo 1b14f3
+nudge golf a06a08
+adjust yankee 1a7c95
