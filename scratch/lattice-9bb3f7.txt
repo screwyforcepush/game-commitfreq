@@ -1,5 +1,0 @@
-tidy cobalt 1c47ac
-cleanup tango 885a03
-polish oscar 202e8d
-tidy delta 6a8176
-wire prism 9350ef
