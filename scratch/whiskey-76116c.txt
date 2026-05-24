@@ -9,3 +9,5 @@ wire kilo 2d26e5
 adjust cobalt 9a737d
 tune papa 29a8c1
 nudge oscar b5fb0a
+tune juliet 9a738e
+trim lima 3f554d
