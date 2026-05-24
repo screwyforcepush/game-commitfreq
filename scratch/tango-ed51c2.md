@@ -6,3 +6,6 @@ adjust kilo 20441b
 tidy papa 932bdb
 tweak kilo 705382
 wire lattice 667f77
+expand lattice 6b6ded
+adjust sierra f0250b
+adjust quebec e93317
