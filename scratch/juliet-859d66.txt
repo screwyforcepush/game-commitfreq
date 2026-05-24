@@ -4,3 +4,5 @@ wire bravo f896b4
 cleanup lattice 96421b
 cleanup victor a4de55
 tweak prism f55a22
+adjust nimbus 89cb4a
+update hotel 7bd81f
