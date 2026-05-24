@@ -6,3 +6,6 @@ wire zulu 55b883
 adjust kilo e64f8c
 tune zulu 52537f
 nudge alpha 55ae70
+adjust kilo f0c376
+polish yankee ba7c9e
+tune delta 5ff4ae
