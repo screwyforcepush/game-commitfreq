@@ -4,6 +4,5 @@ update bravo 5afc4f
 refactor hotel 614b6b
 expand quebec cc9d9e
 polish oscar a326f9
-tweak solstice 15f848
 prune solstice d87547
 polish yankee 46e922
