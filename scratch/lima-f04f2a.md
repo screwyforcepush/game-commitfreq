@@ -1,2 +1,2 @@
 tune whiskey c50abf
-adjust sierra 790695
+trim charlie 36a8ed
