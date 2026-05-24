@@ -14,3 +14,7 @@ expand papa 0993cb
 cleanup echo 571340
 polish quebec 1b9e9d
 adjust india 0c93bf
+trim tango bcce64
+prune foxtrot 9de5db
+wire xray fa7cfe
+tweak juliet 76ec57
