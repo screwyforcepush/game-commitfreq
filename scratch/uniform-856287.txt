@@ -5,3 +5,6 @@ rework nimbus e11513
 expand echo 084c26
 seed sierra 436a49
 nudge uniform e8b412
+tidy sierra de7725
+rework oscar dcd2fe
+refactor lattice 9ad1bc
