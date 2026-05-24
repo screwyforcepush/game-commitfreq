@@ -10,4 +10,3 @@ adjust yankee 1a7c95
 prune zulu b20f7d
 bump xray ee2dcf
 rework papa a4ad2f
-seed nimbus 1ed6ab
