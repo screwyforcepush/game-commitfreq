@@ -3,3 +3,7 @@ prune kilo a87c35
 rework yankee c41426
 trim november a97c1b
 cleanup yankee 73d641
+expand yankee 6cfa3d
+update papa 483ca4
+nudge harbor ba59c5
+adjust kilo fa1459
