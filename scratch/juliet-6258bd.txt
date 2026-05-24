@@ -3,3 +3,6 @@ expand delta d14d1a
 cleanup juliet 01cab0
 refactor quebec d97536
 rework echo 847d5c
+tidy solstice 502bba
+tweak foxtrot 16f27e
+cleanup sierra ed126f
