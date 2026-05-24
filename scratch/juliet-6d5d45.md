@@ -14,3 +14,7 @@ trim quebec 86625c
 prune sierra 7f2183
 nudge zulu 7a7c93
 wire cobalt c78183
+prune hotel f5283d
+trim solstice c9a5e6
+trim golf d7bfdf
+update india 88c556
