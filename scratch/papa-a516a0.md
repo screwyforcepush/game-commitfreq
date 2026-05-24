@@ -12,3 +12,7 @@ prune nimbus e6a86f
 trim juliet 8b5743
 trim nimbus a85c77
 cleanup tango 832bc3
+trim delta 3a7e4d
+update lima 6b273b
+update tango 947a19
+update cobalt 7a592a
