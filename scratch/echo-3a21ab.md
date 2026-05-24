@@ -7,3 +7,7 @@ cleanup romeo 01202b
 bump yankee e590b3
 adjust foxtrot 93e3b6
 tweak cobalt 51912e
+update oscar d7c5ec
+nudge quebec e49914
+update oscar eb95cd
+tweak echo 8e5160
