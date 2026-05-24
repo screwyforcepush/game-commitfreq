@@ -7,6 +7,6 @@ update victor 099bbb
 bump november 456533
 prune tango ea7fea
 expand lattice a7ce9d
-adjust oscar ff746c
+tune uniform 01f880
 bump ember 530de3
 adjust nimbus cafa7c
