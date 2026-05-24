@@ -3,5 +3,4 @@ seed echo 097614
 seed bravo 5c3159
 tweak tango 767842
 adjust alpha 4a92c7
-tidy mike b799d6
 update november f0bac2
