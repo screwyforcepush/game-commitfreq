@@ -9,3 +9,5 @@ bump uniform 7f314d
 polish solstice 7c8ea1
 polish lattice 400b1a
 adjust victor d709d4
+adjust kilo 8983fd
+tweak solstice ef5cf3
