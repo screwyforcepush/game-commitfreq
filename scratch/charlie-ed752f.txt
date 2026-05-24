@@ -1,1 +1,1 @@
-prune sierra 325b9d
+prune oscar 38485d
