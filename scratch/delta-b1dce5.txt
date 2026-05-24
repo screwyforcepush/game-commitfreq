@@ -1,4 +1,3 @@
-expand sierra 70de38
 refactor delta 2f0381
 expand hotel aec7fd
 refactor papa 4e236a
