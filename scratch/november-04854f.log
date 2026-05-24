@@ -10,3 +10,6 @@ rework xray 7ef41e
 prune nimbus 3ea8b8
 adjust solstice 830690
 bump charlie 5956f2
+prune xray 1d48f8
+refactor hotel 9d7986
+polish foxtrot 8ded0e
