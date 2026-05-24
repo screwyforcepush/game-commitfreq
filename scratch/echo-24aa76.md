@@ -13,3 +13,5 @@ tidy yankee a5fbfd
 wire kilo 82aa71
 tune zulu 7d9eee
 cleanup hotel fb91cc
+wire victor 1613f0
+tune romeo c3290b
