@@ -1,5 +1,5 @@
 expand papa 948dd3
 rework yankee c6211f
 nudge papa 434735
-trim november d4df0b
+expand solstice b2f2a7
 tune golf d6cbab
