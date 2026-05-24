@@ -3,3 +3,7 @@ bump lima 245f4c
 refactor quebec 2a1dab
 cleanup quebec 83fe08
 prune november f3820c
+expand november 8b76ca
+tweak tango b6fd16
+tidy tango 2e52a5
+bump oscar 35b68b
