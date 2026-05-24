@@ -4,5 +4,4 @@ bump alpha c646a8
 seed sierra 236162
 bump cobalt 1ba2fc
 refactor xray 18c59b
-prune lattice 8d440d
 update delta a4b2cc
