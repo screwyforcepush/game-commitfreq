@@ -7,3 +7,7 @@ tweak nimbus 02892f
 expand echo f47ac0
 cleanup lattice d0e1ba
 tune prism 298970
+tune lattice 8e5b74
+wire foxtrot a96f44
+polish tango fc3951
+tweak delta ae5afc
