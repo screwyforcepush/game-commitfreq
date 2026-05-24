@@ -4,7 +4,6 @@ tweak xray 036c24
 refactor sierra b618c3
 update charlie e22fc9
 adjust solstice aeb4fb
-adjust cobalt d054d2
 adjust mike 9fbadd
 trim echo 7a8102
 update lima c56b0b
