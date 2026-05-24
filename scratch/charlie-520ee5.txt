@@ -4,7 +4,6 @@ prune uniform 4500f5
 expand charlie 28ab06
 trim cobalt 198d17
 cleanup lattice 06ac4d
-wire hotel 109b1a
 bump bravo cc353c
 bump oscar 2c3d6b
 adjust lattice 1c0e3a
