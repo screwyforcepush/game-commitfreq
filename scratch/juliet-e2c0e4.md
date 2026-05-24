@@ -8,3 +8,6 @@ rework golf fd1a40
 cleanup kilo d0ca4c
 rework quebec e8ce79
 tune cobalt bcc34b
+tune papa 27caf1
+update lattice c54b51
+tune whiskey 3dafbd
