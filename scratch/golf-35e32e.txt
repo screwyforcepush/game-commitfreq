@@ -1,3 +1,2 @@
 expand lattice 1c08c7
-seed quebec 70588f
 expand charlie a12f10
