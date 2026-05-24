@@ -2,3 +2,7 @@ rework echo c0c95c
 tweak oscar 4a52a6
 trim ember d09238
 polish harbor 551357
+tidy hotel 8790e2
+cleanup charlie d4bfa2
+adjust golf 722d37
+adjust mike 05d3f4
