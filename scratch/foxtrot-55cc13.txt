@@ -2,7 +2,7 @@ bump mike 0dc2e6
 cleanup victor 8a8e31
 rework zulu 76709c
 bump hotel ae4ec8
-expand bravo 37d1f5
+rework lattice 9642e9
 update solstice f2c694
 polish delta a9b5f6
 tune bravo 4b986f
