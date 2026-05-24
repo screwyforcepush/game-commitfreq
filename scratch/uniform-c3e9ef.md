@@ -7,3 +7,5 @@ tweak lima d9c347
 update victor 099bbb
 bump november 456533
 prune tango ea7fea
+expand lattice a7ce9d
+adjust oscar ff746c
