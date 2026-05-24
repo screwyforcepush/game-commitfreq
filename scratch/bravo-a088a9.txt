@@ -12,3 +12,7 @@ bump delta 26c6f4
 update prism 12960c
 prune mike 8225b2
 prune mike 497642
+bump prism c8734c
+tune victor 8f0207
+adjust delta ead646
+bump ember 1dcdef
