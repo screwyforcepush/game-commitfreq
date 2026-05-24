@@ -21,7 +21,6 @@ tune solstice 169d65
 nudge harbor 6e5ffb
 update papa dcfd4f
 update bravo c956c8
-polish yankee 2e1ac5
 tune golf 2e4316
 bump uniform de6a1a
 nudge xray 85e599
