@@ -2,3 +2,7 @@ wire zulu 1a3014
 trim tango 9edcfb
 expand golf 324d19
 nudge xray 66ba0c
+wire juliet 4c90f9
+prune uniform 372512
+rework mike 1444be
+seed tango 38e2fc
