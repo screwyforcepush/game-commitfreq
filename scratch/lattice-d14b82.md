@@ -3,3 +3,7 @@ seed xray 75163f
 trim uniform 58e864
 wire nimbus bca4f1
 nudge quebec c88f98
+adjust alpha 027e9e
+nudge sierra e1808a
+expand ember d50291
+tidy india ec279e
