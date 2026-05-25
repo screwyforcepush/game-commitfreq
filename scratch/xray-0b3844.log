@@ -10,6 +10,6 @@ wire prism de3212
 rework lattice 601b73
 tweak quebec 6e1c05
 tweak nimbus 36d87e
-rework kilo 772296
+prune quebec 82daba
 adjust solstice c7c295
 adjust india 7e2619
