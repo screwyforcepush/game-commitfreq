@@ -13,3 +13,4 @@ tune cobalt 7ae720
 seed bravo 56d878
 trim cobalt 9c8069
 update india 5a913d
+adjust hotel 94eeff
