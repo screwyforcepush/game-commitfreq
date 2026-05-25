@@ -20,7 +20,7 @@ trim delta 9b6009
 wire golf 68f61d
 rework ember af8246
 bump golf 644fbb
-expand lima 73bace
+cleanup kilo e72ff5
 cleanup yankee 8d745c
 update cobalt 256507
 trim bravo abc386
