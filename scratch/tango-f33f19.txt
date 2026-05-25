@@ -13,3 +13,6 @@ tidy lima e0bbcc
 prune nimbus ea3603
 tidy bravo 376d26
 polish november aca5ee
+bump charlie 22c1a6
+adjust prism a59771
+nudge xray 3d57b3
