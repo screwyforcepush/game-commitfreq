@@ -1,6 +1,0 @@
-rework bravo bbbac1
-tidy whiskey d6336b
-tune bravo e47f60
-wire charlie bc921a
-tune hotel 383a51
-cleanup mike 275067
