@@ -4,6 +4,5 @@ wire mike 81395b
 adjust zulu ab27b8
 rework hotel 9d661d
 wire prism a3a137
-bump lattice 1c8a9b
 rework november 190aae
 prune november d89318
