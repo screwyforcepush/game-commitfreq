@@ -1,6 +1,0 @@
-update yankee 5a41f0
-tweak alpha 14e2e7
-update uniform 23e717
-tune whiskey e7f939
-tidy kilo 55116a
-polish charlie 453d24
