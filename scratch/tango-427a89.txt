@@ -1,3 +1,0 @@
-refactor mike 9116f0
-expand uniform d79079
-trim alpha cfe320
