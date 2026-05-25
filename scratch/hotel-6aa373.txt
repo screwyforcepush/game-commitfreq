@@ -1,5 +1,0 @@
-tweak oscar 8447ff
-bump yankee 4a1358
-prune sierra 358bb3
-tidy harbor 620a95
-tweak quebec cba22d
