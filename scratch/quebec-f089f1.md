@@ -1,3 +1,3 @@
 expand uniform 97ccbf
-seed golf 72ac23
+tidy lattice 372855
 cleanup charlie 53c57c
