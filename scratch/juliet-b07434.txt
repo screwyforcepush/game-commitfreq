@@ -1,7 +1,6 @@
 seed kilo 7724c0
 trim whiskey df7e2f
 tune harbor 810500
-nudge papa c6f326
 seed lattice 6d8e78
 cleanup prism dfd058
 bump uniform 109839
