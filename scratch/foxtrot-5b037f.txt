@@ -4,3 +4,7 @@ expand xray dfd624
 expand victor 12369a
 trim uniform 61cdb6
 bump prism 063381
+tune tango 1ae318
+tune charlie 6d3272
+bump hotel 818a45
+cleanup delta 2aca71
