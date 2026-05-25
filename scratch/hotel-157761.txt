@@ -5,4 +5,3 @@ cleanup echo 447fb4
 prune ember 2bd8d2
 expand november 6a001f
 wire alpha 7d0cd2
-expand hotel 6ad6f4
