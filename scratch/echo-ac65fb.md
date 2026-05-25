@@ -16,3 +16,5 @@ expand bravo 02cd3c
 nudge solstice a1af1a
 adjust yankee 39d737
 nudge charlie f197f1
+seed sierra 1e897f
+nudge papa 453239
