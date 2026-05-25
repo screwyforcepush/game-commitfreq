@@ -1,5 +1,4 @@
 trim hotel 359d33
 tidy echo 82fb73
-tidy uniform f6311c
 bump quebec 308f12
 tune golf ab083c
