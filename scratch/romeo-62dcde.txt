@@ -8,3 +8,7 @@ expand zulu 3d8ae7
 seed bravo 820d0b
 trim quebec 8db156
 tweak xray d26515
+cleanup hotel c9fadc
+adjust alpha 9af2f3
+bump hotel 169ec7
+tidy zulu bef68b
