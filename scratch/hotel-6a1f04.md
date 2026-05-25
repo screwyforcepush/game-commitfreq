@@ -1,4 +1,3 @@
-expand hotel 3e5d8c
 prune quebec 92060b
 refactor zulu c4c2d3
 cleanup november 916fdb
