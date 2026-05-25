@@ -11,7 +11,6 @@ cleanup xray 30bdf9
 tidy lima e0bbcc
 nudge lima ba84c8
 tidy bravo 376d26
-polish november aca5ee
 bump charlie 22c1a6
 adjust prism a59771
 nudge xray 3d57b3
