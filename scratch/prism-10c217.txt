@@ -4,3 +4,7 @@ cleanup nimbus 9c7d7f
 refactor nimbus 4feeb2
 tune whiskey 2346ce
 adjust lima 032920
+bump hotel 5b1429
+nudge uniform a4a25f
+prune ember 5fcdcf
+tweak delta c455ad
