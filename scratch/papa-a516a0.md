@@ -24,3 +24,6 @@ tweak hotel 3a8f41
 tidy echo e4d7a3
 rework romeo 3e168c
 update india c509a4
+tidy cobalt ec9fff
+cleanup tango 2ceffc
+expand papa 8d09cd
