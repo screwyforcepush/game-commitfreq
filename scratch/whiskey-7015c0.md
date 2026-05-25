@@ -7,7 +7,6 @@ tweak ember 6c170a
 expand harbor 14c669
 bump zulu efdf4a
 bump nimbus 66a377
-cleanup cobalt 73bebd
 expand juliet f1a5d1
 polish romeo 705639
 expand echo a1dc5a
