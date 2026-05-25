@@ -7,3 +7,7 @@ refactor uniform cdcde3
 tune oscar 686005
 rework sierra 3979d9
 tune lima eaead9
+nudge lattice 022f34
+nudge whiskey bac117
+refactor kilo 77cf66
+adjust tango 2d3361
