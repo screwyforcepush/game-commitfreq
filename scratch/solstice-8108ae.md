@@ -8,3 +8,6 @@ tune nimbus 67bf9e
 prune xray 37f1fb
 nudge uniform 888886
 trim prism 67c2a2
+trim delta 3dcc73
+polish hotel 6ad118
+tweak mike 8028a9
