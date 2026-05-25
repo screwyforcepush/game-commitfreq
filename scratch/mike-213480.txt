@@ -1,3 +1,2 @@
-seed juliet 8d2fc0
 bump papa 67fd89
 tidy tango 9321e6
