@@ -1,4 +1,3 @@
-bump prism ed62c6
 seed mike 2e627c
 trim mike 5d401d
 cleanup lattice 5ed8f8
