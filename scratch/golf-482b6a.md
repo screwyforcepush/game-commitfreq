@@ -7,3 +7,5 @@ update xray dd9771
 cleanup xray 0e37d5
 wire yankee c389a9
 bump kilo fe2927
+expand prism f65d96
+wire hotel 5087e7
