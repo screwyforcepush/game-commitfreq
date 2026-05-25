@@ -6,3 +6,4 @@ update harbor 792a9d
 cleanup harbor 8e42f5
 trim sierra 3e21ee
 cleanup zulu ad17e6
+prune prism 9b40f0
