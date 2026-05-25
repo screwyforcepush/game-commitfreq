@@ -1,3 +1,6 @@
 tweak xray 76f9b2
 expand uniform d228c5
 cleanup lattice 390e99
+update solstice 5898a8
+seed prism e8abfc
+tune nimbus 226156
