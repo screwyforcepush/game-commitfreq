@@ -13,3 +13,6 @@ seed india ca53b2
 tidy sierra 8d8e76
 tweak lima 8a0b83
 adjust oscar 28e376
+polish charlie 0b7a08
+trim papa a81cb3
+tidy charlie a59582
