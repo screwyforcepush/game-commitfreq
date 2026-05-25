@@ -10,3 +10,7 @@ refactor hotel 0ff929
 rework juliet b953f7
 refactor bravo eb911a
 nudge romeo 5d800c
+bump delta 42fdd1
+expand romeo 68d693
+polish tango 994f63
+tune lattice f1b358
