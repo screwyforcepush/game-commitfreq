@@ -6,4 +6,4 @@ expand bravo 1b4dcb
 seed xray b2b719
 expand charlie 904a47
 bump delta 49e0ac
-prune xray d47743
+refactor hotel fd6b68
