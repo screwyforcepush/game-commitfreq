@@ -5,7 +5,7 @@ bump bravo ce72a9
 tweak golf 543a29
 expand juliet 0ca5b3
 cleanup nimbus 322b08
-trim whiskey 97e9cc
+trim november 632be2
 cleanup solstice f85e7f
 adjust mike ca42b8
 wire whiskey 652a1d
