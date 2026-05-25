@@ -5,6 +5,6 @@ seed sierra 756b41
 polish kilo 73f530
 refactor uniform b407e1
 tweak uniform 86ce35
-wire charlie 973156
+bump solstice c57049
 bump kilo f072dc
 cleanup oscar 7c08b9
