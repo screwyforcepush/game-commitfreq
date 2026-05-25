@@ -1,3 +1,6 @@
 trim november 59a79a
 update kilo 5520f1
 wire papa 238ec6
+rework zulu f17d66
+bump xray e0e72a
+polish nimbus 1df14f
