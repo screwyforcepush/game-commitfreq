@@ -1,4 +1,3 @@
-bump india 8650e7
 refactor echo 70590d
 rework lima a63d25
 tweak quebec 2961d8
