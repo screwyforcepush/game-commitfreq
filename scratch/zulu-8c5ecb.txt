@@ -5,3 +5,6 @@ seed lima 7c14b0
 wire tango bf2d07
 tidy mike ca9a49
 polish juliet 9b4f75
+adjust delta 632b9d
+nudge november 7b9a72
+adjust uniform 408c23
