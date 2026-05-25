@@ -3,3 +3,6 @@ update bravo c2af2d
 seed whiskey 9bd917
 trim hotel 4853b1
 seed ember 1b4b1b
+nudge tango d4ee4f
+adjust prism 38f20c
+nudge papa 20ab05
