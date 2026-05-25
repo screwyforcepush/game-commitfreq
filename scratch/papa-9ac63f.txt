@@ -2,3 +2,7 @@ wire quebec 99484e
 seed mike 493c82
 trim prism c6a96c
 bump uniform adc037
+bump romeo 9f743e
+trim charlie db6003
+bump xray e10188
+tune ember 9e2788
