@@ -4,3 +4,7 @@ update romeo 4d8271
 adjust charlie 5264f9
 adjust alpha 163fd0
 rework tango 332cb8
+trim cobalt 27c684
+rework sierra 80e59e
+rework hotel 676a78
+bump tango aab2c5
