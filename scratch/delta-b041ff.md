@@ -10,3 +10,6 @@ polish nimbus bd2394
 polish lima 8fac6c
 expand prism d01f6f
 wire xray c4557b
+refactor mike 8ec3cc
+wire hotel 25cad8
+trim uniform 81920b
