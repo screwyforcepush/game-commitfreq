@@ -3,7 +3,6 @@ expand bravo caeb0c
 update november a11531
 rework lattice 365f65
 nudge golf 352f16
-nudge foxtrot 45ccb1
 tweak echo 41500d
 update cobalt c2da35
 nudge lima ca61cb
