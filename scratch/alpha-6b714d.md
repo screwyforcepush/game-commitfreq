@@ -6,3 +6,7 @@ bump tango 06632e
 tune tango 3f1db1
 update lattice 7c67e7
 tidy mike 6c1074
+refactor solstice 1d7337
+seed kilo 7c94e6
+seed charlie 94181a
+nudge kilo 3c4ad2
