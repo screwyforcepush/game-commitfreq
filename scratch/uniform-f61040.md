@@ -1,1 +1,5 @@
 trim oscar 9abcd9
+nudge kilo 7e42a2
+nudge golf e10a24
+seed charlie 894b61
+tune charlie bb416c
