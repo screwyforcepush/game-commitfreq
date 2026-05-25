@@ -12,3 +12,7 @@ nudge tango af9dd7
 expand tango 09e97b
 nudge mike dd2d9a
 prune delta c55181
+adjust zulu 7386da
+polish cobalt f31bb9
+wire xray b072fd
+tune romeo 8ae72a
