@@ -6,6 +6,5 @@ tune whiskey 279feb
 polish harbor 3e0265
 update prism e29da3
 nudge romeo b49bab
-wire yankee d78e98
 nudge lima 18807a
 tune alpha ed5868
