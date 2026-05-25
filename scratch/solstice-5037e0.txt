@@ -1,1 +1,5 @@
 bump victor 1f0c8f
+adjust xray 21351b
+expand lattice 8f3b6f
+trim prism 7c5ad7
+nudge sierra 89c901
