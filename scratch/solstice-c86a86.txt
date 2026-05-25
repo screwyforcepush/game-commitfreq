@@ -1,7 +1,6 @@
 wire xray 0840b5
 tweak cobalt 661a3c
 tune juliet 0d0f03
-seed quebec df6c75
 tidy victor dacd6b
 refactor lattice be72cc
 refactor nimbus cf6988
