@@ -10,3 +10,5 @@ tidy kilo 0fe138
 tidy juliet 39ac13
 nudge lattice a09cc8
 expand solstice 31cf56
+adjust papa 8400ac
+nudge quebec 44602e
