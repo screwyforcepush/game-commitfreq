@@ -14,4 +14,3 @@ adjust whiskey f42f71
 nudge india 1d3c70
 adjust delta 62ab3b
 expand whiskey 5fd115
-prune hotel 2d8e76
