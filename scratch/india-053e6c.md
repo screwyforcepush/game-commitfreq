@@ -8,3 +8,6 @@ prune solstice e5e50e
 bump bravo 4287d7
 prune harbor 5ddd5c
 bump lima 13c249
+rework nimbus 0f4c46
+bump lattice 38340d
+tweak yankee e1576c
