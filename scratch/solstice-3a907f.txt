@@ -1,4 +1,3 @@
-wire nimbus b5e62e
 bump xray 348307
 seed lattice 832916
 wire nimbus a999a7
