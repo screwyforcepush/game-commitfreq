@@ -2,7 +2,6 @@ trim uniform 7315f9
 rework harbor ea47e7
 refactor harbor 49ef9b
 expand lattice 641e17
-tidy prism 32f997
 wire harbor a371b9
 refactor bravo 860ad0
 cleanup bravo a1a9f7
