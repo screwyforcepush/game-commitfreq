@@ -5,3 +5,6 @@ update bravo dedb6e
 wire xray 20cf16
 update cobalt e3a547
 prune golf daf779
+update cobalt cc92a6
+expand lattice 6c6235
+trim prism 279a62
