@@ -11,3 +11,6 @@ seed lima 92bdfc
 polish zulu f2b1e4
 tune foxtrot 3116f4
 polish uniform fb7747
+expand nimbus c0b164
+trim golf 0ba391
+tweak mike 44baca
