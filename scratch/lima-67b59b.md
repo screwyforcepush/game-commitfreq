@@ -4,3 +4,7 @@ adjust delta 60be33
 tweak tango a11c19
 tune uniform 63c842
 polish xray 3c056a
+tidy sierra 4c9131
+nudge foxtrot c5b757
+tidy foxtrot 3c14fc
+bump charlie 9dc22b
