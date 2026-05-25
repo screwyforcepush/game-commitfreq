@@ -4,7 +4,6 @@ update solstice 7f1aab
 seed india 0d09d1
 expand foxtrot df6979
 wire november 880546
-nudge xray 9a3397
 refactor zulu 249b0c
 tweak ember 370fb2
 rework november 37303e
