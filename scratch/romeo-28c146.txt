@@ -1,3 +1,0 @@
-tidy quebec 75398a
-seed sierra 32fdf6
-tweak romeo 1e78a4
