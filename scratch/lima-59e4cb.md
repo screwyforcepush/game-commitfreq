@@ -12,3 +12,5 @@ seed ember dcda65
 update solstice de9739
 tweak charlie 418f13
 wire lattice 3af480
+seed nimbus 5d6b02
+bump cobalt 4daa33
