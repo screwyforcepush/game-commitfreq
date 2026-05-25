@@ -3,7 +3,7 @@ update alpha 98217a
 cleanup zulu a4a38a
 tidy ember 0d851a
 tidy oscar 7629b7
-rework sierra 049928
+seed lattice cb0f65
 expand whiskey 7409cd
 adjust zulu e321ac
 prune prism 6c9c13
