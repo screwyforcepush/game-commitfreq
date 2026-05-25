@@ -4,3 +4,5 @@ update charlie 98c46c
 trim papa c3443a
 bump cobalt 792968
 tune nimbus c218d7
+prune echo 5dde68
+prune solstice dded6e
