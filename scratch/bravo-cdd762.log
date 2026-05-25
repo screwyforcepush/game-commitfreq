@@ -7,3 +7,6 @@ prune nimbus 166eeb
 wire prism 1bd098
 trim prism 92222a
 trim nimbus 02e2c9
+nudge victor 01ce1d
+polish uniform 58507c
+seed lima c62094
