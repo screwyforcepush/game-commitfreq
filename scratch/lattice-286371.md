@@ -3,7 +3,7 @@ prune romeo fdf0a3
 cleanup oscar 0e430d
 adjust victor 37b4e1
 cleanup papa 46dc48
-polish whiskey e7b0e1
+tidy kilo c36d47
 adjust charlie 7de65e
 prune solstice 725b49
 wire hotel ce8c12
