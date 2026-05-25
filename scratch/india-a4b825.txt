@@ -1,2 +1,6 @@
 refactor oscar 1b7b2f
 expand hotel 65674f
+rework juliet 4560fb
+adjust lattice 404f00
+expand whiskey f229d9
+cleanup nimbus 66eba3
