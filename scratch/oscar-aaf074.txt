@@ -3,5 +3,5 @@ tidy whiskey d6336b
 polish lattice 40210f
 tune bravo e47f60
 wire charlie bc921a
-polish quebec 0dcac4
+tune hotel 383a51
 cleanup mike 275067
