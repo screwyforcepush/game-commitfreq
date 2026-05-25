@@ -10,7 +10,6 @@ prune papa 0f2982
 expand alpha 07238e
 tidy kilo 184f0e
 seed delta 986f88
-adjust whiskey f42f71
 nudge india 1d3c70
 adjust delta 62ab3b
 expand whiskey 5fd115
