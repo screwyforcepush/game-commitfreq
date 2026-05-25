@@ -1,4 +1,3 @@
 wire ember 268e01
-wire solstice c47ec5
 trim hotel 5ce956
 bump november 16952a
