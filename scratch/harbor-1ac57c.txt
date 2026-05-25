@@ -8,3 +8,5 @@ expand charlie d8a83e
 adjust zulu d0bf0c
 bump tango b70845
 adjust victor 291c34
+trim romeo 76c558
+cleanup sierra 6d6915
