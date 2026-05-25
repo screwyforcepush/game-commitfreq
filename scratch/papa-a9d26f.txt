@@ -2,3 +2,6 @@ refactor juliet e7bf81
 seed bravo 46643b
 nudge quebec 36445a
 expand november 8b27b3
+trim echo bf0399
+trim mike f52207
+expand solstice cfd4f6
