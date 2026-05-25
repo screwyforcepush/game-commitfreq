@@ -3,6 +3,6 @@ tweak cobalt 661a3c
 tune juliet 0d0f03
 tidy victor dacd6b
 refactor lattice be72cc
-refactor nimbus cf6988
+nudge xray 6b397d
 trim nimbus 79418d
 tidy delta 6d08ee
