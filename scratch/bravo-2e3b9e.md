@@ -7,3 +7,5 @@ expand bravo d10b81
 wire prism a22001
 rework victor 2e2dda
 tidy uniform 12f6e5
+trim victor 76e2a2
+adjust india c6e0e2
