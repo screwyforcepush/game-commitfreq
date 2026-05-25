@@ -131251,3 +131251,4 @@ To https://github.com/screwyforcepush/game-commitfreq.git
 497/590  fix: tidy cobalt (8b9026)                     trim cobalt-d2c433.dat:2
 498/590  docs: adjust papa sierra                      drop victor-c19d74.md
 499/590  docs: prism reworks                           create cobalt-bff8a7.md
+500/590  fix: prune xray                               rename charlie-354817.csv -> xray-14d16f.log
