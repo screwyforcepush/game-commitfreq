@@ -1,4 +1,3 @@
-wire foxtrot 79d09c
 tune kilo 389a54
 nudge golf dd7c27
 tune charlie 0ac513
