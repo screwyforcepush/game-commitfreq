@@ -1,2 +1,6 @@
 tune nimbus e8f13d
 seed charlie e62e61
+nudge charlie eefa57
+adjust india d9d17a
+cleanup zulu 81ab42
+cleanup whiskey 84a4c1
