@@ -1,5 +1,0 @@
-trim delta 9e16bc
-trim cobalt a34dea
-wire uniform b3bb3f
-bump juliet 3bb429
-wire echo 805295
