@@ -10,3 +10,5 @@ expand whiskey 2e33bd
 nudge xray 8d1489
 bump zulu f90847
 adjust papa a50cd7
+tweak mike 6a94f9
+expand charlie 98659d
