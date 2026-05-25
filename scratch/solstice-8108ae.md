@@ -5,7 +5,7 @@ tune ember a06b22
 expand romeo 7f7f30
 trim prism 632189
 tune nimbus 67bf9e
-prune xray 37f1fb
+tune bravo b453e6
 nudge uniform 888886
 trim prism 67c2a2
 trim delta 3dcc73
