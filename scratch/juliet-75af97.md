@@ -1,2 +1,2 @@
 bump kilo 2e33df
-bump hotel ccc417
+cleanup quebec 22f25f
