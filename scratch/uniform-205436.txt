@@ -1,4 +1,3 @@
 adjust mike 3a50cb
-tune ember 150eee
 expand tango db6682
 trim foxtrot df2733
