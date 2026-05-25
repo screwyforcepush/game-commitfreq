@@ -1,1 +1,4 @@
 adjust oscar 685b8c
+prune bravo 9c576a
+prune sierra 7c34f6
+adjust lattice 773adc
