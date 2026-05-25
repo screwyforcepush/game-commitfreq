@@ -19,3 +19,4 @@ prune nimbus b59224
 polish charlie 9ebe3b
 tweak papa ed558e
 prune kilo 4f939b
+update xray 54812e
