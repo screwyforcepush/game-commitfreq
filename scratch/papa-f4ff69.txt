@@ -1,6 +1,5 @@
 wire nimbus 27881f
 bump yankee 768f83
-adjust papa 752352
 seed harbor de545c
 prune yankee 6000e8
 cleanup kilo 08569b
