@@ -1,6 +1,0 @@
-nudge solstice 2e666b
-bump yankee 47b2c0
-refactor india 9555c9
-refactor oscar 071f1a
-tweak foxtrot 37fdfd
-refactor tango 99777e
