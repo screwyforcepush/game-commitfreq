@@ -1,5 +1,0 @@
-wire oscar a2137e
-adjust delta 50327a
-refactor hotel 155a81
-nudge kilo 72f4d5
-wire lima df01ed
