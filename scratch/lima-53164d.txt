@@ -7,3 +7,5 @@ rework victor ab6de5
 wire prism 6fa965
 trim xray 895048
 wire echo d7b349
+update papa 82ad58
+tune alpha 7010be
