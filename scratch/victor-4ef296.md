@@ -5,3 +5,7 @@ cleanup papa 0eb2d0
 refactor lattice 20f12c
 wire foxtrot ab36d5
 trim alpha d5ec7a
+rework november 55c137
+wire whiskey dc3417
+tune delta dcd11b
+expand nimbus 5d98c9
