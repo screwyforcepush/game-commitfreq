@@ -15,3 +15,7 @@ tidy juliet f076b6
 expand alpha 1a0d5b
 tweak ember 8c8f12
 adjust mike 623869
+rework papa 63cb27
+wire zulu 8731fa
+wire foxtrot 02368d
+tidy zulu 8ab999
