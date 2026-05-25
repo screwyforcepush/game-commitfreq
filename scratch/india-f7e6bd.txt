@@ -1,3 +1,2 @@
 prune delta 092670
 adjust tango 0a18c4
-tidy solstice 6deff8
