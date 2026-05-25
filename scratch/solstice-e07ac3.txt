@@ -19,7 +19,6 @@ polish yankee 559fb5
 rework lattice 7e6f5c
 refactor cobalt b9340c
 wire foxtrot d24daf
-wire uniform f966a7
 prune charlie 9ec3c1
 tweak romeo fe1166
 nudge tango f55813
