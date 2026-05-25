@@ -11,3 +11,5 @@ wire delta 96efdb
 refactor whiskey 4067ff
 expand quebec a6fcc1
 bump quebec 88b60f
+polish oscar 4d6a9f
+trim kilo ddf600
