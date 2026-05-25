@@ -8,7 +8,6 @@ bump papa c018a3
 refactor yankee 540454
 tidy prism 321119
 cleanup xray 30bdf9
-tidy lima e0bbcc
 nudge lima ba84c8
 wire cobalt a7957e
 bump charlie 22c1a6
