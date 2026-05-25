@@ -7,3 +7,6 @@ expand india 192af6
 nudge yankee 5bb391
 nudge sierra 2f65e2
 refactor alpha d6e461
+refactor victor 3aa435
+expand whiskey 2e33bd
+nudge xray 8d1489
