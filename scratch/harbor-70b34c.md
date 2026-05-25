@@ -6,3 +6,7 @@ tune sierra 225533
 rework nimbus 376654
 polish harbor f5d0e0
 tidy papa 226b90
+tidy kilo 0fe138
+tidy juliet 39ac13
+nudge lattice a09cc8
+expand solstice 31cf56
