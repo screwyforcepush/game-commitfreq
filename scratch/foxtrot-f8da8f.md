@@ -9,3 +9,5 @@ tune oscar 20e0ad
 tune uniform db8b4e
 cleanup lattice 98dd17
 trim whiskey e23dbb
+prune kilo 8e6597
+seed lima fe3405
