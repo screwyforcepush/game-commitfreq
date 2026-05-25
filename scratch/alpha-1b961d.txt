@@ -7,7 +7,6 @@ tidy yankee 201891
 polish charlie 46c236
 refactor golf 660421
 cleanup solstice 279c23
-nudge victor d48cab
 prune quebec 9de122
 tweak sierra 8048ce
 tweak golf a651dc
