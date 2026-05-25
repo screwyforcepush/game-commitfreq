@@ -2,7 +2,6 @@ refactor tango 401a54
 refactor victor 64ad35
 update november a11531
 rework lattice 365f65
-rework solstice f9bfc4
 nudge golf 352f16
 nudge foxtrot 45ccb1
 tweak echo 41500d
