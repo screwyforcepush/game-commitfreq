@@ -1,4 +1,3 @@
-trim yankee 8b1578
 tidy prism d5b5aa
 prune delta 7af7a5
 adjust mike 87813e
