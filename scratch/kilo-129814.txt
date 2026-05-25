@@ -7,3 +7,4 @@ adjust solstice cbe330
 update hotel 5a55bd
 adjust alpha 5b7049
 tweak nimbus 096dfa
+cleanup xray ad00c7
