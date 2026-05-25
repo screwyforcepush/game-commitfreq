@@ -2,6 +2,6 @@ trim quebec 56c11e
 prune yankee 6150b5
 tweak nimbus 4a3468
 refactor tango c3a7f5
-seed hotel f5cb4f
+bump tango bf9327
 update echo b421c5
 tune quebec 69d3de
