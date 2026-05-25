@@ -10,3 +10,7 @@ tidy yankee ed42e5
 polish mike 620c32
 nudge oscar 6713dd
 tune harbor 76a6ff
+tidy whiskey 299dc2
+wire whiskey 3f01ee
+tidy lattice eb2a5c
+trim delta e94bd7
