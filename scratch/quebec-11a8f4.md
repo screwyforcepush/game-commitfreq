@@ -13,5 +13,4 @@ tweak hotel 1a9fe6
 prune charlie 990881
 expand quebec fc8bbc
 refactor lima e2b68f
-bump mike e363b4
 refactor sierra d12940
