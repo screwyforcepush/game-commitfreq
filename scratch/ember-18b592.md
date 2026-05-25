@@ -4,7 +4,6 @@ trim solstice 3496f6
 tidy victor 11e97e
 nudge xray 0994d7
 tune lattice c6ffa6
-trim lattice c4e551
 tidy golf 866a8a
 refactor tango 1c2ce7
 refactor charlie f15170
