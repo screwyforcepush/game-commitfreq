@@ -1,5 +1,4 @@
 seed kilo 4eddde
 wire hotel 8666a3
 bump alpha e59381
-wire echo 67eec2
 wire oscar ed0253
