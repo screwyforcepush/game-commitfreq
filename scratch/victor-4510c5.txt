@@ -18,7 +18,7 @@ bump papa 53e29c
 rework mike 83e485
 rework juliet bdac35
 expand nimbus 62666f
-refactor xray 056e3e
+prune zulu f811ec
 rework ember af8246
 bump golf 644fbb
 tweak victor 26caa7
