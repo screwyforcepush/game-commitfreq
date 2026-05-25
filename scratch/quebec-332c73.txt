@@ -10,3 +10,6 @@ trim sierra 8d0e09
 tidy tango e13cd5
 update kilo 2ee277
 update kilo e7e9d7
+wire ember f352e3
+prune whiskey e749a8
+expand whiskey e08c5c
