@@ -1,5 +1,4 @@
 tune sierra 4fd5b7
-polish delta 11c621
 refactor lattice 0df89d
 seed charlie 6852c2
 seed india 1f6a15
