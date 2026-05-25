@@ -4,7 +4,6 @@ wire alpha f78e28
 tweak solstice a21014
 tweak zulu 5ecf8a
 tune juliet 0ffff7
-trim alpha 2cdb00
 expand mike 83d915
 trim juliet aef0e6
 trim india 41aac8
