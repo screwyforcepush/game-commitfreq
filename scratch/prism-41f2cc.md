@@ -18,3 +18,6 @@ wire echo 1b210b
 tweak quebec 5ca82d
 tune prism df4b88
 tweak cobalt b3fc52
+adjust lattice 37f397
+tune lima 75577e
+seed papa f5ee2e
