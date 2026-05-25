@@ -1,3 +1,2 @@
-polish quebec 5f8231
 prune zulu b02cba
 rework sierra 696b9c
