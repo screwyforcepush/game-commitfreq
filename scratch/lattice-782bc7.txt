@@ -10,3 +10,5 @@ nudge oscar b41918
 refactor sierra f3a471
 nudge victor 2b9c50
 expand lima 3382a1
+trim solstice 188316
+trim bravo 4ac008
