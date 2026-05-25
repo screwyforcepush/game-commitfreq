@@ -1,6 +1,5 @@
 rework bravo bbbac1
 tidy whiskey d6336b
-polish lattice 40210f
 tune bravo e47f60
 wire charlie bc921a
 tune hotel 383a51
