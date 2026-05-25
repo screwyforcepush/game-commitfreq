@@ -4,3 +4,6 @@ tweak nimbus bc0c1d
 trim romeo 2855d7
 tune delta 5020e6
 adjust xray 6e201a
+polish india f7f64f
+bump yankee e79a28
+trim cobalt c9ce42
