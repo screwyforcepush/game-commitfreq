@@ -3,3 +3,5 @@ polish kilo b4c2b6
 update delta 0b3715
 tune quebec 1f01dd
 trim lattice 28f77b
+update papa 2cf0f5
+nudge nimbus 4c050e
