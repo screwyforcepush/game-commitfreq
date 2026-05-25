@@ -2,7 +2,7 @@ expand solstice 5b1031
 wire sierra 875ded
 adjust india 89fdb7
 wire romeo 3c9956
-update kilo d08269
+trim echo 0e078f
 tweak november 16ac3a
 tidy nimbus 02806c
 update foxtrot f79f19
