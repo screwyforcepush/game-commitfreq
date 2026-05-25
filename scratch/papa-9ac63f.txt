@@ -1,4 +1,4 @@
-wire quebec 99484e
+tune foxtrot 100e5a
 seed mike 493c82
 trim prism c6a96c
 bump uniform adc037
