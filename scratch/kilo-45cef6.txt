@@ -16,7 +16,7 @@ trim golf 0ba391
 tweak mike 44baca
 cleanup xray 1b84ab
 tweak quebec 265c09
-wire yankee 28fe3f
+rework oscar 76ef94
 bump kilo df1249
 prune alpha 57d72f
 polish victor 917561
