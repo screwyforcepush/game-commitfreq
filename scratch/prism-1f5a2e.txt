@@ -1,3 +1,5 @@
 rework delta bd7343
 tidy charlie 34c0cc
 tune lattice f7e294
+adjust papa 1ae2cd
+trim mike 0f65df
