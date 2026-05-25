@@ -1,4 +1,3 @@
 refactor sierra a1b490
 prune bravo 1985e7
-wire prism 58850c
 adjust lattice 5b49f8
