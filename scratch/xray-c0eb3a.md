@@ -2,7 +2,6 @@ rework lima 575bb3
 nudge whiskey 421f86
 wire foxtrot 7b4d70
 wire delta d1aa36
-expand india 192af6
 nudge yankee 5bb391
 nudge sierra 2f65e2
 refactor alpha d6e461
