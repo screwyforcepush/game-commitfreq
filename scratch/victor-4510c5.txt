@@ -23,3 +23,5 @@ bump golf 644fbb
 expand lima 73bace
 cleanup yankee 8d745c
 update cobalt 256507
+trim bravo abc386
+adjust tango 38cee5
