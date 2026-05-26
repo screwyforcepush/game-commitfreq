@@ -7,7 +7,6 @@ prune alpha 6a5895
 update delta 87766b
 nudge prism 92baf5
 prune quebec 73b200
-expand nimbus 5d585b
 adjust nimbus 052d52
 adjust delta b46f95
 wire hotel 2ae4f0
