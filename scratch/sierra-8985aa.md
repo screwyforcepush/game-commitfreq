@@ -3,3 +3,7 @@ trim solstice 1e4f63
 seed golf 1df5e1
 nudge romeo 4d3878
 adjust yankee d21895
+wire nimbus 1da8d9
+wire yankee 2b4142
+wire delta e215f1
+polish golf 2184f7
