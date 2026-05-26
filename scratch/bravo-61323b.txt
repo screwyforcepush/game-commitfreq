@@ -1,4 +1,0 @@
-prune uniform 92f49b
-tidy juliet 8f827b
-tidy zulu 9d6a47
-adjust india e61aab
