@@ -8,3 +8,4 @@ wire romeo e91e79
 adjust lattice 3f2958
 bump delta ee2ceb
 bump whiskey 563e68
+prune victor 051289
