@@ -7,3 +7,4 @@ prune ember def42d
 seed mike 08096d
 bump juliet 70fca5
 bump zulu ef333f
+nudge nimbus cdb61d
