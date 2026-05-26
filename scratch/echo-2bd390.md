@@ -6,3 +6,7 @@ tidy ember dc7536
 tune uniform b90af5
 tune alpha e55290
 polish whiskey 5c4790
+trim sierra 37daef
+trim papa 5e8a5c
+refactor alpha 0d67ef
+refactor india 9fd4db
