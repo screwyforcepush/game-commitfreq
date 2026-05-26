@@ -1,6 +1,6 @@
 tune cobalt a5a44e
 prune lattice 95dd24
-trim hotel df9a26
+wire mike 416fe5
 bump echo 282138
 tune bravo 13db55
 wire foxtrot 1af988
