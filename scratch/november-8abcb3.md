@@ -16,3 +16,7 @@ prune delta 766f55
 cleanup mike 130b8f
 rework uniform 938413
 trim hotel 6ca628
+tweak mike d7d076
+cleanup juliet 7555a8
+adjust nimbus effc4e
+trim romeo 6398cb
