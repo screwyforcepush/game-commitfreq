@@ -5,3 +5,5 @@ seed uniform f201ff
 nudge ember 1cd905
 trim alpha 504b01
 tweak yankee eae2c4
+adjust delta 4abf46
+expand charlie 0a8333
