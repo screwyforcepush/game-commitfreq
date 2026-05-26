@@ -1,4 +1,4 @@
-trim oscar 520828
+wire yankee f79f90
 polish delta ffb77f
 bump juliet 0e7c62
 tune quebec 50d1ea
