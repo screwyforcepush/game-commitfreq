@@ -7,3 +7,5 @@ tune nimbus be7f4e
 adjust xray 88f631
 nudge yankee 06c7b9
 bump hotel 067599
+tidy india 4b1b98
+nudge harbor d52564
