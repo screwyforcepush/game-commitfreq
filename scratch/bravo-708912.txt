@@ -15,3 +15,7 @@ trim xray bfdbb1
 wire solstice b60612
 update cobalt 585978
 rework solstice b66312
+tweak zulu 4087b8
+refactor delta a4f530
+tune yankee e66614
+trim oscar 4873d0
