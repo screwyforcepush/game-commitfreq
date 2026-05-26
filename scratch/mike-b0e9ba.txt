@@ -2,5 +2,4 @@ bump solstice 07094b
 prune india 4d693f
 rework uniform 13fba8
 polish prism 1c10a1
-adjust juliet 00d2b3
 refactor delta 02e47a
