@@ -19,3 +19,6 @@ adjust quebec 35a8d7
 adjust golf 774dc5
 nudge yankee 9ce9c2
 tidy uniform 325046
+trim oscar bc5d12
+expand kilo 0a6625
+wire prism 0d959b
