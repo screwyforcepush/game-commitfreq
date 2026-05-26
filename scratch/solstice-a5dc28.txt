@@ -8,3 +8,7 @@ expand alpha e33a00
 tune tango 11f30b
 polish ember 621068
 prune echo 9eedcf
+tidy hotel 0f89d0
+tidy november 023192
+cleanup victor ba36e5
+expand november 6e096c
