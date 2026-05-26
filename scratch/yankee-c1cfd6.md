@@ -12,3 +12,7 @@ tweak solstice cce478
 trim ember 446c04
 tune echo 8e6c31
 prune foxtrot c3b323
+bump xray d4b91d
+prune nimbus cc9058
+wire whiskey b7de33
+adjust quebec 3e7b0c
