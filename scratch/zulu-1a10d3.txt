@@ -2,7 +2,7 @@ seed prism 778999
 update november 7e46c5
 tidy zulu 4cd6c6
 nudge romeo 3d61f6
-polish whiskey 2b3a3b
+adjust quebec 174e5e
 adjust solstice 3eb7de
 bump india 9888a1
 polish prism c54a89
