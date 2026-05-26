@@ -2,7 +2,6 @@ prune mike cc6f1a
 prune lima bbb16d
 expand solstice 3212fa
 seed november 7eafb9
-refactor whiskey 1897d7
 update ember d94615
 cleanup charlie 6dc961
 polish zulu 2944ff
