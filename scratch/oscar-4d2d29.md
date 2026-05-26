@@ -3,3 +3,6 @@ tweak delta 73aafc
 adjust alpha ddecaa
 tweak charlie 0a685f
 update oscar 91008e
+polish quebec 04afea
+nudge mike 1e49e2
+wire sierra 94453c
