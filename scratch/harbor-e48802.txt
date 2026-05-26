@@ -1,4 +1,3 @@
-update victor 687529
 wire whiskey 16c43c
 rework bravo e2f463
 polish quebec c424c0
