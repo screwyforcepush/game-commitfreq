@@ -11,6 +11,6 @@ cleanup kilo faf018
 prune cobalt 4ca9bb
 tweak bravo d5d129
 rework sierra 4fdd37
-tune juliet 716c99
+trim quebec 50553f
 rework ember 5fb623
 update lattice 847545
