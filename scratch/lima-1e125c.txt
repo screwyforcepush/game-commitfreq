@@ -3,3 +3,5 @@ adjust victor 194063
 trim oscar 8bbecc
 trim echo 53890e
 cleanup quebec 26fd90
+wire oscar e658f7
+update quebec fbf5d7
