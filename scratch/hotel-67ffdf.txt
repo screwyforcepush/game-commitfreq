@@ -6,3 +6,7 @@ expand delta c51e76
 prune golf 0cbc05
 adjust uniform 4e0d78
 adjust yankee 9273de
+update xray f0aa00
+cleanup nimbus 8a7d34
+nudge victor 041c85
+refactor kilo ca03ee
