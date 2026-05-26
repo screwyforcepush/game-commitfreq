@@ -6,5 +6,4 @@ tidy solstice 8a3784
 seed golf f7ab2b
 tidy ember 12cd56
 expand ember 88973a
-rework hotel f5bd61
 tidy delta d0bc86
