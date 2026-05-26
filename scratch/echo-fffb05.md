@@ -1,4 +1,4 @@
-rework alpha 288a40
+prune foxtrot bae1c8
 expand romeo 26a00a
 tune charlie b18164
 cleanup kilo 676c14
