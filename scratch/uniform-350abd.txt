@@ -1,5 +1,4 @@
 bump mike 486499
 trim sierra e82e2e
 expand charlie 9e3d6f
-bump november 2ca66e
 tweak xray ba5912
