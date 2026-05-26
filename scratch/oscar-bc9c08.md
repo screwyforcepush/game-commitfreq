@@ -5,3 +5,5 @@ nudge romeo 59a8e1
 polish whiskey a53184
 tune golf 0a1f10
 tune alpha 9bec93
+adjust hotel a5ce43
+trim xray aceb78
