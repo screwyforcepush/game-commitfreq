@@ -1,4 +1,3 @@
 prune kilo 93c7f2
-nudge oscar 47e045
 seed sierra cd436f
 tune lima dd3861
