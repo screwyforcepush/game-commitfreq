@@ -1,3 +1,0 @@
-trim uniform 378972
-trim foxtrot f1c084
-tweak charlie 1fd7a0
