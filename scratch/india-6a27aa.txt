@@ -2,5 +2,4 @@ bump oscar 3a72e2
 trim juliet 86feb6
 polish oscar 7111f7
 adjust echo bad435
-polish november 76af76
 trim kilo c56a99
