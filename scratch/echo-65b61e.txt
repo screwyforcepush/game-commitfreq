@@ -1,7 +1,6 @@
 update mike f8e4fe
 adjust nimbus 0f3f0e
 seed sierra dacba0
-wire nimbus a6989c
 update juliet 5ef450
 nudge cobalt cd59b6
 tweak lima 2006cc
