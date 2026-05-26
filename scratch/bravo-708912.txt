@@ -9,3 +9,7 @@ refactor hotel b20f18
 expand cobalt 684c1c
 adjust yankee e6c26e
 polish lima f897f9
+cleanup hotel 359c31
+cleanup cobalt c55620
+trim xray bfdbb1
+wire solstice b60612
