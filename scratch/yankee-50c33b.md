@@ -5,3 +5,7 @@ wire uniform b64ade
 tweak oscar 08bb82
 wire sierra b666ab
 tweak delta ff8901
+trim charlie c21cce
+cleanup foxtrot e15fd3
+bump india 204e0f
+refactor hotel 6cf7ba
