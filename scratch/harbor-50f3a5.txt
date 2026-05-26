@@ -1,2 +1,5 @@
 bump oscar 19b11e
 wire nimbus 83a604
+update oscar a47c68
+trim foxtrot cbc002
+update harbor 3e5248
