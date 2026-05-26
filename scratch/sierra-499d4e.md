@@ -1,7 +1,7 @@
 adjust charlie f56aab
 seed ember e89c52
 rework sierra 905588
-seed solstice bdac54
+rework kilo fafa81
 nudge foxtrot fd578f
 adjust cobalt 177b68
 rework whiskey 6b97f3
