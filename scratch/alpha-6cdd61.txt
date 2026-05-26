@@ -3,3 +3,6 @@ polish papa 92d25e
 bump tango 3f6b48
 update quebec 8ff96b
 tidy solstice 8a3784
+seed golf f7ab2b
+polish xray 1596ac
+tune oscar 7d0042
