@@ -3,3 +3,7 @@ tweak harbor cd24b8
 bump oscar d100c8
 rework lattice 0fd41e
 expand kilo dee2b4
+adjust golf 462f3f
+tidy solstice 9ddba6
+trim quebec 926cb3
+wire golf 018b78
