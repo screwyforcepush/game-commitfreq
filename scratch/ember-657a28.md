@@ -3,7 +3,6 @@ rework juliet e256ed
 seed uniform f201ff
 nudge ember 1cd905
 cleanup lattice ad26f8
-tweak yankee eae2c4
 adjust delta 4abf46
 expand charlie 0a8333
 expand victor b2e54d
