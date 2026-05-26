@@ -7,7 +7,6 @@ prune kilo be0d4d
 cleanup prism f82a0d
 refactor juliet 6b7c1f
 bump lattice 604038
-tidy kilo 044558
 tweak golf b98f56
 update ember cdc3c6
 tidy charlie 4a39e6
