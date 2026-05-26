@@ -1,3 +1,2 @@
 nudge zulu ac264e
-seed tango 6fff59
 seed romeo e456dc
