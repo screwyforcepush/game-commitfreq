@@ -6,3 +6,7 @@ bump bravo 9d23b8
 nudge quebec 7cc496
 seed alpha 738e07
 prune tango 90516c
+trim bravo c4cbd9
+cleanup solstice 84959f
+adjust sierra 1d07a0
+tweak prism 3060e2
