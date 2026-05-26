@@ -1,5 +1,5 @@
 tune sierra 04f6ae
-cleanup delta 68c33b
+trim papa 386e9d
 rework solstice 43e78d
 tidy lattice 7b50fe
 cleanup hotel a4b534
