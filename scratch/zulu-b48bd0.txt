@@ -1,6 +1,0 @@
-polish november ac0df7
-rework juliet b7ff56
-wire yankee 45e5aa
-polish charlie 8144a9
-update delta 508241
-adjust uniform a743bd
