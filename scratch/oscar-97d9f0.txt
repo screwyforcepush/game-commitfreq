@@ -4,3 +4,7 @@ wire alpha ed8fd4
 tweak prism 2160a8
 nudge kilo 450668
 rework zulu 421f4f
+tweak prism 4650f3
+seed nimbus f498f7
+refactor sierra c400fc
+adjust xray effecf
