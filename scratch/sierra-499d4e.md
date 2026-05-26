@@ -13,7 +13,6 @@ expand hotel b556d7
 expand yankee 963c5d
 tweak lattice 7d7cc7
 rework romeo f1eea5
-tweak quebec 49d6ea
 bump yankee eef6a9
 tidy victor dd950e
 wire nimbus 5a202e
