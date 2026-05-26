@@ -7,3 +7,4 @@ seed zulu 8f3ff8
 tune golf 3684df
 seed lattice d4de14
 update zulu 38906a
+nudge quebec 9683ee
