@@ -1,4 +1,0 @@
-adjust kilo f4ac31
-seed harbor 1571fd
-seed charlie c19664
-tune charlie 415e57
