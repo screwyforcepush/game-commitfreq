@@ -6,3 +6,4 @@ cleanup echo fb8cd4
 tune whiskey f0edc5
 seed lattice 5c925d
 trim victor fd3957
+tune foxtrot 1c0762
