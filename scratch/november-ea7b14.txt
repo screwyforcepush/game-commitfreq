@@ -2,3 +2,6 @@ adjust alpha bde662
 expand mike 5709be
 wire foxtrot 33a953
 bump hotel bd027c
+polish charlie 1291cf
+prune golf 0eb2b1
+tidy charlie 8a4fa4
