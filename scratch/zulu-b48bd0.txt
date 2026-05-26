@@ -1,5 +1,4 @@
 polish november ac0df7
 rework juliet b7ff56
-wire sierra 8d4934
 wire yankee 45e5aa
 update lattice 94e6e9
