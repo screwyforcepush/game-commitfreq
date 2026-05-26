@@ -12,3 +12,5 @@ tidy ember d4651a
 polish foxtrot 6e6cff
 rework india fe02c1
 bump solstice 74a7ec
+trim delta 8fb53e
+nudge hotel 312eae
