@@ -5,3 +5,6 @@ bump lattice 409b9d
 tune alpha 76fd3a
 tidy charlie b8e32b
 tweak foxtrot bf2962
+bump mike 0487f7
+prune tango 29dbf4
+seed mike 637b35
