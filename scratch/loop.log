@@ -141475,3 +141475,4 @@ To https://github.com/screwyforcepush/game-commitfreq.git
 303/606  fix: tune juliet juliet                       drop prism-0bf7db.dat
 304/606  fix: oscar trims                              modify juliet-640ffc.csv:5
 305/606  docs: cleanup prism ember                     append quebec-b9e87e.csv
+306/606  wip: foxtrot trims                            append prism-831ee6.csv
