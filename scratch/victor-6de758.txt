@@ -5,4 +5,3 @@ tune india 32c0c1
 polish oscar 6c0508
 cleanup xray a8ca1b
 trim tango edbdf4
-polish quebec 2c1d25
