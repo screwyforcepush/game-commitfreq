@@ -1,2 +1,1 @@
-prune echo 051c89
 update zulu 00c2ef
