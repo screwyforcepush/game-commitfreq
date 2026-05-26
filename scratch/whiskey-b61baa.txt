@@ -4,3 +4,6 @@ trim hotel df9a26
 bump echo 282138
 tune bravo 13db55
 wire foxtrot 1af988
+rework yankee 160f62
+adjust kilo 8670ba
+bump kilo f90e33
