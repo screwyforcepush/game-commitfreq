@@ -1,4 +1,3 @@
-seed romeo 6ca7d0
 bump kilo 126216
 update sierra 9b7dc2
 nudge charlie 12cb79
