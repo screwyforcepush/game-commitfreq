@@ -1,4 +1,3 @@
-trim hotel 128b65
 polish hotel 1e9fb4
 tweak lattice 144a24
 nudge delta fca203
