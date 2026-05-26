@@ -1,4 +1,4 @@
-tune hotel d69fbd
+trim echo 39e580
 wire echo 3f611f
 nudge delta b6d834
 tweak foxtrot 067c8a
