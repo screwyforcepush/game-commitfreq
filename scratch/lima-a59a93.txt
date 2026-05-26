@@ -1,2 +1,1 @@
 update whiskey 9d765c
-wire hotel 62a913
