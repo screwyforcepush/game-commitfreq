@@ -3,7 +3,7 @@ polish papa ac82e6
 rework juliet e256ed
 seed uniform f201ff
 nudge ember 1cd905
-trim alpha 504b01
+cleanup lattice ad26f8
 tweak yankee eae2c4
 adjust delta 4abf46
 expand charlie 0a8333
