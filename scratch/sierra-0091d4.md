@@ -7,3 +7,5 @@ adjust golf 462f3f
 adjust uniform c0e58f
 trim quebec 926cb3
 wire golf 018b78
+tidy november 035637
+prune prism f56e82
