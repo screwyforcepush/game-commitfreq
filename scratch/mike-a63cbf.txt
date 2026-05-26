@@ -7,3 +7,6 @@ tidy india d81ae9
 prune yankee 28c1c1
 expand ember 3bd067
 rework charlie 1f55ef
+tweak uniform 5d5645
+adjust india 9fd5cf
+tune delta 7c3c88
