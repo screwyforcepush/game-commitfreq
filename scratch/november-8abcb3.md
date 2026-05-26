@@ -14,3 +14,5 @@ nudge yankee 975024
 cleanup bravo 2f4b06
 prune delta 766f55
 cleanup mike 130b8f
+rework uniform 938413
+trim hotel 6ca628
