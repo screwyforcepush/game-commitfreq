@@ -11,3 +11,5 @@ cleanup ember d41225
 cleanup uniform 7ef0d9
 rework xray 4f7aa2
 tune hotel a61294
+adjust xray 3f4e1a
+adjust solstice a087e7
