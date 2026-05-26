@@ -1,4 +1,3 @@
-update november 1f02ba
 refactor charlie 8a6f44
 nudge ember 183cd2
 seed solstice fdd2f4
