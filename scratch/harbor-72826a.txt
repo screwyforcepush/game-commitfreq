@@ -1,4 +1,4 @@
-seed cobalt 459c60
+nudge delta dacbaf
 adjust solstice e7a82f
 wire mike 8096df
 tweak tango cd4d44
