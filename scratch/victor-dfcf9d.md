@@ -20,3 +20,5 @@ nudge foxtrot ec7d08
 tidy november d5ed8c
 polish kilo c987f2
 bump lattice 38c6f9
+bump solstice 600148
+prune victor dc63ed
