@@ -18,3 +18,5 @@ bump sierra 09a5ef
 cleanup kilo 6c77ba
 tweak cobalt e36ab4
 nudge foxtrot ec7d08
+tidy november d5ed8c
+polish kilo c987f2
