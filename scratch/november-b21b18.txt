@@ -1,5 +1,5 @@
 tune nimbus 2426c1
-seed solstice 6263cf
+expand hotel ceeaf2
 polish zulu 12a44a
 seed foxtrot 5fe6ec
 update solstice 7a6500
