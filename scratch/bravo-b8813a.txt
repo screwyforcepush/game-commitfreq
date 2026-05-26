@@ -3,7 +3,6 @@ adjust mike 5ff892
 seed victor 40efc7
 seed alpha fa3a5f
 expand uniform fadea3
-rework whiskey f02258
 expand victor 228fa3
 wire papa 4b0b88
 cleanup delta ea4cc2
