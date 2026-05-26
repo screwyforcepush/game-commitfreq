@@ -8,3 +8,7 @@ nudge sierra 26037a
 tune oscar bb3b14
 expand delta 934393
 cleanup victor 4ee58d
+rework victor 65da76
+rework yankee 2d0fd9
+expand delta 4509d5
+adjust harbor 226cf3
