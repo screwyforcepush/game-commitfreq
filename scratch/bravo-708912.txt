@@ -3,3 +3,5 @@ seed prism 203ee3
 rework papa 1df7fd
 tidy november bb9f55
 seed prism e51fd2
+adjust quebec 35a946
+update ember 61c7a0
