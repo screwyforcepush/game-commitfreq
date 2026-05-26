@@ -7,3 +7,5 @@ seed delta ef7898
 trim uniform 73c5ac
 expand charlie 0b8cc4
 tune cobalt b291d0
+wire xray 3a776b
+nudge india 7f3166
