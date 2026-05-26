@@ -14,7 +14,6 @@ tweak charlie ce833a
 bump alpha bce003
 bump yankee b6ddee
 adjust november 0dd9df
-rework victor fa23df
 adjust quebec 35a8d7
 adjust golf 774dc5
 nudge yankee 9ce9c2
