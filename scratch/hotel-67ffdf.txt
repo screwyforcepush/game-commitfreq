@@ -6,7 +6,6 @@ expand delta c51e76
 prune golf 0cbc05
 adjust uniform 4e0d78
 adjust yankee 9273de
-cleanup nimbus 8a7d34
 refactor kilo ca03ee
 tweak echo e58df6
 tweak lattice adf7e0
