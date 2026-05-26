@@ -1,2 +1,2 @@
-seed golf 464f48
+bump xray 8b626b
 tweak victor 68ba1d
