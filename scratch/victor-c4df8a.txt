@@ -6,3 +6,7 @@ cleanup charlie 21b9e5
 expand whiskey 48f389
 tweak alpha 3410d9
 polish whiskey 10973b
+rework foxtrot e4b554
+tune zulu 31981a
+prune sierra 33e064
+wire delta a344d9
