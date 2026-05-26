@@ -26,3 +26,7 @@ update lattice 848db8
 wire lima a4b4a7
 cleanup papa a36c95
 rework oscar 74342d
+seed bravo 70a2c3
+tweak mike a8d7da
+tune lattice 30a8b6
+bump harbor 385e23
