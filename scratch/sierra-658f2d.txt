@@ -11,7 +11,6 @@ tune foxtrot 3b8cc1
 cleanup bravo 4f83d8
 update solstice de9739
 tweak charlie 418f13
-bump cobalt 4daa33
 tweak prism 730f2a
 rework tango 78edf3
 expand echo 076bfb
