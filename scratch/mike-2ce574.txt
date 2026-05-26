@@ -4,5 +4,4 @@ nudge zulu 06e733
 adjust sierra 4f6cdc
 tune alpha 6b1953
 rework zulu 18330b
-adjust hotel 1695a4
 adjust charlie 0ab890
