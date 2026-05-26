@@ -6,3 +6,6 @@ rework xray 2817e7
 trim charlie 30a81e
 seed quebec 80bf2a
 update tango b6e6f6
+trim kilo cc96a6
+trim november 0d09bd
+trim juliet a9ba93
