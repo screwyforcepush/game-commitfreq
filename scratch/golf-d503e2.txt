@@ -1,2 +1,5 @@
 tweak prism 95f2eb
 trim solstice 8e2fc9
+trim zulu 64b84c
+seed uniform 47d2f9
+tune kilo 73f2cf
