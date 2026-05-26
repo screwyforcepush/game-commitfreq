@@ -1,7 +1,6 @@
 bump oscar 19b11e
 tweak yankee 959a2d
 update oscar a47c68
-trim foxtrot cbc002
 update harbor 3e5248
 rework xray 35586e
 wire november 1f5aa4
