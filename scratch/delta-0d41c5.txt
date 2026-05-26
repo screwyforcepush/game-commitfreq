@@ -1,2 +1,5 @@
 adjust echo a917e1
 wire sierra c65869
+rework charlie 51cc6d
+trim yankee 745f8e
+tweak juliet f1d45e
