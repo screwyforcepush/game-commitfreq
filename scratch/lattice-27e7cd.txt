@@ -10,3 +10,7 @@ polish tango ffb1d6
 trim lima c500ad
 seed foxtrot 720be8
 seed charlie ff6d56
+bump xray 8a8560
+tidy quebec 8ab879
+trim tango c38aaa
+tidy whiskey a58960
