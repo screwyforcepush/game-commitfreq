@@ -11,3 +11,5 @@ bump charlie 4d517b
 expand xray 16bfad
 nudge papa d43347
 wire charlie bbcd38
+tune delta 11f4e5
+trim quebec 34cff7
