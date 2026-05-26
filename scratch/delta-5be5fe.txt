@@ -3,7 +3,7 @@ trim papa 0bef32
 expand kilo 22b5cb
 seed kilo 5f6192
 wire lattice 4f9e07
-seed zulu 8f3ff8
+wire solstice 6b0995
 tune golf 3684df
 seed lattice d4de14
 update zulu 38906a
