@@ -14,3 +14,5 @@ polish cobalt 349228
 trim cobalt 1c1b96
 tidy echo f9902d
 adjust nimbus 6538b6
+polish tango a35e60
+seed lattice 9c1fa5
