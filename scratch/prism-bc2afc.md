@@ -7,6 +7,5 @@ polish sierra 355e8b
 cleanup ember 4a6867
 update echo 795057
 tidy charlie 3ac948
-prune ember a1e6ba
 rework foxtrot a1ac81
 adjust delta fabd2c
