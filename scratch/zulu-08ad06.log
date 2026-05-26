@@ -5,3 +5,6 @@ seed november e0fa2f
 prune xray bb89bc
 nudge delta 919c93
 prune whiskey 99afb1
+nudge harbor 74a38c
+wire quebec dc9008
+wire victor 491ff3
