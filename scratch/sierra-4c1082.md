@@ -8,3 +8,4 @@ wire tango e57cb1
 seed zulu 97c64c
 seed victor 812b83
 bump ember a5d1d8
+wire cobalt f7df14
