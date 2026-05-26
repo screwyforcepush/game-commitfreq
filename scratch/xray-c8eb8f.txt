@@ -1,3 +1,0 @@
-prune echo 26f441
-prune ember 6d57f4
-update papa b4891d
