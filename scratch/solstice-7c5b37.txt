@@ -2,6 +2,6 @@ rework foxtrot bd2cf1
 trim ember 27e890
 prune uniform 7f7524
 prune nimbus 073943
-adjust bravo 0ff6da
+bump xray 0bffb7
 update uniform 9d6221
 cleanup delta 974f5d
