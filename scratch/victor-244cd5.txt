@@ -1,5 +1,4 @@
 expand lattice 26fe1b
-update echo bc7cd7
 update india 07eb13
 bump juliet 15f9c8
 refactor charlie 95e1f5
