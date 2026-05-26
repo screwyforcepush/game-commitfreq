@@ -1,6 +1,0 @@
-seed yankee c44ab0
-bump romeo b790d2
-tweak papa 1ec4c6
-refactor quebec 21d266
-cleanup zulu 9c6839
-update lima 0e3003
