@@ -1,5 +1,0 @@
-cleanup lattice dbb56e
-tweak sierra 3147c3
-seed oscar 212c7b
-seed lattice 34f7ea
-tidy tango 706a3b
