@@ -1,6 +1,5 @@
 update uniform 7a297b
 tidy delta 5cb8bc
 tune charlie 3c1b46
-trim delta 278c06
 polish echo df6ad5
 seed alpha 7e98aa
