@@ -6,5 +6,4 @@ wire sierra b666ab
 trim charlie c21cce
 cleanup foxtrot e15fd3
 bump india 204e0f
-refactor hotel 6cf7ba
 bump delta c68071
