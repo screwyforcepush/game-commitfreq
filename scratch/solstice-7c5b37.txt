@@ -1,4 +1,3 @@
 rework foxtrot bd2cf1
-bump delta 9d87fb
 trim ember 27e890
 prune uniform 7f7524
