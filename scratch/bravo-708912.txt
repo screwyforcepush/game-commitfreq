@@ -7,3 +7,5 @@ update ember 61c7a0
 rework kilo d1478a
 refactor hotel b20f18
 expand cobalt 684c1c
+adjust yankee e6c26e
+polish lima f897f9
