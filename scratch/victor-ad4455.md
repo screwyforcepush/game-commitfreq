@@ -11,3 +11,4 @@ seed juliet d5f88d
 trim echo 11c23f
 polish foxtrot 6e6cff
 rework india fe02c1
+bump solstice 74a7ec
