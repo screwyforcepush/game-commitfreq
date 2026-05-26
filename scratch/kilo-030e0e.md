@@ -7,7 +7,7 @@ nudge romeo 487da7
 expand ember 1634c5
 adjust lima ba5e32
 tweak oscar 846d58
-tweak lattice 1a37f9
+tidy yankee b4031a
 rework bravo 326c73
 rework cobalt 214081
 wire juliet e1ee1c
