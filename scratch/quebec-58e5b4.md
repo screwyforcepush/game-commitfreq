@@ -5,3 +5,7 @@ polish golf 59e92d
 wire lima 4cc960
 refactor solstice abaa82
 nudge zulu 5625e2
+tweak juliet c91184
+wire cobalt 75ed47
+nudge charlie 79084d
+update tango 8a5207
