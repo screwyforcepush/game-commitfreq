@@ -6,3 +6,6 @@ cleanup papa a2c927
 wire zulu 4b4f99
 update juliet c7b214
 bump delta 19fdbd
+adjust papa 9586a2
+adjust mike 922a12
+expand charlie 74b6df
