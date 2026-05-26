@@ -4,7 +4,6 @@ prune kilo ab2b9a
 tidy romeo 00ec29
 update uniform 8ec0eb
 cleanup nimbus caa311
-rework prism 494d10
 refactor tango 595387
 cleanup foxtrot dcd5cb
 adjust oscar fcc12b
