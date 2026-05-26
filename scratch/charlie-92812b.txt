@@ -9,3 +9,5 @@ trim bravo c4cbd9
 cleanup solstice 84959f
 adjust sierra 1d07a0
 tweak prism 3060e2
+seed lattice 36745d
+tweak quebec 59d765
