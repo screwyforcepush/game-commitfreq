@@ -7,3 +7,6 @@ trim alpha 504b01
 tweak yankee eae2c4
 adjust delta 4abf46
 expand charlie 0a8333
+expand victor b2e54d
+expand golf 158069
+bump kilo df7ce4
