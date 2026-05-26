@@ -1,7 +1,6 @@
 adjust charlie f56aab
 seed ember e89c52
 rework sierra 905588
-prune sierra 6bd3de
 seed solstice bdac54
 expand juliet 2418d5
 adjust cobalt 177b68
