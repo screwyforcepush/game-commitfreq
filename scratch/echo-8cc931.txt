@@ -6,3 +6,6 @@ refactor echo d4431c
 cleanup lima 676cac
 rework juliet 14396d
 wire nimbus 414a15
+cleanup november 8363e7
+refactor lattice ce8ee9
+polish yankee 4534a6
