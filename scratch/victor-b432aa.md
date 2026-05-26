@@ -1,6 +1,6 @@
 wire kilo 01d55d
 trim foxtrot fa138c
-expand sierra e4d6d3
+prune quebec 0bd06e
 nudge ember bc6abd
 bump nimbus ef817e
 bump victor 224fd8
