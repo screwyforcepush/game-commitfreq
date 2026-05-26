@@ -16,3 +16,7 @@ tidy echo f9902d
 adjust nimbus 6538b6
 polish tango a35e60
 seed lattice 9c1fa5
+rework romeo ef4ec4
+rework alpha 221f2f
+polish tango 8df092
+tweak bravo 8344d0
