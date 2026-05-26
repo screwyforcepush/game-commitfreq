@@ -4,7 +4,7 @@ prune uniform 7f7524
 prune nimbus 073943
 bump xray 0bffb7
 update uniform 9d6221
-cleanup delta 974f5d
+update oscar 500a1a
 tweak xray 1b4b83
 tune golf 8477a0
 trim papa ed55b8
