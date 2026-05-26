@@ -140280,3 +140280,4 @@ To https://github.com/screwyforcepush/game-commitfreq.git
 350/363  docs: rework yankee (cb4e49)                  rename lima-a59a93.txt -> yankee-e89b64.dat
 351/363  build: polish prism                           drop papa-142e8e.txt
 352/363  fix: india tweaks                             drop romeo-80219d.md
+353/363  fix: prune india (0584f1)                     create prism-218f4a.log
