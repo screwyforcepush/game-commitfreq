@@ -1,4 +1,3 @@
-adjust papa 5d1053
 adjust oscar 18ef67
 tweak prism 61900e
 cleanup nimbus ea3add
