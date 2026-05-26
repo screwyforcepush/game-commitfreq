@@ -6,3 +6,5 @@ update oscar 91008e
 polish quebec 04afea
 nudge mike 1e49e2
 wire sierra 94453c
+tune bravo 9ab44e
+bump sierra 86e390
