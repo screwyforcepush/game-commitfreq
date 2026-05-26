@@ -3,3 +3,7 @@ expand india 1db20d
 refactor victor 4ba8fd
 tidy alpha 8fce29
 tidy bravo fce4b3
+rework mike 05f937
+tune mike 0fba18
+rework foxtrot 63097a
+adjust yankee 0e2a94
