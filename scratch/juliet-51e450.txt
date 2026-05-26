@@ -1,3 +1,7 @@
 tidy uniform 61808c
 tune tango adad2c
 adjust zulu 73161e
+expand delta 72f6b0
+tweak sierra beb988
+expand cobalt 23a9a4
+tune quebec bd58b3
