@@ -8,3 +8,6 @@ cleanup nimbus caa311
 rework prism 494d10
 refactor tango 595387
 cleanup foxtrot dcd5cb
+adjust oscar fcc12b
+tune solstice f81fbd
+prune echo 77cbf5
