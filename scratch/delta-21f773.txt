@@ -1,5 +1,0 @@
-tweak sierra 35571e
-tune sierra 651ba3
-polish delta 9294ad
-refactor tango 7dcbc8
-tidy lattice 64b55a
