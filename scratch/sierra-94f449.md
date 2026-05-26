@@ -1,4 +1,3 @@
-adjust ember e0d92e
 cleanup whiskey 80d853
 cleanup nimbus 2c2650
 wire mike 28b9f5
