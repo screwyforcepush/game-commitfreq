@@ -1,6 +1,5 @@
 prune lattice 0012f1
 refactor bravo a64f8a
-refactor whiskey ec91f3
 polish tango b3cefb
 refactor harbor 6ecaee
 trim alpha 1477d4
