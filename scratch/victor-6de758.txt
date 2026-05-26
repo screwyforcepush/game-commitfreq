@@ -3,3 +3,6 @@ prune november eeb5d5
 update mike c3471f
 tune india 32c0c1
 tidy echo 22af51
+cleanup xray a8ca1b
+trim tango edbdf4
+polish quebec 2c1d25
