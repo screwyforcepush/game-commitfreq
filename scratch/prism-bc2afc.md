@@ -8,3 +8,6 @@ cleanup ember 4a6867
 polish oscar 57f949
 tidy charlie 3ac948
 prune ember a1e6ba
+polish yankee 5ee0b1
+rework foxtrot a1ac81
+adjust delta fabd2c
