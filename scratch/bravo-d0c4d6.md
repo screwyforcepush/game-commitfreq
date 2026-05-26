@@ -8,3 +8,5 @@ polish whiskey 89abf7
 refactor ember 49d496
 tune oscar 85f8a4
 polish juliet 91ebf9
+update yankee 4d0589
+cleanup quebec fc11a3
