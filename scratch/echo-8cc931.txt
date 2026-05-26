@@ -5,3 +5,4 @@ tweak echo 88275a
 refactor echo d4431c
 cleanup lima 676cac
 rework juliet 14396d
+wire nimbus 414a15
