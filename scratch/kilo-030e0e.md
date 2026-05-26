@@ -8,3 +8,6 @@ expand ember 1634c5
 adjust lima ba5e32
 tweak oscar 846d58
 tweak lattice 1a37f9
+rework bravo 326c73
+rework cobalt 214081
+wire juliet e1ee1c
