@@ -6,3 +6,5 @@ rework yankee 5c9d3a
 trim victor bda02f
 tune india 3fb3f1
 adjust charlie 8aa018
+polish echo 82a4c9
+nudge solstice 12dd31
