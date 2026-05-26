@@ -13,3 +13,5 @@ cleanup hotel 359c31
 cleanup cobalt c55620
 trim xray bfdbb1
 wire solstice b60612
+update cobalt 585978
+rework solstice b66312
