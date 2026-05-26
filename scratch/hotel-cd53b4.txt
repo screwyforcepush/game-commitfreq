@@ -7,7 +7,6 @@ refactor papa 7eb9b1
 tweak echo 0903bc
 polish zulu 0c1e60
 seed yankee 213393
-trim sierra 2b80b0
 polish foxtrot 275c69
 cleanup romeo cd1a05
 bump tango 1556b8
