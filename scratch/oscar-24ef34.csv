@@ -4,3 +4,5 @@ seed echo c1d2b8
 tune uniform 170bd3
 seed nimbus ce7473
 trim nimbus 9fe55c
+tweak golf df8f8e
+wire uniform e909f6
