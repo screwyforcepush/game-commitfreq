@@ -6,3 +6,7 @@ tweak prism 5da5ae
 trim zulu f2c67c
 rework india 5554c3
 cleanup ember ef4584
+tune cobalt 848d0b
+adjust delta cab09d
+tune kilo 6e083a
+tidy lima bc7197
