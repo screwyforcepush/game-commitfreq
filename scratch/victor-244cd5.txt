@@ -1,7 +1,6 @@
 expand lattice 26fe1b
 update india 07eb13
 bump juliet 15f9c8
-refactor charlie 95e1f5
 refactor quebec 66c93d
 bump sierra 6a8760
 prune alpha 3ed332
