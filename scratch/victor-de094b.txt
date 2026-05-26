@@ -3,4 +3,4 @@ tidy sierra a01b87
 cleanup romeo c74c33
 nudge cobalt 8f82c6
 nudge tango bfe58e
-rework lattice 103c95
+tidy bravo 5b4161
