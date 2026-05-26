@@ -5,3 +5,6 @@ nudge zulu 224946
 rework solstice 4d0833
 expand yankee fe749b
 trim zulu e77164
+trim romeo 566ee3
+tidy echo f1865a
+polish delta 46f916
