@@ -4,3 +4,7 @@ tweak delta c5c269
 polish kilo 0a2b01
 refactor cobalt 6f16c9
 polish ember 0c1784
+cleanup ember d69e40
+refactor november 093d6d
+update lattice f4184b
+rework mike 454e27
