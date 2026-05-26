@@ -7,3 +7,7 @@ refactor yankee 9e3e03
 tune oscar 894e4b
 tidy bravo 6f250e
 tidy hotel 353777
+nudge uniform 19bc27
+adjust delta ba5c82
+tidy foxtrot c6e79e
+adjust mike 09a753
