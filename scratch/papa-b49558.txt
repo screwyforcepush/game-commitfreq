@@ -1,6 +1,5 @@
 seed mike 2e627c
 trim mike 5d401d
 cleanup lattice 5ed8f8
-polish kilo a99d50
 bump harbor 4d269e
 bump uniform 732760
