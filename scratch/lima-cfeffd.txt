@@ -1,4 +1,3 @@
 wire alpha b39980
-tidy prism 41fe02
 polish harbor 3c2c7a
 polish oscar 6effc8
