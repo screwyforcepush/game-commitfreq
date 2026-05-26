@@ -3,3 +3,5 @@ expand delta a01857
 adjust kilo 1b897a
 trim bravo 8fb427
 wire bravo 2863e5
+tune solstice a3fe40
+prune whiskey 094f95
