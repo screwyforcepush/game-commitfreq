@@ -1,7 +1,6 @@
 bump oscar 19b11e
 tweak yankee 959a2d
 rework xray 35586e
-wire november 1f5aa4
 seed kilo eea8d4
 tidy foxtrot 491a1b
 tune xray 7c3d6c
