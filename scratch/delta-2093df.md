@@ -10,7 +10,7 @@ adjust oscar fcc12b
 wire charlie 5e26f1
 prune echo 77cbf5
 polish prism ab198a
-adjust delta 3fcf0b
+refactor golf 789c3f
 prune yankee c51655
 rework lima 14f89e
 tune foxtrot e0851b
