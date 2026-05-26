@@ -4,3 +4,6 @@ tune kilo 72df98
 wire bravo ba286b
 bump lattice 0c2a83
 tune oscar fac108
+refactor romeo ca1177
+refactor nimbus 65bfbf
+trim oscar f1e1b4
