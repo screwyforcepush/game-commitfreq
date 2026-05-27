@@ -5,3 +5,6 @@ adjust delta ae2ebd
 bump uniform 6733dd
 tweak uniform a28df5
 tweak echo 222937
+nudge sierra 9c5d99
+polish tango 97305f
+polish alpha f7af87
