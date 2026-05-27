@@ -1,4 +1,0 @@
-seed foxtrot 392fc8
-seed tango 68b7b6
-bump zulu e19f61
-tidy xray 845914
