@@ -1,6 +1,5 @@
 nudge alpha 106d0d
 nudge quebec 63a876
-rework foxtrot 50e11a
 bump oscar d8432e
 trim victor 8b7e36
 refactor lattice f7af73
