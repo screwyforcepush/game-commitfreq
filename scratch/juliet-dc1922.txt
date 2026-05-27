@@ -1,6 +1,5 @@
 trim lima c4f54f
 prune xray b0709e
-trim cobalt 3f8cac
 update romeo 075f5b
 prune lima 86e778
 tweak solstice ae5241
