@@ -10,7 +10,7 @@ expand zulu 509bc1
 tidy xray c4772e
 tidy prism 810369
 tune whiskey ff23b0
-nudge golf 6a75c2
+adjust sierra b2b88b
 prune sierra 511001
 adjust cobalt fb79b7
 tidy delta d4a67e
