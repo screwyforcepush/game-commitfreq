@@ -1,5 +1,4 @@
 bump juliet 8b2dc5
-prune mike e90105
 trim november 6fa24d
 wire foxtrot 5d7d59
 wire mike ebe1e4
