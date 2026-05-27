@@ -1,1 +1,4 @@
 rework quebec 22dfe9
+tidy hotel 9382e0
+cleanup zulu 46b396
+polish yankee 266be1
