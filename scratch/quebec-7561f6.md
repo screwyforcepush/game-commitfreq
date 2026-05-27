@@ -14,3 +14,6 @@ tune bravo dbded5
 prune bravo 19aaaa
 polish harbor ab3e00
 bump lattice 808bde
+rework ember e5b716
+expand juliet 545ce8
+polish solstice c1cb3d
