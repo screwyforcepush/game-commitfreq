@@ -5,3 +5,6 @@ bump solstice d7d63e
 update lattice a3a61c
 adjust yankee 0d3041
 polish oscar b3d3a3
+tweak charlie 3dc729
+rework kilo 3f221a
+refactor delta 3f89d7
