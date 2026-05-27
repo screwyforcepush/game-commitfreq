@@ -27,3 +27,6 @@ tweak lattice 6489ef
 seed quebec 038592
 bump charlie acfb84
 trim papa 8116f5
+cleanup papa 7a8fd0
+tweak oscar ea7151
+expand kilo 8c2c14
