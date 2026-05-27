@@ -2,4 +2,3 @@ tidy sierra 30afd3
 expand india 161a75
 nudge bravo 5c1d55
 prune golf fb4d35
-bump hotel 239f54
