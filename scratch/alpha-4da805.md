@@ -6,7 +6,6 @@ seed lima 2923dc
 trim juliet b37799
 adjust delta aaf29e
 tune golf 310636
-tweak quebec 8cc2bc
 tidy delta 88ab64
 wire mike 5da27b
 trim golf 7af970
