@@ -1,4 +1,4 @@
 wire yankee bc0b90
-adjust tango ad2952
+trim bravo 6ec1b0
 adjust victor 45b500
 tune bravo e72c17
