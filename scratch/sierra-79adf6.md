@@ -7,7 +7,6 @@ prune delta 62d496
 tweak kilo dda2e3
 adjust nimbus 82737a
 trim november 4fc73b
-wire sierra 9731a4
 wire charlie 5814af
 polish delta e8d78f
 wire solstice 570cd9
