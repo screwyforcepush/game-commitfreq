@@ -1,3 +1,0 @@
-seed nimbus eb9a32
-cleanup foxtrot 86cc60
-tune alpha e29589
