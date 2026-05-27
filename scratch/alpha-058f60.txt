@@ -2,3 +2,7 @@ update lattice a7740b
 polish alpha 7c5664
 tune uniform 5615fe
 wire charlie eab4d8
+tune echo c4d442
+tweak romeo e2461c
+seed solstice 79df4e
+trim bravo fdc8b9
