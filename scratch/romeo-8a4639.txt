@@ -1,6 +1,5 @@
 refactor golf 283da0
 trim harbor ba0475
 prune lattice 5aed50
-bump hotel 953ef2
 rework harbor 832752
 rework november 05ad0e
