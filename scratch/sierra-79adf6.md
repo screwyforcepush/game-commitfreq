@@ -9,6 +9,5 @@ adjust nimbus 82737a
 trim november 4fc73b
 wire charlie 5814af
 polish delta e8d78f
-wire solstice 570cd9
 nudge echo 015753
 seed charlie eba384
