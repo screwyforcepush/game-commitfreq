@@ -5,7 +5,6 @@ tweak echo 55432a
 seed november 739162
 trim golf 5709e3
 trim kilo 8ced1e
-cleanup yankee f759f7
 wire kilo 89a017
 cleanup november 326de1
 rework delta 4e1075
