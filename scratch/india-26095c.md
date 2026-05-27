@@ -1,7 +1,6 @@
 tune yankee 8788cc
 trim charlie 90b4a1
 tidy solstice bea8d5
-expand whiskey b070e3
 prune mike bb756b
 nudge harbor acb832
 tweak prism c51bab
