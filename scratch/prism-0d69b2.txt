@@ -5,3 +5,6 @@ rework victor bdefd0
 trim lattice 6e9783
 tidy hotel 65e236
 rework nimbus a1a9aa
+trim prism 05acd5
+trim hotel 5f88f5
+seed zulu 742f07
