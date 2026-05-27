@@ -146593,3 +146593,6 @@ To https://github.com/screwyforcepush/game-commitfreq.git
 347/350  bump oscar (dec02e)                           append oscar-f5484a.dat
 348/350  refactor golf for romeo                       trim nimbus-f4dc22.dat:7
 349/350  fix: tweak hotel for quebec                   append prism-0d69b2.txt
+350/350  feat: tidy hotel                              drop sierra-7326f3.csv
+To https://github.com/screwyforcepush/game-commitfreq.git
+   b9bf7cddd8..38ef5d25aa  main -> main
