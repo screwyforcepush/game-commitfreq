@@ -11,3 +11,7 @@ update lattice e72f71
 tweak foxtrot c2dea5
 bump lattice 73d04e
 polish ember fcf962
+tidy tango 612f43
+tune echo 8c642c
+prune whiskey 6b20c4
+tweak delta 47318a
