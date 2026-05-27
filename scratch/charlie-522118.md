@@ -6,3 +6,7 @@ adjust quebec fd8c01
 tweak delta 607340
 tidy victor dc6e6d
 trim solstice ffe516
+rework hotel cc669f
+update zulu f342ac
+expand foxtrot 2a7782
+tweak prism 4909c5
