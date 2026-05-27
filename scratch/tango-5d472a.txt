@@ -5,3 +5,6 @@ nudge kilo 32d4d3
 cleanup mike 4dd921
 cleanup alpha fd4f61
 refactor lattice 6b805b
+tweak alpha e45663
+tweak victor 8197e4
+polish solstice e7951d
