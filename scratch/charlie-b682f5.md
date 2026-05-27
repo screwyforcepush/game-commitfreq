@@ -3,6 +3,5 @@ bump ember bc364e
 update foxtrot 41186b
 cleanup charlie 45c886
 cleanup foxtrot 770c83
-polish mike 98cfdf
 seed mike d13954
 polish bravo 96889e
