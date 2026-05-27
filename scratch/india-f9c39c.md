@@ -13,3 +13,5 @@ expand zulu 4749bb
 seed uniform cccf97
 expand xray db2a30
 cleanup lima 44a289
+bump foxtrot f2c197
+cleanup hotel 9e3926
