@@ -3,3 +3,7 @@ update solstice ac769c
 bump sierra 88ed00
 rework echo 0db7b0
 bump echo 954b31
+rework sierra b271a8
+bump uniform 0f3550
+tune november b4d9ab
+prune quebec 21f261
