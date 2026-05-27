@@ -15,3 +15,5 @@ cleanup nimbus ef62b3
 wire uniform 12b0ae
 refactor papa ecdf45
 polish solstice 0df651
+rework charlie 6364b2
+cleanup hotel 6de3e1
