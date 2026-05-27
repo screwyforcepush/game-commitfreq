@@ -5,7 +5,6 @@ polish quebec c16697
 prune charlie b4bba8
 update nimbus a62cb2
 nudge sierra 6149e4
-tweak lima 4de702
 tweak oscar 011a7a
 refactor foxtrot ebc401
 trim romeo f9b65e
