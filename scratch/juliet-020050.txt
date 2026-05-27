@@ -1,5 +1,4 @@
 rework harbor c36ea5
-expand november 78b3a1
 polish foxtrot 83fc37
 polish lattice 356a15
 polish charlie 343b8c
