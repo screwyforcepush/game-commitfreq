@@ -4,3 +4,6 @@ update harbor c4364b
 cleanup xray ba3be5
 cleanup foxtrot f026c4
 nudge foxtrot 9f0652
+bump hotel 01ac88
+tweak oscar 0dc150
+update lima 3011b3
