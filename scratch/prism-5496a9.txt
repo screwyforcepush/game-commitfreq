@@ -1,0 +1,6 @@
+wire lima 9d50da
+tune alpha 69fb16
+nudge whiskey a80806
+adjust india 800420
+wire bravo 60331f
+expand echo 89575c
