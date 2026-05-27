@@ -7,3 +7,5 @@ rework golf d3e90f
 prune oscar e41d01
 prune zulu 428fa6
 cleanup nimbus 8bec1f
+tune victor 1ea2d4
+expand xray e1a0b2
