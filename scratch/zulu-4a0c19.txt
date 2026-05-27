@@ -1,2 +1,2 @@
-tune lattice 3c21ee
+tidy zulu bfcb05
 tune whiskey cf5481
