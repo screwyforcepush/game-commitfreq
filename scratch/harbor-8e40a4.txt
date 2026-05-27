@@ -1,3 +1,2 @@
-tidy cobalt f25bca
 tweak alpha 9828ec
 wire echo 6caf6c
