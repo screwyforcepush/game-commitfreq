@@ -1,3 +1,6 @@
 wire alpha 08ff88
 trim sierra 2dc1de
 update papa 4b9a80
+trim yankee 1e7d8f
+tweak oscar 2f2e7a
+adjust mike e7dcd7
