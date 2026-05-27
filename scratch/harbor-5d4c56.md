@@ -4,3 +4,5 @@ update whiskey c4aa4c
 tidy hotel 5a622d
 tweak november 238206
 wire foxtrot 5064c7
+adjust mike 0d2de8
+tidy foxtrot 92e6b8
