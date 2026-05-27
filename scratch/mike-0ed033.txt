@@ -1,6 +1,5 @@
 adjust ember 527ea0
 update kilo 3c6f8e
-update romeo 4f806e
 trim solstice 1a5954
 wire solstice e42b5a
 tweak harbor 98a91b
