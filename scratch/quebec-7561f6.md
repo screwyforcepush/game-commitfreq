@@ -10,7 +10,7 @@ cleanup charlie 1e9aed
 update golf 9dca09
 bump golf bdef49
 wire nimbus 0d6a9d
-bump quebec 5c3763
+tune bravo dbded5
 tune quebec d374ce
 polish harbor ab3e00
 bump lattice 808bde
