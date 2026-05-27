@@ -1,3 +1,2 @@
-adjust sierra 075843
 rework zulu f80a7a
 rework mike ef9077
