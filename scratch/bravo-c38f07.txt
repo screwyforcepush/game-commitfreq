@@ -1,5 +1,5 @@
 cleanup whiskey b8ec49
 trim bravo 97b4bf
 tweak quebec dddfa2
-trim harbor 3dd075
+adjust hotel 7e6d95
 update yankee eb1a86
