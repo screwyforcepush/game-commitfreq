@@ -3,5 +3,5 @@ adjust zulu bce9e7
 trim delta e8e74d
 tune hotel 69c473
 bump mike 7d5383
-update solstice ded63f
+seed papa 249150
 polish xray f15e46
