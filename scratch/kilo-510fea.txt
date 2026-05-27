@@ -4,3 +4,7 @@ adjust delta eefe5d
 cleanup quebec ad4758
 tune xray 7dcf26
 trim uniform eb2b48
+nudge mike f7676a
+polish romeo 3daf21
+nudge charlie f25339
+nudge tango 1bb5bb
