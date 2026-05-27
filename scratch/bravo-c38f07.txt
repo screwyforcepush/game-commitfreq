@@ -1,8 +1,0 @@
-cleanup whiskey b8ec49
-trim bravo 97b4bf
-tweak quebec dddfa2
-adjust hotel 7e6d95
-refactor mike 878e7e
-tune hotel c7aca5
-trim mike e8cd74
-adjust papa 3b1b82
