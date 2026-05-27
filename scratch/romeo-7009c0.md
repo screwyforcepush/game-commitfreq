@@ -8,3 +8,5 @@ cleanup november 42766e
 seed november d867d6
 adjust lattice 501f90
 prune kilo cb0805
+seed nimbus ce2434
+rework oscar bd9b71
