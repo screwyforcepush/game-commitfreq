@@ -3,7 +3,7 @@ nudge prism 0c7673
 tune foxtrot fcb473
 tweak echo 86afc6
 nudge juliet 7bb1da
-tidy prism a34f94
+cleanup foxtrot e04d9a
 bump papa 25180b
 polish tango aec897
 cleanup prism 5056e7
