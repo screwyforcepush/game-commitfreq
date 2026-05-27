@@ -1,5 +1,4 @@
 tidy charlie 44481c
-adjust juliet 36e4b4
 adjust zulu d0c58f
 rework juliet 032781
 adjust india 72062c
