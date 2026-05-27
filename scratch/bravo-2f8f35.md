@@ -10,3 +10,6 @@ adjust echo befe14
 bump oscar 5d6f1c
 expand prism 62a1a1
 wire nimbus 14c8b5
+tidy uniform dd2541
+prune golf d15705
+nudge ember afca87
