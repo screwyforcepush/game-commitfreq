@@ -2,7 +2,6 @@ seed mike cd335d
 rework juliet c28443
 prune victor 5c38d2
 tune xray e339bb
-tidy bravo 7ce54b
 rework sierra 10d46f
 rework yankee 4173bd
 prune solstice 129ef0
