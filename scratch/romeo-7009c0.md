@@ -15,5 +15,4 @@ update november 924d50
 bump harbor 3e13de
 update echo 0a103f
 wire india b3ce53
-rework hotel 146c95
 trim hotel 3def8c
