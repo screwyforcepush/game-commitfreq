@@ -3,3 +3,6 @@ trim bravo f99427
 polish hotel c3d53c
 seed nimbus db52ca
 adjust harbor bf4bbd
+wire delta 193888
+wire solstice 613b3a
+cleanup oscar ed3e0c
