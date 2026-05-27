@@ -3,7 +3,7 @@ tweak alpha 003d84
 update india 9c402c
 tweak sierra ef1dc5
 prune lima ca2ac6
-bump sierra 5e317b
+trim bravo 836715
 wire bravo 409724
 update foxtrot 68d27c
 trim oscar 757ae7
