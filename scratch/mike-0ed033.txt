@@ -11,7 +11,6 @@ seed quebec 49929e
 tweak oscar c86896
 seed harbor 45cf7d
 trim cobalt e8a131
-trim sierra f5bcd4
 tune mike 926e4a
 refactor romeo 3cb2ab
 rework november 9c4040
