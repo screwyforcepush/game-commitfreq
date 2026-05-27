@@ -7,3 +7,6 @@ expand victor 228fa3
 wire papa 4b0b88
 cleanup delta ea4cc2
 tweak november 075c65
+nudge november 3768df
+wire yankee 3507cf
+adjust sierra 5b6203
