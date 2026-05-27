@@ -1,1 +1,1 @@
-tune xray 74de77
+wire uniform 3c456a
