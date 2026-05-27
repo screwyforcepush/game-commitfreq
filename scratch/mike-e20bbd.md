@@ -10,3 +10,6 @@ tweak nimbus 857b6f
 tweak tango 6ac648
 expand tango dd3247
 tune oscar ba8ad9
+update whiskey f09558
+prune sierra a3767a
+wire alpha f71fdf
