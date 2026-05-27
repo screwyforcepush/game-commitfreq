@@ -7,3 +7,4 @@ seed juliet ffd85f
 polish prism 527407
 tweak prism 45e72c
 wire harbor 9285ef
+wire solstice d709ad
