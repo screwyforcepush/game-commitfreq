@@ -2,3 +2,7 @@ nudge hotel 05a207
 update india 07bd22
 adjust uniform 0c3c10
 cleanup juliet 113731
+cleanup golf 5d1960
+prune delta 62d496
+tweak kilo dda2e3
+adjust nimbus 82737a
