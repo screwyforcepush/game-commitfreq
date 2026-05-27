@@ -1,5 +1,5 @@
 seed uniform 9c9291
-polish lima f7f96c
+adjust yankee 8561af
 tune echo a302c0
 seed prism c17014
 tune alpha 3f80ac
