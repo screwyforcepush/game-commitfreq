@@ -8,3 +8,5 @@ polish whiskey 94da2e
 seed foxtrot 8535f0
 prune nimbus 4f0358
 tweak oscar 7374f4
+wire cobalt 110b56
+tune romeo 9bcad9
