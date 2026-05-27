@@ -5,5 +5,4 @@ refactor kilo 1644a8
 update delta 706c3c
 trim xray 7f92b8
 nudge lima 6d88f0
-expand quebec 996292
 adjust lima 693779
