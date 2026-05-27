@@ -9,4 +9,3 @@ bump india 94a5db
 tweak cobalt 2512b6
 adjust xray aa99b6
 prune hotel 5b42ce
-trim hotel 2cbb5a
