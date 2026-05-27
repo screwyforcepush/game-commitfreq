@@ -1,6 +1,5 @@
 cleanup romeo 4d1709
 update kilo bf415b
-prune nimbus a51345
 bump sierra a10216
 tune lattice b77d44
 update oscar f8cb9b
