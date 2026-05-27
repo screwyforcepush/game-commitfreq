@@ -8,3 +8,4 @@ seed delta a75275
 update lima 653ba1
 cleanup india 1668cf
 rework lattice 74621a
+tidy hotel db1ecc
