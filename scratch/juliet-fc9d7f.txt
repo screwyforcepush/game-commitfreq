@@ -4,7 +4,7 @@ update delta 09e483
 adjust lima 7329b5
 bump harbor 188320
 prune nimbus 095833
-tidy uniform 60bc6d
+prune sierra ac826f
 update tango cbcd38
 rework solstice 2d7303
 tidy ember ee2258
