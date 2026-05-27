@@ -5,3 +5,4 @@ update juliet 206ea6
 tune charlie 305ce9
 polish echo 1d2252
 trim quebec 2f048f
+tidy solstice 9daed2
