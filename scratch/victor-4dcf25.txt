@@ -1,1 +1,1 @@
-bump lattice 991e4b
+bump hotel a353e6
