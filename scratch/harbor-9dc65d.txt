@@ -5,7 +5,6 @@ tweak romeo cf1833
 adjust lima 39caf5
 rework bravo da97a0
 adjust cobalt 27dedb
-tidy charlie cfe681
 refactor india 4f20d7
 trim lima 767c0a
 update india 989d95
