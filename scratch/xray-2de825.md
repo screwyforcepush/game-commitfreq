@@ -1,4 +1,4 @@
 cleanup tango af57f1
-prune cobalt bd84ab
+cleanup delta 0e8ba5
 tweak quebec 09867f
 bump whiskey d47d5d
