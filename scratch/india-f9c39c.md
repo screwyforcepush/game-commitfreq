@@ -1,5 +1,5 @@
 update xray 3f3b37
-expand delta a01857
+polish solstice c1ac2f
 adjust kilo 1b897a
 trim bravo 8fb427
 seed prism 629805
