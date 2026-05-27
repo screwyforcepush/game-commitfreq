@@ -2,7 +2,7 @@ rework alpha 3076c0
 trim nimbus fc307b
 nudge lattice a5102b
 polish lattice 58f583
-nudge yankee 6f6cbe
+tidy uniform 4a9b9c
 refactor xray 18852c
 nudge lattice e7526a
 rework lattice 13558d
