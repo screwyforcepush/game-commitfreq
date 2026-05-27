@@ -14,3 +14,7 @@ nudge golf 6a75c2
 prune sierra 511001
 adjust cobalt fb79b7
 tidy delta d4a67e
+tune bravo e92423
+polish tango 1ec18e
+trim hotel 014520
+trim juliet eb8af4
