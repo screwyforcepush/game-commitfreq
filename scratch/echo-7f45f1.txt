@@ -7,4 +7,3 @@ adjust hotel e82e26
 bump quebec e75493
 update ember 9a1f17
 seed victor 503d6a
-tidy delta 8c59e0
