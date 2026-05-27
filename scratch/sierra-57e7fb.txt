@@ -3,3 +3,7 @@ prune quebec 4fa856
 adjust solstice 181fdd
 nudge sierra e254f5
 tune nimbus 4f04e3
+prune solstice dc3627
+polish hotel 1dd540
+wire ember fc78ce
+tune foxtrot 6a7681
