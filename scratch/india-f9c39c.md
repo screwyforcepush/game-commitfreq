@@ -2,7 +2,7 @@ update xray 3f3b37
 expand delta a01857
 adjust kilo 1b897a
 trim bravo 8fb427
-wire bravo 2863e5
+seed prism 629805
 tune solstice a3fe40
 prune whiskey 094f95
 rework alpha 419f17
