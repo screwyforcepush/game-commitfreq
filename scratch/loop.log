@@ -144846,3 +144846,4 @@ To https://github.com/screwyforcepush/game-commitfreq.git
 190/623  wip: tune sierra victor                       rename mike-d8e2a2.dat -> xray-d2b51d.txt
 191/623  fix: tune solstice for prism                  trim mike-9f5c2e.dat:6
 192/623  fix: prism expands                            drop harbor-f6b317.dat
+193/623  build: prune sierra (1192f6)                  rename charlie-0861f3.csv -> romeo-1a585f.csv
