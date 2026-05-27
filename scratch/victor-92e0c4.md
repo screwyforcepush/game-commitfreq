@@ -5,6 +5,6 @@ update juliet 206ea6
 tune charlie 305ce9
 polish echo 1d2252
 trim quebec 2f048f
-expand cobalt 93ad22
+tidy romeo f783c0
 adjust whiskey 18e1b2
 wire prism fec4e0
