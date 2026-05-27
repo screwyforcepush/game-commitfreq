@@ -1,3 +1,2 @@
-seed tango bbdc60
 bump harbor 2f8780
 expand lattice 7ff16f
