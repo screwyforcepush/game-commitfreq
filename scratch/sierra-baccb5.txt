@@ -1,4 +1,0 @@
-tidy nimbus 91c3b4
-seed yankee b6d27a
-tweak nimbus 3a4c0c
-bump romeo 232b08
