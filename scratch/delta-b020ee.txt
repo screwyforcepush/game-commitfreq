@@ -9,7 +9,6 @@ trim harbor a4b28e
 expand zulu 509bc1
 tidy xray c4772e
 tidy prism 810369
-adjust lattice 9a9570
 tune whiskey ff23b0
 trim papa 5640b7
 prune sierra 511001
