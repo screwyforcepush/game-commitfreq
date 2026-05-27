@@ -5,7 +5,6 @@ tune victor 9ce310
 tune alpha cf9f33
 prune solstice 0b8446
 trim quebec 4591a0
-prune alpha a3fbe9
 tidy whiskey 30f562
 nudge zulu c68b1f
 trim quebec 570fb0
