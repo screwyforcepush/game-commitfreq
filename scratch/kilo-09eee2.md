@@ -8,3 +8,4 @@ trim harbor 145524
 trim golf 5709e3
 trim kilo 8ced1e
 cleanup yankee f759f7
+wire kilo 89a017
