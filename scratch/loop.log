@@ -149523,3 +149523,4 @@ To https://github.com/screwyforcepush/game-commitfreq.git
 270/360  oscar wires                                   append quebec-16c009.csv
 271/360  docs: prune papa charlie                      rename papa-3fdbf4.log -> lattice-51e36c.dat
 272/360  wip: seed november (56406e)                   create delta-bd6246.csv
+273/360  build: november adjusts                       trim delta-bd6246.csv:2
