@@ -1,3 +1,2 @@
 wire kilo 5361e3
-seed quebec 341f1d
 prune lima 43d94e
