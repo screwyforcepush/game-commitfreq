@@ -8,6 +8,5 @@ prune kilo de218a
 seed echo 409413
 wire charlie 3a8b2a
 tweak nimbus d579ff
-trim quebec ab5aee
 update nimbus b36cfe
 prune prism b2e02b
