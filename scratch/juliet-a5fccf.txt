@@ -2,7 +2,6 @@ nudge ember 3ec545
 bump zulu a148ab
 adjust echo 7d257e
 prune cobalt 800d9a
-wire quebec a86426
 bump uniform dbfa22
 tune hotel 93d088
 refactor solstice e687b9
