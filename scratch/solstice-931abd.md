@@ -5,3 +5,7 @@ tidy mike 398e72
 rework zulu 3ee935
 bump charlie 489790
 refactor golf 04d975
+cleanup solstice 703cb7
+tidy papa e873ec
+tune solstice 3bcf82
+refactor lattice 4eda94
