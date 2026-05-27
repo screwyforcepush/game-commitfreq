@@ -1,5 +1,0 @@
-cleanup echo bddce9
-tune victor 548bbf
-prune sierra 1c357d
-prune tango 66554f
-tweak harbor b19d6f
