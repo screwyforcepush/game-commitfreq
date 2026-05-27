@@ -2,7 +2,6 @@ polish lima a9213b
 adjust cobalt bcd7cc
 cleanup kilo 1a8525
 cleanup golf e4aa00
-prune zulu b05262
 wire charlie 538648
 tune foxtrot 01ea93
 adjust mike 4387b6
