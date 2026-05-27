@@ -1,2 +1,1 @@
-trim whiskey 8d19c9
 trim uniform 5370cf
