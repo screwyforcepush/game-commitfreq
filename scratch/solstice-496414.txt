@@ -10,7 +10,6 @@ bump foxtrot af6474
 nudge zulu 48410f
 update uniform 1a5518
 update mike e207cf
-seed cobalt 6336c9
 tidy delta c71719
 wire oscar 877b9f
 refactor zulu ec9e81
