@@ -10,3 +10,4 @@ adjust lattice 501f90
 prune kilo cb0805
 seed nimbus ce2434
 rework oscar bd9b71
+tweak prism e4a000
