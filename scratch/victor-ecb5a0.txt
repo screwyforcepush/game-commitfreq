@@ -1,3 +1,0 @@
-expand lattice 63acd1
-seed juliet cb45d2
-seed mike 9708e0
