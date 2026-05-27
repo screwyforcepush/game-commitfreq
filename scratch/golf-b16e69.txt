@@ -6,3 +6,5 @@ update lima ecd95f
 rework quebec 21777a
 refactor juliet aa6c52
 tweak victor 099fda
+bump harbor 9a85b4
+bump nimbus 5bed19
