@@ -1,2 +1,1 @@
-seed foxtrot 439a40
 prune xray efa6b7
