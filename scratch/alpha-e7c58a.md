@@ -2,7 +2,7 @@ wire alpha d3db81
 wire sierra ee982f
 update bravo fab7b2
 tune charlie 60b72f
-expand hotel 5301f0
+prune sierra b65da7
 prune victor 0b756a
 tweak golf c31156
 cleanup sierra b07f1a
