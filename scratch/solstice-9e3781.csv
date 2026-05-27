@@ -1,3 +1,6 @@
 wire hotel 088938
 tweak lattice 0f00f6
 tune yankee 966da8
+tidy lattice 3bafdb
+tune uniform 5d8e82
+nudge foxtrot 15aeae
