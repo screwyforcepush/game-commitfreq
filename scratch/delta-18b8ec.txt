@@ -1,4 +1,3 @@
 tweak alpha ea495f
 prune whiskey 235e0a
-wire yankee 4b4db5
 tweak sierra 2af772
