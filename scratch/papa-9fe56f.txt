@@ -1,2 +1,5 @@
 adjust golf 18a527
 seed cobalt 90779e
+tweak sierra 34a2c8
+expand uniform f2e77c
+prune lattice b1a042
