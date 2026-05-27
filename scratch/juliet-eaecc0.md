@@ -2,7 +2,6 @@ expand xray 53fe31
 prune sierra 6afc8d
 cleanup sierra d5d890
 tidy prism bbbb6a
-bump charlie 99e50c
 prune uniform 0cdc22
 bump solstice f1d91a
 tweak echo 0fea50
