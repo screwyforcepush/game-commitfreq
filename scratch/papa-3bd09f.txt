@@ -1,6 +1,0 @@
-cleanup tango 0de433
-cleanup india 3ea351
-nudge solstice ac4a4d
-tune lattice d571ca
-rework sierra 743482
-rework oscar c29982
