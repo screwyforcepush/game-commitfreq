@@ -7,3 +7,5 @@ refactor nimbus 351bfe
 bump solstice 490570
 tune mike b1af67
 wire xray 6f41e7
+update november 73d91b
+nudge delta 0ccf44
