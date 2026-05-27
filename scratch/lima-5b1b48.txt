@@ -1,6 +1,0 @@
-nudge november 0a9071
-tidy alpha 426c08
-nudge quebec 0dde80
-cleanup charlie 469604
-rework solstice b72bf5
-adjust zulu cb731f
