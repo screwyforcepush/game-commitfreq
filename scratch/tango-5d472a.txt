@@ -2,3 +2,6 @@ cleanup quebec 7c905b
 refactor oscar 68017e
 trim mike cfe3f9
 nudge kilo 32d4d3
+cleanup mike 4dd921
+cleanup alpha fd4f61
+refactor lattice 6b805b
