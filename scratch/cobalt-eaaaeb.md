@@ -6,3 +6,5 @@ tidy sierra 8a5b3e
 wire india 181239
 refactor echo e45736
 adjust tango e4bdc0
+tweak nimbus 5115c7
+tweak foxtrot 35197a
