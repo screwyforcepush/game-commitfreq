@@ -1,7 +1,7 @@
 expand quebec 2cda62
 rework solstice 1ee3bc
 bump charlie 9e4704
-adjust whiskey 43cc96
+prune whiskey 294e8d
 nudge bravo b33fc7
 refactor oscar f836c6
 prune romeo 52c500
