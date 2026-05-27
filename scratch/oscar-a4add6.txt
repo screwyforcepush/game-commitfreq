@@ -8,3 +8,7 @@ bump lima ed6441
 trim mike e95351
 rework quebec fc6e63
 tweak kilo f53abe
+wire papa 401ee8
+nudge alpha 353aee
+wire juliet f8704e
+tune lima 2798a4
