@@ -7,3 +7,6 @@ nudge whiskey fd0534
 adjust uniform e950f5
 prune hotel faeafd
 tune alpha d304b9
+tune zulu 3b612f
+wire romeo 31dd13
+wire echo 18f046
