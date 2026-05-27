@@ -1,4 +1,3 @@
-adjust mike 5582f4
 refactor papa d65f0c
 nudge quebec f8a818
 prune india e4ab41
