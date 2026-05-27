@@ -1,4 +1,3 @@
-update delta 34540c
 tune bravo 59b836
 update whiskey 8b2cd6
 expand xray e71136
