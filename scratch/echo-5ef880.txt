@@ -3,7 +3,6 @@ tidy harbor d20132
 prune mike 3f127d
 seed ember a7fccc
 trim solstice 1953ec
-tidy papa d80e16
 cleanup cobalt 695e3f
 bump whiskey d43c70
 tune november 4e1388
