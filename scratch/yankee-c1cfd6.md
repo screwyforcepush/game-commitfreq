@@ -17,3 +17,5 @@ adjust quebec 3e7b0c
 expand xray ebe931
 prune sierra 7dc665
 tweak sierra aa930f
+trim sierra c3ed38
+adjust echo e0fd35
