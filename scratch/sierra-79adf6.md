@@ -6,3 +6,4 @@ cleanup golf 5d1960
 prune delta 62d496
 tweak kilo dda2e3
 adjust nimbus 82737a
+trim november 4fc73b
