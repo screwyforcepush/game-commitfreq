@@ -2,3 +2,6 @@ rework quebec 22dfe9
 tidy hotel 9382e0
 cleanup zulu 46b396
 polish yankee 266be1
+wire mike 9d483e
+cleanup november d7c4de
+tweak alpha ee5238
