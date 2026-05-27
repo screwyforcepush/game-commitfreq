@@ -8,7 +8,6 @@ prune november c5b85c
 prune ember 3ebce4
 seed echo 4dcbca
 update november 72216e
-seed kilo 5eda30
 adjust juliet f7a7af
 tidy xray 7f9615
 refactor prism ee91ee
