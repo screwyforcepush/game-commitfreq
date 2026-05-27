@@ -9,4 +9,3 @@ adjust nimbus f762fa
 trim victor 96042e
 tune india 3cb5f7
 wire romeo 39702a
-adjust sierra 4ce9eb
