@@ -4,3 +4,7 @@ tweak quebec 09867f
 tune zulu 33dc80
 cleanup bravo ed7984
 expand hotel c325dd
+expand sierra a5a3d2
+trim solstice 5cb70d
+prune papa 31f250
+wire charlie 2c80bb
