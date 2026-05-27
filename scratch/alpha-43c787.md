@@ -9,3 +9,6 @@ tune tango 0eee35
 update alpha 62a387
 tune tango ed3eec
 adjust romeo 5c8e47
+rework hotel b42c14
+wire oscar d602cc
+tidy cobalt 19e9e0
