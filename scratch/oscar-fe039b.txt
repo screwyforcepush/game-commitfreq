@@ -1,4 +1,3 @@
 seed echo aa4835
 bump kilo 999680
-wire foxtrot ca1e9c
 nudge victor 3a9225
