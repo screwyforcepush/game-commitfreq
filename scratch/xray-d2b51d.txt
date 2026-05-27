@@ -7,7 +7,6 @@ expand ember 03a290
 nudge romeo 4191a5
 tidy quebec 9abdb8
 adjust foxtrot 78be26
-adjust papa f2933d
 wire echo 4ee821
 wire xray 43a870
 cleanup oscar 399448
