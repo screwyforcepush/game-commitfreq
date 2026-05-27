@@ -11,3 +11,6 @@ tidy alpha 3e977d
 rework zulu d902a6
 polish juliet c16627
 adjust foxtrot 3c8163
+tidy harbor 617b75
+tweak sierra 0af9ae
+tune tango cc3026
