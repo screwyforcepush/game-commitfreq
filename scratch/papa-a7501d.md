@@ -1,7 +1,6 @@
 prune echo 48a21d
 cleanup lattice c6fa53
 refactor alpha 547e81
-prune prism cc6003
 cleanup nimbus d5ce99
 rework tango 7384ec
 rework romeo 971590
