@@ -4,7 +4,6 @@ rework bravo 48069a
 tune yankee a84e02
 seed echo a52b84
 tune bravo ff442d
-tidy whiskey 406c96
 prune november c5b85c
 prune ember 3ebce4
 seed echo 4dcbca
