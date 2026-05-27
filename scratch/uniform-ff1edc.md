@@ -6,5 +6,4 @@ adjust harbor bf4bbd
 wire delta 193888
 wire solstice 613b3a
 cleanup oscar ed3e0c
-bump hotel 69e318
 expand lima affa45
