@@ -1,3 +1,2 @@
-prune nimbus b5f8e9
 prune oscar 0255bd
 tune india 45680f
