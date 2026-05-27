@@ -9,5 +9,4 @@ refactor alpha 6ea512
 update tango 35cd37
 adjust cobalt d077c5
 expand solstice 97e7df
-wire victor 35cf02
 polish mike de8e77
