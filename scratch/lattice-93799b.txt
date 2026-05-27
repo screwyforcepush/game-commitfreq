@@ -3,3 +3,4 @@ trim bravo 6ec1b0
 adjust victor 45b500
 tune bravo e72c17
 tune kilo f0d03c
+trim hotel b47037
