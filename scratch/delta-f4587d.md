@@ -4,3 +4,5 @@ nudge prism 0c7673
 tune foxtrot fcb473
 tidy xray 604e2b
 tweak echo 86afc6
+nudge juliet 7bb1da
+tidy prism a34f94
