@@ -20,3 +20,6 @@ expand uniform 9a95d9
 adjust mike 6e186b
 nudge victor 496598
 wire golf 5c60ab
+tune mike 408659
+prune yankee 177899
+tidy lattice 7eff84
