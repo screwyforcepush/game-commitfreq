@@ -1,6 +1,6 @@
 tweak alpha 3fb0e6
 tweak harbor 065a40
-polish uniform cb5829
+nudge foxtrot ae1083
 tune yankee b47195
 trim bravo 47359e
 trim romeo 9c67a6
