@@ -11,3 +11,7 @@ wire charlie 5814af
 polish delta e8d78f
 nudge echo 015753
 seed charlie eba384
+expand november 379b1c
+wire sierra 92897b
+tweak echo 0b4554
+adjust quebec 703c2f
