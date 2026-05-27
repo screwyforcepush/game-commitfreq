@@ -2,4 +2,3 @@ wire yankee bc0b90
 adjust tango ad2952
 adjust victor 45b500
 tune bravo e72c17
-update whiskey cbfefb
