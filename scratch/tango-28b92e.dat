@@ -1,6 +1,6 @@
 cleanup lattice 1fb4c9
 trim echo 109aa5
-cleanup sierra 00f1d3
+refactor nimbus 1d6f9c
 bump prism 8ddca4
 bump ember 9ee743
 rework kilo c7bf5d
