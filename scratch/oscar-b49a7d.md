@@ -3,7 +3,7 @@ prune alpha 502c22
 trim tango 98bd3b
 refactor romeo 50d469
 adjust romeo b2d29c
-update november aea863
+rework alpha d8442b
 trim quebec d1abbe
 update mike e270fb
 update foxtrot f069cb
