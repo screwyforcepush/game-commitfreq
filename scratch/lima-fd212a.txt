@@ -1,5 +1,4 @@
 prune sierra f65ece
-tidy hotel 7581a5
 nudge lima 1ba383
 refactor romeo aa5d51
 prune mike e2b25d
