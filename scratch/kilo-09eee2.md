@@ -1,5 +1,5 @@
 seed lattice a446f3
-prune xray 45595a
+expand uniform 6af501
 tune papa 4b6d43
 tweak echo 55432a
 seed november 739162
