@@ -5,3 +5,7 @@ tune sierra c7a402
 cleanup uniform 723f01
 cleanup xray d33ae9
 seed lima d86a44
+seed delta a75275
+update lima 653ba1
+adjust sierra 6a089c
+rework lattice 74621a
