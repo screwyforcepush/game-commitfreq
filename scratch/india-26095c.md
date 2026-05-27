@@ -1,5 +1,4 @@
 tune yankee 8788cc
-trim charlie 90b4a1
 tidy solstice bea8d5
 prune mike bb756b
 nudge harbor acb832
