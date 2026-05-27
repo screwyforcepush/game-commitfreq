@@ -10,3 +10,7 @@ nudge zulu c68b1f
 trim quebec 570fb0
 tweak romeo 296f15
 expand alpha f328a7
+tidy uniform 82c75b
+tune zulu bb78ee
+prune zulu 01c3cf
+tidy charlie 710263
