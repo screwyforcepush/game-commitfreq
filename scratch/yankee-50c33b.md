@@ -2,7 +2,6 @@ nudge golf 5d6dff
 wire uniform b64ade
 tweak oscar 08bb82
 wire sierra b666ab
-trim charlie c21cce
 cleanup foxtrot e15fd3
 bump india 204e0f
 nudge papa 143e18
