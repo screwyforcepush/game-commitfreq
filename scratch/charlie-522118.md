@@ -4,3 +4,5 @@ trim solstice 600b9a
 adjust juliet 36dde3
 adjust quebec fd8c01
 tweak delta 607340
+tidy victor dc6e6d
+trim solstice ffe516
