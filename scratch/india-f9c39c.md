@@ -4,5 +4,4 @@ adjust kilo 1b897a
 trim bravo 8fb427
 seed prism 629805
 tune solstice a3fe40
-prune whiskey 094f95
 expand whiskey ee8af1
