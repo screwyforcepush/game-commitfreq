@@ -3,7 +3,7 @@ adjust yankee 031e90
 polish echo 973d55
 nudge quebec 5cd06a
 polish alpha 1f0d81
-adjust lattice 2cddfb
+update lima b9f24d
 tweak echo c0619a
 polish papa b9ef1b
 update foxtrot ff230d
