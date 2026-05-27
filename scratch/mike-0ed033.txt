@@ -1,5 +1,5 @@
 update kilo 3c6f8e
-trim solstice 1a5954
+polish nimbus e323a8
 wire solstice e42b5a
 tweak harbor 98a91b
 nudge cobalt 00f14a
