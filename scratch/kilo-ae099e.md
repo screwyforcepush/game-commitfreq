@@ -1,1 +1,5 @@
 tidy lattice b5bf34
+refactor quebec 4ac320
+expand prism c58404
+polish november 0ba789
+tidy alpha d6e4fe
