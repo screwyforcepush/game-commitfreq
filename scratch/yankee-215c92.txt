@@ -1,4 +1,4 @@
-cleanup lattice 1676fb
+prune quebec a56d60
 tidy echo 62b5f7
 nudge foxtrot 62b485
 tune charlie 130778
