@@ -7,7 +7,6 @@ refactor papa 1d430c
 tune nimbus b04414
 expand uniform 486de5
 polish alpha a133b8
-refactor india c14f27
 refactor whiskey 9a8f25
 tidy solstice b8098b
 rework papa 104539
