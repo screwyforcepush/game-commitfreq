@@ -5,3 +5,6 @@ cleanup oscar e6a143
 tweak mike cefbf5
 cleanup lattice 9a6862
 nudge oscar c8008c
+tweak tango c3155f
+prune hotel c9dbac
+refactor kilo 5dad6e
