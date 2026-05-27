@@ -5,3 +5,5 @@ nudge quebec 5cd06a
 polish alpha 1f0d81
 adjust lattice 2cddfb
 tweak echo c0619a
+polish papa b9ef1b
+update foxtrot ff230d
