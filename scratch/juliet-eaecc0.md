@@ -7,3 +7,5 @@ refactor nimbus d5fef2
 bump solstice f1d91a
 tweak echo 0fea50
 rework whiskey 11a36d
+adjust mike 6453a1
+adjust alpha 5200ef
