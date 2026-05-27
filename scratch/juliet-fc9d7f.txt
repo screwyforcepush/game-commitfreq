@@ -3,3 +3,4 @@ update cobalt 0dc3c5
 update delta 09e483
 rework echo 337dea
 bump harbor 188320
+prune nimbus 095833
