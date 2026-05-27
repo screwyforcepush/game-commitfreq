@@ -1,5 +1,4 @@
 bump alpha 06c122
-polish lattice 87a38b
 adjust romeo 7f12cb
 prune juliet cd8597
 tune lima ec803d
