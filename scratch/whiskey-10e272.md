@@ -4,3 +4,6 @@ update echo 73d68f
 rework romeo daea70
 nudge victor 61d1e0
 tweak cobalt ed3a9e
+tune lattice 1a5a50
+tune golf 86401d
+cleanup cobalt 2a333e
