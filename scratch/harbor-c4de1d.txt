@@ -5,7 +5,7 @@ prune lattice 6f6523
 refactor delta 80c3ed
 tweak cobalt 3fac2d
 polish foxtrot 29f511
-trim prism 097fc0
+adjust oscar 72605d
 refactor echo c7ef14
 polish mike ad0c1f
 tweak uniform 6de57e
