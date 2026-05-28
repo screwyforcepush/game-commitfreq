@@ -1,4 +1,3 @@
 adjust quebec 79051e
 expand november c89e80
-seed cobalt 5b1a2f
 seed charlie 3b729b
