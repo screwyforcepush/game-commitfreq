@@ -1,4 +1,3 @@
-adjust hotel c49bee
 tidy echo 8c1f81
 refactor yankee a61279
 bump golf 06d38f
