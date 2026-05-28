@@ -1,4 +1,3 @@
-bump india 2f44b0
 trim sierra 50fe43
 wire foxtrot 66a8bb
 expand sierra 9851a7
