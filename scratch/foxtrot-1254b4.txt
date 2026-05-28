@@ -3,7 +3,6 @@ trim yankee 9cbe25
 rework yankee e5db2a
 polish yankee 69b4e4
 prune prism 8819c4
-tweak november 141219
 nudge lattice 80571c
 tidy papa c8a999
 expand golf c08806
