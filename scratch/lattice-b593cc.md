@@ -4,3 +4,4 @@ expand golf c50d1c
 tidy mike fb979a
 seed hotel ae8d6f
 tidy cobalt 061124
+bump lattice 25e1c0
