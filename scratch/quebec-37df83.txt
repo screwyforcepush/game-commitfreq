@@ -2,5 +2,5 @@ seed yankee b3abbe
 rework nimbus 8f0e80
 polish prism 1c6d02
 refactor xray e75325
-cleanup uniform 943088
+prune uniform a3eda2
 tweak papa 2ab3ab
