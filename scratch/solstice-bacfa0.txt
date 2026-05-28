@@ -1,4 +1,0 @@
-prune whiskey 3c05ad
-bump harbor 9ab7bc
-prune hotel f23824
-polish oscar 5226a1
