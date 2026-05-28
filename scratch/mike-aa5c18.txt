@@ -5,7 +5,6 @@ trim foxtrot 0efaca
 update nimbus 1429d8
 update delta 27175c
 adjust lima 11d877
-wire echo 736379
 trim delta dc9760
 update harbor 13122c
 refactor cobalt 546eee
