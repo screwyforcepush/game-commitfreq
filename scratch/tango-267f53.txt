@@ -3,3 +3,6 @@ refactor sierra 210c20
 tidy xray 63194b
 prune prism c6d376
 prune oscar f6b9c5
+expand lattice 9f6b62
+refactor quebec fe7cb7
+rework uniform 9ca365
