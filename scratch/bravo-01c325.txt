@@ -1,6 +1,0 @@
-cleanup charlie 251b9e
-wire quebec 0d3f27
-polish oscar 1e249c
-tune papa 285933
-rework sierra 81771f
-prune xray 49287b
