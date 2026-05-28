@@ -1,5 +1,4 @@
 wire hotel 8632fe
 nudge charlie 9e972f
 trim yankee b392e4
-update cobalt 229693
 expand alpha ebe6aa
