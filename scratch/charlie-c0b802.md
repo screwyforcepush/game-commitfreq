@@ -3,7 +3,6 @@ wire harbor 6a3c2e
 trim november 9c9071
 bump zulu c45e33
 adjust uniform 4f4207
-expand victor c00819
 wire nimbus 05ae43
 refactor xray f3c8eb
 bump whiskey 11d8e2
