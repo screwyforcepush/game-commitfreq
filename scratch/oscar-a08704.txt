@@ -5,3 +5,6 @@ polish sierra 1153c9
 trim lattice eafb2c
 prune uniform 4efc48
 rework yankee 9cf534
+rework solstice efe8b7
+prune juliet e03f68
+prune xray 8816f6
