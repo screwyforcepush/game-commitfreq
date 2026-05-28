@@ -4,7 +4,6 @@ seed sierra bc74b2
 prune prism 7f816b
 nudge prism 2e8c6f
 expand charlie 8ebc5a
-trim india e5a8ad
 cleanup papa 9169fd
 prune whiskey a1c066
 prune romeo d205d3
