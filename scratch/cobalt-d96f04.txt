@@ -1,5 +1,4 @@
 tidy foxtrot e7e202
-update hotel 56be5c
 trim sierra a9b70b
 wire echo 8c4f79
 bump hotel 4eff57
