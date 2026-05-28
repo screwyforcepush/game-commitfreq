@@ -3,7 +3,6 @@ expand sierra 0fd2a7
 expand solstice f73786
 expand victor de568d
 trim lattice eafb2c
-prune uniform 4efc48
 rework yankee 9cf534
 rework solstice efe8b7
 prune juliet e03f68
