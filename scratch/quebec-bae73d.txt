@@ -1,3 +1,2 @@
 expand ember d7e445
-wire nimbus fa70e6
 trim solstice b0b4fc
