@@ -3,7 +3,6 @@ wire whiskey 94f016
 expand juliet 314c3c
 polish xray ce2cf0
 tune mike 9ae74a
-trim lima 9abde7
 tune solstice d68d60
 polish echo 0006ae
 polish india 745835
