@@ -7,3 +7,6 @@ tweak lima c93bfb
 wire ember 42394f
 tidy harbor 710278
 tweak sierra 198148
+tidy mike ac8f41
+adjust quebec 8cf633
+expand charlie 24f367
