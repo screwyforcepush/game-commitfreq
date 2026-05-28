@@ -5,3 +5,6 @@ refactor november ddfdd6
 polish whiskey c52671
 rework quebec 45d89b
 refactor uniform 0fa880
+tidy charlie c55be9
+tune solstice c801ca
+trim uniform a0d193
