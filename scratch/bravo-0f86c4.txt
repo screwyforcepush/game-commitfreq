@@ -1,5 +1,0 @@
-expand nimbus bbd472
-tune lattice 943b6f
-prune prism ed70ab
-tune sierra 98b96a
-tidy romeo b7ab3f
