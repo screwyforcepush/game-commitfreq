@@ -3,7 +3,6 @@ bump sierra 2447df
 expand yankee 0b2317
 polish xray f6844a
 cleanup solstice 4f1ee6
-update uniform aca9c0
 polish uniform 38952d
 seed yankee 241c1a
 seed golf 3835e0
