@@ -1,3 +1,2 @@
-prune delta a4fd10
 tweak bravo daf613
 tune lattice a39a43
