@@ -1,5 +1,0 @@
-wire echo ace38e
-update lattice b5f1ec
-tidy prism c23886
-prune victor 1075ab
-update alpha 1d7467
