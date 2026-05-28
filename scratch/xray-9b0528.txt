@@ -3,4 +3,3 @@ prune uniform fc1c20
 nudge oscar 0928be
 bump juliet 517095
 tune lattice c3ade6
-adjust kilo 49c6c4
