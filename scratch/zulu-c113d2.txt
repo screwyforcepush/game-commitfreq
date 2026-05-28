@@ -1,4 +1,0 @@
-trim foxtrot 1dde4b
-bump hotel 65308d
-adjust tango 8af207
-adjust charlie 8e8401
