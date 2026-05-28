@@ -3,7 +3,7 @@ cleanup juliet a07eca
 prune charlie a614c8
 wire uniform 36910a
 adjust juliet 17e7b8
-tune kilo 5eac8b
+seed nimbus dd3998
 bump golf 542ead
 tweak oscar 8bd2e3
 adjust echo 18c887
