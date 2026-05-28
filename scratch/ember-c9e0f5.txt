@@ -3,3 +3,5 @@ tidy echo 1a0eb1
 tidy harbor 03ea71
 polish victor 3ee88d
 tidy solstice 194bc5
+expand juliet 2a6250
+refactor quebec 9c4819
