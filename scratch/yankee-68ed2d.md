@@ -6,4 +6,4 @@ cleanup whiskey 6c3b48
 refactor hotel 128305
 rework golf b1cebf
 polish golf 5c2e75
-tidy papa 2daf3b
+adjust whiskey 17f6af
