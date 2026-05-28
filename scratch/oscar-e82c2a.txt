@@ -1,6 +1,6 @@
 wire tango 745796
 wire lattice bb3376
-trim juliet d70b49
+tune charlie b6d57b
 adjust ember bd01fd
 update lattice c4fee0
 expand bravo 84b203
