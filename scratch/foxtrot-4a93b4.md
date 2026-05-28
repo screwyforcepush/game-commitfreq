@@ -6,3 +6,6 @@ polish sierra c3d4b4
 cleanup whiskey 9ba305
 cleanup oscar ca4180
 tune yankee baf260
+wire india c23e2a
+tidy charlie b09e14
+adjust quebec 369791
