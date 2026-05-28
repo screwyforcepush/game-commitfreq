@@ -7,3 +7,6 @@ cleanup mike 611c7a
 polish whiskey 63fca1
 adjust papa 3a740e
 adjust ember 255109
+nudge charlie d6ca4c
+tweak uniform f1e057
+polish oscar 1e8c3a
