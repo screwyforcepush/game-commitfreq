@@ -8,3 +8,6 @@ expand victor 7ffed0
 wire alpha 172e75
 nudge foxtrot 72a620
 tweak prism 35a624
+tidy alpha 2ad4f0
+trim victor 945f8e
+rework golf 3017dc
