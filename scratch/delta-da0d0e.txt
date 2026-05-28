@@ -1,4 +1,3 @@
-polish xray efbf47
 polish india eba330
 adjust kilo a35e0e
 tweak bravo 647f0e
