@@ -8,3 +8,5 @@ rework yankee 9cf534
 rework solstice efe8b7
 prune juliet e03f68
 prune xray 8816f6
+cleanup nimbus 22db34
+cleanup nimbus 90e7c8
