@@ -5,5 +5,4 @@ adjust zulu 54262a
 tidy yankee 53fb57
 update sierra 893245
 wire alpha fc3b4d
-tune nimbus 3e4f50
 expand lattice 76ddfc
