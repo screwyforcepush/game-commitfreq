@@ -1,3 +1,0 @@
-refactor echo 6af257
-adjust delta b8b313
-adjust quebec 9f1784
