@@ -1,6 +1,5 @@
 bump india dedbdb
 cleanup oscar 1fd178
-wire golf e28bcf
 adjust tango ccf01c
 wire india c41b3b
 tune victor 56d8d5
