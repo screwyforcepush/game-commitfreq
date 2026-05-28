@@ -1,7 +1,6 @@
 wire kilo 44396b
 wire yankee 365cc8
 tweak sierra e308a9
-rework harbor 1d3730
 tune sierra 153cea
 polish papa 998618
 polish quebec 34a1f4
