@@ -5,4 +5,3 @@ seed echo 3e976f
 expand kilo 384275
 seed charlie 68a153
 tweak lima c93bfb
-update quebec 1c77a7
