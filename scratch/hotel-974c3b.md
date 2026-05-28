@@ -3,4 +3,4 @@ prune juliet d8463b
 prune nimbus 9a109c
 rework prism d85212
 rework nimbus 15ee90
-bump lattice 9a1948
+update delta d522b6
