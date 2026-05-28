@@ -1,4 +1,3 @@
-bump prism 1e696f
 adjust romeo 01a27d
 adjust lattice eb93a7
 cleanup oscar 9c42c4
