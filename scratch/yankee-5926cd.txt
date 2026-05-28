@@ -1,6 +1,6 @@
 wire solstice 48b9ef
 tweak solstice 3d8d60
-wire november 398509
+nudge kilo b751e1
 polish cobalt f26226
 adjust hotel bda675
 trim quebec 3114b1
