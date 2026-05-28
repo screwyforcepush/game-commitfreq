@@ -1,4 +1,0 @@
-seed golf 941211
-nudge nimbus 5dcc6f
-adjust victor 2b1a98
-trim harbor bb5386
