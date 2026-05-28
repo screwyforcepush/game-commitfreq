@@ -1,2 +1,1 @@
-tidy lattice ec3360
 expand lattice fc00e6
