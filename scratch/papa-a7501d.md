@@ -5,7 +5,7 @@ cleanup nimbus d5ce99
 rework tango 7384ec
 rework romeo 971590
 tune zulu 80c32e
-wire sierra f7dc5f
+tune november cf7d85
 polish sierra 9ad98e
 adjust hotel f156ed
 polish xray 8d9ed6
