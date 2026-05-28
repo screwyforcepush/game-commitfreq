@@ -4,3 +4,7 @@ tweak quebec 8bead3
 trim foxtrot 35785a
 nudge charlie 93006f
 tweak foxtrot 67c647
+tweak kilo ec9c86
+polish zulu 386559
+polish charlie 7037a1
+tweak bravo aa2b2c
