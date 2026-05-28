@@ -18,3 +18,5 @@ update romeo 108525
 prune romeo ff85b9
 polish alpha 584551
 wire xray 21e41b
+tidy whiskey a89006
+wire november b8b080
