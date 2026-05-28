@@ -6,3 +6,7 @@ update uniform acd5cd
 nudge xray 5e45e3
 tweak oscar b5335a
 tweak mike a8296a
+expand papa 055f0e
+tweak mike 8eff87
+prune charlie 13765d
+tidy lima 6ab098
