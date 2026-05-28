@@ -2,3 +2,7 @@ wire xray 554c0f
 update charlie 0b0649
 rework ember 8d8146
 expand uniform 85999f
+update uniform acd5cd
+nudge xray 5e45e3
+tweak oscar b5335a
+tweak mike a8296a
