@@ -1,3 +1,2 @@
 bump india 2f44b0
 prune charlie 6f6456
-cleanup quebec 8a3698
