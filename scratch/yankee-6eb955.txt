@@ -6,3 +6,5 @@ wire yankee da6fb5
 tidy quebec b2b5b2
 refactor kilo 3386e1
 nudge whiskey c61008
+refactor mike 1cee3e
+refactor hotel 905d44
