@@ -1,0 +1,3 @@
+wire tango 745796
+wire lattice bb3376
+trim juliet d70b49
