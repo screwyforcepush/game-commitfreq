@@ -4,3 +4,7 @@ cleanup zulu 72bb3f
 refactor kilo 2e8630
 cleanup mike 0c03b1
 adjust zulu 54262a
+tidy yankee 53fb57
+update kilo f60331
+tweak oscar 77e9cf
+update sierra 893245
