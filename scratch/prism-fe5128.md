@@ -5,7 +5,7 @@ polish november 201e49
 cleanup lattice e3616b
 prune lattice ae5228
 tweak hotel 77945b
-expand whiskey 5b6acb
+bump lattice 02d49d
 update oscar 268640
 bump bravo a9e248
 tweak hotel 370044
