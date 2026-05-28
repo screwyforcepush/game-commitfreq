@@ -1,3 +1,2 @@
 bump oscar cd78e1
-tidy ember 0dbc94
 seed mike 6f5aa0
