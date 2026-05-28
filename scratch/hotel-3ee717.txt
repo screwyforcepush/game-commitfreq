@@ -1,2 +1,1 @@
-prune hotel efa257
 wire zulu 4d6278
