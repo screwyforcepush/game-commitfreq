@@ -9,3 +9,7 @@ expand romeo 88df58
 rework sierra e897af
 tune lattice 1fdc05
 tidy sierra a75bda
+adjust delta 3fe0ac
+adjust charlie e162b0
+wire quebec fd24cd
+nudge solstice 385f0d
