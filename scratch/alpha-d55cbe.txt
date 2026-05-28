@@ -1,4 +1,0 @@
-prune uniform f104fb
-adjust bravo f2603a
-bump echo 3bf335
-update delta bb37f3
