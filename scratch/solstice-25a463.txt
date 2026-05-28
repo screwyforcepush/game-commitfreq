@@ -2,3 +2,7 @@ adjust romeo 01a27d
 adjust lattice eb93a7
 cleanup oscar 9c42c4
 tidy solstice f1bf3f
+nudge sierra 79034b
+trim alpha c7388e
+refactor prism 19c1a4
+refactor kilo a04d05
