@@ -2,6 +2,6 @@ tweak hotel 63080f
 tweak echo ac8a0b
 update november ae6926
 cleanup bravo 0c9c03
-tidy echo 41927f
+cleanup nimbus 747117
 tweak golf b337c3
 trim papa 733365
