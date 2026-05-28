@@ -1,4 +1,3 @@
-polish mike 55b5e1
 prune whiskey 639fc6
 tweak solstice 24fc09
 prune hotel 54ece0
