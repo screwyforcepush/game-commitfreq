@@ -4,3 +4,6 @@ wire juliet 5e1c3c
 nudge juliet cb2ba6
 tidy november 58bff2
 tidy lattice c71379
+nudge whiskey 80f99e
+trim hotel 9255cf
+trim uniform 0f6369
