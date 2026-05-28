@@ -17,3 +17,7 @@ wire delta 48b589
 tidy juliet 23777b
 tidy uniform 6828b2
 tidy papa 5a4dc7
+tidy kilo 053807
+seed prism 448f63
+adjust nimbus c2713f
+cleanup zulu 030951
