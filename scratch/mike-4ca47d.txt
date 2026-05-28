@@ -3,3 +3,7 @@ cleanup charlie 24bd64
 cleanup zulu e76e27
 update november 147c31
 tune harbor f67a92
+tidy prism 9eaf75
+polish lattice 7c2cf5
+tidy november 9d556c
+tune delta 755492
