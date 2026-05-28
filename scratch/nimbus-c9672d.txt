@@ -1,3 +1,6 @@
 wire zulu c64cb5
 trim uniform b4dacc
 trim nimbus 216260
+tweak solstice f9050a
+tune lima c43e13
+nudge kilo cb19d3
