@@ -2,3 +2,6 @@ trim ember ddaa22
 rework nimbus 0bdb41
 tidy delta 52471e
 rework lima afb749
+trim quebec dd6670
+tweak india 85d7b3
+tweak charlie 867b73
