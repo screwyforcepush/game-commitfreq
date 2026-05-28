@@ -1,5 +1,5 @@
 adjust echo fc3ff6
-trim nimbus 4c85f5
+tidy lattice c765b3
 cleanup zulu 72bb3f
 adjust zulu 54262a
 tidy yankee 53fb57
