@@ -16,3 +16,6 @@ bump nimbus 7eb537
 nudge oscar d39227
 update romeo 108525
 prune romeo ff85b9
+prune november 514ef7
+polish alpha 584551
+wire xray 21e41b
