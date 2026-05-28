@@ -1,0 +1,2 @@
+seed uniform a83180
+adjust xray 9fae64
