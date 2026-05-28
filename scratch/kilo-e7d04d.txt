@@ -4,3 +4,6 @@ tidy delta 52471e
 rework lima afb749
 trim quebec dd6670
 seed juliet a43ff8
+trim lattice e95d9a
+rework november ca2073
+wire juliet c9cce2
