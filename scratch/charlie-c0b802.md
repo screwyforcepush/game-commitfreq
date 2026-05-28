@@ -10,3 +10,6 @@ bump whiskey 11d8e2
 bump whiskey 064435
 nudge xray 87b85a
 tune alpha 4fded5
+expand uniform 62dc91
+adjust foxtrot fbca20
+nudge solstice 841a1d
