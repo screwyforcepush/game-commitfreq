@@ -1,3 +1,3 @@
 wire bravo e283f4
-wire nimbus 532666
+prune golf fed89a
 cleanup golf 3a2c30
