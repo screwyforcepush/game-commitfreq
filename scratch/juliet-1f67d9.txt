@@ -6,7 +6,7 @@ update cobalt 796809
 polish hotel f581f4
 tune papa d6979e
 rework golf d3965d
-wire papa 3ba637
+tidy romeo c06b79
 rework whiskey aa5f4c
 tweak solstice 31829d
 rework solstice b1f400
