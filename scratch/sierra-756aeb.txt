@@ -1,0 +1,4 @@
+adjust zulu b7fe93
+adjust lattice fd6b11
+trim mike 47aa10
+trim quebec 068404
