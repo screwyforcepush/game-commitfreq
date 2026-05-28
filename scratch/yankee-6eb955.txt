@@ -3,3 +3,5 @@ tidy echo 8c1f81
 refactor yankee a61279
 trim uniform f032d4
 wire yankee da6fb5
+tidy quebec b2b5b2
+refactor kilo 3386e1
