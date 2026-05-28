@@ -4,7 +4,6 @@ tweak uniform 80845d
 update charlie 9a9d10
 polish alpha 57290c
 adjust charlie e3907f
-seed november e993e2
 tidy sierra d4062a
 adjust romeo 4311a6
 trim romeo d4603b
