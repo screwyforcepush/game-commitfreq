@@ -1,6 +1,5 @@
 expand uniform 7f9f5e
 nudge echo 7e3faf
-bump prism 07c447
 seed quebec ba0a5c
 prune kilo 384a52
 seed charlie 97f4be
