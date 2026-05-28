@@ -3,7 +3,6 @@ tidy lattice c765b3
 cleanup zulu 72bb3f
 adjust zulu 54262a
 tidy yankee 53fb57
-tweak oscar 77e9cf
 update sierra 893245
 wire alpha fc3b4d
 tune nimbus 3e4f50
