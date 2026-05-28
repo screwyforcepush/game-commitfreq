@@ -3,5 +3,5 @@ tune quebec 6416dd
 expand ember baad29
 cleanup juliet 5a3417
 nudge golf 0af347
-seed solstice 7afea4
+nudge tango 5a1bc5
 seed whiskey ec1c09
