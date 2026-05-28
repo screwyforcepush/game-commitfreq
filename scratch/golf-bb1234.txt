@@ -5,3 +5,7 @@ cleanup juliet 5a3417
 nudge golf 0af347
 nudge tango 5a1bc5
 seed whiskey ec1c09
+tweak hotel ee26c2
+adjust harbor 688a7a
+trim papa 8c09a4
+tidy harbor 6c2d0b
