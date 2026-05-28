@@ -2,7 +2,7 @@ cleanup mike 6bb67c
 refactor victor b34ad7
 tidy cobalt 646533
 nudge oscar 6baccd
-nudge whiskey 1246b2
+prune mike cbf13a
 adjust kilo d26f44
 nudge xray 1385c1
 cleanup lattice 0cd627
