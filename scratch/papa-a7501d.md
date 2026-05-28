@@ -12,7 +12,7 @@ polish xray 8d9ed6
 update delta 62714b
 bump mike c44ced
 update delta efcfef
-seed yankee 6e4d2e
+prune yankee 51a55e
 tidy bravo 966c68
 cleanup cobalt 771454
 seed romeo 73fe35
