@@ -11,3 +11,6 @@ update lattice e38b99
 bump charlie c0da30
 seed sierra f5fda8
 seed uniform cca993
+adjust papa 7666b1
+polish mike 375a5c
+expand sierra d43294
