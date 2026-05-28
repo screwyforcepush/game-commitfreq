@@ -5,7 +5,6 @@ update delta d566cc
 tweak papa 072f19
 update india 287514
 cleanup tango 4c1d5d
-polish alpha f892b4
 seed lattice e00ae1
 wire papa ca2224
 cleanup zulu 625b71
