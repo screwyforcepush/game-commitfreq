@@ -1,3 +1,6 @@
 tweak alpha e80ff3
 seed nimbus 59d37f
 wire nimbus 0d735c
+tune charlie 3104d2
+expand golf a85860
+trim sierra 0674b7
