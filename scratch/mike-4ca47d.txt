@@ -5,7 +5,7 @@ trim prism 67f23a
 tune harbor f67a92
 tidy prism 9eaf75
 polish lattice 7c2cf5
-tidy november 9d556c
+update sierra eb8aae
 tune delta 755492
 wire quebec 229aa6
 tweak xray 853173
