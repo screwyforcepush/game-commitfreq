@@ -6,3 +6,6 @@ trim charlie ccb747
 rework romeo 899456
 rework papa e69c86
 wire oscar 078862
+nudge charlie 9e2578
+wire yankee b15aa2
+trim romeo 9ec33d
