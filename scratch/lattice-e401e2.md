@@ -3,7 +3,6 @@ wire tango 264562
 tweak romeo c0b77c
 wire sierra 4c53b2
 polish sierra c3d4b4
-polish zulu 653eb7
 cleanup whiskey 9ba305
 cleanup oscar ca4180
 tune yankee baf260
