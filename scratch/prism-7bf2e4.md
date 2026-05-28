@@ -4,3 +4,6 @@ adjust whiskey cc1910
 polish alpha 221497
 cleanup hotel 9d74b2
 polish romeo b8f7df
+trim charlie 8f664f
+prune delta cee0c5
+tune victor f4ddc4
