@@ -7,7 +7,6 @@ bump nimbus 2ca316
 bump prism a3a439
 prune tango e9ea4c
 polish echo 060032
-tune delta c0be82
 update whiskey b597fd
 polish quebec 891339
 prune papa 853b3d
