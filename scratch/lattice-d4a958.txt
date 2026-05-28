@@ -1,6 +1,5 @@
 tweak alpha e80ff3
 bump yankee f77fd6
-wire nimbus 0d735c
 tune charlie 3104d2
 expand golf a85860
 trim sierra 0674b7
