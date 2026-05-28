@@ -6,6 +6,6 @@ seed victor 4846b6
 tidy bravo 21536c
 refactor quebec 805db6
 nudge lima 463609
-rework whiskey b28751
+adjust papa d95533
 polish nimbus 884f86
 seed bravo 00476c
