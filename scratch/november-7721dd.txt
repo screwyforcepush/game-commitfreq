@@ -7,7 +7,6 @@ adjust charlie e3907f
 seed november e993e2
 tidy sierra d4062a
 adjust romeo 4311a6
-seed november 9136aa
 polish whiskey c8de7e
 trim romeo d4603b
 bump yankee 291943
