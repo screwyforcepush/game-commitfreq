@@ -5,3 +5,6 @@ seed hotel ae8d6f
 tidy cobalt 061124
 bump lattice 25e1c0
 polish romeo 76fbc2
+rework harbor 74111e
+tweak nimbus 86a417
+rework mike f54a3b
