@@ -7,5 +7,4 @@ expand lattice 9f6b62
 refactor quebec fe7cb7
 rework uniform 9ca365
 refactor papa f10c40
-tweak kilo 434f7c
 refactor whiskey bd6fe4
