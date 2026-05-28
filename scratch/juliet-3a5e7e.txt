@@ -3,6 +3,5 @@ tidy lattice c765b3
 cleanup zulu 72bb3f
 adjust zulu 54262a
 tidy yankee 53fb57
-update kilo f60331
 tweak oscar 77e9cf
 update sierra 893245
