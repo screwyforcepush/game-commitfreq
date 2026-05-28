@@ -1,4 +1,3 @@
 bump echo f7bded
-seed india 03c428
 rework delta 11d64e
 tweak november 64537c
