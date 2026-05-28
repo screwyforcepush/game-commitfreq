@@ -1,7 +1,6 @@
 adjust alpha 4fb60d
 seed foxtrot b7bdc2
 rework hotel 4ab836
-seed papa e262b7
 nudge prism 9f33ed
 wire romeo 4c85e0
 bump hotel 31d045
