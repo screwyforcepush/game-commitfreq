@@ -6,3 +6,6 @@ tune november d097f6
 rework uniform c6a04c
 rework zulu 6acf78
 tweak uniform 1e6c99
+update nimbus 0d8ec5
+wire hotel eb68fc
+adjust hotel 2b2eff
