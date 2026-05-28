@@ -1,0 +1,3 @@
+tidy charlie 193dc4
+cleanup delta c47dfd
+trim quebec 23dbea
