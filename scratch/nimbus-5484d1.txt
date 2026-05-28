@@ -1,5 +1,4 @@
 update echo f54ed4
-prune juliet 993032
 prune solstice 2d90b6
 nudge ember 82d566
 adjust papa 9d6a52
