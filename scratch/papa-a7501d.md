@@ -9,7 +9,7 @@ wire sierra f7dc5f
 polish sierra 9ad98e
 adjust hotel f156ed
 polish xray 8d9ed6
-update delta 62714b
+update alpha e4df58
 bump mike c44ced
 update delta efcfef
 prune yankee 51a55e
