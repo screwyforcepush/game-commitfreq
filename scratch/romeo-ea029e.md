@@ -8,3 +8,6 @@ bump oscar 607d6a
 prune mike 9bfef1
 tune uniform 80105a
 seed harbor 98b66e
+nudge cobalt 4223ff
+wire charlie b043bf
+polish sierra 694e0f
