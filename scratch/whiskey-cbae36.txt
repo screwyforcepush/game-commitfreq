@@ -1,4 +1,3 @@
-update mike 8a192e
 update prism a66ec9
 trim cobalt 047a64
 adjust yankee 172558
