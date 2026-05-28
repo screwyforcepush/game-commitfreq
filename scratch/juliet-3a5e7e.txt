@@ -3,7 +3,6 @@ cleanup zulu 72bb3f
 adjust zulu 54262a
 tidy yankee 53fb57
 update sierra 893245
-wire alpha fc3b4d
 wire juliet 709bff
 cleanup prism 407ec7
 expand foxtrot d8d4bd
