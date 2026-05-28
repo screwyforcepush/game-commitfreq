@@ -2,7 +2,7 @@ tidy alpha 561ca7
 wire delta 178f43
 expand nimbus 9befc5
 rework victor 03fd04
-trim kilo 30cedf
+prune uniform a3a1d4
 seed victor 4846b6
 tidy bravo 21536c
 refactor quebec 805db6
