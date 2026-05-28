@@ -152347,3 +152347,4 @@ To https://github.com/screwyforcepush/game-commitfreq.git
 408/423  wip: solstice tweaks                          drop lima-bf2802.log
 409/423  fix: cleanup yankee for xray                  drop golf-37ceaa.csv
 410/423  feat: tidy charlie                            append lattice-f9670e.dat
+411/423  tidy delta for charlie                        trim lima-f5ad98.csv:4
