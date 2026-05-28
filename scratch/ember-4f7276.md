@@ -8,5 +8,4 @@ seed yankee 241c1a
 seed golf 3835e0
 trim xray 0b7eb0
 seed cobalt 969fc1
-bump zulu afd9d2
 bump papa 6eac25
