@@ -7,3 +7,6 @@ seed juliet a43ff8
 trim lattice e95d9a
 rework november ca2073
 wire juliet c9cce2
+prune mike e05066
+trim juliet 0c45e1
+nudge bravo 41fc4e
