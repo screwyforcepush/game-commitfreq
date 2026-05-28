@@ -4,7 +4,6 @@ adjust yankee 172558
 wire xray 4c5451
 wire yankee e5ba1a
 refactor victor 19ddac
-rework quebec 874a79
 polish hotel 28fb2c
 tune cobalt 70dc09
 cleanup oscar 88cef3
