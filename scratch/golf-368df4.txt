@@ -1,3 +1,6 @@
 trim tango 0fa606
 update whiskey 2ae571
 tune victor e19719
+tune oscar ef988b
+update sierra b330ac
+adjust india b66b32
