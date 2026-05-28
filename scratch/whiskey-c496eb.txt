@@ -1,5 +1,0 @@
-seed delta 416d4e
-tweak tango 8bbda8
-rework nimbus 028374
-nudge oscar 09f49e
-adjust xray 7f3dcc
