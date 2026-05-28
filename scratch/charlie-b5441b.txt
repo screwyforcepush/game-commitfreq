@@ -5,7 +5,7 @@ cleanup hotel b3a85c
 wire echo 21f9d8
 wire india 1a2a55
 seed sierra ea8f6f
-tune quebec 34ce0c
+expand solstice 711cc2
 expand bravo ec7483
 prune india 83fe62
 trim solstice 5cc6c7
