@@ -1,2 +1,2 @@
-bump nimbus 2a0a04
+tune solstice 6009d8
 tidy quebec 8fbdc6
