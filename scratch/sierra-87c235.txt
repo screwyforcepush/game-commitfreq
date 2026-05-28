@@ -1,3 +1,6 @@
 tidy quebec a19871
 update juliet 10b690
 rework alpha 5d4ffd
+rework zulu 1ec4e5
+bump hotel 65dd4b
+trim delta 04a41e
