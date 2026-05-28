@@ -2,7 +2,7 @@ cleanup mike 6bb67c
 refactor victor b34ad7
 trim juliet 405ede
 nudge oscar 6baccd
-rework kilo 7942d2
+nudge whiskey 1246b2
 adjust kilo d26f44
 nudge xray 1385c1
 refactor sierra 2fc8ab
