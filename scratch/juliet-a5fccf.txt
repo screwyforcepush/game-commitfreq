@@ -14,5 +14,4 @@ polish sierra 69c8cb
 tidy echo 028ab4
 tune echo b6f152
 bump nimbus 7eb537
-tune foxtrot ce8265
 nudge oscar d39227
