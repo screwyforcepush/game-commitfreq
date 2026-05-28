@@ -4,3 +4,6 @@ cleanup golf 3a2c30
 rework foxtrot 88c660
 cleanup sierra bed224
 prune yankee 1097b4
+cleanup xray abac7d
+bump juliet 9cec47
+prune charlie cc66ac
