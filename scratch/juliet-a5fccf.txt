@@ -10,7 +10,7 @@ tweak harbor 0d5beb
 rework hotel 5016ac
 rework zulu d39f09
 expand lattice 4a5557
-tweak solstice 97dc9a
+polish sierra 69c8cb
 tidy echo 028ab4
 tune echo b6f152
 bump nimbus 7eb537
