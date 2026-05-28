@@ -8,3 +8,4 @@ tweak harbor 063562
 trim november 4284f5
 wire cobalt 80c98b
 tweak alpha 831031
+tune lattice 84c640
