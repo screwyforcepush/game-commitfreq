@@ -4,3 +4,5 @@ wire sierra 316478
 seed solstice 235173
 trim mike c69eaf
 expand cobalt 1e0c6d
+update solstice c0c4be
+tune romeo c2794f
