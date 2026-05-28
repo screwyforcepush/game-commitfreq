@@ -4,3 +4,5 @@ tune zulu 2d33d6
 prune yankee 68da7a
 expand harbor 240142
 tidy foxtrot 14dd3c
+adjust solstice cab970
+tidy kilo db1049
