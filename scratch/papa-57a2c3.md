@@ -1,7 +1,6 @@
 adjust kilo 48a109
 prune uniform 2f11f5
 tweak kilo 84c702
-polish india 9b2059
 update echo 63c8d4
 adjust oscar a2c0c5
 tidy xray 7fa2b6
