@@ -1,4 +1,4 @@
-expand sierra 3de8bc
+wire nimbus 4c576f
 expand alpha 7caa9a
 tune echo 8f64fa
 adjust quebec bb2534
