@@ -5,7 +5,6 @@ tidy solstice 7dd94d
 tweak alpha ead78d
 cleanup ember 371871
 cleanup uniform 56504e
-polish victor 9d9866
 rework alpha 885c7d
 rework quebec b88073
 bump lima ca1738
