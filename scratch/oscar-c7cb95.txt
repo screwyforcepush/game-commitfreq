@@ -2,3 +2,7 @@ seed charlie b984d0
 rework delta 9394dc
 tweak solstice eab812
 rework xray c09edc
+tweak november ec2a33
+rework kilo 485352
+polish papa c5465d
+trim india 6493ee
