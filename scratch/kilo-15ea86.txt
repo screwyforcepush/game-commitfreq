@@ -1,2 +1,6 @@
 tweak foxtrot 030157
 wire whiskey 94f016
+expand juliet 314c3c
+polish xray ce2cf0
+tune mike 9ae74a
+trim lima 9abde7
