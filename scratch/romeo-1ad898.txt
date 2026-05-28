@@ -1,3 +1,5 @@
 adjust quebec 79051e
 expand november c89e80
 adjust harbor 3506b4
+refactor hotel d390e7
+update quebec f1ff30
