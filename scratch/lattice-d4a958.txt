@@ -4,3 +4,7 @@ wire nimbus 0d735c
 tune charlie 3104d2
 expand golf a85860
 trim sierra 0674b7
+rework ember 59898d
+expand zulu 0d7c53
+tidy lattice c3cee7
+tweak xray 690c5b
