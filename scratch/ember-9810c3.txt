@@ -4,3 +4,6 @@ rework papa 8ffa12
 prune charlie dd82d0
 nudge uniform 588d6c
 wire papa b655f9
+trim oscar 490a0c
+expand juliet fe2230
+wire solstice 11d5fd
