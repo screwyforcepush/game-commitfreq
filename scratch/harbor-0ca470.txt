@@ -1,0 +1,3 @@
+expand oscar b449cd
+expand hotel 568546
+expand echo 3170f4
