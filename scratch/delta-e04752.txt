@@ -1,4 +1,3 @@
-update delta 7ed387
 tidy hotel cffb21
 trim echo 574b6b
 cleanup tango beab9c
