@@ -4,3 +4,6 @@ expand november ec7630
 prune xray 1eb0ad
 tune delta 9ab4c0
 tune prism 4ca806
+prune november fa4224
+bump november a2c232
+tidy bravo 0741b3
