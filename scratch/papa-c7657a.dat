@@ -5,3 +5,6 @@ prune hotel a22725
 wire tango bb866b
 cleanup lattice c88ec8
 rework romeo ba9c3d
+nudge tango 76487d
+nudge golf 955d3c
+refactor charlie 4297c3
