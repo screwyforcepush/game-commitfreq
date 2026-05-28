@@ -1,2 +1,2 @@
-trim lattice 9937e2
+update solstice 9c8368
 wire kilo cb466c
