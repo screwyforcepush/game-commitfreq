@@ -8,3 +8,6 @@ adjust quebec eca41d
 nudge uniform d31058
 tidy juliet ba6cfd
 nudge whiskey ac1337
+tune charlie d2f020
+bump foxtrot cf6be6
+update solstice b5c21c
