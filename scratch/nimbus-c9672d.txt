@@ -1,5 +1,4 @@
 trim lima 2ffcc0
-expand lattice c8b1fb
 wire zulu c64cb5
 bump solstice 1e1bd7
 trim nimbus 216260
