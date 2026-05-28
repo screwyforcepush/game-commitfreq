@@ -4,4 +4,3 @@ seed lattice b17ffd
 tidy nimbus df90c0
 refactor india c6862e
 polish alpha 59210b
-tune juliet a5006e
