@@ -5,5 +5,4 @@ trim papa fda34e
 expand india b1abae
 nudge papa cc1531
 prune uniform d79243
-trim lima cda676
 trim sierra a1f188
