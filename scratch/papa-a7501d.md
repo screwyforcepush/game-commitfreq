@@ -7,7 +7,6 @@ rework romeo 971590
 tune zulu 80c32e
 tune november cf7d85
 polish sierra 9ad98e
-adjust hotel f156ed
 polish xray 8d9ed6
 update alpha e4df58
 bump mike c44ced
