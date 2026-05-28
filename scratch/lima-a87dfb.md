@@ -9,3 +9,7 @@ tidy victor 09c584
 polish nimbus 6fc6f2
 trim juliet 1ce93d
 nudge lattice d91734
+refactor foxtrot 75b7b1
+trim oscar b88b05
+tune zulu bd6054
+wire tango 90e285
