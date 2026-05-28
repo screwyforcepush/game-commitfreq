@@ -10,3 +10,5 @@ wire juliet c9cce2
 prune mike e05066
 trim juliet 0c45e1
 nudge bravo 41fc4e
+nudge ember 55fad8
+bump ember 40111e
