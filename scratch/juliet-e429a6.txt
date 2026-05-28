@@ -9,3 +9,6 @@ wire oscar 078862
 nudge charlie 9e2578
 wire yankee b15aa2
 trim romeo 9ec33d
+adjust hotel ebf1c5
+nudge cobalt faae99
+rework sierra 59ac37
