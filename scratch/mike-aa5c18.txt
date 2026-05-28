@@ -14,3 +14,5 @@ wire hotel ad392d
 bump alpha 223f90
 adjust echo 0039ca
 trim delta 65a1b5
+cleanup foxtrot db07fb
+adjust mike 057abc
