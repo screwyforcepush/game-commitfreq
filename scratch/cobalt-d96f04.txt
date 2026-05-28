@@ -4,3 +4,6 @@ tidy bravo 227107
 bump hotel 4eff57
 adjust papa 801b8e
 bump yankee fc5f3a
+tidy lattice 22876c
+cleanup charlie 70ff39
+polish juliet 9d5b8f
