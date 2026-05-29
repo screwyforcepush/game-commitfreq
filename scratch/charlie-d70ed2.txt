@@ -1,7 +1,7 @@
 update november e22702
 update delta d5236a
 expand yankee 5bb837
-update xray e2c427
+tune yankee cb970b
 tune prism 34704e
 rework quebec 7b8536
 cleanup nimbus 69c5da
