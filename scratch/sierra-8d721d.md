@@ -10,3 +10,5 @@ expand harbor aad1f1
 wire kilo b35f36
 tidy echo 259d91
 tweak papa f7f380
+nudge juliet 85111e
+trim tango d28d62
