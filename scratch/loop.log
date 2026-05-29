@@ -160185,3 +160185,4 @@ To https://github.com/screwyforcepush/game-commitfreq.git
 163/510  wip: expand victor                            drop nimbus-1bcc74.txt
 164/510  alpha nudges                                  append uniform-2108c2.csv
 165/510  seed nimbus (74a33c)                          append ember-2a1428.csv
+166/510  docs: tidy ember                              trim ember-c02afb.txt:2
