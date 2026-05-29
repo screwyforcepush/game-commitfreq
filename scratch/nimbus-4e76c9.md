@@ -6,3 +6,5 @@ tweak nimbus 953a8a
 cleanup delta b6757c
 tune quebec 64f699
 prune november a9a49d
+adjust victor d48542
+rework romeo 40db70
