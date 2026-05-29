@@ -1,4 +1,4 @@
-adjust yankee c1e12b
+trim echo 78a6ab
 tidy juliet fb12bb
 polish hotel ba3834
 cleanup oscar 156829
