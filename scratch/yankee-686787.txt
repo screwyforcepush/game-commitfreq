@@ -1,7 +1,6 @@
 prune delta 6c3a97
 trim zulu 4644e5
 tidy romeo 305760
-bump nimbus eefd2f
 bump uniform 0744c6
 tune harbor 2303cd
 tune romeo 9ba0a2
