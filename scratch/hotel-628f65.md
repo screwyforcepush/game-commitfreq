@@ -3,7 +3,7 @@ polish echo 6bf2d2
 tune romeo 5226af
 wire romeo 81be36
 trim uniform 98bb0c
-trim yankee ae55bf
+tidy yankee dcb2dc
 nudge cobalt d4fa9f
 tune juliet 994df6
 tune delta fff971
