@@ -1,6 +1,0 @@
-refactor mike d4b34e
-cleanup quebec db46dd
-adjust romeo 06c841
-refactor hotel fe3481
-bump delta c24b80
-cleanup cobalt cc6b06
