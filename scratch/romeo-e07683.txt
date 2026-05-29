@@ -17,3 +17,6 @@ seed oscar a3cc2f
 tune victor bbbad2
 wire lima e37813
 bump uniform fc3ee6
+tweak lattice 5cab1b
+rework charlie 9b96a9
+nudge papa 2e7c0e
