@@ -5,3 +5,6 @@ nudge lima 2a261b
 rework delta 4250bd
 tidy quebec dae033
 expand lima 6a26e2
+rework november 7c0742
+polish papa df794f
+tune juliet c1b674
