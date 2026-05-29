@@ -1,4 +1,3 @@
-adjust quebec c40104
 adjust papa 3f31e2
 tidy india e18ba9
 expand romeo 95b075
