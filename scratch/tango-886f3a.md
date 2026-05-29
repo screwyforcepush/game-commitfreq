@@ -1,4 +1,4 @@
 prune delta fbb87b
-bump ember 5ecbc3
+wire solstice 7d18c5
 cleanup mike 45d01c
 cleanup harbor f93681
