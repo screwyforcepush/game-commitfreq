@@ -3,3 +3,6 @@ trim sierra d36f6a
 wire lima 1ed68d
 tune delta f3a837
 trim lima 80d98a
+update kilo ced111
+adjust hotel 0dff34
+wire prism 2d81ce
