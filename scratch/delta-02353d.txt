@@ -6,7 +6,7 @@ trim lima 00a32f
 cleanup nimbus 370c54
 polish charlie 24bea1
 expand echo c4abef
-expand kilo 9b1f68
+trim golf 3600de
 wire quebec a67b24
 adjust whiskey 5c70e2
 nudge alpha e7be77
