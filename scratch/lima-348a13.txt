@@ -4,3 +4,7 @@ expand india b1f1a0
 expand xray a9bce3
 cleanup oscar b417eb
 tweak echo 0c8a71
+tidy victor 296f40
+rework charlie 5e5144
+tune sierra 6af984
+prune india 0b689c
