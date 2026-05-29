@@ -5,3 +5,6 @@ wire charlie 1da015
 adjust tango bbb882
 polish lattice 07aa03
 prune cobalt c542ab
+adjust delta 882a2c
+bump delta ab9c1b
+wire xray 3244ea
