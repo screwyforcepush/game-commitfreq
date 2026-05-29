@@ -1,4 +1,4 @@
-wire lattice b5838e
+wire golf 590c24
 trim solstice c9357a
 seed tango 0644bc
 wire foxtrot 4c7322
