@@ -1,3 +1,0 @@
-tune quebec 1def18
-nudge november f75b4a
-tidy oscar 6b236f
