@@ -3,3 +3,6 @@ refactor ember 0e9046
 tune november f1ae6b
 prune ember 266866
 seed ember 961782
+polish lattice f09843
+tune foxtrot 03a00f
+adjust foxtrot 369223
