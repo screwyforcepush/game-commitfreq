@@ -11,3 +11,5 @@ tidy quebec 2daded
 tweak nimbus 75dc90
 tune quebec 231397
 seed romeo 9c322d
+seed mike f3a529
+expand lattice be4b0f
