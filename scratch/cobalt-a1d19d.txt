@@ -1,5 +1,0 @@
-nudge zulu 24f1f6
-trim bravo 4c85f7
-tweak echo 05a663
-seed foxtrot a0ba07
-nudge lattice a1e34e
