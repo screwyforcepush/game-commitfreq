@@ -5,3 +5,7 @@ tweak november d63af5
 seed oscar 2bb1cb
 tune echo 998639
 trim harbor 071f27
+wire foxtrot 80c604
+tune lattice a681fe
+tweak echo 1f771e
+prune lima 8fd715
