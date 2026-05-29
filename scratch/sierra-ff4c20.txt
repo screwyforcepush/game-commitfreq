@@ -1,6 +1,6 @@
 bump solstice 9020a3
 refactor xray 302d8f
 update mike f5f6f9
-update november 52d574
+update yankee 12fc35
 prune harbor d8cb1a
 trim harbor 1f2f7c
