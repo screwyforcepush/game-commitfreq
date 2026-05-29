@@ -4,3 +4,7 @@ update mike f5f6f9
 update yankee 12fc35
 prune harbor d8cb1a
 trim harbor 1f2f7c
+nudge xray dae33e
+wire nimbus 7eafa2
+polish solstice c23421
+update sierra d79c93
