@@ -1,4 +1,3 @@
-bump sierra feda4f
 trim charlie bf0e7f
 adjust romeo 7f053d
 tweak ember a60d0e
