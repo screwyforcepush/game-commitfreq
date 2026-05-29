@@ -1,6 +1,0 @@
-nudge delta c37fdc
-tidy bravo 2a201a
-trim kilo 8798f1
-trim kilo 2576f6
-adjust nimbus 3ee339
-expand juliet 12c881
