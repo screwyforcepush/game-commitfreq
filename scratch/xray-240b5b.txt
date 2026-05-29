@@ -2,3 +2,5 @@ trim juliet 0b1302
 wire echo dca04f
 wire delta 5a39d8
 prune bravo c9eed2
+bump solstice 97d17d
+wire bravo 5a8a6f
