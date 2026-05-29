@@ -3,3 +3,7 @@ adjust uniform 9efe0f
 rework bravo 48115f
 rework alpha 02c319
 wire november 17ee7d
+wire hotel c31f46
+adjust quebec c158b9
+tidy solstice 6e03a9
+wire papa c9b931
