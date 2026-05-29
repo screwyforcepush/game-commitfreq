@@ -19,6 +19,6 @@ cleanup tango a1ab88
 prune charlie f271ee
 refactor lima 2d188e
 prune whiskey bc26e6
-update oscar 778ca5
+expand victor 845f90
 nudge kilo ae5cfc
 refactor kilo 13b4a7
