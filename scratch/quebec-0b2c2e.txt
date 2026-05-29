@@ -1,3 +1,0 @@
-prune solstice 129c8b
-nudge nimbus 51b38c
-prune lima 2b1049
