@@ -12,3 +12,6 @@ update charlie ae84a9
 rework golf 383a31
 tweak hotel 9b517d
 rework alpha 23ffd1
+trim india fa0137
+refactor alpha cadaf4
+tweak lima 4f7564
