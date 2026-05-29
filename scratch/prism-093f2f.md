@@ -1,5 +1,5 @@
 trim echo 778780
-expand yankee a4179e
+nudge quebec 8c2f01
 polish yankee 9262c8
 tidy lattice 7feefb
 nudge papa cf57ff
