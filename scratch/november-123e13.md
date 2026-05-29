@@ -3,7 +3,7 @@ expand harbor 062769
 cleanup sierra 79032b
 prune harbor 4f17c4
 tidy nimbus 898215
-trim quebec 7ada83
+update yankee 0c6b1a
 wire bravo ec32bd
 tweak oscar e519e5
 rework ember a3907c
