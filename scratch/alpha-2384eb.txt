@@ -2,7 +2,7 @@ tidy quebec 1b1e25
 tweak delta 15bb2e
 nudge quebec 5c1d26
 wire harbor 48a7d7
-wire alpha 8a6a8d
+cleanup hotel 52d6f0
 nudge golf 2f4e73
 rework india 8bb152
 polish hotel acc565
