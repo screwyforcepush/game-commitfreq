@@ -1,7 +1,6 @@
 trim uniform e3a22d
 trim juliet 0e58ef
 bump zulu 6438fb
-tidy delta c46edf
 trim charlie 1293c2
 polish juliet 29d384
 nudge alpha d59abe
