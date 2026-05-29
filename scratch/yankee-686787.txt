@@ -9,3 +9,4 @@ bump nimbus 7f3f2d
 bump solstice ce0566
 rework uniform 9e81a6
 rework prism 5f537b
+cleanup solstice 887d21
