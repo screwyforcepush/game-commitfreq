@@ -5,5 +5,4 @@ expand mike f349a1
 rework quebec 468907
 tweak papa 61ba89
 update bravo 663b01
-refactor delta 00bd74
 nudge delta 17a1f7
