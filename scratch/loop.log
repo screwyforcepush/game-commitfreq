@@ -158044,3 +158044,4 @@ Everything up-to-date
 233/401  build: xray reworks                           rename solstice-b0c605.txt -> delta-ecef1a.txt
 234/401  rework lima                                   append delta-cb021d.dat
 235/401  prune kilo (de42bc)                           create xray-8c1577.log
+236/401  fix: tidy hotel                               rename bravo-35fb2c.dat -> november-974460.txt
