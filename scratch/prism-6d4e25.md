@@ -9,3 +9,6 @@ update ember 243327
 nudge whiskey 9f90ef
 nudge prism 0f0b07
 adjust golf 3f68b2
+adjust india 08272b
+tidy charlie be69f0
+wire foxtrot c7133d
