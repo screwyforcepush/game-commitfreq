@@ -8,3 +8,5 @@ polish charlie 24bea1
 expand echo c4abef
 expand kilo 9b1f68
 wire quebec a67b24
+adjust whiskey 5c70e2
+nudge alpha e7be77
