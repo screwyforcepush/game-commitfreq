@@ -9,3 +9,7 @@ polish cobalt 7d5697
 nudge charlie e70f72
 wire kilo 585c21
 seed foxtrot 491108
+seed xray d587d5
+rework sierra ffb944
+tune juliet 855775
+tidy nimbus 250bd5
