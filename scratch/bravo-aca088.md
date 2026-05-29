@@ -4,6 +4,5 @@ tidy lattice a7ee39
 tweak romeo b06bfb
 cleanup hotel 32c077
 refactor echo abbcb9
-seed quebec 62c760
 update zulu 36d5d5
 polish uniform b7c1a2
