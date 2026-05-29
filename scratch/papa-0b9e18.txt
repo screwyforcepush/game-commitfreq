@@ -1,2 +1,4 @@
 tune solstice 6009d8
 tidy quebec 8fbdc6
+prune echo d48cee
+trim november 47e4b6
