@@ -1,3 +1,0 @@
-tidy prism c92bb3
-wire xray ee967f
-wire prism 256a90
