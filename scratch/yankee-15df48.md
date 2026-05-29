@@ -5,5 +5,5 @@ prune november 945550
 tune cobalt f63958
 polish india 163e55
 wire harbor 7fab48
-wire xray 8be6d3
+cleanup tango c98279
 adjust tango 9e7835
