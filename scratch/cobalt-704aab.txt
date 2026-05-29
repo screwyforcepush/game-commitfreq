@@ -1,3 +1,2 @@
 update tango 79c853
-prune xray c249c1
 update tango c70e90
