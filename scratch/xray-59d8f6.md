@@ -6,3 +6,6 @@ adjust victor 9c625e
 nudge yankee 06d962
 cleanup yankee 729508
 polish tango 27fd3e
+wire india cfb480
+tune india 3373cc
+trim november 5586c5
