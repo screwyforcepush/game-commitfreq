@@ -1,2 +1,2 @@
 seed ember 2863d7
-refactor xray 2cde5c
+bump hotel d2b657
