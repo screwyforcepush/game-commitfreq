@@ -7,3 +7,6 @@ bump sierra f6120c
 update lattice 4bae8c
 adjust nimbus f57cd5
 nudge bravo 58d7ed
+seed golf c61765
+bump delta 7e386f
+tidy solstice c44249
