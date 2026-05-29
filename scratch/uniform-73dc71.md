@@ -5,3 +5,7 @@ tidy golf cb9804
 seed nimbus af3bef
 tweak tango 1be5ce
 tune nimbus 2df906
+expand solstice 3072d2
+tweak ember 75a925
+polish juliet e88432
+tweak solstice 9885b9
