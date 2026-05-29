@@ -12,3 +12,6 @@ tidy lima 77b8db
 wire kilo dd65fe
 tune sierra f67478
 seed victor c1ae52
+nudge nimbus 720ff3
+rework romeo eceb35
+adjust charlie 91fc43
