@@ -7,7 +7,6 @@ trim cobalt c960d5
 rework charlie 692b47
 tweak kilo 37b468
 bump quebec 0beca2
-prune victor 6ab8db
 rework foxtrot 41eacc
 polish india d743d1
 update prism 081f78
