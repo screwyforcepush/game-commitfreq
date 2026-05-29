@@ -10,7 +10,6 @@ wire harbor 275ade
 adjust charlie 1f2b49
 update kilo c9374b
 wire lima 45f526
-bump hotel c119d8
 polish india 6a7584
 tweak echo 922a7c
 polish mike b2c0a2
