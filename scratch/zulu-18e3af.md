@@ -14,3 +14,7 @@ update prism 081f78
 tidy whiskey 5d7310
 adjust echo 33779e
 expand golf b56f47
+expand delta ac1845
+rework lima e36d10
+polish nimbus 7741d5
+bump bravo 3f8472
