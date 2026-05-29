@@ -15,3 +15,4 @@ update golf f4e883
 wire kilo a85b13
 tune juliet 3b1f55
 adjust zulu 855153
+prune sierra 4158e3
