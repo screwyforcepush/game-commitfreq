@@ -1,4 +1,4 @@
-update lattice 2ddc6d
+cleanup lattice c7ff43
 rework prism bee671
 refactor xray 6beca0
 tune cobalt 527671
