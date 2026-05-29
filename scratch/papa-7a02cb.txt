@@ -1,3 +1,0 @@
-tweak uniform fe395c
-tune xray 1efd85
-wire solstice dadd23
