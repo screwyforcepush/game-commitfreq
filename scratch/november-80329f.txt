@@ -4,3 +4,5 @@ wire alpha bb992b
 cleanup november fc6be1
 update sierra 1925d7
 trim bravo 433651
+trim charlie b2cb82
+tune whiskey d15f28
