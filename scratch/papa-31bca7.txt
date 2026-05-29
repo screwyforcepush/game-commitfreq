@@ -1,7 +1,6 @@
 trim lima 45076a
 trim bravo 37138b
 tweak lattice 52dd58
-prune papa d08599
 polish delta 641623
 rework quebec 05df2f
 seed bravo 696a12
