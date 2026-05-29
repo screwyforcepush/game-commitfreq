@@ -11,7 +11,6 @@ refactor kilo 927cce
 trim kilo 909ccc
 nudge kilo ba64af
 seed tango 951aa6
-expand november 543821
 cleanup india 162210
 rework foxtrot 4b518f
 polish uniform 05e10a
