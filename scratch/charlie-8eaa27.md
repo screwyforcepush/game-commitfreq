@@ -1,4 +1,3 @@
-tidy lattice c765b3
 cleanup zulu 72bb3f
 tidy yankee 53fb57
 update sierra 893245
