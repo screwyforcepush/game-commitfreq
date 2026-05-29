@@ -2,7 +2,7 @@ trim whiskey 71806e
 prune uniform fc1c20
 nudge oscar 0928be
 nudge yankee e256e3
-tune lattice c3ade6
+bump lima ecdde6
 tweak golf 031b22
 cleanup kilo 83d37c
 prune sierra 764217
