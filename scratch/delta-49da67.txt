@@ -1,3 +1,6 @@
 rework delta 8b5209
 adjust victor 0b71ae
 cleanup tango 83fd22
+adjust golf 49fb50
+prune kilo 9380ea
+trim oscar 6ee60c
