@@ -1,5 +1,5 @@
 refactor yankee 4706f1
 expand quebec eabcd5
-refactor lattice b258f0
+prune alpha e8883c
 cleanup whiskey db36fe
 adjust nimbus d85c91
