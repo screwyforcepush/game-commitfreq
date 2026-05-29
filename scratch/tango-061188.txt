@@ -1,4 +1,0 @@
-update bravo 3fb4db
-seed delta 0cb7f9
-adjust quebec ee9deb
-adjust juliet 82a267
