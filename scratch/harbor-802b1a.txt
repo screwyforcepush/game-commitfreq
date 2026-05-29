@@ -2,5 +2,4 @@ seed uniform a83180
 adjust xray 9fae64
 prune ember a6822d
 tidy victor 9d452f
-tidy whiskey b44eb1
 bump alpha 9a807e
