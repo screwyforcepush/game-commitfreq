@@ -3,7 +3,7 @@ wire zulu f203f2
 polish xray adb0f5
 bump cobalt a1b1ba
 bump prism e62db0
-wire yankee 441aeb
+tweak bravo ba9f33
 expand foxtrot c7ae7d
 trim kilo 74d717
 polish india 95af9b
