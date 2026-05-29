@@ -1,6 +1,5 @@
 nudge solstice 0e1341
 polish echo 6bf2d2
-seed lattice a6ebb9
 tune romeo 5226af
 wire romeo 81be36
 trim uniform 98bb0c
