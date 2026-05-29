@@ -1,3 +1,0 @@
-polish quebec 3189d6
-wire echo 42cd1b
-tune cobalt c62cda
