@@ -1,6 +1,6 @@
 expand solstice 3a5ba0
 bump yankee 0c79d0
-wire bravo 7c230f
+update oscar a900b4
 trim quebec 9783a2
 nudge mike 1f8005
 tidy golf b1a719
