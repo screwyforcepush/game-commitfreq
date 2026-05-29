@@ -1,4 +1,4 @@
-rework lattice 42f588
+adjust alpha d83a7e
 trim delta da7aa4
 polish victor f5db93
 rework victor f90e36
