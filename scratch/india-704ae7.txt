@@ -1,6 +1,0 @@
-polish yankee a034e0
-rework uniform 09fc22
-refactor kilo 85d56e
-seed quebec 26ceed
-tidy prism 5fd851
-trim romeo 6ebef6
