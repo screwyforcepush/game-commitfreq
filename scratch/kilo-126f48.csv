@@ -2,3 +2,5 @@ rework nimbus 6b124b
 tune lattice e1bd91
 trim sierra d36f6a
 wire lima 1ed68d
+tune delta f3a837
+trim lima 80d98a
