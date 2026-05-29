@@ -12,5 +12,4 @@ update kilo c9374b
 wire lima 45f526
 polish india 6a7584
 tweak echo 922a7c
-polish mike b2c0a2
 bump nimbus 896d5b
