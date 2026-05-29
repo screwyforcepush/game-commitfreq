@@ -1,2 +1,0 @@
-seed yankee 146b67
-prune sierra 3ef9c0
