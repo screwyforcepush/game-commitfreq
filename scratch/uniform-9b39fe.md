@@ -14,3 +14,4 @@ prune charlie 497f0c
 nudge uniform 9258ea
 prune xray 6591a7
 adjust delta feb4f6
+trim november 849dd9
