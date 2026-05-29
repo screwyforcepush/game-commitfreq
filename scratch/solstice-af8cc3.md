@@ -7,3 +7,6 @@ rework quebec 7734b5
 prune uniform 00d386
 refactor cobalt 605b1c
 update uniform 0f5b2c
+tune nimbus 06549b
+bump lattice c19304
+trim yankee ce80fe
