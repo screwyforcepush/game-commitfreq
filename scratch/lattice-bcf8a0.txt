@@ -6,3 +6,5 @@ wire ember 3d3e1f
 cleanup sierra cee163
 trim prism 22f9a7
 wire harbor e18724
+refactor ember 40573b
+tidy quebec 2daded
