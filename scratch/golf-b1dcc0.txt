@@ -1,3 +1,2 @@
-prune nimbus 80051b
 update harbor 6991f2
 seed oscar 07714e
