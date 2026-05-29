@@ -12,3 +12,6 @@ cleanup papa 67746d
 adjust quebec 3c1778
 bump sierra 4e5b48
 adjust nimbus d29692
+prune solstice 1e7b80
+tidy oscar 8ec5a8
+refactor oscar b69bb9
