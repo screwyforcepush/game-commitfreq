@@ -1,6 +1,5 @@
 tune nimbus 433838
 tune ember ead2c4
-polish sierra e8d075
 cleanup harbor de7b1d
 prune mike a2c550
 nudge lattice e19315
