@@ -9,3 +9,5 @@ wire foxtrot 80c604
 tune lattice a681fe
 tweak echo 1f771e
 prune lima 8fd715
+tweak victor 5b1211
+tweak papa d68bda
