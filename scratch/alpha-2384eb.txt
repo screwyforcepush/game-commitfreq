@@ -6,4 +6,3 @@ cleanup hotel 52d6f0
 nudge golf 2f4e73
 rework india 8bb152
 polish hotel acc565
-update november 582e13
