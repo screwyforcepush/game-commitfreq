@@ -7,7 +7,6 @@ tune cobalt 70dc09
 cleanup oscar 88cef3
 adjust golf 314f94
 wire tango 7c9b89
-rework xray ddd1a0
 prune mike 63cb4b
 tune victor 8cdcf5
 wire alpha d8a0c0
