@@ -1,6 +1,5 @@
 adjust papa 3f31e2
 tidy india e18ba9
-expand lattice c4e939
 bump juliet 20a345
 tidy nimbus f9bf86
 tune sierra fb17f0
