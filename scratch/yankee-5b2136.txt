@@ -2,7 +2,7 @@ seed mike 864b8f
 expand alpha 654a57
 bump nimbus 061ef0
 update solstice ffa33c
-wire whiskey 1351ec
+wire yankee 833102
 expand papa 186071
 update whiskey f105a5
 nudge victor 0ff71d
