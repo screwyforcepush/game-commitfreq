@@ -4,7 +4,6 @@ trim delta 82575a
 prune hotel 589cb2
 update zulu df28b6
 trim sierra fac131
-rework lima 0a9c5e
 trim alpha a9d5d3
 adjust bravo 0e175f
 polish bravo 9a74f8
