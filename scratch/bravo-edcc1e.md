@@ -4,3 +4,7 @@ adjust yankee 7cd919
 cleanup tango 0f5597
 polish uniform 55231e
 adjust tango 166b0f
+tidy alpha c3b8cb
+tweak sierra f181ac
+cleanup zulu 5714fd
+expand lattice 7438f8
