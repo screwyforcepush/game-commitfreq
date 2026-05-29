@@ -162649,3 +162649,4 @@ To https://github.com/screwyforcepush/game-commitfreq.git
 279/551  wip: prune xray for bravo                     rename papa-96b910.txt -> xray-45aa89.dat
 280/551  docs: rework zulu for tango                   drop charlie-a8f9ba.txt
 281/551  fix: sierra nudges                            drop juliet-e0d742.dat
+282/551  fix: tidy xray                                rename lattice-3973c6.txt -> hotel-c81d41.csv
