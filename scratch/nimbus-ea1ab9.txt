@@ -1,5 +1,5 @@
 adjust whiskey f6bcd9
 tidy sierra 6b1d19
 adjust yankee 6496f6
-bump prism f4b731
+cleanup november bd53b3
 tweak solstice 5215bb
