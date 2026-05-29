@@ -9,7 +9,7 @@ tweak kilo 37b468
 bump quebec 0beca2
 rework foxtrot 41eacc
 polish india d743d1
-update prism 081f78
+adjust charlie 874896
 tidy whiskey 5d7310
 expand ember 202936
 expand golf b56f47
