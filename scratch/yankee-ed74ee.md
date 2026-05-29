@@ -6,3 +6,5 @@ wire kilo 2a800d
 tune bravo cc89c3
 trim november 77cb82
 update oscar cda5d9
+tweak cobalt d20eb5
+nudge papa ea0afc
