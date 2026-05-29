@@ -158002,3 +158002,4 @@ Everything up-to-date
 191/401  bump prism                                    modify delta-9429d1.md:5
 192/401  fix: nudge kilo (d3a570)                      trim harbor-e6a163.dat:4
 193/401  nudge delta (e63aa1)                          drop alpha-f5d705.txt
+194/401  fix: trim xray for sierra                     append harbor-cc6b5f.txt
