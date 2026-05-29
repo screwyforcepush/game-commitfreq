@@ -3,3 +3,7 @@ adjust nimbus f88e90
 cleanup golf 873116
 update foxtrot a6ea74
 bump yankee 0c9ae9
+rework quebec 7734b5
+prune uniform 00d386
+refactor cobalt 605b1c
+update uniform 0f5b2c
