@@ -4,7 +4,6 @@ trim nimbus 739108
 tune golf 5fbf3d
 refactor lattice 52ca1c
 trim kilo 348931
-wire cobalt 69a6a5
 rework yankee 489257
 trim alpha c38fa7
 cleanup oscar a46f26
