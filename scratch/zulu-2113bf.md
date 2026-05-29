@@ -7,3 +7,5 @@ refactor hotel 7d15c5
 polish lattice 4c3f4a
 bump papa b86be9
 cleanup victor a30acc
+wire whiskey 1bb14d
+refactor uniform 5049c6
