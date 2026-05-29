@@ -1,0 +1,4 @@
+trim mike 44b995
+tune papa 58c99f
+expand yankee 860a70
+adjust yankee ade27e
