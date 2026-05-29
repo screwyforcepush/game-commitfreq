@@ -8,3 +8,7 @@ rework india aad7cb
 adjust victor 6e873b
 tweak echo 149fcb
 tune foxtrot aa33fa
+adjust mike 64fe89
+trim harbor bef620
+tweak nimbus fd5f67
+tune lima 3d1a05
