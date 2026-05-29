@@ -12,3 +12,6 @@ tidy echo 259d91
 tweak papa f7f380
 nudge juliet 85111e
 trim tango d28d62
+cleanup oscar cce13b
+wire ember cd1b61
+tidy tango d31ae4
