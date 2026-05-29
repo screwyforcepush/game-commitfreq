@@ -1,6 +1,5 @@
 wire sierra 62f961
 bump charlie 6a278a
-trim nimbus 739108
 tune golf 5fbf3d
 refactor lattice 52ca1c
 trim kilo 348931
