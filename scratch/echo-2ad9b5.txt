@@ -1,2 +1,0 @@
-prune charlie 8c2301
-nudge nimbus db8f20
