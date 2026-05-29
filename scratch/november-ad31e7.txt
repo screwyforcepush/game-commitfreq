@@ -4,3 +4,6 @@ rework quebec 2cab59
 bump oscar aa1c43
 tune foxtrot 66b794
 nudge whiskey 327d14
+expand charlie ddf8e7
+prune nimbus 8b0141
+bump sierra 568940
