@@ -1,5 +1,0 @@
-expand quebec ad1d1f
-refactor charlie 1a9d76
-prune romeo 35a490
-bump papa 9e4583
-cleanup juliet 086b93
