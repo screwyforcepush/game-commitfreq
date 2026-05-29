@@ -7,7 +7,6 @@ adjust alpha b7e39a
 cleanup whiskey 129eae
 tidy juliet 64e7e7
 prune papa 40257f
-prune hotel f71405
 seed nimbus 1726ac
 refactor sierra 3fd825
 trim november 6be28e
