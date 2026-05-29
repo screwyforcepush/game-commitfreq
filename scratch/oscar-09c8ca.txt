@@ -3,4 +3,3 @@ update sierra e8f00b
 prune alpha 6d7846
 cleanup quebec 8d36b0
 tweak xray 51ae0f
-cleanup nimbus 3a6f4b
