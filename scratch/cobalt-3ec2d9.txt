@@ -3,3 +3,7 @@ refactor delta 2e23c6
 prune quebec 591b4e
 tune delta 7dc974
 tidy kilo d88cb7
+adjust india 23adec
+adjust quebec 6ff6f0
+trim harbor 1c3348
+trim papa 98cdf2
