@@ -3,7 +3,6 @@ adjust oscar e8e729
 prune prism a96b7f
 rework romeo 0b0545
 expand xray 5683c4
-trim cobalt c960d5
 rework charlie 692b47
 tweak kilo 37b468
 bump quebec 0beca2
