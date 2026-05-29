@@ -25,3 +25,7 @@ update lima 074f76
 update kilo 658cde
 tidy sierra 8949e7
 cleanup kilo 498932
+refactor hotel 1423cb
+tidy xray e2a09b
+bump alpha 0dda51
+bump lattice 9da5d5
