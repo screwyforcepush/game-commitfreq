@@ -3,6 +3,5 @@ tune romeo b8a064
 cleanup delta 4b7eeb
 polish golf 090574
 adjust solstice 43016c
-tidy papa 5a795e
 adjust hotel 5cf597
 tidy india eb909c
