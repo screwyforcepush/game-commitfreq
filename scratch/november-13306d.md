@@ -1,6 +1,5 @@
 update prism a66ec9
 trim cobalt 047a64
-adjust yankee 172558
 refactor victor 19ddac
 polish hotel 28fb2c
 tune cobalt 70dc09
