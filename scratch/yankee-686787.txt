@@ -5,3 +5,7 @@ bump uniform 0744c6
 tune harbor 2303cd
 tune romeo 9ba0a2
 nudge whiskey 46b728
+bump nimbus 7f3f2d
+bump solstice ce0566
+rework uniform 9e81a6
+rework prism 5f537b
