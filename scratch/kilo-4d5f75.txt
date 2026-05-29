@@ -1,7 +1,6 @@
 tidy mike c03c35
 adjust lima f5f000
 refactor zulu 0576a3
-rework oscar 17928a
 cleanup papa c20c9b
 tune india 3aa906
 adjust whiskey aceffc
