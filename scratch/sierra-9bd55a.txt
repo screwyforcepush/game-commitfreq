@@ -1,2 +1,0 @@
-tune papa ec5ee7
-prune echo 372f21
