@@ -3,3 +3,6 @@ prune lattice cf3464
 prune zulu 97c019
 tune delta 4f189f
 cleanup charlie 24c0a7
+prune lattice 8b48a2
+rework oscar 114aa1
+tidy hotel bb81b8
