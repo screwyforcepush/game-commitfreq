@@ -8,3 +8,7 @@ refactor tango ad5928
 tidy oscar a4e73f
 tune yankee 68c12e
 rework india cbdd95
+rework hotel 91098d
+prune kilo 6466be
+cleanup solstice 3f825c
+bump charlie 0593b7
