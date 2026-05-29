@@ -2,5 +2,4 @@ wire victor 59331d
 bump lattice 4c659b
 rework harbor aa693c
 bump whiskey b91acf
-trim solstice 68a6a3
 nudge lattice c8474a
