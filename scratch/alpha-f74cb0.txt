@@ -8,3 +8,5 @@ prune cobalt c542ab
 adjust delta 882a2c
 bump delta ab9c1b
 wire xray 3244ea
+tweak november 0acc2d
+tidy yankee 1af32b
