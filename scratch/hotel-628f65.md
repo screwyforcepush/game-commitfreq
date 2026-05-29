@@ -15,3 +15,5 @@ rework alpha 23ffd1
 trim india fa0137
 refactor alpha cadaf4
 tweak lima 4f7564
+wire juliet ada4cf
+wire mike 7ba530
