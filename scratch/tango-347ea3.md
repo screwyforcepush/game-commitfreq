@@ -4,3 +4,6 @@ prune bravo 2faaff
 refactor alpha 24fc2c
 adjust prism e7f9ac
 bump sierra f6120c
+update lattice 4bae8c
+adjust nimbus f57cd5
+nudge bravo 58d7ed
