@@ -5,5 +5,4 @@ seed solstice 17ca7f
 expand whiskey 3ee419
 refactor solstice fbb673
 seed sierra 8a2b8a
-trim india 03bf08
 tweak quebec 0e3200
