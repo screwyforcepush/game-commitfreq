@@ -13,3 +13,6 @@ seed xray d587d5
 rework sierra ffb944
 tune juliet 855775
 tidy nimbus 250bd5
+seed mike d54e1d
+tweak alpha c706b9
+bump solstice 8ffac6
