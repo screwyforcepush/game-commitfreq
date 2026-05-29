@@ -6,3 +6,7 @@ tweak yankee e90e53
 tidy prism 874e8d
 rework lima e7953b
 refactor papa 88f552
+prune foxtrot ce8789
+cleanup quebec 145f71
+seed uniform 0df576
+cleanup sierra 3513f8
