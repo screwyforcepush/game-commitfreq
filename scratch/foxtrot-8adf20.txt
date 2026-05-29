@@ -1,5 +1,0 @@
-update echo 05afa1
-bump november dbccf8
-adjust yankee 69267b
-nudge lattice d0c46c
-adjust romeo c3a2ea
