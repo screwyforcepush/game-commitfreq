@@ -7,6 +7,6 @@ nudge india 24e281
 rework alpha 19f91f
 rework echo e8cea2
 cleanup xray 1a8485
-seed hotel fdf447
+trim golf 09149f
 rework yankee 02714a
 adjust alpha 443511
