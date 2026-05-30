@@ -7,7 +7,7 @@ adjust sierra 36a2bc
 cleanup xray 9e669c
 polish alpha 14d9d3
 trim xray 8875cf
-adjust tango 19f774
+polish golf a293cd
 polish oscar bd1155
 prune oscar d8c9ff
 rework lattice fade9c
