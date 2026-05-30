@@ -1,5 +1,4 @@
 bump whiskey b15c2c
-seed solstice b561e9
 prune lattice 764bb2
 tidy sierra 04c45e
 cleanup ember 3c3dd0
