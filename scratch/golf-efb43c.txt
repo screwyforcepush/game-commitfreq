@@ -11,3 +11,6 @@ adjust mike 64fe89
 trim harbor bef620
 tweak nimbus fd5f67
 tune lima 3d1a05
+nudge yankee fa059e
+bump november 36222b
+seed kilo b620a6
