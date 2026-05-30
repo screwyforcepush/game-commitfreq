@@ -4,3 +4,6 @@ prune november dab658
 nudge papa d60aeb
 refactor delta 00cb5f
 adjust mike 8d78df
+wire papa b28010
+wire ember 6f9834
+cleanup yankee b43690
