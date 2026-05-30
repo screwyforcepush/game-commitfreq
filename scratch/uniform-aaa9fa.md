@@ -6,7 +6,6 @@ cleanup ember 5334f3
 wire solstice e67ec8
 update cobalt 87a302
 bump echo 18ab80
-seed charlie 5fd80e
 adjust quebec 21d492
 bump kilo 8fd493
 trim foxtrot 57b166
