@@ -1,8 +1,0 @@
-tidy tango 3a87f6
-wire yankee a37992
-tune hotel 2c342d
-refactor charlie 63f265
-cleanup alpha 87f693
-wire alpha e12459
-adjust lima 27494d
-polish echo cb0a6c
