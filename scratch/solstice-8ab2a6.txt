@@ -1,2 +1,5 @@
 bump nimbus 9ef82b
 tune kilo 5dcb28
+prune tango 3fef42
+tweak mike 8cc27e
+expand mike 2d3cbc
