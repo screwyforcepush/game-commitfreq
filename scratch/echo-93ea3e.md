@@ -6,7 +6,6 @@ update tango 18dab7
 expand xray d3d7c7
 seed juliet 0ce740
 tidy xray bcc11d
-tune uniform 016fbc
 wire romeo fceedb
 expand kilo 7d6fe3
 prune papa ae2e34
