@@ -2,7 +2,6 @@ cleanup nimbus deb285
 tune papa a00539
 update prism 59d1e3
 tidy echo ac5ee4
-rework victor 9f4be1
 bump alpha fd68e3
 wire juliet 9f38d1
 tweak delta 441da9
