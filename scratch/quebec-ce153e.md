@@ -6,3 +6,5 @@ adjust victor 140c45
 prune ember 29b1b3
 update lattice 16ff85
 rework zulu 4070f2
+bump lattice 4af6ff
+wire quebec 036d54
