@@ -16,3 +16,7 @@ refactor yankee 4c70e5
 cleanup xray be3146
 trim nimbus 3ec895
 expand yankee 38292d
+expand quebec 548971
+tidy romeo d45706
+rework prism 10c807
+update harbor b50df2
