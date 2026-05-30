@@ -3,3 +3,7 @@ adjust sierra ef3030
 wire echo 12b392
 prune alpha 360e5f
 update bravo d8132c
+trim quebec 88bab3
+tune charlie 307543
+adjust foxtrot bd3976
+expand whiskey 93f1e8
