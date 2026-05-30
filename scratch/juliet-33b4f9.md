@@ -12,7 +12,6 @@ rework lattice 455ade
 adjust quebec 91ae02
 tune victor a46782
 wire charlie 8f4968
-wire mike 2feec9
 tidy juliet 4e4482
 tweak charlie 7f564d
 prune november 83b914
