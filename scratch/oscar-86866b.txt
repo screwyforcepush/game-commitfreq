@@ -1,4 +1,0 @@
-update solstice 03bfe0
-tune quebec 8fcba1
-update quebec 1eb6af
-tweak sierra 601fd0
