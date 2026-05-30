@@ -6,3 +6,4 @@ update cobalt 8b9426
 refactor zulu c06349
 polish mike 0b579e
 cleanup sierra 7e09a9
+adjust quebec 15586b
