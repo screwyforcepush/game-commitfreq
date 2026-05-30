@@ -6,7 +6,7 @@ adjust lattice d80f2c
 bump foxtrot 8e7337
 bump bravo a5ea6d
 tweak papa d22243
-refactor uniform 135bf6
+refactor november 678b93
 polish yankee db9089
 refactor kilo 2e125d
 tidy nimbus 5041f0
