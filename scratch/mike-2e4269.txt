@@ -4,3 +4,5 @@ nudge romeo 213666
 nudge yankee f1f439
 rework india 5427e8
 tweak xray 253cd3
+nudge quebec 10807c
+tidy zulu 369b7d
