@@ -22,3 +22,7 @@ refactor lattice c24bbf
 tweak victor 27d452
 tidy harbor 1c1599
 polish juliet 4c39bc
+nudge sierra 2eb402
+bump november 08ba3e
+rework tango fa4090
+update alpha 1c7bbd
