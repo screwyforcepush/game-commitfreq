@@ -18,3 +18,6 @@ update harbor 93817b
 refactor foxtrot b92c2e
 cleanup golf c287f7
 trim november 827ea6
+expand hotel 717766
+polish sierra 420636
+refactor oscar 45da79
