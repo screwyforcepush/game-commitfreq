@@ -1,4 +1,3 @@
-refactor yankee 4706f1
 expand quebec eabcd5
 prune alpha e8883c
 cleanup whiskey db36fe
