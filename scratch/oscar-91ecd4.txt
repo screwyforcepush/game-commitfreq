@@ -2,3 +2,5 @@ update lattice 65a725
 seed solstice d02545
 refactor nimbus 14966a
 seed tango 24ad7a
+prune xray ed8fd2
+prune delta 50d656
