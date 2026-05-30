@@ -10,7 +10,6 @@ refactor india 6dd028
 expand quebec 351e20
 prune lima 0d6aad
 tune kilo 619abe
-rework papa e8a318
 tidy oscar cbad25
 tune prism f2629b
 tweak oscar d4937e
