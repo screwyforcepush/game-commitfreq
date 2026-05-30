@@ -1,2 +1,2 @@
 trim hotel 060a6a
-nudge echo 6c1ab9
+tidy xray 40ae32
