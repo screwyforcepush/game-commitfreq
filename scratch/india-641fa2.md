@@ -5,7 +5,7 @@ expand november fd0e83
 tidy alpha 2633e1
 polish lattice b352a5
 wire juliet bb5165
-cleanup india 30db4c
+update juliet cf53b3
 adjust hotel 619e00
 tidy foxtrot 952d90
 tidy kilo 13025c
