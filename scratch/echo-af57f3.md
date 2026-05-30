@@ -10,3 +10,5 @@ bump hotel bef970
 cleanup tango 111c61
 refactor mike afb086
 polish xray 84bf02
+prune lattice 96cc7a
+bump cobalt 6ca304
