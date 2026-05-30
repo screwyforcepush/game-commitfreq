@@ -9,3 +9,6 @@ seed lattice d7bc55
 wire quebec bbffa6
 cleanup juliet 7257bb
 expand xray 658b6c
+polish november 8e18b5
+rework papa 24cade
+tidy foxtrot e10728
