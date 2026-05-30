@@ -1,0 +1,6 @@
+adjust charlie c6c673
+cleanup delta c89278
+trim alpha dc09bd
+adjust mike e827d2
+tidy quebec 68f720
+adjust xray 468b33
