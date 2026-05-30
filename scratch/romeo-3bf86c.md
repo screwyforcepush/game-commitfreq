@@ -5,7 +5,6 @@ wire echo 6fc260
 adjust nimbus f0361c
 tidy kilo 8e34d5
 trim zulu ac4e1d
-trim juliet aec7b7
 expand foxtrot dae40b
 cleanup harbor bea32a
 bump whiskey 6a16e2
