@@ -10,3 +10,5 @@ rework papa 3ec9aa
 adjust solstice 6a3d68
 polish oscar f6da5e
 cleanup victor 406e87
+bump prism f79394
+bump juliet 9a061a
