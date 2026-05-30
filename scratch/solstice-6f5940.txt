@@ -5,7 +5,7 @@ trim delta f6f556
 update oscar 369c06
 seed echo 06ff08
 tune harbor f9cd73
-rework foxtrot 6d72cf
+wire whiskey bc030e
 trim uniform 540406
 cleanup lattice 8addf1
 seed golf 3c6b73
