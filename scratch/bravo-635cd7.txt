@@ -1,5 +1,5 @@
 polish quebec 698132
 prune solstice 45af20
-update solstice d6d984
+trim lattice 780b3a
 update delta ee6cb9
 rework solstice f204aa
