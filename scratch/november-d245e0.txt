@@ -7,3 +7,5 @@ expand tango 28c256
 seed golf 2ec425
 prune kilo b8b6e5
 adjust echo 5b51cd
+trim zulu 12caef
+prune kilo 6b6a23
