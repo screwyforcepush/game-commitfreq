@@ -4,3 +4,6 @@ rework yankee c25b18
 bump foxtrot 78836c
 nudge whiskey 47e182
 trim lima c85740
+adjust india 3256c3
+nudge papa 0bb6be
+adjust sierra 9bd1fd
