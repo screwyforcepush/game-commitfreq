@@ -8,3 +8,7 @@ trim november 77cb82
 update oscar cda5d9
 tweak cobalt d20eb5
 nudge papa ea0afc
+bump alpha 552540
+tidy foxtrot 95c81f
+cleanup solstice 147fa6
+wire lattice f931e5
