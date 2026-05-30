@@ -6,3 +6,6 @@ adjust xray 468b33
 bump tango 8ace98
 wire juliet ab4371
 prune zulu 7ebce3
+rework delta 2f4f49
+tune victor 0e31b8
+trim solstice 99a303
