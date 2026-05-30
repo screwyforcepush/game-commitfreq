@@ -3,3 +3,6 @@ prune oscar 7a9100
 wire cobalt 355c32
 prune cobalt a68819
 tune lima dbf175
+prune india d9c986
+rework cobalt 8104de
+trim sierra 0c5fe1
