@@ -1,4 +1,3 @@
-polish prism d8735e
 update prism 5d8ebb
 bump quebec ee47fa
 tidy zulu ea4ae5
