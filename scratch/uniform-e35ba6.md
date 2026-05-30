@@ -1,4 +1,3 @@
-seed nimbus c91805
 rework victor 9efb75
 wire whiskey 77334d
 nudge quebec 19cc05
