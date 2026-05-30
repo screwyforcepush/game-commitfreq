@@ -8,3 +8,5 @@ refactor india 5e88b6
 wire zulu 8d3a11
 expand india 8f953c
 tidy delta 0333c3
+wire quebec 439d07
+adjust whiskey 98a533
