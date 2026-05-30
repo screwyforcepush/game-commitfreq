@@ -8,3 +8,6 @@ tune lattice a1ea8c
 cleanup solstice b7c014
 trim bravo 060253
 expand november 01e7c8
+tidy echo 6507b0
+wire whiskey 03f3fc
+trim whiskey 2d0731
