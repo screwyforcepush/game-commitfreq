@@ -10,3 +10,6 @@ nudge lima 925e70
 wire solstice b8ccb3
 rework lattice 455ade
 adjust quebec 91ae02
+tune victor a46782
+wire charlie 8f4968
+wire mike 2feec9
