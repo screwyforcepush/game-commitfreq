@@ -5,6 +5,5 @@ nudge november f18b42
 tidy kilo f805da
 prune charlie 04f554
 trim cobalt 70a783
-bump yankee 048810
 adjust harbor a28011
 prune whiskey 3f651a
