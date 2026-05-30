@@ -6,4 +6,4 @@ wire romeo 343dbd
 wire yankee 331c20
 trim lattice e090af
 bump romeo 43e970
-adjust yankee c247d6
+tune india b8bdbb
