@@ -1,3 +1,2 @@
 prune uniform 305655
 nudge prism a22820
-bump zulu 34807a
