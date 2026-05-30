@@ -16,3 +16,6 @@ bump prism f37052
 adjust juliet 3e7eae
 refactor uniform a715aa
 cleanup bravo 951bcb
+tune ember 92acc9
+nudge foxtrot a3083f
+tune victor a66d28
