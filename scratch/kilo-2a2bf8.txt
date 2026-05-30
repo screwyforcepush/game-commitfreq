@@ -2,3 +2,6 @@ nudge solstice 4cdab0
 nudge whiskey a4e67f
 cleanup hotel 94d806
 adjust kilo c1459b
+tidy yankee 1c7f9c
+adjust bravo 64a1ef
+bump harbor da85e7
