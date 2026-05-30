@@ -16,3 +16,6 @@ tweak oscar d4937e
 seed sierra af0285
 update papa a10803
 tweak golf 0bd803
+wire india c4622b
+trim zulu d54930
+adjust alpha f9273d
