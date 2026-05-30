@@ -6,3 +6,5 @@ adjust hotel df2463
 nudge echo da2658
 trim foxtrot 3ceccb
 update nimbus 902e05
+refactor nimbus 8bf3b1
+refactor juliet 9b0059
