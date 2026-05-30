@@ -1,6 +1,5 @@
 update bravo b1bdc5
 wire echo 830379
-adjust delta 4fe70a
 nudge hotel 6566ca
 nudge zulu 60f4fc
 tune kilo 98685a
