@@ -9,3 +9,5 @@ rework delta dcb9b4
 update bravo d6eb10
 refactor alpha d33151
 wire lattice 54cb0a
+trim india 94f8f4
+update hotel 3523f3
