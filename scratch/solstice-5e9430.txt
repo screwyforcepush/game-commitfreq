@@ -1,4 +1,0 @@
-nudge ember 1987a6
-nudge yankee 44d6c1
-tidy mike 0ab649
-tune whiskey ede2f3
