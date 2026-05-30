@@ -1,4 +1,3 @@
-trim zulu c24036
 trim delta 1a70a2
 trim hotel b7fe80
 wire harbor 6bd4c7
