@@ -7,7 +7,6 @@ wire juliet 9f38d1
 tweak delta 441da9
 tune foxtrot ccd789
 nudge lima 925e70
-wire solstice b8ccb3
 rework lattice 455ade
 adjust quebec 91ae02
 tune victor a46782
