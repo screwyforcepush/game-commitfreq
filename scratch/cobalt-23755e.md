@@ -1,4 +1,3 @@
-adjust foxtrot 7d1383
 cleanup xray eb4f95
 tidy tango 1b8736
 update delta 043fca
