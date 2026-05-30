@@ -3,3 +3,6 @@ seed xray ab521d
 polish charlie f07c67
 rework papa def8cc
 bump juliet 5be10e
+rework lattice d72594
+tidy ember 2a62ae
+expand november f6b544
