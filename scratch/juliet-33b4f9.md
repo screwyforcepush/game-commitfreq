@@ -2,7 +2,6 @@ seed bravo afe179
 cleanup nimbus deb285
 rework lattice 34fa39
 update prism 59d1e3
-adjust india d02ad9
 tidy echo ac5ee4
 rework victor 9f4be1
 bump alpha fd68e3
