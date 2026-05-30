@@ -1,2 +1,0 @@
-trim hotel 060a6a
-tidy xray 40ae32
