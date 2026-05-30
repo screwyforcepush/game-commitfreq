@@ -2,3 +2,6 @@ seed lattice 968e36
 prune lima c7dd13
 adjust yankee 660ced
 update delta 0496ec
+update november 91383e
+bump foxtrot 303dd0
+seed november db168f
