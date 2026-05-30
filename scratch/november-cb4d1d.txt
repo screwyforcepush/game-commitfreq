@@ -7,7 +7,6 @@ tune yankee 13db18
 refactor prism d5d18a
 rework november df988c
 tweak kilo abacc0
-refactor quebec 4e8611
 update juliet a3f424
 update ember 4ab44c
 adjust tango a04685
