@@ -1,4 +1,4 @@
-seed cobalt 11cc60
+update alpha 7bf6eb
 bump hotel 809fba
 prune lattice 9238b7
 adjust nimbus a3c3a2
