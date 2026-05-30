@@ -6,3 +6,7 @@ tweak echo 02b9ae
 update sierra dc3152
 refactor whiskey a4462c
 expand tango 438d9b
+bump hotel bef970
+cleanup tango 111c61
+refactor mike afb086
+polish xray 84bf02
