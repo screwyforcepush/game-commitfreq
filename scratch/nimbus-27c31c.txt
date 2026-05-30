@@ -1,6 +1,6 @@
 refactor nimbus bc1622
 adjust delta 25eb4e
-nudge kilo a1f2e9
+rework solstice 0a1e02
 tune alpha 639a3d
 update juliet c2b398
 bump lattice 672495
