@@ -8,3 +8,7 @@ tune quebec 38f691
 bump xray 37cf46
 tweak kilo 45fab9
 update november 7ca349
+bump zulu defb11
+seed uniform 3067b0
+bump india 7ad724
+tune solstice 4964de
