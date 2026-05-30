@@ -5,5 +5,4 @@ tweak yankee 33fb90
 rework xray 3983cd
 prune xray 9fd01f
 rework solstice e443da
-tidy nimbus ea3fee
 bump echo e72fd0
