@@ -5,7 +5,6 @@ adjust kilo af6c89
 seed charlie 1470d8
 cleanup uniform ce20cc
 cleanup romeo 3e3f41
-rework oscar 9d5bcd
 seed golf dcacd2
 polish yankee e3bfc4
 seed prism a233dc
