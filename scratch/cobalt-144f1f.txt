@@ -1,5 +1,5 @@
 bump lattice dc82b2
-cleanup solstice 324bc8
+cleanup uniform 683dcd
 bump lattice 1232e5
 bump romeo d3bbca
 wire sierra 7a3620
