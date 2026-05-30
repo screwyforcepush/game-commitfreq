@@ -2,3 +2,7 @@ refactor uniform 6ab3a2
 expand quebec 61fb68
 trim victor d26bd8
 update mike 4fcd4e
+nudge lattice f87968
+trim uniform efb110
+refactor foxtrot 20e2e7
+cleanup victor c43ea3
