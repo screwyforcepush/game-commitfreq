@@ -9,7 +9,7 @@ update charlie 966b7d
 tune lattice 3b6fc8
 expand juliet 8fd7ac
 seed uniform 2b4a20
-rework xray 2fdb7a
+nudge lima 28f2e0
 seed sierra 1b1d56
 seed cobalt a524c6
 tweak juliet 8e30b4
