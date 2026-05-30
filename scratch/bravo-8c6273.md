@@ -3,3 +3,7 @@ update solstice 92c6b2
 adjust nimbus c39d6e
 polish foxtrot de5d32
 bump lima ffd615
+rework mike 2005d2
+polish harbor 39aefa
+rework papa 040ddf
+rework quebec 621ddd
