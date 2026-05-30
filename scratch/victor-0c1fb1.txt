@@ -1,3 +1,0 @@
-nudge golf 83c67d
-seed echo 51f482
-expand lattice b61990
