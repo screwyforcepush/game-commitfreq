@@ -6,3 +6,5 @@ refactor whiskey f13d79
 update cobalt 9955c8
 nudge charlie b2b964
 tune oscar a1c8bd
+refactor solstice c5ec7b
+bump lattice b838b8
