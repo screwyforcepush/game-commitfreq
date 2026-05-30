@@ -21,3 +21,5 @@ rework hotel ae3a88
 refactor papa 4796be
 rework delta 32190c
 prune juliet ee086f
+tweak victor bc2b12
+rework solstice 8be615
