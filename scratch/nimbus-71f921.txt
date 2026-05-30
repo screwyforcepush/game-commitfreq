@@ -1,3 +1,7 @@
 tune harbor 8c8b3e
 prune hotel 2e28ed
 nudge mike 342e80
+trim ember 2350c9
+rework solstice 6556b1
+tune victor c08bc9
+rework lima e17f4a
