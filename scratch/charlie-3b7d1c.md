@@ -6,3 +6,5 @@ cleanup hotel 8a7a5c
 tune papa 78331f
 update sierra 7dedc5
 expand sierra 0030f0
+rework solstice 74cddc
+refactor harbor 07e329
