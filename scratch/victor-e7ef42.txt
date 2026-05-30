@@ -1,5 +1,4 @@
 update sierra d80a97
-wire echo f52797
 rework sierra dbbe08
 rework november a4b409
 wire nimbus 9a8bc6
