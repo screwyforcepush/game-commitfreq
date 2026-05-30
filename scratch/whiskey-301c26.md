@@ -7,3 +7,5 @@ wire yankee 331c20
 trim lattice e090af
 bump romeo 43e970
 tune india b8bdbb
+wire yankee 95a056
+cleanup zulu 7f1180
