@@ -11,3 +11,7 @@ nudge victor 1e201d
 rework golf ecd9be
 expand solstice b72af9
 expand quebec 80c061
+cleanup foxtrot abc968
+adjust alpha 6a9db5
+tweak mike c76ee9
+prune xray f807bd
