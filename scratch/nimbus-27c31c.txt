@@ -1,5 +1,4 @@
 refactor nimbus bc1622
-adjust delta 25eb4e
 rework solstice 0a1e02
 tune alpha 639a3d
 update juliet c2b398
