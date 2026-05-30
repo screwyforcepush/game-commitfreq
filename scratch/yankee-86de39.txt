@@ -4,7 +4,7 @@ adjust kilo 51970c
 wire echo 684dc1
 rework zulu abb282
 bump mike d45a05
-prune november 460bb9
+refactor nimbus 650c37
 seed lima b76385
 prune uniform a75105
 rework solstice 4792c4
