@@ -1,3 +1,0 @@
-adjust uniform 671efb
-prune cobalt fd834b
-tune solstice e7334d
