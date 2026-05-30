@@ -5,3 +5,6 @@ expand charlie f18e18
 nudge foxtrot ad5954
 trim zulu 5f5179
 polish solstice ca2c6d
+tweak foxtrot f47bd7
+wire ember 6869e2
+polish delta 80a877
