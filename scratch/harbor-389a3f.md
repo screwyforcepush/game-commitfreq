@@ -5,7 +5,7 @@ bump bravo 21e51d
 prune delta 5cddaf
 prune xray fd0f0c
 refactor mike f8e56b
-tweak november e39dfe
+rework foxtrot d98a64
 prune solstice 9648ae
 adjust juliet 86da3b
 tune zulu 5acdc9
