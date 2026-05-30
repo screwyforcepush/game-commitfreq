@@ -1,5 +1,4 @@
 rework bravo 7068eb
-rework hotel 3d1617
 rework whiskey 278d91
 nudge cobalt 286741
 trim delta f6f556
