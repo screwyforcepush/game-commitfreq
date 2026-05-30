@@ -1,2 +1,6 @@
 seed delta f99bf6
 rework ember a0d896
+update hotel a826d4
+seed whiskey 5a7dce
+polish quebec aed172
+cleanup victor 9c3ab5
