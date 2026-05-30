@@ -1,5 +1,5 @@
 nudge quebec cfee43
 tune nimbus 8ad86f
 update papa 2ed4f1
-bump kilo 1db75d
+prune kilo 03edfe
 tweak whiskey 7d951e
