@@ -162979,3 +162979,4 @@ To https://github.com/screwyforcepush/game-commitfreq.git
 56/470  tweak oscar for nimbus                        append lattice-53a538.dat
 57/470  refactor: adjust oscar november               append echo-280998.md
 58/470  bump lima for india                           rename zulu-522bde.dat -> zulu-107ea7.log
+59/470  wip: nudge india xray                         trim zulu-1ad814.csv:1
