@@ -7,3 +7,6 @@ bump sierra 0de1e2
 adjust delta 533a61
 seed tango fca40f
 trim lattice 29b490
+wire hotel 0826f6
+wire solstice 2be274
+wire zulu 856a79
