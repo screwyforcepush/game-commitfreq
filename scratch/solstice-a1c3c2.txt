@@ -6,5 +6,4 @@ tidy romeo 35a92f
 bump sierra 0de1e2
 adjust delta 533a61
 seed tango fca40f
-polish delta ae52d2
 trim lattice 29b490
