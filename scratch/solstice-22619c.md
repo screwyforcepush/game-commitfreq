@@ -4,5 +4,4 @@ cleanup ember 4db7f7
 wire xray d1decf
 rework uniform e02bec
 tweak uniform 0ab875
-tune whiskey 384e71
 adjust nimbus 04c09b
