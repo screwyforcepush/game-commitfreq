@@ -1,3 +1,3 @@
 tune lattice a476f1
-trim bravo ce7007
+tidy kilo cc41d3
 refactor hotel 38f484
