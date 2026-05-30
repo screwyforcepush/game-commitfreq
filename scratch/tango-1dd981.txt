@@ -2,5 +2,5 @@ expand whiskey bf6fc5
 nudge lattice c097fb
 adjust sierra ef3030
 wire echo 12b392
-nudge cobalt ca18c3
+prune alpha 360e5f
 update bravo d8132c
