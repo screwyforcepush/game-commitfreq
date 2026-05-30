@@ -1,7 +1,7 @@
 rework bravo 7068eb
 rework whiskey 278d91
 nudge cobalt 286741
-trim delta f6f556
+prune lattice 5e0767
 update oscar 369c06
 seed echo 06ff08
 tune harbor f9cd73
