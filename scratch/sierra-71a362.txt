@@ -1,3 +1,2 @@
-tune sierra b2616a
 polish victor 502335
 tidy charlie 8c36b6
