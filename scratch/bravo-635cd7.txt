@@ -1,5 +1,5 @@
 polish quebec 698132
-rework hotel 1a7c3a
+prune solstice 45af20
 update solstice d6d984
 update delta ee6cb9
 rework solstice f204aa
