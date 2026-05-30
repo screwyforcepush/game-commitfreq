@@ -1,4 +1,0 @@
-seed mike ecfd72
-tidy oscar 8428f3
-adjust uniform 842356
-polish xray 4cf67d
