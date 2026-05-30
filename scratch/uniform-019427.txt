@@ -1,5 +1,4 @@
 seed lattice 968e36
 prune lima c7dd13
-prune charlie e2e3eb
 adjust yankee 660ced
 update delta 0496ec
