@@ -1,4 +1,4 @@
-tune xray 95d305
+cleanup delta 1d2090
 nudge lima 8a5cf5
 bump yankee dc9600
 seed harbor 7a9a6e
