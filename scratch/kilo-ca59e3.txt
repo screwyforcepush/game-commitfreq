@@ -12,3 +12,5 @@ bump golf fb5d70
 trim november 6be28e
 expand nimbus d300c6
 wire uniform 486834
+polish oscar c85ba7
+expand victor 587283
