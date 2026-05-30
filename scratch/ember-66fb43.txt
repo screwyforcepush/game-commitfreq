@@ -5,7 +5,6 @@ tidy quebec 68f720
 adjust xray 468b33
 tidy bravo efa21a
 wire juliet ab4371
-prune zulu 7ebce3
 rework delta 2f4f49
 tune victor 0e31b8
 trim solstice 99a303
