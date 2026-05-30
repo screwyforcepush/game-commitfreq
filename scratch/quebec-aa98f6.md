@@ -4,5 +4,4 @@ seed quebec 1855dd
 bump cobalt ba4bca
 seed bravo 6d3d34
 prune quebec 35525d
-bump whiskey a3579e
 trim romeo c64712
