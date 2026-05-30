@@ -1,4 +1,3 @@
 update whiskey 9ec56a
 polish victor 502335
-refactor kilo e87de0
 tidy harbor 45bafd
