@@ -6,7 +6,6 @@ wire hotel 9e52d1
 prune quebec af49fe
 tweak solstice b12c2c
 update oscar 25d8f3
-cleanup lima a35074
 trim solstice 2d9353
 update sierra fcdcb7
 update whiskey 30da7a
