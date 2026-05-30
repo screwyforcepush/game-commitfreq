@@ -8,3 +8,6 @@ update lattice 16ff85
 rework zulu 4070f2
 bump lattice 4af6ff
 wire quebec 036d54
+bump yankee a80e58
+tweak zulu 773192
+polish nimbus 359f24
