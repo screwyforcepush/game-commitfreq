@@ -3,7 +3,6 @@ tidy uniform 2072f9
 prune harbor 0c04cd
 bump ember 09f0c2
 wire mike e0f1a7
-prune zulu b65815
 bump cobalt 5c7058
 trim oscar 980bc1
 adjust romeo 5809ae
