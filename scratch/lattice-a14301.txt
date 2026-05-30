@@ -4,3 +4,5 @@ seed tango b01382
 polish zulu 8b1eee
 prune mike 1a4edf
 adjust tango c38999
+prune alpha dacb9a
+cleanup solstice b7c014
