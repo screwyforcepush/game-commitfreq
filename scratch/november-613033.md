@@ -14,7 +14,6 @@ tweak india bda932
 tune nimbus 06f5d8
 bump lima bc51bc
 tune lima 49bf17
-wire quebec d5a8db
 prune yankee 24ac71
 tidy cobalt 950ecb
 nudge alpha eec4aa
