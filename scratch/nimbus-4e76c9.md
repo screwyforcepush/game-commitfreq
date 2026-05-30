@@ -2,7 +2,7 @@ adjust november 1cfbce
 tweak whiskey db30ab
 cleanup sierra 7eddf1
 tweak nimbus 953a8a
-cleanup delta b6757c
+polish papa 46d327
 tune quebec 64f699
 prune november a9a49d
 adjust victor d48542
