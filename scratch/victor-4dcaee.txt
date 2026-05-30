@@ -1,6 +1,5 @@
 wire harbor 13667b
 seed foxtrot 1c11ea
 seed uniform a908bd
-refactor lattice 7e1310
 expand golf 071d99
 adjust lattice 7605f3
