@@ -9,3 +9,7 @@ tweak xray 297541
 tune zulu ec8c6d
 prune golf bbbed2
 rework echo ad2036
+update hotel ca460e
+tune solstice ce3ddf
+rework kilo 56207e
+update hotel a01806
