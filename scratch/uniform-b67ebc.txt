@@ -4,3 +4,5 @@ tune lattice c59425
 trim lima b6d369
 adjust kilo 79126c
 tune quebec 82afb9
+trim yankee 3773b7
+tidy oscar ac35cd
