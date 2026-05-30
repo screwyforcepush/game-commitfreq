@@ -7,3 +7,5 @@ seed sierra 5f836d
 wire uniform d8b6db
 tweak hotel cd1f10
 adjust golf 4a3fcb
+tune harbor 44e086
+wire foxtrot 7476d4
