@@ -1,6 +1,6 @@
 wire uniform 22ee08
 cleanup foxtrot 08eecf
 bump november e979e1
-tidy whiskey 089f1b
+bump whiskey 56335b
 trim echo 15b6ae
 bump echo 7e482e
