@@ -2,3 +2,7 @@ bump papa 2c5d39
 nudge lattice cecb2a
 bump yankee d510b0
 expand mike 3a6f29
+tidy ember 1fffb4
+trim prism ccff4d
+update quebec 4367f2
+expand quebec b6b4b4
