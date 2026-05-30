@@ -10,3 +10,5 @@ polish yankee 01ec72
 polish golf 5ffd5f
 tweak ember 0545c2
 bump hotel 86aa69
+tweak xray 65f839
+polish foxtrot 8a9fb6
