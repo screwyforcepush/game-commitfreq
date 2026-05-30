@@ -13,7 +13,6 @@ polish kilo 21fcb6
 bump nimbus 11a5cb
 polish prism 79c6b2
 refactor hotel 1f4ac6
-nudge prism fbc851
 tune quebec 0dc397
 bump cobalt ef5f64
 wire yankee aa76af
