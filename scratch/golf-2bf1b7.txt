@@ -1,5 +1,0 @@
-tidy india 284b09
-tidy xray 2c3ae8
-refactor hotel 755c7b
-cleanup sierra 380cb0
-cleanup bravo c706fb
