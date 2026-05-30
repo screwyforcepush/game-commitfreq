@@ -6,3 +6,7 @@ update oscar 369c06
 seed echo 06ff08
 wire nimbus 70052b
 rework foxtrot 6d72cf
+trim uniform 540406
+cleanup lattice 8addf1
+seed golf 3c6b73
+wire ember e1bbd3
