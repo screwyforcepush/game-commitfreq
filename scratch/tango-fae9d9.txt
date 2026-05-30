@@ -1,3 +1,5 @@
 expand yankee d59d6f
 prune hotel 5394cb
 tune zulu 83cf08
+trim oscar 820778
+prune november f2aa81
