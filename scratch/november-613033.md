@@ -7,3 +7,6 @@ expand oscar 038e76
 tweak solstice b12c2c
 update oscar 25d8f3
 cleanup lima a35074
+trim solstice 2d9353
+update sierra fcdcb7
+update foxtrot d0ce69
