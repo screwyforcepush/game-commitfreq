@@ -13,7 +13,7 @@ update kilo 621b92
 tune india 1735c0
 wire quebec 54b749
 rework delta fc4738
-adjust delta 6bbfec
+refactor india 5333da
 update harbor 93817b
 refactor foxtrot b92c2e
 cleanup golf c287f7
