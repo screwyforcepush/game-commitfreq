@@ -1,5 +1,0 @@
-bump tango eac20e
-update oscar 0612cf
-tidy sierra 181f51
-trim delta cb2f46
-tweak lattice cee185
