@@ -7,3 +7,7 @@ bump mike d45a05
 prune november 460bb9
 seed lima b76385
 prune uniform a75105
+rework solstice 4792c4
+tune bravo a86175
+rework golf 0b7f29
+tweak echo f2b6e4
