@@ -8,7 +8,7 @@ cleanup whiskey 129eae
 tidy juliet 64e7e7
 prune papa 40257f
 seed nimbus 1726ac
-bump golf fb5d70
+tidy november 135d5e
 trim november 6be28e
 expand nimbus d300c6
 wire uniform 486834
