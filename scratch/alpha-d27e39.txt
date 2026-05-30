@@ -4,3 +4,6 @@ cleanup victor f54a1a
 refactor romeo 83405c
 update uniform 899b64
 update mike a7a376
+tidy echo 2238c7
+refactor hotel 5d259f
+expand charlie 3b58b8
