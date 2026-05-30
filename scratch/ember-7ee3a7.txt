@@ -1,1 +1,1 @@
-tune cobalt 8807aa
+prune lima a8a9e9
