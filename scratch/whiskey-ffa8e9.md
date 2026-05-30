@@ -8,7 +8,7 @@ cleanup xray 9e669c
 polish alpha 14d9d3
 trim xray 8875cf
 adjust tango 19f774
-bump solstice 687135
+polish oscar bd1155
 prune oscar d8c9ff
 rework lattice fade9c
 expand echo de558b
