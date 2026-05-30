@@ -8,7 +8,6 @@ bump juliet 546f65
 nudge oscar 7bbf56
 polish solstice 6bf75c
 adjust whiskey dec89c
-cleanup tango 96ac6b
 trim quebec c75a53
 rework uniform c58188
 rework uniform 3c87bc
