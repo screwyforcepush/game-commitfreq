@@ -1,5 +1,4 @@
 adjust yankee 68dd83
 polish zulu a59c55
-expand solstice 2fd20f
 tweak lima a19d6e
 tune sierra c4892c
