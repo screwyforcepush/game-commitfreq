@@ -9,5 +9,4 @@ seed quebec 8a51ef
 tweak xray 297541
 tune zulu ec8c6d
 prune golf bbbed2
-tune foxtrot 210818
 rework echo ad2036
