@@ -1,2 +1,6 @@
 prune uniform 305655
 nudge prism a22820
+nudge lattice 65e840
+trim ember 2d324b
+cleanup delta 104fe5
+tune whiskey 932057
