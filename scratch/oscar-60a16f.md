@@ -10,3 +10,6 @@ update sierra e2568d
 tune zulu 434fa8
 tweak bravo 2c6009
 polish kilo 21fcb6
+bump nimbus 11a5cb
+polish prism 79c6b2
+refactor hotel 1f4ac6
