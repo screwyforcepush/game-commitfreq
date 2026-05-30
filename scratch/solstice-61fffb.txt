@@ -12,3 +12,6 @@ tidy foxtrot 95c81f
 cleanup solstice 147fa6
 wire lattice f931e5
 adjust harbor a25f83
+update ember 1df849
+trim victor 1dac58
+refactor harbor e66e9b
