@@ -6,4 +6,3 @@ nudge lattice 0a9073
 tune juliet e72df3
 tidy cobalt 2abb77
 polish quebec 341b1e
-trim zulu ac52e5
