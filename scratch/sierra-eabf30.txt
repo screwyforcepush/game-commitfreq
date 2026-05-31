@@ -3,7 +3,6 @@ seed harbor bea65d
 polish foxtrot 7b8f2e
 trim oscar e2b935
 cleanup november b0de08
-wire lima 26b775
 prune zulu cd5aec
 rework cobalt 840e4c
 update sierra 065aa5
