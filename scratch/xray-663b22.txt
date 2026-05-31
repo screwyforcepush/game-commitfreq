@@ -7,5 +7,4 @@ tune foxtrot 9329a0
 nudge zulu d0ae2f
 nudge juliet da9d8f
 expand romeo f0726b
-bump lattice 697c96
 polish romeo bc0f2d
