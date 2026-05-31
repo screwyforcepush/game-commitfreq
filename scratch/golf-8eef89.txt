@@ -3,3 +3,4 @@ tidy yankee dea67c
 tune kilo 0b4cec
 seed xray 3d1e13
 seed romeo 3dd78c
+tune lattice e19057
