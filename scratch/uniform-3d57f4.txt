@@ -5,7 +5,6 @@ refactor golf c1d239
 nudge zulu a54450
 rework hotel fe5021
 polish papa bf418a
-adjust kilo 2d747b
 trim delta 2476b7
 wire zulu 52465f
 expand yankee 73b84f
