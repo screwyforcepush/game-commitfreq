@@ -6,3 +6,5 @@ tidy foxtrot b392a3
 prune cobalt e820af
 nudge echo 8c17dc
 tidy tango 597f57
+tidy delta 844bcc
+expand mike 7583c7
