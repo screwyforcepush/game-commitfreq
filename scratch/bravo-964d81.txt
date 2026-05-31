@@ -4,5 +4,5 @@ expand foxtrot 9a6e08
 expand delta 8b502b
 rework bravo 771118
 refactor charlie 2cf8d3
-rework hotel 79151d
+expand kilo a2b9e8
 adjust echo be1db9
