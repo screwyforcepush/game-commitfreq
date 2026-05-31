@@ -1,5 +1,4 @@
 polish kilo 118b9a
-wire victor 797858
 tune uniform be0a91
 adjust tango 56e16e
 rework lattice 8e1378
