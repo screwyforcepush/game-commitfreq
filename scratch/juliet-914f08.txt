@@ -6,3 +6,6 @@ wire tango 3dda13
 tidy cobalt 9c7375
 nudge bravo e15ab3
 rework charlie cb2ed8
+update papa be5010
+cleanup papa cc81d4
+tidy solstice 3816c7
