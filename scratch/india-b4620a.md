@@ -7,3 +7,5 @@ trim ember eb6eb8
 prune mike 8766d9
 tune quebec c06141
 wire delta 20a14b
+seed romeo c903f0
+adjust golf 18bace
