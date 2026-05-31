@@ -3,7 +3,7 @@ adjust lattice 3ddf14
 seed november 4fa087
 tweak ember 7e3c82
 seed alpha 32e019
-prune hotel 682f71
+tune bravo b1cdde
 polish tango 9f9f18
 bump papa 50dcd7
 trim foxtrot 538245
