@@ -1,4 +1,0 @@
-update yankee 227b97
-update delta 6ae706
-tweak foxtrot 8ab309
-nudge hotel a7586c
