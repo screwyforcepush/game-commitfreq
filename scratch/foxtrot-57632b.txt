@@ -4,5 +4,4 @@ tweak golf 8d4617
 refactor foxtrot 913603
 adjust quebec d1dbdf
 refactor yankee ae0531
-trim uniform e6054c
 polish foxtrot acd73e
