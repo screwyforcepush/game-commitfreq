@@ -3,7 +3,6 @@ polish yankee eb59a6
 wire lima 83cf12
 wire charlie 0c64d1
 expand lattice 8f2982
-polish alpha 0de066
 prune romeo 2f0db7
 seed prism 012023
 cleanup echo ecb7ff
