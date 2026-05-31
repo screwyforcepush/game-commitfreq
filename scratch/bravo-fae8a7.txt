@@ -1,6 +1,0 @@
-prune oscar 4a263b
-wire whiskey dd774b
-adjust lima 357bc0
-prune charlie 54a14d
-tidy papa fef026
-adjust victor 95969f
