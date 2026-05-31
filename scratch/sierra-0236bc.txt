@@ -6,5 +6,4 @@ trim november fc0d19
 trim ember 5d4120
 update romeo 2a6ab2
 bump harbor ffcc1c
-bump foxtrot 3f4f6b
 bump charlie 556ef6
