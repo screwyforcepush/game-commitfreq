@@ -1,7 +1,6 @@
 prune solstice bcd8ea
 tweak november 79f6cf
 tune lima 6be585
-prune yankee 2e599a
 refactor nimbus b571cf
 tune zulu ccbc9d
 tweak whiskey e3941c
