@@ -4,7 +4,6 @@ seed oscar fd1859
 adjust solstice b7afcd
 seed tango ca2543
 tune harbor aabd23
-wire ember fad062
 wire golf dd58b8
 prune yankee 1035ad
 rework hotel 135044
