@@ -11,3 +11,6 @@ tweak lattice 50e601
 seed whiskey 7234a4
 seed hotel f5acbf
 adjust uniform fca340
+tune charlie 9c8a76
+wire golf 4c66d5
+tidy bravo 59319d
