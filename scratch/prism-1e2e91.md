@@ -9,4 +9,3 @@ bump uniform 750cda
 seed prism 6e1394
 update yankee 53602c
 expand golf 69c9ce
-adjust tango ea146e
