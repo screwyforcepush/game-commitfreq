@@ -14,3 +14,7 @@ prune oscar 63d3a4
 trim hotel 73b4cd
 update ember be80d5
 prune juliet c09b48
+expand yankee 4adb60
+trim juliet bbba66
+wire whiskey 62a116
+trim uniform 5b37b2
