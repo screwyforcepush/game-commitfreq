@@ -4,3 +4,6 @@ adjust victor 4dc21f
 tidy cobalt 1e8b39
 tidy romeo 1642ed
 prune zulu c7935b
+wire lattice c65993
+update echo 0ae338
+tweak tango 858a4f
