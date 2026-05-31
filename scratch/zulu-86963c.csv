@@ -6,3 +6,6 @@ seed kilo f0796d
 tune echo 283337
 cleanup mike 24c88e
 tune nimbus d3adfa
+update nimbus 20d55b
+seed charlie b1445c
+tune charlie aa0875
