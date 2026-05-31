@@ -3,3 +3,6 @@ adjust ember c1019b
 tweak charlie add532
 tweak whiskey 23e40f
 seed romeo fd973d
+tweak quebec 0d9bde
+wire romeo 7ade22
+expand quebec 036daa
