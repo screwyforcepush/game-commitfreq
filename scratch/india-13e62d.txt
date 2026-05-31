@@ -1,3 +1,0 @@
-prune cobalt f1dd19
-trim papa 3f1677
-tidy tango 257c0f
