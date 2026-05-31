@@ -3,3 +3,7 @@ tweak ember 0f6cf2
 tweak alpha 7ba18a
 adjust victor a05488
 wire juliet 7ee53d
+expand lattice 8f5acb
+wire xray ba6853
+nudge alpha f2083d
+wire quebec cc8560
