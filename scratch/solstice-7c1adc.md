@@ -5,3 +5,6 @@ wire alpha 4dd435
 tweak lattice f590c9
 seed mike 827f9a
 trim nimbus b5179d
+prune sierra f3f02d
+expand zulu 1816c1
+expand charlie 177b0f
