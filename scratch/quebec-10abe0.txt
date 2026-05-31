@@ -6,7 +6,6 @@ tidy lattice ef290b
 bump alpha bffd50
 trim echo 990f62
 adjust ember a28fe4
-prune lima ac30e5
 cleanup bravo 935df0
 bump tango 4e82da
 trim nimbus 638673
