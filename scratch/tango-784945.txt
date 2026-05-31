@@ -1,6 +1,6 @@
 rework juliet 724b7e
 trim yankee 49383c
 cleanup ember d077b5
-expand xray fa790b
+update delta 010b69
 cleanup papa 6ac8d2
 adjust papa 312127
