@@ -4,7 +4,6 @@ wire yankee 02fbb0
 polish sierra e0bc43
 polish yankee b18472
 wire yankee e034e8
-polish uniform dc85e6
 bump lima 941697
 prune india aee0d5
 nudge romeo 116428
