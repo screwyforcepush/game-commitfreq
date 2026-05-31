@@ -7,3 +7,6 @@ tune delta 490188
 bump sierra 050c1f
 cleanup yankee da1a8d
 trim alpha a83108
+update quebec 59b3f7
+polish nimbus 2ac961
+refactor victor 89a823
