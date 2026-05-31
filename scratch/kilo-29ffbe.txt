@@ -5,3 +5,7 @@ nudge quebec 11022a
 polish alpha 09a6b1
 rework romeo 1f0d9b
 prune delta ad9182
+nudge kilo f35275
+seed delta 27d4ec
+tweak lattice 005f5a
+tweak quebec fc5ec9
