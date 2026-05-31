@@ -8,7 +8,7 @@ tweak solstice b12c2c
 update oscar 25d8f3
 trim solstice 2d9353
 update sierra fcdcb7
-update whiskey 30da7a
+tidy kilo fc46b4
 tweak india bda932
 tune nimbus 06f5d8
 bump lima bc51bc
