@@ -1,2 +1,0 @@
-seed echo 5d057f
-adjust delta c68a08
