@@ -4,3 +4,7 @@ adjust romeo f5801f
 tweak yankee edc01d
 adjust romeo 22af8d
 expand xray 73aa01
+wire quebec dd6e04
+tune cobalt d0099c
+update zulu e6b77c
+tune alpha 4f2a0c
