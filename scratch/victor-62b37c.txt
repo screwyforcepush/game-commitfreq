@@ -1,4 +1,4 @@
-prune uniform 305655
+prune kilo 4ce0f9
 nudge prism a22820
 nudge lattice 65e840
 tune whiskey 932057
