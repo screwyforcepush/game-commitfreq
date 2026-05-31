@@ -12,3 +12,5 @@ adjust harbor 66bde2
 wire ember a7a393
 trim harbor ca9d1a
 expand kilo c36bf9
+tidy lattice a07050
+tune echo d92500
