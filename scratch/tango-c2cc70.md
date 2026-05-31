@@ -22,3 +22,6 @@ rework alpha ee72e9
 prune yankee 6b7db7
 prune lattice 252f38
 update whiskey 5f72f3
+prune charlie ac52fc
+tweak kilo 1819b1
+refactor hotel 1b8998
