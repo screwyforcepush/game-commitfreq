@@ -8,3 +8,6 @@ wire zulu 9e4aa0
 tune harbor 0c25ee
 tidy charlie 511394
 cleanup bravo f21354
+adjust quebec dfaee7
+tweak yankee 53bcee
+tweak oscar 35dffa
