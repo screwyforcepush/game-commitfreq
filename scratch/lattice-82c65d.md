@@ -5,3 +5,6 @@ adjust xray 2a6f98
 tweak quebec 806048
 rework mike 0f5ac5
 tidy mike 270b96
+tidy juliet c9bc89
+refactor tango f50575
+bump nimbus 5b3152
