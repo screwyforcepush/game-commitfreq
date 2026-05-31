@@ -3,3 +3,7 @@ cleanup ember e150d6
 tune solstice dfb240
 refactor victor 770d68
 prune romeo cd8ad8
+rework juliet 46142a
+tidy lattice 8eaa49
+cleanup charlie 3794a2
+adjust quebec aeb756
