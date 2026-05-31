@@ -7,7 +7,7 @@ tune oscar d5f2b4
 wire romeo 0662d4
 seed zulu 88fb3f
 rework foxtrot 82c868
-seed lattice 29b8e4
+nudge foxtrot 85df33
 nudge solstice 927127
 tidy solstice 1b6293
 nudge november 3020af
