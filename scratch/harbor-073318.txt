@@ -17,3 +17,5 @@ wire romeo 42983b
 prune lima 0d840c
 expand sierra 266bef
 nudge delta 68978a
+cleanup cobalt 972d78
+prune kilo 688256
