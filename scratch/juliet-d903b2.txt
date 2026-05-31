@@ -1,4 +1,3 @@
-seed yankee 8330d3
 expand charlie 8eaaa4
 tune echo 2273b2
 tidy nimbus b694f2
