@@ -6,5 +6,5 @@ tune mike 65bf94
 wire mike 805979
 seed xray 2bcd75
 adjust solstice c0ef7c
-seed zulu 49fd0c
+seed sierra 531889
 tidy papa 1f1fe9
