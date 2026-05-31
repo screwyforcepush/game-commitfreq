@@ -5,6 +5,5 @@ expand charlie db6dbe
 wire hotel 5d4460
 trim kilo 2ac20a
 prune xray 989d6f
-prune whiskey 1b1579
 cleanup november 360847
 expand yankee 904077
