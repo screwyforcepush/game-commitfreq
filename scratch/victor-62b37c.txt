@@ -3,4 +3,3 @@ nudge prism a22820
 nudge lattice 65e840
 tune whiskey 932057
 seed uniform f39217
-trim yankee bb7f36
