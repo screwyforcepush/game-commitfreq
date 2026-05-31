@@ -4,3 +4,6 @@ prune kilo 03edfe
 tweak whiskey 7d951e
 bump quebec c90e51
 tweak delta 3ac194
+bump hotel 962603
+prune delta 0e921f
+polish quebec cddac0
