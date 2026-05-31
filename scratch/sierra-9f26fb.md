@@ -8,3 +8,7 @@ tweak prism cc9aac
 adjust uniform a16c8c
 trim victor 1487cb
 tweak tango eb07ae
+tweak solstice b7e42a
+nudge uniform 6d044e
+cleanup bravo ab43fc
+cleanup whiskey 7eb87d
