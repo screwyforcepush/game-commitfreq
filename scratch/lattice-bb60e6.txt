@@ -1,2 +1,1 @@
-wire hotel 4b0c3b
 bump charlie 414f6d
