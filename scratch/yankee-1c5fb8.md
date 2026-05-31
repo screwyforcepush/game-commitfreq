@@ -6,3 +6,7 @@ rework xray 3983cd
 prune xray 9fd01f
 rework solstice e443da
 bump echo e72fd0
+tidy harbor 9ff29a
+seed nimbus 0939b3
+adjust hotel c1e063
+seed nimbus 35f53a
