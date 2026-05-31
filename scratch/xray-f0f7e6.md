@@ -1,4 +1,4 @@
-trim alpha ffce14
+expand hotel ff45d7
 adjust juliet 067379
 tune november d518c6
 cleanup juliet ecc286
