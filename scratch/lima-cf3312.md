@@ -1,3 +1,3 @@
 wire bravo 17d696
-trim ember 70dc94
+wire solstice 2c923e
 tune victor cd7303
