@@ -1,4 +1,3 @@
-nudge quebec cfee43
 tune nimbus 8ad86f
 update papa 2ed4f1
 prune kilo 03edfe
