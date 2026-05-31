@@ -6,7 +6,6 @@ expand nimbus ce44c7
 nudge sierra 8545b5
 nudge foxtrot 9f90b8
 update ember 719aee
-prune solstice 32e21a
 tweak yankee dafef4
 prune tango b0ee47
 tidy romeo 9ce646
