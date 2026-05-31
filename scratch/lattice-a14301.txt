@@ -11,5 +11,5 @@ tidy echo 6507b0
 wire whiskey 03f3fc
 trim whiskey 2d0731
 seed echo c78a11
-rework yankee b8f012
+trim yankee 8fc962
 nudge lima 8eead1
