@@ -3,3 +3,6 @@ wire ember 015b8d
 tweak sierra f83f25
 bump tango 6d6c5b
 tune bravo e4aefa
+tidy oscar b3acbf
+cleanup nimbus bd99e5
+tidy lima 1e148a
