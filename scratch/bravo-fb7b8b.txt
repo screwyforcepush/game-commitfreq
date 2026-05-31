@@ -1,6 +1,5 @@
 trim xray 2480b4
 tweak echo b48f41
-nudge delta 1ba010
 refactor bravo 378244
 rework lattice f492ad
 tune sierra 0dc2ca
