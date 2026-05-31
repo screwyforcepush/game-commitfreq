@@ -2,6 +2,5 @@ adjust charlie e3cfef
 tidy mike 146636
 expand charlie 87740a
 tidy zulu 04c32a
-bump november 98b686
 seed hotel 4cbfca
 prune tango b0f189
