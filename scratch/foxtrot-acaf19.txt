@@ -1,8 +1,0 @@
-cleanup papa 91cc81
-tidy sierra 0b8581
-bump quebec 5d85b0
-expand uniform eb2b75
-tweak india 51c352
-tidy uniform 38630a
-refactor cobalt 928928
-update oscar 23a67f
