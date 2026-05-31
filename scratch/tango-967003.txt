@@ -2,3 +2,5 @@ tweak papa f09a2f
 adjust hotel 67ba98
 seed lima c74e61
 prune delta 228d9c
+trim foxtrot e28817
+refactor sierra 228a7c
