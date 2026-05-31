@@ -4,3 +4,7 @@ refactor bravo 378244
 tune sierra 0dc2ca
 cleanup yankee 3c801f
 expand tango d99000
+cleanup ember cddbaf
+adjust uniform 445690
+refactor yankee 9a4bcd
+refactor romeo a9990c
