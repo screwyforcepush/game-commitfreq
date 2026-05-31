@@ -1,2 +1,5 @@
 trim romeo c51286
 wire alpha 0cc118
+tune uniform acf14d
+tune alpha 8f8716
+tweak ember 99f9c9
