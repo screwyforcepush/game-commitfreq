@@ -2,3 +2,6 @@ wire papa 4c01d3
 cleanup bravo 17bdaf
 tune solstice 5f1c74
 prune prism 7ef84f
+prune cobalt 45e234
+adjust lattice 929bbd
+wire golf c55799
