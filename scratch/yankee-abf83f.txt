@@ -1,6 +1,5 @@
 nudge charlie 580439
 update november c7537b
 tune lima f06784
-tune echo de45d7
 wire solstice 64618d
 trim whiskey cb1ebd
