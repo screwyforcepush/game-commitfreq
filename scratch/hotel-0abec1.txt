@@ -3,3 +3,5 @@ expand kilo fbfd19
 wire echo f5b1b9
 update nimbus 29f9ed
 seed lima 00afef
+prune oscar ca205e
+cleanup cobalt 3d2c41
