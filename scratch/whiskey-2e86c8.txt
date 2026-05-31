@@ -6,6 +6,5 @@ trim sierra 068b54
 polish alpha 5587ec
 rework solstice 3b4aa8
 wire lattice 0a0860
-rework juliet eca6b5
 prune romeo 853f40
 tidy charlie f5aba0
