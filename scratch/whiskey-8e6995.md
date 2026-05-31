@@ -6,3 +6,5 @@ trim lattice 83d6e5
 refactor hotel 629ae4
 nudge hotel 8bb0cc
 nudge harbor 980a9c
+seed lattice 2004cb
+wire lattice 70fe30
