@@ -5,4 +5,3 @@ wire kilo 949204
 expand kilo 68826a
 tune yankee 8f5b78
 adjust echo bd6a8f
-polish delta 1771e0
