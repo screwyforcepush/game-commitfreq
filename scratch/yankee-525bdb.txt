@@ -1,5 +1,4 @@
 wire papa 4c01d3
-wire tango 200c97
 cleanup bravo 17bdaf
 tune solstice 5f1c74
 prune prism 7ef84f
