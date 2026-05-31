@@ -9,3 +9,6 @@ tune quebec c06141
 wire delta 20a14b
 seed romeo c903f0
 adjust golf 18bace
+bump charlie ac87ac
+trim sierra b5074d
+expand sierra aa7280
