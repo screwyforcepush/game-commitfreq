@@ -4,7 +4,6 @@ bump golf 9f4a1a
 wire echo c38c82
 bump lattice 0c2ca9
 update zulu f7bd20
-adjust yankee fe0bd4
 nudge india 7d86d4
 nudge solstice f9ab6e
 prune golf f6a15f
