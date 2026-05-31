@@ -7,3 +7,5 @@ nudge oscar 036878
 rework quebec 90383c
 adjust echo 1abecc
 seed delta 110e85
+update lattice bfb99d
+tidy foxtrot daaad2
