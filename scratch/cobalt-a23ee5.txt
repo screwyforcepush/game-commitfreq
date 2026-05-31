@@ -1,1 +1,4 @@
 wire romeo edb571
+wire oscar ce54f0
+wire tango b934c7
+nudge lima 8b47d6
