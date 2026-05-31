@@ -1,7 +1,6 @@
 trim delta 8bd796
 trim whiskey 075a6f
 tweak papa 93153e
-expand yankee 5067df
 nudge zulu 7b735e
 adjust sierra f71edf
 adjust lima 1faeec
