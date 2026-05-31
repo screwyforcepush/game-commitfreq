@@ -4,3 +4,6 @@ bump november c14ba0
 nudge papa 64cd46
 rework november 2192ba
 trim ember eb6eb8
+prune mike 8766d9
+tune quebec c06141
+wire delta 20a14b
