@@ -8,5 +8,5 @@ bump oscar 6d4261
 rework hotel f57a63
 prune cobalt 521255
 seed xray 603012
-update solstice 2b135d
+tune oscar 9834fd
 expand romeo e1fb07
