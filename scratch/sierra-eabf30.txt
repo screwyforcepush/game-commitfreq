@@ -11,3 +11,7 @@ update sierra 065aa5
 adjust zulu d72d7d
 tune sierra bc39ea
 rework sierra 37107c
+bump foxtrot 875536
+trim november 87ec43
+bump lima 9f7426
+prune lima 06dd49
