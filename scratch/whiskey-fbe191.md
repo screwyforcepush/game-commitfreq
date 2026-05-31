@@ -3,3 +3,7 @@ wire charlie f3000b
 update juliet 8a25ad
 seed zulu 6a9556
 update oscar 43bd3a
+nudge oscar 036878
+rework quebec 90383c
+adjust echo 1abecc
+seed delta 110e85
