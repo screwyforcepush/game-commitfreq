@@ -1,1 +1,3 @@
 update whiskey 54f967
+wire golf 53e70a
+nudge november dc21e2
