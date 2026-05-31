@@ -1,5 +1,4 @@
 seed lattice 968e36
 prune lima c7dd13
-update delta 0496ec
 rework mike 49086c
 seed november db168f
