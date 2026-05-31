@@ -11,7 +11,7 @@ seed papa 7a6a66
 tune sierra 021cd0
 nudge charlie e22a17
 adjust solstice 39a882
-tweak yankee b18ceb
+tidy charlie 98d9f7
 adjust lattice d9f284
 rework echo d6e915
 nudge uniform a48f7b
