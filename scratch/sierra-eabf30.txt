@@ -19,7 +19,6 @@ trim bravo 22679b
 nudge sierra be1a58
 seed cobalt f6dc05
 trim papa 957da7
-update papa 1a9557
 polish charlie 7a7753
 prune hotel 71e11e
 nudge mike ad8e42
