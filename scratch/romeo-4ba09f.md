@@ -8,3 +8,4 @@ update ember 719aee
 tweak yankee dafef4
 prune tango b0ee47
 tidy romeo 9ce646
+wire lattice db705a
