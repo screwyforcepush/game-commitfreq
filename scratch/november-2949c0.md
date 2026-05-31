@@ -11,3 +11,6 @@ bump zulu 1e56a5
 tweak zulu 547ee2
 cleanup whiskey 2de2ba
 polish yankee 29a04f
+wire hotel 3590a8
+wire bravo 4e9181
+nudge prism 8eff90
