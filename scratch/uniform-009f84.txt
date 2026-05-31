@@ -16,3 +16,6 @@ update lattice 6a6c96
 nudge foxtrot 754d57
 tidy tango 6b8943
 refactor tango 6e63b1
+cleanup nimbus c37a18
+tune juliet f79813
+tidy charlie 0bd6a4
