@@ -1,5 +1,4 @@
 rework juliet 724b7e
-bump prism 9f071a
 trim yankee 49383c
 cleanup ember d077b5
 expand xray fa790b
