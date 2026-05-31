@@ -7,3 +7,6 @@ tweak harbor 819e92
 adjust quebec 9e891b
 trim alpha 6869f0
 seed romeo f12e82
+bump tango 217975
+trim papa 67af20
+rework solstice 604175
