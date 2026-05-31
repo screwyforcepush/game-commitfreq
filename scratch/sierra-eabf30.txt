@@ -18,7 +18,6 @@ nudge sierra be1a58
 seed cobalt f6dc05
 trim papa 957da7
 polish charlie 7a7753
-prune hotel 71e11e
 nudge mike ad8e42
 prune romeo 971748
 nudge hotel cdaa73
