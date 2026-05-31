@@ -3,3 +3,4 @@ adjust solstice 6e1a15
 nudge golf ce3adb
 bump echo 45d8b7
 polish oscar d53dd8
+expand hotel e93256
