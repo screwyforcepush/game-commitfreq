@@ -1,3 +1,0 @@
-trim quebec 0abeef
-tweak golf d876fb
-prune sierra 69d44a
