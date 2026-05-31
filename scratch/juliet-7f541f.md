@@ -13,3 +13,7 @@ expand yankee e010cc
 update zulu 82639e
 prune nimbus 94fd83
 cleanup zulu cf25b5
+tune india 099230
+polish echo 9652c0
+update kilo 516d36
+prune juliet 533fc1
