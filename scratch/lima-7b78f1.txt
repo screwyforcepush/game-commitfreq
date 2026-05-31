@@ -2,3 +2,4 @@ refactor tango e98359
 trim foxtrot 4a5a48
 seed kilo 7e8414
 seed uniform 26ace6
+bump nimbus 8d0dae
