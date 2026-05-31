@@ -4,3 +4,6 @@ tune delta 28c1b4
 adjust yankee f45598
 expand mike b93304
 nudge prism 47351f
+tweak kilo 52d80d
+tidy bravo 8032bf
+prune yankee 7f1793
