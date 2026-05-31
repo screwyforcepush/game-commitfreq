@@ -9,3 +9,5 @@ trim delta 2476b7
 wire zulu 52465f
 expand yankee 73b84f
 tune charlie 7089f8
+tweak zulu be701c
+prune lattice 857384
