@@ -1,5 +1,4 @@
 seed yankee 8330d3
 tune echo 3e5338
-adjust whiskey 63b62a
 tune echo 2273b2
 tidy nimbus b694f2
