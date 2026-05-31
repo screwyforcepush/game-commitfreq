@@ -1,5 +1,0 @@
-wire oscar cedfee
-prune bravo 037b1e
-tune xray b56b85
-tweak harbor 3f8351
-cleanup bravo a4212b
