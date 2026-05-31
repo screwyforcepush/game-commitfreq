@@ -6,7 +6,6 @@ wire hotel 5d4460
 expand uniform dd635d
 prune xray 989d6f
 cleanup november 360847
-expand yankee 904077
 expand quebec d65179
 trim juliet 93450c
 wire zulu 229b56
