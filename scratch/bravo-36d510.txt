@@ -1,0 +1,2 @@
+wire sierra 19f382
+tune kilo 03294c
