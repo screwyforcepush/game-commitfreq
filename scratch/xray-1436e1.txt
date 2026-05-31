@@ -1,5 +1,0 @@
-prune yankee 0340dd
-trim juliet c5b69d
-refactor yankee 0d4768
-rework hotel 678659
-expand quebec 9f4277
