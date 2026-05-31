@@ -15,3 +15,5 @@ wire romeo 07f9c0
 tune oscar bf9a40
 expand nimbus 694948
 refactor echo c3363b
+refactor solstice d47307
+rework cobalt cd9017
