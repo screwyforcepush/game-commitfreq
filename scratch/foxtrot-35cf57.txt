@@ -1,5 +1,5 @@
 bump xray 81475d
-seed echo 6dee11
+tidy hotel 9978ea
 adjust lattice 3ddf14
 seed november 4fa087
 tweak ember 7e3c82
