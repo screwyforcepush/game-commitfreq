@@ -1,4 +1,0 @@
-cleanup juliet 66b3b3
-bump golf 3a4a3e
-prune cobalt 773df6
-trim yankee 1a1306
