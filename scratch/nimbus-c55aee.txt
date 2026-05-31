@@ -3,3 +3,7 @@ tune yankee 04f65c
 wire whiskey 11da8e
 tidy sierra 523a55
 adjust lattice 2cb74d
+prune solstice 4a5039
+prune uniform 91241f
+wire november fd92a9
+tweak alpha c71ef3
