@@ -1,4 +1,0 @@
-cleanup solstice 9eaa51
-prune lattice a21144
-tidy yankee 0ac97d
-tidy romeo 264932
