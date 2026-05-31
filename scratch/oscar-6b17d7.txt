@@ -1,4 +1,3 @@
 polish juliet b8d641
 bump xray cfe00d
-adjust romeo 3805ab
 cleanup delta 399bdf
