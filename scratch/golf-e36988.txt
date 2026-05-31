@@ -4,3 +4,6 @@ tidy india 202ca0
 adjust november 158a76
 nudge solstice 2760c4
 tune delta 490188
+bump sierra 050c1f
+cleanup yankee da1a8d
+trim alpha a83108
