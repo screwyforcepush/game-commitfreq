@@ -3,5 +3,4 @@ tune lattice 184f75
 seed uniform 138fc9
 update oscar d38089
 expand foxtrot 9a6e08
-wire uniform d098e2
 expand delta 8b502b
