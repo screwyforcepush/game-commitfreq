@@ -13,5 +13,4 @@ update bravo 57c9ef
 prune oscar 63d3a4
 trim hotel 73b4cd
 update ember be80d5
-nudge romeo 055dad
 prune juliet c09b48
