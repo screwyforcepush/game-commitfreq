@@ -6,3 +6,6 @@ adjust sierra f71edf
 adjust lima 1faeec
 wire xray 165cc3
 wire yankee 47469e
+expand foxtrot ecd84d
+adjust xray c747d2
+expand victor a3a83a
