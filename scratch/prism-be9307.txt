@@ -10,6 +10,5 @@ nudge bravo 9a5aaa
 nudge delta 7cc349
 trim hotel 998c1b
 bump foxtrot 7d6f00
-seed yankee b1f84c
 tweak echo 451f33
 adjust zulu de17b7
