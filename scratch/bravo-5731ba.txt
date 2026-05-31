@@ -1,0 +1,2 @@
+wire tango f0a373
+update lattice ec7947
