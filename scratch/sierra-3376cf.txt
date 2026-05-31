@@ -1,6 +1,5 @@
 refactor sierra 263a46
 adjust mike 4f0ceb
 trim kilo aed473
-adjust lattice 0e8ee0
 tweak foxtrot 6cea7e
 expand charlie 12c2c8
