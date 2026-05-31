@@ -1,0 +1,5 @@
+tidy uniform 0172b0
+nudge oscar 7a2aac
+nudge papa 09b968
+adjust victor dc80d4
+tune xray faed80
