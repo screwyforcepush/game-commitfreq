@@ -6,4 +6,4 @@ wire delta 105a7a
 wire sierra 1ffe9c
 trim oscar 5d274c
 polish cobalt 7c3bf8
-tweak nimbus 31a40c
+tune nimbus 886cf4
