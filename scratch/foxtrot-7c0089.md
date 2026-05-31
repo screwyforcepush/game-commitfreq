@@ -20,3 +20,7 @@ seed echo 3b1cd2
 rework lima 34e433
 expand nimbus 14b40f
 bump echo a12db6
+rework ember 7da5c9
+adjust yankee 0de7f3
+prune india 3e2f2c
+trim india 52e7ce
