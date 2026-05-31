@@ -5,3 +5,7 @@ bump ember ad17ea
 refactor foxtrot b906c5
 rework papa 7e6d98
 expand cobalt 6d728f
+expand mike a53dba
+expand lattice 86ced5
+tweak lattice 50e601
+seed whiskey 7234a4
