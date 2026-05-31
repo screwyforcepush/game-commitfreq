@@ -1,3 +1,2 @@
-seed lima 8162e9
 bump alpha ec601d
 polish lattice ba0686
