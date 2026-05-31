@@ -1,3 +1,5 @@
 wire sierra 19f382
 tune kilo 03294c
 prune juliet 02d485
+tweak lattice 723eeb
+wire whiskey b84884
