@@ -1,5 +1,4 @@
 cleanup november 9e9310
 prune hotel 3a9b0c
 rework uniform ca34bd
-adjust yankee b10032
 seed november c029f8
