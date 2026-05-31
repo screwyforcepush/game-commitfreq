@@ -4,6 +4,6 @@ tidy cobalt c05ba2
 wire romeo e2e641
 bump solstice 3ad68f
 tweak whiskey 3f2cf2
-seed whiskey 131150
+adjust solstice 33fefa
 expand sierra c7a424
 tidy whiskey ca9c26
