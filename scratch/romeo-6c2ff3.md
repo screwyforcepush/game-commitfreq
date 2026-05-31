@@ -17,3 +17,7 @@ expand delta 948a69
 cleanup victor 04a4c2
 trim charlie 2006d2
 tweak xray d548ac
+rework lattice 6f143d
+trim juliet 4b6900
+refactor mike 988666
+rework harbor 84febb
