@@ -9,3 +9,5 @@ expand mike a53dba
 expand lattice 86ced5
 tweak lattice 50e601
 seed whiskey 7234a4
+seed hotel f5acbf
+adjust uniform fca340
