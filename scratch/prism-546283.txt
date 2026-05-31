@@ -2,6 +2,5 @@ wire xray dc1638
 trim sierra f63775
 expand golf ee4ed0
 wire cobalt 92e0d7
-tune mike 55f25e
 update alpha 4a7434
 polish romeo f7c4e2
