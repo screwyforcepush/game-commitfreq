@@ -1,2 +1,2 @@
-prune whiskey 99c939
+adjust victor f95b9e
 trim zulu 0c2627
