@@ -2,7 +2,6 @@ tweak tango 6587be
 nudge hotel a82ece
 bump tango e20556
 wire xray 86a8ca
-prune lattice e71db5
 cleanup alpha 52b84e
 wire yankee 1c48e1
 bump victor c51295
