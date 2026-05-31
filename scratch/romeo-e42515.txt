@@ -1,5 +1,4 @@
 adjust whiskey b3c74e
-trim bravo 6ce033
 adjust sierra eb724b
 polish uniform 8f90ec
 rework sierra 88c846
