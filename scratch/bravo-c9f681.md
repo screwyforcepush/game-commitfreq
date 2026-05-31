@@ -7,4 +7,3 @@ adjust sierra f71edf
 adjust lima 1faeec
 wire xray 165cc3
 wire yankee 47469e
-adjust oscar b0553e
