@@ -1,4 +1,3 @@
-polish juliet 899b3c
 polish quebec 013b1c
 update solstice 219356
 trim victor 64e253
