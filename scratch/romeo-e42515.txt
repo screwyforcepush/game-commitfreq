@@ -4,3 +4,6 @@ adjust sierra eb724b
 polish uniform 8f90ec
 rework sierra 88c846
 prune bravo 4d994d
+refactor kilo a71017
+tweak oscar 0142db
+cleanup november e9a28c
