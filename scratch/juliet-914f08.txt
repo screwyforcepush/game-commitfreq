@@ -2,7 +2,6 @@ adjust victor 8afad7
 nudge lima 5b3cd7
 tidy charlie 9c0088
 expand juliet 229812
-prune victor 99e001
 wire tango 3dda13
 tidy cobalt 9c7375
 nudge bravo e15ab3
