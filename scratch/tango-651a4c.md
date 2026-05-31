@@ -1,1 +1,1 @@
-tune cobalt f7090c
+seed charlie ec473e
