@@ -5,7 +5,6 @@ rework sierra e450b7
 trim alpha 2cc710
 update whiskey 880cd3
 bump victor 04a151
-bump xray d75c69
 nudge charlie 08da9e
 adjust harbor ab7af2
 polish kilo 0e4cd9
