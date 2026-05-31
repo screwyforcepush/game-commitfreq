@@ -1,6 +1,5 @@
 seed golf d3744b
 refactor mike d8d293
-wire charlie 1ee85d
 seed uniform e525ad
 prune mike 36b366
 update mike 379e5f
