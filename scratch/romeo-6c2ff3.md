@@ -4,7 +4,6 @@ polish romeo 3710d6
 adjust charlie 46031b
 adjust golf 72dd69
 refactor tango f52980
-update hotel fbf2d9
 nudge sierra 8cb356
 seed tango 1af975
 prune kilo 067f53
