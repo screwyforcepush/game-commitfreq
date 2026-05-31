@@ -4,7 +4,6 @@ wire yankee 02fbb0
 polish sierra e0bc43
 polish yankee b18472
 wire yankee e034e8
-bump lima 941697
 prune india aee0d5
 nudge romeo 116428
 wire delta e94cdc
