@@ -169604,3 +169604,4 @@ To https://github.com/screwyforcepush/game-commitfreq.git
 298/611  tune harbor alpha                             append delta-9fad95.dat
 299/611  build: alpha tweaks                           drop lattice-d139ef.txt
 300/611  wip: update papa                              drop ember-7ee3a7.txt
+301/611  chore: update nimbus for ember                trim papa-bc2124.dat:4
