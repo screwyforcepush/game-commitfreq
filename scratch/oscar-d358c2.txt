@@ -2,7 +2,6 @@ prune india 999af8
 tidy lattice d6620d
 bump whiskey e57481
 adjust whiskey 793075
-adjust india 8c62f2
 trim november 779001
 trim foxtrot 6ff970
 prune echo b9499f
