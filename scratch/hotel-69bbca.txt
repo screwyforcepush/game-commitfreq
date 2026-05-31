@@ -10,3 +10,6 @@ tweak ember 5e3626
 polish india 15e844
 trim hotel cc2246
 polish lima f09732
+tidy lima 8dcf85
+adjust lima 9347ef
+tidy yankee d3cf71
