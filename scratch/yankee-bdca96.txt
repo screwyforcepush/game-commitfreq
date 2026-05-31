@@ -12,7 +12,6 @@ prune prism 57586e
 polish lattice 9835ea
 adjust romeo 391873
 rework lima 1d9d9b
-bump papa fdff33
 polish whiskey b61478
 prune romeo 1ca9c0
 seed prism eb8d33
