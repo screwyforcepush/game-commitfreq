@@ -8,3 +8,4 @@ wire golf dd58b8
 prune yankee 1035ad
 rework hotel 135044
 wire charlie 157060
+prune xray 1ccec0
