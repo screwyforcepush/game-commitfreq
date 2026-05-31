@@ -7,7 +7,6 @@ tweak india f14baf
 wire quebec 4bd313
 cleanup sierra 0ced66
 bump papa 0660ab
-update cobalt 0de1c5
 adjust india 79c71e
 trim foxtrot 87b82a
 wire bravo d23c9e
