@@ -1,6 +1,5 @@
 seed lattice 6b1ec1
 rework papa 420393
 tune echo f8f364
-wire november 2cba99
 polish november 05f933
 prune yankee bcaeb5
