@@ -1,2 +1,0 @@
-seed oscar 7ec545
-adjust uniform 4368f0
