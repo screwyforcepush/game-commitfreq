@@ -1,6 +1,5 @@
 wire xray dc1638
 trim sierra f63775
-wire solstice f7e460
 wire yankee 942e3e
 wire cobalt 92e0d7
 update india 9b41f9
