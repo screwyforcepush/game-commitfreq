@@ -6,3 +6,6 @@ tweak uniform bc9e22
 trim victor 3f66cb
 prune lima ff5836
 cleanup tango 78af6e
+cleanup harbor dd94c3
+tune xray c2db3c
+update quebec fa75a9
