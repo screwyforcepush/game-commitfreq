@@ -1,2 +1,2 @@
-cleanup uniform 2a7e5d
+cleanup hotel e8de3d
 trim nimbus 4dae7a
