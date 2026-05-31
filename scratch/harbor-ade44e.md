@@ -2,7 +2,6 @@ refactor lima ce54b0
 tidy uniform 2072f9
 trim november b1d683
 bump ember 09f0c2
-bump cobalt 5c7058
 trim oscar 980bc1
 adjust romeo 5809ae
 refactor prism 45d56d
