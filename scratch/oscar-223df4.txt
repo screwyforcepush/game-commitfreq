@@ -3,3 +3,6 @@ tune prism 268c16
 update yankee 15c186
 tidy alpha 46609f
 polish kilo 46cfc9
+cleanup yankee d92b80
+expand sierra ea7750
+cleanup solstice 512e67
