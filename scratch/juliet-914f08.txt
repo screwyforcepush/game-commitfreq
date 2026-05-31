@@ -3,7 +3,6 @@ nudge lima 5b3cd7
 tidy charlie 9c0088
 expand juliet 229812
 wire tango 3dda13
-tidy cobalt 9c7375
 nudge bravo e15ab3
 rework charlie cb2ed8
 update papa be5010
