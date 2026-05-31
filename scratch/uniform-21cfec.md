@@ -8,7 +8,6 @@ bump victor 04a151
 bump xray d75c69
 nudge charlie 08da9e
 adjust harbor ab7af2
-wire mike 3cb751
 polish kilo 0e4cd9
 polish delta d8b31e
 nudge bravo 18270b
