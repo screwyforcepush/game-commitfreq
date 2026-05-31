@@ -1,5 +1,0 @@
-seed lima 6db7f4
-nudge oscar 7a2aac
-nudge papa 09b968
-adjust victor dc80d4
-tune xray faed80
