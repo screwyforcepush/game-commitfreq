@@ -5,7 +5,6 @@ tweak ember 42177f
 expand nimbus ce44c7
 nudge sierra 8545b5
 nudge foxtrot 9f90b8
-cleanup delta 9c9c5f
 update ember 719aee
 prune solstice 32e21a
 tweak yankee dafef4
