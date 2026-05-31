@@ -13,5 +13,4 @@ seed echo c78a11
 trim yankee 8fc962
 nudge lima 8eead1
 tweak mike f89f3e
-nudge prism 66d732
 bump charlie 0146b0
