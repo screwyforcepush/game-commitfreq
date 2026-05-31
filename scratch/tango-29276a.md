@@ -7,3 +7,7 @@ trim kilo 2ac20a
 prune xray 989d6f
 cleanup november 360847
 expand yankee 904077
+expand quebec d65179
+trim juliet 93450c
+rework india c37b02
+wire zulu 229b56
