@@ -13,3 +13,6 @@ trim ember af6944
 update sierra f03903
 tune india c46095
 expand foxtrot d9b144
+update lattice d36dad
+rework golf 9ace41
+tweak delta 8299a7
