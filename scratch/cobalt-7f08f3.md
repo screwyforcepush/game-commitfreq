@@ -4,3 +4,5 @@ expand yankee 0b26d2
 prune alpha 90d22d
 rework alpha d19ce5
 expand nimbus 34ee9e
+rework quebec 14c196
+cleanup november 4760b1
