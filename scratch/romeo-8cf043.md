@@ -4,3 +4,5 @@ wire lattice 5e1fc3
 seed sierra 12a66a
 tune yankee 5defe9
 tidy lattice 003913
+rework xray 12016e
+tune zulu 94cebb
