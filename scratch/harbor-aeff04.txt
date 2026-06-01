@@ -3,3 +3,5 @@ seed cobalt d50fdd
 wire nimbus 7166c2
 expand juliet a4ac04
 prune charlie 8ac575
+prune kilo 19e87d
+wire hotel e81283
