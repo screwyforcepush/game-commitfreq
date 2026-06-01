@@ -10,3 +10,6 @@ expand harbor 499b07
 adjust zulu de1a5d
 tidy lima 15613b
 wire quebec 3f5c6e
+wire kilo 9019e3
+nudge sierra 6ac697
+adjust solstice e2d87d
