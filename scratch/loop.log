@@ -178633,3 +178633,4 @@ To https://github.com/screwyforcepush/game-commitfreq.git
 200/430  wip: tweak zulu for lattice                   trim prism-d4c7e1.txt:4
 201/430  wip: update oscar for lattice                 trim romeo-bddd53.txt:3
 202/430  polish xray                                   rename juliet-a4b68c.txt -> kilo-7de07b.md
+203/430  fix: adjust sierra (14855a)                   trim lattice-bfe79f.csv:3
