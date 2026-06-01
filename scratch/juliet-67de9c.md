@@ -5,3 +5,4 @@ prune uniform c72ea6
 trim charlie 51114f
 seed nimbus db392b
 nudge cobalt 7005e5
+adjust hotel c48d30
