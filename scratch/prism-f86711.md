@@ -14,3 +14,7 @@ update nimbus 09f9ac
 bump cobalt 2e5887
 trim juliet 69289c
 tune kilo fe690b
+update nimbus e894e4
+bump golf 52e6c8
+refactor sierra 4aacc9
+update quebec 6e228a
