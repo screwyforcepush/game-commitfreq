@@ -1,3 +1,0 @@
-prune nimbus 8f0114
-tweak alpha 0ac956
-tweak lattice affd88
