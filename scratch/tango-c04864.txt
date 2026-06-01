@@ -4,3 +4,6 @@ rework tango 32071d
 tidy nimbus 2a629a
 tidy victor 61d3fb
 adjust charlie af0f94
+adjust foxtrot 969db3
+adjust tango 1aa2cb
+adjust victor 87dea1
