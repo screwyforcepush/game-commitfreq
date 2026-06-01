@@ -1,4 +1,4 @@
-cleanup yankee 5c02cd
+tidy solstice df7137
 cleanup harbor e552bd
 tune romeo 939d64
 polish echo fb515a
