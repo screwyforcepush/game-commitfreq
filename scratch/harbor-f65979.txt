@@ -4,3 +4,7 @@ adjust ember 19619e
 rework zulu c7c11c
 bump echo eea9ba
 tune nimbus 199373
+tidy november 597838
+tweak oscar 85b1fd
+bump harbor df8288
+tidy hotel 0865f4
