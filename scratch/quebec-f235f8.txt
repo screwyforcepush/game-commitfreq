@@ -4,7 +4,6 @@ tune lima 8b73fb
 seed alpha e05b77
 wire bravo 1e344e
 bump sierra 5a7097
-seed tango c7398e
 tidy whiskey 11f0a9
 cleanup delta 2f7bb9
 update mike 7dfa48
