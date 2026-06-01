@@ -19,3 +19,6 @@ bump bravo 6049c6
 bump charlie 142c46
 nudge november bde08a
 tune bravo 1f80a0
+wire charlie 5cb93a
+tidy foxtrot da93fe
+wire xray eead6e
