@@ -4,3 +4,5 @@ prune whiskey 0d0308
 nudge kilo a64511
 cleanup golf 437627
 nudge yankee a1d634
+update tango 5dad91
+cleanup whiskey 9c3965
