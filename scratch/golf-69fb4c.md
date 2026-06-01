@@ -3,7 +3,7 @@ tidy quebec ecbca0
 prune whiskey 0d0308
 nudge kilo a64511
 cleanup golf 437627
-update tango 5dad91
+prune kilo 2d07d4
 cleanup whiskey 9c3965
 adjust harbor 647531
 tidy charlie db51f7
