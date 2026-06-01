@@ -3,7 +3,6 @@ tidy ember 5c76a4
 tweak golf d5afb2
 nudge alpha 7cb7d0
 wire charlie fe31cd
-update echo 33f26c
 adjust oscar cebfd5
 tune papa acf491
 nudge nimbus de7577
