@@ -13,3 +13,5 @@ expand foxtrot aa3059
 update alpha 9d5278
 bump sierra aa25d8
 tweak oscar 3c1906
+expand whiskey 7aec82
+update victor 87b11d
