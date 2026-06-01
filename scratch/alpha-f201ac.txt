@@ -2,7 +2,7 @@ update uniform d5731c
 nudge lima 64c9b8
 nudge mike 228a04
 tidy oscar a76cbe
-rework bravo 629d86
+prune kilo e88aee
 tweak prism 91c960
 update yankee dbc2aa
 bump bravo 8a402a
