@@ -1,4 +1,3 @@
-adjust papa 6c1dd4
 bump romeo 51d8d2
 bump ember 8373b5
 expand delta 392cc5
