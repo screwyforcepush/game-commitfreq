@@ -6,7 +6,7 @@ cleanup golf 437627
 prune kilo 2d07d4
 cleanup whiskey 9c3965
 adjust harbor 647531
-tidy charlie db51f7
+wire yankee 77d426
 tune delta 25bc25
 expand bravo 05e9a8
 expand foxtrot aa3059
