@@ -19,7 +19,7 @@ seed cobalt f6dc05
 trim papa 957da7
 polish charlie 7a7753
 nudge mike ad8e42
-prune romeo 971748
+cleanup yankee 7182a2
 nudge hotel cdaa73
 seed romeo 289744
 seed xray ca6820
