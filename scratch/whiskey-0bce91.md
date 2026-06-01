@@ -11,3 +11,5 @@ seed prism 97e165
 seed delta 4a7832
 trim whiskey 964e99
 wire xray e5443b
+prune uniform 832dba
+tweak charlie c4087b
