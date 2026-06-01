@@ -3,3 +3,6 @@ tune harbor f0192c
 update quebec 6e4fbe
 cleanup prism 541c77
 adjust mike 8ad71b
+adjust solstice bca313
+adjust quebec 11767d
+wire romeo 3b969d
