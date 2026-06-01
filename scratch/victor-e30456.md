@@ -1,4 +1,3 @@
-wire zulu 8175e3
 expand echo 2ccc5a
 tidy romeo b2ce85
 tidy whiskey 299b82
