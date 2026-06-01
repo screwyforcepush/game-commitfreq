@@ -12,3 +12,5 @@ update charlie f03b85
 rework ember 89132a
 bump november 205c1a
 wire prism 72c42d
+adjust yankee 4bdb92
+adjust hotel 128876
