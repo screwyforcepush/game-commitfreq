@@ -2,7 +2,7 @@ tune alpha 651172
 update juliet 3a7f52
 polish hotel e90827
 trim whiskey 0d3356
-tune quebec 30ab39
+update solstice 4046f3
 nudge sierra 7c8539
 wire yankee 54b2e4
 adjust uniform b1dae4
