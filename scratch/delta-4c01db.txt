@@ -1,3 +1,6 @@
 trim victor 98cd43
 tune echo 23f7c5
 wire lattice 2a7150
+rework ember bb1942
+bump prism 32a32f
+trim victor 23fbb7
