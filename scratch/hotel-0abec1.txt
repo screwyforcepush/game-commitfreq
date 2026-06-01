@@ -1,5 +1,4 @@
 tune alpha 925934
-expand kilo fbfd19
 wire echo f5b1b9
 update nimbus 29f9ed
 update golf 76932a
