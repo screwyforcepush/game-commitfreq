@@ -7,3 +7,6 @@ seed prism 61ca0a
 wire delta f6c2f7
 tweak romeo aae102
 nudge solstice 4cdd4f
+tweak sierra 31498f
+wire uniform cad37c
+trim xray 7a57ec
