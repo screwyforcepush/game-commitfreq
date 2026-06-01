@@ -3,7 +3,7 @@ cleanup ember e150d6
 refactor victor 770d68
 nudge india 5ecc5f
 rework juliet 46142a
-tidy lattice 8eaa49
+trim oscar 8e3999
 cleanup charlie 3794a2
 adjust quebec aeb756
 rework bravo 1ddc72
