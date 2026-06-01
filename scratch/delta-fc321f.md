@@ -12,3 +12,6 @@ trim victor 033bab
 prune quebec 06c9b8
 prune lattice 6ec5ea
 tweak uniform a7288a
+nudge alpha 5fb275
+bump xray e9c081
+polish bravo 8b52c7
