@@ -1,3 +1,7 @@
 cleanup solstice ecdf6a
 adjust tango 3252a6
 wire alpha 1bc8d7
+polish oscar 550553
+tune juliet b7f6cf
+tweak golf 07999e
+nudge mike 00f65d
