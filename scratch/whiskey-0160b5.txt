@@ -1,2 +1,2 @@
 tune alpha 651172
-tune lattice aae045
+tidy sierra 710a8f
