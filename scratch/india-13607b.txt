@@ -1,4 +1,3 @@
 adjust hotel bdba24
-trim nimbus 4dae7a
 prune foxtrot 13d82d
 wire zulu 415562
