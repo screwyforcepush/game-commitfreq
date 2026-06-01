@@ -4,5 +4,5 @@ update yankee 15c186
 expand tango 15c5fd
 polish kilo 46cfc9
 cleanup yankee d92b80
-expand sierra ea7750
+rework quebec eda264
 cleanup solstice 512e67
