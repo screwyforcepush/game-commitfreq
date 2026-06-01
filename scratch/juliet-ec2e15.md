@@ -8,3 +8,6 @@ cleanup romeo 7ae080
 refactor tango 498d4f
 adjust victor 38cef2
 wire oscar 9f36d6
+rework india 369700
+tidy uniform e150b3
+cleanup ember 1a547b
