@@ -11,6 +11,5 @@ trim tango 2d3bf4
 rework hotel ed78df
 bump prism 65ec87
 tune lattice fea47c
-prune golf a4e94c
 seed delta b25f40
 tweak solstice 3ffe80
