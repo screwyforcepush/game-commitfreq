@@ -2,5 +2,4 @@ adjust papa 83ac31
 refactor mike df5093
 tweak yankee a0a4bb
 prune november a1f5ae
-polish tango f106f0
 tweak harbor dbde1c
