@@ -2,3 +2,6 @@ prune harbor 4579c2
 adjust juliet 339619
 rework zulu 47d02d
 nudge whiskey b80de7
+adjust lattice bdc0e6
+bump mike 054db3
+polish nimbus 673f30
