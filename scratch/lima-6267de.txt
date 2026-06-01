@@ -1,4 +1,3 @@
-refactor hotel 580c0b
 tweak victor a45762
 polish india 4b731c
 wire xray 23734c
