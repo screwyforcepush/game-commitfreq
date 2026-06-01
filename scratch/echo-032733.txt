@@ -4,3 +4,5 @@ tidy papa ed9bdb
 adjust india 266c36
 update xray a06403
 seed quebec 6db751
+seed prism c2138f
+seed whiskey 1823e5
