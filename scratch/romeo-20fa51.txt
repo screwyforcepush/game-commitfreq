@@ -14,3 +14,7 @@ expand papa b929f8
 adjust yankee 065135
 expand cobalt 5776a2
 expand hotel b577a7
+update foxtrot fe7906
+update uniform 8c371b
+expand echo 86b0ce
+cleanup lima 54ecb2
