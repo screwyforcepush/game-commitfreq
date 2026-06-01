@@ -13,6 +13,6 @@ wire xray e5443b
 prune uniform 832dba
 tweak charlie c4087b
 cleanup echo 471ba5
-tune yankee 784f30
+cleanup delta 54ef2a
 adjust yankee e67c48
 update alpha e40d95
