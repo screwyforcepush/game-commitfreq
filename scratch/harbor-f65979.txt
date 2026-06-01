@@ -1,4 +1,3 @@
-tidy delta c3b3e6
 adjust lima 4c1622
 tweak echo 6afa79
 adjust ember 19619e
