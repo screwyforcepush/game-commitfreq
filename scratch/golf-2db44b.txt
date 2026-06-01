@@ -1,4 +1,3 @@
-polish nimbus e2590d
 adjust oscar da7790
 prune nimbus d41e91
 bump prism 394288
