@@ -9,3 +9,7 @@ trim mike 56b720
 wire nimbus d1fdd2
 tweak whiskey 43a5c7
 tweak solstice bd3bc0
+nudge tango b28ad1
+tune india bc931a
+wire delta 15eb96
+tweak mike 0a30ae
