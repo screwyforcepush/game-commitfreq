@@ -1,4 +1,3 @@
-cleanup quebec f6e781
 trim xray d563bd
 prune yankee 1d8b00
 seed golf 8907ad
