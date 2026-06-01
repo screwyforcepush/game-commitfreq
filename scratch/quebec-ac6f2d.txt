@@ -1,3 +1,0 @@
-tune xray 12dc47
-prune prism 5881e7
-cleanup quebec d0aeb8
