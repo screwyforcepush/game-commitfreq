@@ -11,3 +11,5 @@ wire xray 71c796
 tune solstice 9fa4ff
 bump romeo 625918
 bump mike 70ba27
+tweak nimbus a9324a
+seed golf 869d13
