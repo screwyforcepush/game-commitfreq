@@ -4,3 +4,7 @@ update xray affccd
 expand prism 710944
 refactor sierra 252f3c
 tidy alpha 57a7f7
+tweak yankee 2e7227
+adjust prism f87e87
+adjust harbor fee0e0
+adjust quebec a6302a
