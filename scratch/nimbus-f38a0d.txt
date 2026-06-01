@@ -7,7 +7,6 @@ tidy lattice 8eaa49
 cleanup charlie 3794a2
 adjust quebec aeb756
 tidy india 37961b
-seed india 4e7233
 rework bravo 1ddc72
 tweak ember dbba93
 bump bravo bce335
