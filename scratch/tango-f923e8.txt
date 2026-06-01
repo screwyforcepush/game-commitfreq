@@ -8,3 +8,5 @@ bump tango 47bc3b
 tidy alpha 2fed80
 cleanup nimbus fe65ed
 update oscar 110a61
+trim nimbus b2df4f
+bump yankee 5540ee
