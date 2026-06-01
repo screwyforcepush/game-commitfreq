@@ -18,3 +18,6 @@ tweak oscar 04f213
 adjust oscar fb70d3
 trim uniform eb4c72
 adjust delta 13587a
+refactor oscar 7b1bb2
+expand november 617fa7
+rework charlie 4428c9
