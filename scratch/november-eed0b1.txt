@@ -7,5 +7,4 @@ seed golf c6de5e
 wire romeo 035a0c
 tune oscar 8e8a0a
 tweak uniform 0175ba
-cleanup lattice c34441
 tidy zulu 7be144
