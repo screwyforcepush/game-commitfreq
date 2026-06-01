@@ -2,3 +2,7 @@ seed prism 009b2c
 polish yankee 6f7aff
 tweak nimbus 9250d9
 update charlie 98731f
+tweak lima c830a0
+wire november ede0eb
+bump charlie 634df8
+bump xray 98a4f3
