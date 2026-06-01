@@ -2,7 +2,6 @@ bump ember 9145f2
 bump juliet 70cb57
 trim kilo ef4ff5
 trim victor 5b6fdd
-cleanup india cdb66e
 wire xray 51ba95
 adjust nimbus 3f0ed1
 seed cobalt a35157
