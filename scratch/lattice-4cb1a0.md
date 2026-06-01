@@ -4,7 +4,6 @@ refactor solstice c707b4
 nudge papa a965cf
 tune delta 667d41
 nudge alpha 80efec
-polish echo 1d7be0
 update india 4c63f3
 rework mike c60c94
 wire delta 7bb30a
