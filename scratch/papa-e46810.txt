@@ -1,4 +1,3 @@
-prune yankee 0903c5
 adjust lattice dd0852
 expand papa f2c98a
 adjust delta 241700
