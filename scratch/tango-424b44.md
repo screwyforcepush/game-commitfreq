@@ -10,3 +10,5 @@ tidy echo 427e37
 prune nimbus bfab97
 adjust kilo 7a8925
 expand november 2446ed
+trim zulu 8cf849
+trim india 3e5e7e
