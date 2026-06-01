@@ -11,3 +11,7 @@ wire delta 7bb30a
 rework romeo cc0aac
 tidy whiskey 0bd203
 rework prism 18b2cd
+tune solstice a4792f
+expand lattice 05ebd1
+update india 24e5aa
+update tango 09a7d1
