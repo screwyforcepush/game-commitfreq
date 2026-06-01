@@ -1,2 +1,5 @@
 tune alpha 651172
 cleanup xray c2b2b1
+polish hotel e90827
+tweak cobalt 84823d
+trim prism 65d08a
