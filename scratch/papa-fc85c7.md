@@ -6,3 +6,7 @@ tune nimbus 010b06
 adjust november 011847
 trim delta ee289c
 update golf 98def8
+tweak harbor 6db40c
+nudge yankee 0f3e29
+refactor papa 1afdc5
+update november a48c5c
