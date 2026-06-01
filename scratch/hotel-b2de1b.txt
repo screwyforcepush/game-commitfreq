@@ -4,3 +4,6 @@ nudge oscar 47a708
 expand yankee 3a489f
 tidy uniform ee9798
 trim zulu 85a4af
+expand delta b98186
+rework quebec 7e1234
+wire india c88c6b
