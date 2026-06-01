@@ -1,2 +1,0 @@
-adjust oscar da7790
-prune nimbus d41e91
