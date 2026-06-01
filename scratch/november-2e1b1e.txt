@@ -4,5 +4,5 @@ refactor ember 673c31
 bump quebec 81cb7f
 cleanup kilo cc6498
 tweak foxtrot fc4122
-polish november ede291
+prune india 529637
 bump november 343cbf
