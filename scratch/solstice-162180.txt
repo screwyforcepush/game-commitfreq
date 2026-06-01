@@ -19,3 +19,7 @@ tune whiskey ce3263
 rework delta 90b476
 update tango 2f2578
 update juliet 1ae0a1
+rework xray db4230
+polish kilo d3c170
+refactor charlie 38fa18
+wire november a94bf1
