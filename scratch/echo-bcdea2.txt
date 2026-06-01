@@ -1,4 +1,3 @@
-prune juliet e25642
 tweak papa db8476
 cleanup prism 081aff
 prune yankee 733ff1
