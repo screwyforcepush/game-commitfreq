@@ -7,3 +7,7 @@ rework alpha 2ee170
 tidy cobalt 00e7d1
 rework oscar 848e51
 prune cobalt 41c03a
+prune ember 2a0617
+tweak hotel 84a047
+tune prism 4759a5
+tune delta b13b78
