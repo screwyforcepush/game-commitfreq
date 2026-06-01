@@ -2,7 +2,6 @@ nudge yankee c511c1
 polish quebec 5eabc9
 wire delta 505b7d
 nudge alpha abbb5c
-nudge quebec aaed2b
 tweak oscar 81292e
 cleanup harbor 4fdd92
 refactor yankee d7a028
