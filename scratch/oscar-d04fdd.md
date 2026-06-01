@@ -13,3 +13,6 @@ wire papa d9d891
 tune harbor 129251
 prune whiskey f31c68
 update golf dadf25
+wire juliet 96cdaf
+nudge kilo f46352
+tune nimbus 7171d5
