@@ -8,4 +8,3 @@ prune bravo 8b2ec0
 refactor juliet 9f3113
 nudge quebec ce28f1
 nudge alpha 5ab1e5
-trim whiskey b61bfd
