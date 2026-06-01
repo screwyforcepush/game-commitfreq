@@ -1,5 +1,4 @@
 refactor hotel 580c0b
-prune cobalt c338f0
 tweak victor a45762
 polish india 4b731c
 wire xray 23734c
