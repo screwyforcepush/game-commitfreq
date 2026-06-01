@@ -5,5 +5,4 @@ refactor echo 6473cc
 trim echo a7f10e
 rework alpha 2ee170
 tidy cobalt 00e7d1
-prune foxtrot 389b48
 rework oscar 848e51
