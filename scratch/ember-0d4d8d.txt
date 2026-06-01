@@ -3,3 +3,6 @@ adjust solstice c0cc4c
 expand golf bf84e3
 tweak november 2dd30c
 trim yankee 8faf2e
+expand uniform 211b38
+tidy kilo 058f92
+expand kilo 063843
