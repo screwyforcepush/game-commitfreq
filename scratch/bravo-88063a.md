@@ -17,4 +17,3 @@ trim whiskey 28f2cb
 trim nimbus 2ed612
 expand lima 616c96
 tune mike eaf8c0
-nudge yankee 228805
