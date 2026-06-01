@@ -3,4 +3,3 @@ seed cobalt d50fdd
 wire nimbus 7166c2
 adjust mike d0ffba
 prune kilo 19e87d
-wire hotel e81283
