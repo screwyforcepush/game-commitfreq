@@ -4,3 +4,6 @@ cleanup sierra c991ab
 tidy oscar 5da69a
 tune zulu 4cafa3
 polish november bcf690
+refactor solstice 238c5b
+tidy foxtrot c7f713
+rework november ab4373
