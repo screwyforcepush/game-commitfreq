@@ -6,7 +6,7 @@ tune echo f148a9
 tidy victor 065e60
 tweak india 5623cb
 tune delta 1ca014
-expand solstice 129113
+tune foxtrot b12640
 cleanup whiskey a0a0a7
 tune india dfb885
 bump nimbus c7fedf
