@@ -1,4 +1,3 @@
-wire uniform a95387
 nudge lattice 252252
 tune juliet 5125c4
 prune solstice a9e0e2
