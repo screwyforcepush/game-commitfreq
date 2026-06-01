@@ -12,3 +12,6 @@ tune india dfb885
 bump nimbus c7fedf
 wire tango 0818b8
 tweak nimbus 17ccf4
+trim victor 26cc22
+tidy hotel 6d860c
+update lima c2836f
