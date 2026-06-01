@@ -6,3 +6,6 @@ bump kilo 5ef79a
 seed lattice ccd8d6
 trim india fa0c21
 trim mike 56b720
+wire nimbus d1fdd2
+tweak whiskey 43a5c7
+tweak solstice bd3bc0
