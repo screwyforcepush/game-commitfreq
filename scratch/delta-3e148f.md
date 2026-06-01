@@ -6,4 +6,3 @@ tidy charlie f6f8b0
 expand kilo ad69fb
 expand bravo 8eaffa
 tweak oscar 111eac
-wire nimbus 15c1ff
