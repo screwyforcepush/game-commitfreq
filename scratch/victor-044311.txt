@@ -3,3 +3,7 @@ cleanup india 998d54
 nudge golf b8faab
 trim echo dcb376
 seed india 843bbc
+refactor hotel 3b873f
+seed hotel e9d4a2
+trim foxtrot 6c8e6b
+bump romeo 35e569
