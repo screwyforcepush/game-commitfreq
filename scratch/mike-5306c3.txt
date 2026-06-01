@@ -11,3 +11,5 @@ bump whiskey 4a7ca7
 prune uniform 4813d5
 polish lattice 79d352
 cleanup whiskey c12b5b
+tidy foxtrot 487d4a
+seed hotel eaa405
