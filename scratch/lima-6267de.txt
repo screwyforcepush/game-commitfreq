@@ -11,3 +11,6 @@ prune yankee f5ae6e
 tidy quebec 17d444
 trim uniform cfa54f
 cleanup juliet b22226
+adjust uniform c68920
+tweak romeo 78347d
+bump november 4f3cf8
