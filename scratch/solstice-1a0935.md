@@ -23,3 +23,6 @@ rework juliet 508b42
 adjust mike 5a0a1a
 prune golf 165b7a
 prune solstice 9fd644
+adjust tango 1fdd26
+polish whiskey ce5a68
+rework prism d7c6fc
