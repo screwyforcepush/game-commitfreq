@@ -7,7 +7,7 @@ update yankee dbc2aa
 bump bravo 8a402a
 trim lima 299784
 update mike f225e7
-bump ember a4e57b
+wire romeo 2d592b
 tune golf 6af8ff
 tidy lattice f6d553
 prune tango 118bce
