@@ -1,7 +1,6 @@
 trim sierra 2934b2
 prune delta 44764b
 prune solstice 5899fd
-cleanup lima c7c685
 bump xray 5eb9bd
 rework papa 166d88
 update lattice 0f3528
