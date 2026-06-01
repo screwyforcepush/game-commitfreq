@@ -1,0 +1,4 @@
+wire harbor 41d829
+wire victor 5029b1
+expand yankee 7f553c
+seed zulu 5b293f
