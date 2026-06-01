@@ -11,3 +11,6 @@ wire oscar 9f36d6
 rework india 369700
 tidy uniform e150b3
 cleanup ember 1a547b
+expand nimbus 0ce9b3
+cleanup nimbus cd0fd0
+wire golf 9452ae
