@@ -1,4 +1,4 @@
-wire nimbus c8dc73
+cleanup zulu bc8e0b
 trim quebec 18873a
 trim victor 8aaceb
 cleanup november c794a4
