@@ -1,5 +1,4 @@
 tidy sierra 32c303
-expand prism 726c76
 prune delta c6ce41
 trim lattice 4d7294
 update kilo 4add7e
