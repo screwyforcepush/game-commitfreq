@@ -3,3 +3,7 @@ trim uniform cd0871
 expand november 7c78f7
 tidy xray 1f78de
 nudge lattice c6ad73
+tweak ember 220e8c
+prune india c7345f
+bump golf 65905f
+cleanup lima 549b58
