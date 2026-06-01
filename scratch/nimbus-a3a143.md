@@ -4,3 +4,5 @@ wire sierra 092d99
 wire foxtrot d2c177
 seed solstice 209cfb
 wire hotel 4cfe5f
+bump solstice c6bb0a
+trim golf 101a03
