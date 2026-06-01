@@ -1,5 +1,0 @@
-rework nimbus fa8f9b
-cleanup juliet ac3198
-polish uniform 61f3c3
-trim zulu 572018
-trim foxtrot f5a581
