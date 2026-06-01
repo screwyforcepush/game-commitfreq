@@ -1,5 +1,4 @@
 adjust hotel 3a8340
 tidy ember 9a959d
-bump juliet 1ec314
 adjust oscar c3294b
 refactor echo 1148af
