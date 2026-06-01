@@ -1,6 +1,0 @@
-adjust charlie e393e6
-adjust cobalt 613626
-polish lima ba0519
-rework echo af5f53
-cleanup tango c7960e
-update juliet 0cf527
