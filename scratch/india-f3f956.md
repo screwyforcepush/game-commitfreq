@@ -3,7 +3,7 @@ rework tango 9e8947
 tune bravo b04706
 cleanup prism 171008
 tune lima 2602ea
-rework kilo 49678a
+bump sierra 839c10
 prune alpha d1a34c
 tweak solstice 37aee4
 tune victor e477dd
