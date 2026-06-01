@@ -5,7 +5,6 @@ bump hotel c0a36d
 tweak mike 777aac
 tune oscar d5f2b4
 seed zulu 88fb3f
-rework foxtrot 82c868
 nudge foxtrot 85df33
 nudge solstice 927127
 tidy solstice 1b6293
