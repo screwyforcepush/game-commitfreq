@@ -1,3 +1,0 @@
-adjust echo 62d9ba
-tidy juliet 3d0927
-trim tango dbc27c
