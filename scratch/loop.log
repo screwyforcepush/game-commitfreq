@@ -180040,3 +180040,4 @@ To https://github.com/screwyforcepush/game-commitfreq.git
 584/621  wip: cleanup xray for quebec                  modify tango-db4d13.dat:8
 585/621  chore: trim quebec for uniform                modify kilo-2b9123.csv:1
 586/621  fix: cleanup nimbus (f0369c)                  drop uniform-bc600a.txt
+587/621  docs: trim quebec alpha                       modify quebec-02a959.csv:5
