@@ -8,3 +8,6 @@ prune solstice 5fac1d
 trim mike def2c3
 prune lattice 09b012
 tune charlie 576160
+nudge lattice b005df
+cleanup harbor 231330
+prune kilo a81816
