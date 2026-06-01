@@ -2,7 +2,6 @@ bump nimbus c04665
 update prism 9b3e05
 refactor prism 1252fa
 refactor yankee 343af9
-polish sierra 950ffd
 nudge echo 255fc9
 cleanup zulu 975f77
 trim prism 2ceca9
