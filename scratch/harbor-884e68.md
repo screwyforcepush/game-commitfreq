@@ -1,7 +1,7 @@
 seed alpha e60e29
 tidy bravo 77a348
 tweak delta 2db7a9
-tweak oscar d765a6
+tune solstice 1b8ebc
 wire lattice 2b863b
 cleanup romeo db41ad
 adjust quebec 03717e
