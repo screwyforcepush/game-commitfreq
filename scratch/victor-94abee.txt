@@ -2,7 +2,6 @@ expand kilo 7fd485
 tidy romeo 833eb1
 bump alpha 95f30e
 expand charlie 078f70
-bump foxtrot 7723e2
 prune whiskey 349b45
 wire juliet eea16a
 polish prism e19444
