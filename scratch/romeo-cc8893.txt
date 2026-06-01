@@ -5,5 +5,4 @@ polish nimbus e14a0b
 tidy ember ec5844
 tweak lima eccdc5
 nudge juliet 6c60b5
-polish victor cf9555
 prune kilo 95e157
