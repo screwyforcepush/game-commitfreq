@@ -1,2 +1,1 @@
-seed romeo 4cd75c
 tune bravo 8362fa
