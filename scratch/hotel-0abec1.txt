@@ -1,6 +1,5 @@
 tune alpha 925934
 wire echo f5b1b9
-update nimbus 29f9ed
 update golf 76932a
 prune oscar ca205e
 cleanup cobalt 3d2c41
