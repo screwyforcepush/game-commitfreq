@@ -3,7 +3,6 @@ rework november 8b9e0b
 wire india cd5d6d
 wire prism 432d8b
 tweak india a2cde4
-update oscar 587084
 cleanup echo 09fa24
 tune echo af7bc5
 expand golf ce1187
