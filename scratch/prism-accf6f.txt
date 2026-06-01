@@ -1,5 +1,0 @@
-prune charlie dce3c2
-prune sierra 1d39c2
-trim xray 2136d2
-rework yankee 0b4198
-prune whiskey c7392a
