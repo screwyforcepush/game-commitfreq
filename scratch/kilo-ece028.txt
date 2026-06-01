@@ -10,5 +10,4 @@ wire golf a1c600
 rework tango 578251
 prune foxtrot ba6c3a
 adjust xray 8fb053
-seed india 69a02e
 wire bravo 5de045
