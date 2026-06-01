@@ -6,3 +6,5 @@ update xray a06403
 seed quebec 6db751
 seed prism c2138f
 seed whiskey 1823e5
+cleanup kilo cd590b
+tidy quebec 46c951
