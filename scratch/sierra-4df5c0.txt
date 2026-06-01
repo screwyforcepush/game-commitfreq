@@ -1,4 +1,3 @@
-update victor 9ef6f4
 update charlie e31c46
 refactor sierra 9618d8
 tweak uniform 390053
