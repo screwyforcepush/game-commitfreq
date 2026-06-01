@@ -1,2 +1,5 @@
 wire harbor bf836d
 trim sierra 2934b2
+prune delta 44764b
+prune solstice 5899fd
+cleanup lima c7c685
