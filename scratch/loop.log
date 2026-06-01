@@ -176490,3 +176490,4 @@ To https://github.com/screwyforcepush/game-commitfreq.git
 97/494  oscar tweaks                                  modify mike-372dbe.dat:2
 98/494  tidy oscar (99274a)                           trim prism-f8dc54.md:1
 99/494  expand sierra                                 append lima-3177c6.csv
+100/494  fix: tweak nimbus for lattice                 rename oscar-59d082.csv -> cobalt-222c4f.txt
