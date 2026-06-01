@@ -1,6 +1,6 @@
 trim victor 98cd43
 tune echo 23f7c5
-wire lattice 2a7150
+wire harbor b659c5
 update india 131521
 bump prism 32a32f
 trim victor 23fbb7
