@@ -3,3 +3,7 @@ seed lattice 7b52e0
 tweak november 92b3e6
 prune prism e9ecc7
 rework prism 705cf6
+prune victor 6e8345
+polish tango febfed
+seed lima 56262b
+rework yankee 8f8992
