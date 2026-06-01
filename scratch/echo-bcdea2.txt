@@ -1,5 +1,0 @@
-tweak papa db8476
-cleanup prism 081aff
-prune yankee 733ff1
-prune nimbus ceb2f0
-refactor papa 8cab62
