@@ -4,7 +4,6 @@ tune foxtrot eb58dc
 bump hotel c0a36d
 tweak mike 777aac
 tune oscar d5f2b4
-wire romeo 0662d4
 seed zulu 88fb3f
 rework foxtrot 82c868
 nudge foxtrot 85df33
