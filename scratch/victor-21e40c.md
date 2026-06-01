@@ -7,3 +7,7 @@ bump harbor 544ebd
 wire juliet 51ef5d
 expand golf 6e6c2d
 expand xray b30131
+rework solstice 7d2454
+refactor whiskey 39ff41
+wire golf 1f3cb1
+tidy tango a78e2c
