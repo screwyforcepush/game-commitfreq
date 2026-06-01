@@ -1,8 +1,0 @@
-trim tango dc672a
-tidy romeo 17644d
-rework delta cd608b
-wire victor c7bc08
-nudge charlie fcb311
-cleanup echo ec7ae5
-tune quebec 07d4dc
-polish alpha c9df4f
