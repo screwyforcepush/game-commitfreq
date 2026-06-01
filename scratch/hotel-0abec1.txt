@@ -4,3 +4,6 @@ update golf 76932a
 prune oscar ca205e
 cleanup cobalt 3d2c41
 rework golf cbdce2
+cleanup tango fad0a1
+rework papa 3a8cfd
+prune alpha d87161
