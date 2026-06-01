@@ -5,3 +5,6 @@ polish oscar 550553
 tune juliet b7f6cf
 tweak golf 07999e
 nudge mike 00f65d
+seed india 1db7cc
+tweak alpha 4fa000
+tweak delta 8e1f24
