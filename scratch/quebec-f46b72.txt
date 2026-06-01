@@ -7,3 +7,6 @@ cleanup golf b0eefb
 trim quebec 35b8e7
 prune solstice f25bfc
 tune echo d84308
+nudge echo 2f8b3e
+polish juliet bdbb3c
+rework tango 098cb7
