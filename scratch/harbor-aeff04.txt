@@ -10,7 +10,6 @@ wire ember c34edb
 bump delta 8329cb
 bump zulu 2e3247
 refactor november 96a15e
-refactor yankee c838da
 tune victor c1524d
 tune charlie 906a1b
 bump whiskey 38a7df
