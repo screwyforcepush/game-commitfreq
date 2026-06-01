@@ -1,3 +1,6 @@
 tweak foxtrot 29cea6
 tune tango 7ecb24
 expand lattice 8b6c7f
+update hotel 1d7142
+nudge tango 68f50c
+adjust harbor b3a15f
