@@ -5,7 +5,6 @@ cleanup prism 541c77
 adjust mike 8ad71b
 adjust solstice bca313
 adjust quebec 11767d
-wire romeo 3b969d
 prune romeo b30b42
 expand yankee 10f23e
 expand lattice 99ad5d
