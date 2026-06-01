@@ -1,4 +1,3 @@
-prune lattice 1ed07b
 tidy oscar 99f929
 seed victor d7a77a
 polish charlie 7d54d5
