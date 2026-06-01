@@ -4,7 +4,7 @@ nudge prism 60154d
 nudge cobalt d27642
 cleanup uniform 97844d
 tweak romeo 6d543e
-adjust xray b492c8
+tidy xray a1da35
 tweak uniform e1f8c8
 tweak nimbus c89b8b
 prune harbor 3951dc
