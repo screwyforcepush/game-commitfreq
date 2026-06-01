@@ -12,6 +12,6 @@ seed nimbus 8d5f66
 prune india 9f540e
 bump whiskey 35dff5
 rework papa 0193f2
-cleanup oscar 5b9171
+trim sierra 5dc89b
 cleanup bravo f17da6
 tune lima 0208e8
