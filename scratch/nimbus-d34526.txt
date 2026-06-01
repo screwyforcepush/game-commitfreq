@@ -14,4 +14,3 @@ refactor yankee 4e6b3a
 cleanup zulu 9396d1
 rework oscar 985c68
 expand whiskey 817f6f
-trim foxtrot 9b208b
