@@ -7,3 +7,6 @@ cleanup echo 09fa24
 tune echo af7bc5
 expand golf ce1187
 nudge xray 485556
+tidy foxtrot 81c161
+trim juliet d50690
+wire foxtrot ae515e
