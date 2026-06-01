@@ -6,3 +6,6 @@ update whiskey 54efcd
 prune harbor 4741dc
 tidy tango 29a852
 trim romeo 7bf084
+prune uniform 335738
+tidy november 98d216
+update charlie f03b85
