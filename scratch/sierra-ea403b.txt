@@ -1,2 +1,0 @@
-seed echo fcd9f6
-polish charlie 7228ce
