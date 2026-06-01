@@ -9,3 +9,6 @@ update ember 0eb552
 nudge oscar 6b52e4
 cleanup golf 624ff1
 prune yankee f5ae6e
+tidy quebec 17d444
+trim uniform cfa54f
+cleanup juliet b22226
