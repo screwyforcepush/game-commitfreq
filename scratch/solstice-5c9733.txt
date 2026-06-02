@@ -1,6 +1,6 @@
 seed echo 011df3
 tune oscar 64bfcb
 nudge victor 63f4e7
-adjust kilo b0f7e5
+bump foxtrot 7744f5
 prune echo 4885c8
 cleanup cobalt 34649b
