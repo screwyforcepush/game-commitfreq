@@ -1,4 +1,0 @@
-refactor hotel cd92e7
-trim romeo 1788f9
-seed hotel 2b9468
-cleanup lattice 071d57
