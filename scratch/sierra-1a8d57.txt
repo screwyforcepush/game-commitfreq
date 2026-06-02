@@ -5,3 +5,6 @@ seed lima 97b217
 expand quebec b342da
 adjust charlie f5779c
 seed india fb0703
+adjust hotel 2d5ac4
+bump oscar efeeca
+expand november 26079b
