@@ -2,3 +2,6 @@ cleanup alpha 46ac99
 trim juliet 16bdf7
 cleanup victor bfe521
 polish yankee 7ecbbf
+tweak foxtrot 497fe5
+polish quebec e8699f
+tidy delta b642c4
