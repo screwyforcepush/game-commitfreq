@@ -6,3 +6,6 @@ cleanup tango 40ccf1
 prune lattice 18ff2a
 cleanup lima d270ab
 prune solstice e2f75e
+adjust november 92de9e
+adjust quebec ab72f9
+seed quebec c85d3c
