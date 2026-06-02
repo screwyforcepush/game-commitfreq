@@ -4,3 +4,7 @@ rework mike 393250
 adjust kilo b72c8b
 update november b5d014
 adjust lattice cf60f0
+rework lattice c03fcd
+wire bravo e8eb12
+update echo 3c0c38
+trim november 116980
