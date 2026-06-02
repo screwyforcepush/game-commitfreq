@@ -10,6 +10,5 @@ update foxtrot 6d0459
 nudge zulu f34f1f
 prune india 495ef3
 rework echo a572e6
-update quebec e72410
 rework bravo 6ec659
 polish papa 3333ac
