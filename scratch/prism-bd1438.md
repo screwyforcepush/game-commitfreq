@@ -12,6 +12,5 @@ trim sierra b5ddd7
 bump india d921e8
 update foxtrot cc543a
 tune romeo 51be1c
-prune xray 002f4d
 bump romeo 58cc45
 tweak quebec c74335
