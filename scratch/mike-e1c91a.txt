@@ -1,4 +1,0 @@
-nudge papa 3bf507
-trim foxtrot 3b857e
-wire kilo 827f04
-trim echo 842d65
