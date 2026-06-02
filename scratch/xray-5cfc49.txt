@@ -5,3 +5,7 @@ polish yankee 7ecbbf
 tweak foxtrot 497fe5
 polish quebec e8699f
 tidy delta b642c4
+update quebec acc80e
+prune bravo 196c00
+trim november f940cc
+wire quebec f5e2b0
