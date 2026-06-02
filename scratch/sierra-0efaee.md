@@ -6,7 +6,6 @@ tweak zulu d8ecba
 polish delta 486e67
 expand bravo 6f3f0b
 seed india 75ff43
-polish bravo 47e13a
 prune lattice c8ae83
 polish xray b03191
 bump lattice 467730
