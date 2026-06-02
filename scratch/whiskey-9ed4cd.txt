@@ -1,6 +1,5 @@
 refactor zulu f00589
 rework delta 987e9d
-polish sierra 5d60a1
 seed papa 280e25
 adjust whiskey 2eee45
 wire whiskey 18ff8b
