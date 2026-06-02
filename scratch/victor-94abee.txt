@@ -18,3 +18,4 @@ wire harbor 4102ac
 update alpha 8737e9
 adjust lima 314625
 adjust bravo a4e739
+trim foxtrot 9b7f42
