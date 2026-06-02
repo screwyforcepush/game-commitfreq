@@ -7,3 +7,7 @@ prune prism 9c0738
 tweak hotel c9ea25
 nudge nimbus 825c23
 wire nimbus 3c2d01
+trim nimbus 29aad3
+adjust xray 92d115
+tune november 47e3d0
+bump cobalt b69dfa
