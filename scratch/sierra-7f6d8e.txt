@@ -2,3 +2,6 @@ wire quebec a7b3d0
 wire zulu 37d508
 expand delta 2d37b8
 adjust hotel 50b1a8
+rework victor 883c8d
+tune papa 673977
+trim romeo ab83b7
