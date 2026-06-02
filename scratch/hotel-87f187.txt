@@ -6,7 +6,6 @@ nudge zulu 486c86
 wire solstice 62c53f
 nudge yankee 9ba926
 tune xray bb94f0
-rework november a286bb
 trim alpha 201bb4
 expand victor 5b4274
 tidy sierra 0c0dc6
