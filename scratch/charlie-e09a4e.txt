@@ -5,3 +5,5 @@ tweak cobalt eb9a97
 polish charlie 09199b
 wire november 7e351b
 prune alpha 4fc964
+prune nimbus 5a0295
+prune quebec 8de20f
