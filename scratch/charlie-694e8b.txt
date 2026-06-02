@@ -6,3 +6,7 @@ prune romeo 1449fc
 tune romeo 6be539
 trim november 9ed105
 polish hotel 772c5e
+adjust xray 54a6fd
+adjust sierra 169b9d
+wire nimbus bbb639
+polish oscar 4e3815
