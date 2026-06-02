@@ -5,7 +5,6 @@ refactor tango f6cbec
 rework bravo 3cc452
 adjust yankee eaa437
 rework sierra 481313
-trim delta b05e7b
 tune juliet 720004
 refactor whiskey ef250a
 refactor charlie d82c18
