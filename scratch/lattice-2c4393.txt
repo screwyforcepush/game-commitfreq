@@ -4,3 +4,5 @@ wire tango 63a45b
 tune hotel 373de3
 wire alpha 263466
 seed victor a949f8
+tune echo 9874ac
+tune foxtrot 637a24
