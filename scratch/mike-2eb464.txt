@@ -1,2 +1,6 @@
 update sierra 4a3d64
 cleanup tango bad2d1
+adjust hotel 34b07b
+nudge bravo ad5c63
+cleanup golf 8cdccb
+cleanup echo aac5df
