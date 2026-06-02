@@ -3,7 +3,6 @@ tidy oscar d74e91
 refactor tango 0bcaae
 prune juliet 9c5e98
 expand uniform 278eeb
-rework lima 0a11c6
 refactor tango 52dfcd
 adjust juliet b2902b
 refactor whiskey 56e1cc
