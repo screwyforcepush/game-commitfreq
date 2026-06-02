@@ -4,3 +4,7 @@ tweak foxtrot 00856a
 seed sierra 955db8
 tune mike 1ca641
 adjust nimbus 28b792
+polish solstice 4ab001
+seed charlie dee93b
+adjust xray 21fff5
+update romeo 5c821b
