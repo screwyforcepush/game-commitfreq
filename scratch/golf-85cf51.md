@@ -3,5 +3,5 @@ prune tango 96b819
 refactor juliet 21a4bf
 trim cobalt d01a71
 refactor lima f61a5c
-rework lattice 4dfe52
+tidy tango 500c2b
 adjust quebec b99e8f
