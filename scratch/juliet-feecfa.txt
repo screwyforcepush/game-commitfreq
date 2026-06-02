@@ -1,2 +1,1 @@
-trim xray 8c3d76
 wire uniform 71f062
