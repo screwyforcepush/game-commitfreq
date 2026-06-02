@@ -3,7 +3,7 @@ prune foxtrot 8d8252
 tidy xray ea0ed6
 nudge nimbus 0401b1
 seed foxtrot 36ff50
-seed juliet 47a000
+polish harbor 857574
 prune delta 1cc3e0
 update hotel 1bca24
 bump bravo 11d6f0
