@@ -5,3 +5,7 @@ bump xray 647e24
 polish zulu 0b4fa4
 expand nimbus eb842c
 update hotel d02088
+update papa 901e93
+bump charlie 8e7ff8
+tune cobalt eb4ed1
+bump tango dc679d
