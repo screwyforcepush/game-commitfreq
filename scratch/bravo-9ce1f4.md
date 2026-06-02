@@ -5,3 +5,6 @@ wire cobalt b4a812
 adjust bravo 3f54c4
 trim charlie 9ef979
 tweak xray a5d119
+tidy november ee0a45
+rework lattice 5b1c96
+adjust yankee cb65c0
