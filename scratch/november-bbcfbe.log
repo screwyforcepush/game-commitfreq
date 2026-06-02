@@ -4,7 +4,6 @@ cleanup zulu cf2c45
 cleanup nimbus 7ed6e7
 tidy xray 93c690
 prune prism 20b1cc
-nudge ember f1311b
 bump harbor d5654f
 wire yankee df70fd
 tune zulu a9ebfc
