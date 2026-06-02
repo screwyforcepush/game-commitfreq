@@ -9,3 +9,6 @@ seed tango f27efe
 update uniform 3186fd
 nudge delta 1e9727
 update bravo 468715
+trim nimbus 198281
+nudge bravo 4e4e2e
+polish uniform 44e71a
