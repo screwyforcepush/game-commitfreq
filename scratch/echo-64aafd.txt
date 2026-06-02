@@ -1,2 +1,0 @@
-cleanup tango bad2d1
-trim uniform 73eeb4
