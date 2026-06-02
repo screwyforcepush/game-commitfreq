@@ -5,7 +5,6 @@ cleanup cobalt 24e9f8
 prune tango a908bd
 wire harbor 7391c6
 update solstice e96e84
-tidy sierra 802683
 tweak charlie c3cb21
 refactor ember 78c952
 bump papa 969108
