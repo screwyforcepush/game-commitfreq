@@ -3,7 +3,6 @@ wire juliet 37cda5
 nudge zulu b6965d
 seed juliet 95be36
 polish kilo db829b
-trim quebec 726ac2
 trim bravo ef848f
 nudge quebec 9cbfe8
 tweak yankee a54ce8
