@@ -11,3 +11,6 @@ prune foxtrot 7c736e
 tidy delta 687db4
 trim hotel db0aa5
 polish tango 141c0f
+nudge yankee c333ab
+polish lattice 54d6cc
+cleanup juliet a8a57a
