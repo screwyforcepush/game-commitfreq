@@ -5,3 +5,7 @@ adjust ember c81566
 bump lattice f86dd9
 expand xray d1ccdc
 prune solstice ff65c8
+tune alpha d61c31
+trim lima 07e949
+prune uniform 5a9623
+seed sierra dc581c
