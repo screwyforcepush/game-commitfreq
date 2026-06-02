@@ -1,6 +1,6 @@
 expand uniform 7e67aa
 adjust ember 274194
-bump hotel 99a9a0
+tweak alpha c77fc5
 nudge sierra 9fe1c9
 tweak solstice 5cf0d7
 tidy kilo 677ef1
