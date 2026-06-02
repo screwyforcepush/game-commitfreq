@@ -11,7 +11,6 @@ seed papa e5b926
 update mike 928e0e
 tidy delta b8f102
 trim foxtrot 19c88b
-adjust whiskey f3632f
 tidy echo 88b14d
 tidy prism 709be8
 seed yankee e0c5de
