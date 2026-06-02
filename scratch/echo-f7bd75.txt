@@ -1,6 +1,5 @@
 prune november bfda26
 wire yankee ee9494
-adjust victor 22dff9
 wire foxtrot e42bc0
 rework whiskey 4ffc50
 prune foxtrot e97a76
