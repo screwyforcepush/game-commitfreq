@@ -5,3 +5,6 @@ tweak solstice c70e26
 tune echo 3ef14a
 rework bravo 3cc452
 adjust yankee eaa437
+rework sierra 481313
+trim delta b05e7b
+tune juliet 720004
