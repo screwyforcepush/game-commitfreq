@@ -4,3 +4,7 @@ expand solstice 1de6c7
 polish charlie 745132
 tidy bravo 9ed652
 tweak zulu 1111bd
+tidy quebec 101fe5
+tweak oscar d1b299
+adjust mike baaf32
+expand india 202673
