@@ -4,3 +4,7 @@ refactor juliet a5dfcc
 seed oscar 59ce3b
 tune tango 0b0156
 bump lattice 47cd52
+seed tango 14d269
+cleanup prism 8462c9
+tidy delta 0f1a0c
+trim quebec 3fa764
