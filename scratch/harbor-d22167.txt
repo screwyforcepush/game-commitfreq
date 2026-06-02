@@ -6,7 +6,6 @@ polish papa 046313
 tune cobalt 657525
 trim juliet c7fab2
 cleanup oscar c555f0
-adjust romeo 034b27
 wire bravo db18c8
 adjust echo 2415b8
 adjust quebec e013b2
