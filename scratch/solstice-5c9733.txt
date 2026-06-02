@@ -1,6 +1,5 @@
 seed echo 011df3
 tune oscar 64bfcb
-wire xray d6b7ee
 nudge victor 63f4e7
 adjust kilo b0f7e5
 prune echo 4885c8
