@@ -1,3 +1,2 @@
 tune xray a7cc24
-wire foxtrot 671b33
 tweak cobalt 01e5a4
