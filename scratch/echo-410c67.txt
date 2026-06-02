@@ -1,3 +1,7 @@
 rework lima f97d5b
 refactor delta 6f11ab
 adjust quebec 8d99e7
+wire hotel 96151b
+prune mike ea18b8
+polish lima e9d475
+nudge xray 7a215b
