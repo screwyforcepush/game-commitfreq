@@ -1,2 +1,0 @@
-prune delta ece3f8
-seed victor dddd2f
