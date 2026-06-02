@@ -1,5 +1,5 @@
 bump lattice 9a35a4
 tidy oscar 559fef
 rework nimbus ab0ac5
-expand cobalt 8e42fb
+trim prism 8bb753
 adjust november 808fe7
