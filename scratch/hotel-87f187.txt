@@ -9,3 +9,6 @@ tune xray bb94f0
 rework november a286bb
 trim alpha 201bb4
 expand victor 5b4274
+tidy sierra 0c0dc6
+adjust bravo c7d37e
+cleanup india 694c28
