@@ -6,3 +6,6 @@ trim tango 75a73e
 adjust november 7446c1
 cleanup solstice 1dd375
 adjust hotel 1e7c09
+expand echo 675566
+tidy lattice 63b486
+rework delta 378778
