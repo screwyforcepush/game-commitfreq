@@ -1,4 +1,4 @@
 nudge papa 3bf507
 trim foxtrot 3b857e
 wire kilo 827f04
-wire golf 70491d
+trim echo 842d65
