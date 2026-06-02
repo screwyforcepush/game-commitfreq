@@ -9,3 +9,5 @@ prune oscar fe1446
 nudge hotel d7d855
 tune tango 60d5ed
 tidy charlie 1c783a
+prune echo b97717
+update nimbus 4d2e86
