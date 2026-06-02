@@ -3,3 +3,5 @@ refactor alpha 3c9e84
 trim oscar 53d3ae
 nudge whiskey e84e27
 tweak bravo c316d6
+update delta 8e129b
+rework sierra 52dafb
