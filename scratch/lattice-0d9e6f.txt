@@ -1,4 +1,0 @@
-update delta 0e4a80
-refactor quebec 7b0bc2
-tidy prism 842419
-trim sierra 4dacbf
