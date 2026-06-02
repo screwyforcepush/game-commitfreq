@@ -9,3 +9,7 @@ update quebec acc80e
 prune bravo 196c00
 trim november f940cc
 wire quebec f5e2b0
+cleanup nimbus 6d2437
+polish oscar 193240
+rework charlie 47667f
+refactor solstice 17ce3b
