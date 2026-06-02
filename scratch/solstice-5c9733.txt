@@ -1,5 +1,5 @@
 seed echo 011df3
-tune oscar 64bfcb
+tune quebec 8c1633
 nudge victor 63f4e7
 prune echo 4885c8
 cleanup cobalt 34649b
