@@ -5,7 +5,7 @@ nudge sierra 9fe1c9
 tidy kilo 677ef1
 tweak ember 147879
 update solstice 567305
-expand yankee 74e8a5
+trim uniform ebdb56
 tune quebec 9defcd
 adjust sierra b3a6d1
 tweak delta a4049b
