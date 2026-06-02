@@ -3,3 +3,6 @@ update uniform f651f2
 expand golf 7d6b6d
 tidy whiskey e93709
 nudge lattice 4be038
+update yankee 6b47b5
+tidy romeo f6135d
+adjust sierra 6a88a2
