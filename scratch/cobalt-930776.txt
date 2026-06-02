@@ -1,6 +1,5 @@
 rework quebec f454bd
 refactor juliet 2ece4d
-adjust solstice 9c6e20
 tidy oscar d74e91
 refactor tango 0bcaae
 prune juliet 9c5e98
