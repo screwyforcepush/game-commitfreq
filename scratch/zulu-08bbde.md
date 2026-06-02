@@ -9,7 +9,6 @@ tweak alpha 4fa000
 tweak delta 8e1f24
 polish ember 715978
 polish lima cccaaf
-cleanup yankee 37b29d
 cleanup golf 58bc1c
 adjust mike 85ed7a
 prune quebec 220020
