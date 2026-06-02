@@ -5,7 +5,7 @@ tune lima 2d10a5
 cleanup tango 40ccf1
 prune lattice 18ff2a
 cleanup lima d270ab
-prune solstice e2f75e
+refactor cobalt e3aa90
 adjust november 92de9e
 adjust quebec ab72f9
 seed quebec c85d3c
