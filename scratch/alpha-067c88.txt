@@ -3,6 +3,5 @@ tune victor 9cc6f9
 cleanup foxtrot a3e38a
 tidy ember 15e9c7
 refactor quebec b8e124
-seed nimbus dcc83f
 wire charlie e158e8
 wire golf f53f63
