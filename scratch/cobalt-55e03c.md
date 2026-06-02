@@ -16,3 +16,5 @@ expand victor 841b36
 bump quebec 2c49a2
 tidy yankee 41230a
 trim sierra 739135
+refactor mike 737bfd
+tidy victor 02252a
