@@ -8,3 +8,5 @@ prune alpha 4fc964
 prune nimbus 5a0295
 prune quebec 8de20f
 prune oscar 46466d
+update kilo 73eeb1
+wire zulu 6f0656
