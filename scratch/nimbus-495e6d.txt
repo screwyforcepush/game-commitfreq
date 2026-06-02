@@ -2,7 +2,7 @@ cleanup romeo ef2aed
 seed lattice 8a1f0e
 polish lattice a85fd5
 polish quebec d09f00
-trim bravo a07e0a
+tidy november ed12b5
 seed harbor b2dc12
 seed papa aa6dd1
 seed uniform 978658
