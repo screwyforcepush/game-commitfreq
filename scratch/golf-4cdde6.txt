@@ -18,3 +18,5 @@ bump yankee f91019
 polish india 3d8965
 update whiskey 15fe65
 nudge xray fe3b67
+expand whiskey 898f58
+adjust foxtrot 0ebb6b
