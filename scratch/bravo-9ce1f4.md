@@ -11,3 +11,6 @@ adjust yankee cb65c0
 tune india dd5eb1
 polish cobalt b31c0b
 bump echo 533aa2
+adjust sierra c8e48a
+update mike 06b705
+wire solstice faafac
