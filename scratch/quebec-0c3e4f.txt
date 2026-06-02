@@ -3,5 +3,4 @@ tweak foxtrot 38f8f0
 tidy mike 10e1dd
 wire yankee 3ccc55
 expand ember 134a5c
-nudge foxtrot 25c669
 seed solstice cc017a
