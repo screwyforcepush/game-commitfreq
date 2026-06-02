@@ -4,3 +4,7 @@ trim nimbus 3b8d8a
 wire xray 16336e
 expand papa 3e8eae
 tidy charlie 4a0586
+prune november 8057f1
+tweak delta 2237d8
+trim mike 1e3dd1
+polish tango c31df4
