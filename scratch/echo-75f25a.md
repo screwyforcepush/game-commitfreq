@@ -9,7 +9,6 @@ nudge solstice c72ada
 bump delta 895544
 trim uniform 43fe93
 expand sierra 988eaa
-trim echo 35b58b
 polish ember 4178c8
 update lima 2efbbe
 tweak romeo d402a5
