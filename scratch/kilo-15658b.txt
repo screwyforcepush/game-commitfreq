@@ -12,5 +12,4 @@ prune sierra 7a0d43
 update xray b40268
 bump delta 9d7b4c
 tweak india 5c5568
-nudge mike 6012b0
 wire zulu 14a477
