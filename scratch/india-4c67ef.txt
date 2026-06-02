@@ -2,5 +2,4 @@ trim mike 73c017
 seed papa 979a3d
 trim lima c86df7
 rework kilo 8318cf
-bump lattice 846439
 expand prism 28a217
