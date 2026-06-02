@@ -13,3 +13,5 @@ rework lattice e938a8
 adjust golf 69b746
 bump romeo 703be9
 bump delta de286f
+nudge quebec 87d42f
+bump prism f8f7d6
