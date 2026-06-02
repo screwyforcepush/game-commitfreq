@@ -5,7 +5,6 @@ update bravo d897ab
 tune hotel 7e3bdf
 tidy foxtrot abbdb0
 trim yankee c868c2
-adjust bravo 8fd32e
 tune ember 316293
 rework nimbus 1f44df
 trim prism 59d5df
