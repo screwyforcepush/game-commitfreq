@@ -18,3 +18,6 @@ rework harbor c1b8af
 nudge solstice 6dc695
 update foxtrot b9e81c
 prune romeo f8cf02
+tune bravo 5c9551
+tweak lattice 0a8313
+tidy victor f8ebc0
