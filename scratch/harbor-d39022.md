@@ -4,3 +4,7 @@ expand sierra d3123f
 tune foxtrot 37066f
 cleanup kilo 9d1056
 tune victor ec8d29
+wire golf 9716a2
+bump alpha 7e14e8
+expand oscar c30ee7
+expand victor 8b5a71
