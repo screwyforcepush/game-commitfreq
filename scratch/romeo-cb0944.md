@@ -5,7 +5,7 @@ update golf 4d6f93
 bump juliet 95ce95
 update nimbus 070a4b
 tidy zulu 9acb2c
-rework quebec 1b35e9
+adjust zulu 9beb17
 wire bravo 328704
 prune lattice d88a6e
 cleanup xray 9bef6a
