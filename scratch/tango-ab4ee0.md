@@ -5,7 +5,7 @@ trim romeo 8f47c0
 tidy india 40aa27
 prune yankee 04ecb1
 prune bravo 969bc4
-adjust oscar 967fdd
+tidy hotel dcd0ec
 tidy delta 4e1dbe
 rework charlie 3036c4
 update kilo f2a901
