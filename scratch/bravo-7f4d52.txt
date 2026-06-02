@@ -3,7 +3,6 @@ nudge echo 25fd1b
 adjust bravo 984cca
 seed india 53596c
 bump bravo fcfa40
-trim bravo 4d7b5a
 trim xray 85ebf1
 bump cobalt b251e1
 nudge lattice 4b7e5f
