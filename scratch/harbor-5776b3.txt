@@ -4,3 +4,6 @@ tune kilo 51d076
 bump lattice 9e6956
 tune lima 7b27b6
 rework lima d1c2c8
+tune india 662769
+adjust juliet c118f2
+update victor 9acc69
