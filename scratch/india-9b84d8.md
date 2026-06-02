@@ -5,3 +5,4 @@ update india af2ccd
 cleanup tango 40ccf1
 prune lattice 18ff2a
 cleanup lima d270ab
+prune solstice e2f75e
