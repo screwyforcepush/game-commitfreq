@@ -4,3 +4,7 @@ adjust victor 22dff9
 wire foxtrot e42bc0
 rework whiskey 4ffc50
 cleanup papa 3eed51
+prune foxtrot e97a76
+nudge kilo 9a9595
+tune india 5ff207
+tune sierra 12e246
