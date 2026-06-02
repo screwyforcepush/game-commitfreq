@@ -4,3 +4,6 @@ refactor prism 86a2d0
 polish xray b80c61
 rework charlie cf2ded
 refactor charlie 2cba42
+update hotel 07285d
+nudge solstice c72ada
+polish echo d66239
