@@ -7,5 +7,5 @@ wire xray 966f00
 seed foxtrot 13a95c
 bump cobalt 806377
 cleanup lattice ded0fc
-polish lima 2c136b
+bump hotel 392f28
 bump november cc5b8c
