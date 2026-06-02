@@ -6,3 +6,6 @@ bump echo de7fbc
 wire whiskey f6117b
 wire romeo 468374
 prune oscar fe1446
+nudge hotel d7d855
+tune tango 60d5ed
+tidy charlie 1c783a
