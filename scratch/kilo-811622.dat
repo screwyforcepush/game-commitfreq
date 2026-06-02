@@ -3,3 +3,5 @@ wire papa 6802c7
 tune uniform 611221
 nudge echo 1e0ad2
 prune charlie a62b97
+prune juliet 1f0847
+bump charlie 959da5
