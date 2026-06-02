@@ -4,3 +4,6 @@ expand kilo 729600
 polish xray 4fdccf
 trim juliet 4dcb0e
 adjust november cc644e
+tidy oscar a78a8e
+tweak quebec 2802af
+adjust oscar ad537d
