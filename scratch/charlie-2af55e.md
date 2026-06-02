@@ -2,3 +2,7 @@ rework xray 0eea12
 bump zulu b46594
 cleanup tango 307703
 expand lattice e0c4b8
+prune sierra 982d27
+expand whiskey 470038
+bump charlie db26cc
+tweak oscar 4c9caa
