@@ -20,3 +20,7 @@ update whiskey 15fe65
 nudge xray fe3b67
 expand whiskey 898f58
 adjust foxtrot 0ebb6b
+tidy india bbab2e
+adjust whiskey f8286c
+seed delta c4d0b1
+seed prism 334c59
