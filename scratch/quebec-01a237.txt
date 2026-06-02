@@ -1,4 +1,3 @@
-nudge sierra d0d67d
 adjust mike fbc530
 polish romeo 6bbfee
 tweak uniform 415c14
