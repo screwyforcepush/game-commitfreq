@@ -9,3 +9,6 @@ expand quebec afabca
 nudge tango 8223c7
 rework quebec 664663
 rework solstice 699849
+tune echo ea5a13
+seed zulu a8a842
+prune juliet e79a66
