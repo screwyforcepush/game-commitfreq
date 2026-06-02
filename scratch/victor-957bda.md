@@ -3,3 +3,7 @@ bump papa f77068
 cleanup lattice 57298e
 trim yankee da1dfb
 rework harbor 149652
+cleanup november 764556
+cleanup india 63569d
+bump india cd100b
+update kilo c115dc
