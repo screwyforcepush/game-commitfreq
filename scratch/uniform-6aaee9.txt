@@ -6,3 +6,5 @@ update quebec ed6b6e
 tune romeo 6cbdb2
 trim xray 6b6b14
 tweak solstice ee3baf
+cleanup solstice 34e24a
+trim solstice a29b75
