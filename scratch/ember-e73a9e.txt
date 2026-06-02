@@ -1,3 +1,0 @@
-adjust victor c84791
-polish mike 76a7b8
-rework lattice b49f24
