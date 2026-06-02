@@ -10,5 +10,5 @@ tune cobalt eb4ed1
 tweak delta 13413e
 polish prism 7ddb48
 prune lattice e5ea89
-seed echo d34c70
+trim yankee 09c962
 seed charlie b8e05b
