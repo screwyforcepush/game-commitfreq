@@ -3,3 +3,5 @@ wire solstice bd358d
 adjust november bd2dc2
 seed cobalt 2587d0
 seed bravo e8ad03
+bump cobalt 51247d
+cleanup november 034ded
