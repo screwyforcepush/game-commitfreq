@@ -5,7 +5,6 @@ seed india 53596c
 bump bravo fcfa40
 trim xray 85ebf1
 bump cobalt b251e1
-nudge lattice 4b7e5f
 adjust solstice 3e9bb9
 wire ember 9f25ba
 prune mike 926156
