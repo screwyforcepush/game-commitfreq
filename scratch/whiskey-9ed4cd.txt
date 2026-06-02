@@ -5,3 +5,6 @@ adjust whiskey 2eee45
 wire whiskey 18ff8b
 polish uniform cfed89
 adjust oscar b6e1fa
+wire lattice 1fa18e
+tweak papa f9c0c4
+wire cobalt 7acbde
