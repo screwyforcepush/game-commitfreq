@@ -1,4 +1,0 @@
-tidy juliet 7c6cac
-tidy foxtrot 23864e
-prune ember 6b7176
-refactor november 82c660
