@@ -6,3 +6,6 @@ seed nimbus eab36f
 cleanup oscar ea12fe
 tidy alpha 7bf7bc
 tweak mike 22e91e
+tidy sierra e43ba9
+expand tango 2b4a32
+update prism 53abdc
