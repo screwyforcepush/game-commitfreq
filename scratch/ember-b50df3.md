@@ -8,3 +8,5 @@ tidy quebec 101fe5
 tweak oscar d1b299
 adjust mike baaf32
 expand india 202673
+tidy xray d9a11e
+tidy echo b1e858
