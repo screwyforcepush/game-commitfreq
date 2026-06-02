@@ -1,6 +1,5 @@
 adjust solstice 4236d3
 prune bravo 2e722a
-nudge uniform 271191
 tweak solstice c70e26
 tune echo 3ef14a
 rework bravo 3cc452
