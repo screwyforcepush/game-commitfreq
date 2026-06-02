@@ -17,3 +17,7 @@ update papa dbda2f
 nudge alpha 70b32f
 polish kilo 78f668
 expand foxtrot 1ff6f7
+expand romeo 0c27e6
+wire delta 8bd1d4
+adjust lima fbdec4
+tweak november b19908
