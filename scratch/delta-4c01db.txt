@@ -12,3 +12,6 @@ seed papa ee7386
 adjust golf 201807
 tweak ember a22c03
 tune delta c0b4af
+adjust ember 18cace
+polish ember 06c5c9
+trim oscar 71b15c
