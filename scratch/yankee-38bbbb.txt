@@ -5,5 +5,5 @@ trim oscar be1bf8
 cleanup oscar 3f8882
 adjust bravo a3d263
 cleanup papa 555832
-adjust solstice ce572d
+tune golf d164e1
 polish quebec c3a744
