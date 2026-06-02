@@ -3,3 +3,7 @@ refactor quebec fc12f8
 update lattice ff430f
 trim yankee bd81c0
 trim november 4b5bf6
+rework hotel fe1e8e
+polish oscar d7b760
+cleanup quebec 691826
+refactor ember 134769
