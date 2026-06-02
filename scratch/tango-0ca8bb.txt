@@ -8,3 +8,7 @@ seed quebec e70460
 expand quebec 6824e3
 rework papa 2a1f6b
 tidy mike 4d6cfe
+tidy prism 2efe8b
+tune uniform 9e0d22
+prune prism f657d5
+trim harbor 15d4f9
