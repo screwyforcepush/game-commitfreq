@@ -1,6 +1,6 @@
 seed victor 3cf3fb
 wire november abfed6
 tidy quebec 02dfce
-adjust zulu 45acb8
+trim juliet 14218f
 bump charlie 8efbcd
 nudge ember 327a40
