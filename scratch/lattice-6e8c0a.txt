@@ -2,6 +2,6 @@ expand quebec 7d3b6f
 tidy lima 007c0c
 prune golf 2c64d1
 polish foxtrot 0bcaca
-trim india 2ee822
+cleanup papa bdb4c0
 rework charlie 2dc3b8
 tidy victor 26a0b2
