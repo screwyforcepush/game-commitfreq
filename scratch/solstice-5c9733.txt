@@ -2,3 +2,4 @@ seed echo 011df3
 nudge oscar c02e51
 wire xray d6b7ee
 nudge victor 63f4e7
+prune tango ca6f3f
