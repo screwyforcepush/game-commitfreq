@@ -10,3 +10,7 @@ seed romeo cb3ed2
 update nimbus 4913e2
 bump ember a38a4a
 prune bravo 663ad2
+tidy zulu abce0b
+tidy ember 711cd7
+tweak lattice 18586e
+update charlie 138440
