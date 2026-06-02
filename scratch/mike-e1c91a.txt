@@ -1,3 +1,2 @@
-prune alpha 451e6e
 nudge papa 3bf507
 trim foxtrot 3b857e
