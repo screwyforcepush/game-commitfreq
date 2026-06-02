@@ -3,3 +3,4 @@ polish victor bda5f9
 wire xray 125370
 prune zulu 42cc59
 cleanup sierra 67f70c
+trim xray 03e4e5
