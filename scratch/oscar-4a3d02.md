@@ -10,3 +10,6 @@ update uniform 3d1e9f
 expand november 4c3a39
 adjust golf e128ad
 nudge victor 93efbe
+tidy quebec 870697
+prune yankee 4865a5
+prune golf 15763a
