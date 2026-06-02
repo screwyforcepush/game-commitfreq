@@ -1,9 +1,0 @@
-tidy papa 6baa84
-cleanup mike 1058e5
-tweak yankee 23e2ac
-prune alpha d3183b
-refactor quebec d7ce0d
-seed whiskey ba8724
-seed india c3dae3
-trim victor a5f952
-tune victor 2f0c7a
