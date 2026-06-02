@@ -9,3 +9,6 @@ rework juliet c37e57
 rework golf e6c768
 refactor november ea2f5f
 bump echo 8fa0f1
+expand yankee dc5dbf
+expand uniform dd4c9a
+prune tango b80a8e
