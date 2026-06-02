@@ -10,3 +10,5 @@ wire yankee df70fd
 tune zulu a9ebfc
 bump november 7db97b
 tidy oscar 2443f5
+wire lattice 514b7c
+tidy oscar 82c059
