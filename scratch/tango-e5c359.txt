@@ -4,3 +4,5 @@ wire ember efa2c0
 polish kilo 20a8ba
 adjust papa c632b3
 tune yankee 0f9bb5
+expand whiskey c4b098
+prune golf 2bfdbe
