@@ -15,3 +15,5 @@ refactor bravo 0fc3b0
 refactor nimbus 9aafec
 bump delta f585de
 adjust alpha 3a8252
+update delta a64ad4
+trim foxtrot 3e3914
