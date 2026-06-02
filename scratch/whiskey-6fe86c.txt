@@ -2,3 +2,7 @@ polish kilo a1502a
 prune foxtrot 27630b
 tune lattice 06b4c3
 tune lattice 3110af
+wire ember d08a62
+cleanup alpha a5d6fc
+prune bravo 96bfc7
+cleanup zulu 4f2b83
