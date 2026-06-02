@@ -11,3 +11,4 @@ trim nimbus 29aad3
 adjust xray 92d115
 tune november 47e3d0
 bump cobalt b69dfa
+wire yankee cfbd06
