@@ -1,2 +1,2 @@
 cleanup hotel dd8c2d
-bump solstice c0afcd
+adjust cobalt 1320af
