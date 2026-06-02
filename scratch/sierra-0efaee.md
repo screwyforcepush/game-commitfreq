@@ -11,3 +11,7 @@ prune lattice c8ae83
 polish xray b03191
 bump lattice 467730
 wire foxtrot a88f69
+polish echo 7c6a0a
+wire yankee 26d129
+nudge hotel 41dd92
+expand sierra d7b0ca
