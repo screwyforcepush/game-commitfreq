@@ -5,3 +5,7 @@ polish alpha 8b3d9c
 nudge nimbus 0c6167
 polish harbor 4b34ce
 polish yankee 52c369
+tune november 3c47d5
+tune uniform 2f2e40
+seed india 48e4f4
+seed harbor e9245f
