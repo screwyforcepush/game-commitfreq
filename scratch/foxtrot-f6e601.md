@@ -15,3 +15,5 @@ nudge quebec 55eccf
 update india eac445
 tune echo b27666
 tidy nimbus e393f9
+polish solstice d87865
+trim zulu 080aab
