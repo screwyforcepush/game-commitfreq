@@ -1,4 +1,3 @@
 cleanup cobalt 60c1b8
-wire charlie 435273
 adjust quebec 81934b
 refactor oscar 8d3861
