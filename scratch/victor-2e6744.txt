@@ -1,6 +1,0 @@
-trim whiskey 612a52
-tidy golf 285668
-refactor golf eb66ce
-refactor lima c51cbd
-nudge whiskey 0a0fab
-adjust yankee 9b1268
