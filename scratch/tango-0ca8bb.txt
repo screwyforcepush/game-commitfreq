@@ -4,3 +4,7 @@ bump prism 18d382
 bump harbor a779b9
 cleanup nimbus 202455
 adjust lattice 2fc272
+seed quebec e70460
+expand quebec 6824e3
+rework papa 2a1f6b
+tidy mike 4d6cfe
