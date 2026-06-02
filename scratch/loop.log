@@ -185271,3 +185271,4 @@ To https://github.com/screwyforcepush/game-commitfreq.git
 127/512  build: tweak ember (5c98a6)                   modify cobalt-afd828.csv:1
 128/512  chore: papa seeds                             trim quebec-0c3e4f.txt:2
 129/512  build: tweak mike nimbus                      append prism-c08523.dat
+130/512  fix: seed echo for oscar                      rename india-deb2fb.csv -> romeo-9d7e25.csv
