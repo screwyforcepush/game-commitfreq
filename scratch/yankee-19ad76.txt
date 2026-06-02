@@ -9,3 +9,4 @@ seed romeo 27225f
 seed uniform d79afb
 seed november c2e6a7
 prune ember bd5886
+adjust hotel 1434a4
