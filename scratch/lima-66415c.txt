@@ -1,7 +1,6 @@
 cleanup nimbus fc0ceb
 bump prism 213687
 refactor quebec a8cfb9
-wire tango 5b9f4e
 polish xray cd1a72
 prune cobalt 24edff
 update lima 5d965e
