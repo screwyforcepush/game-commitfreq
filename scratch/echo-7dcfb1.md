@@ -3,5 +3,4 @@ tidy ember c2b1c7
 seed kilo 2c71f3
 cleanup harbor 626be6
 update lima 9bda05
-adjust tango a5dfa2
 polish lattice a41206
