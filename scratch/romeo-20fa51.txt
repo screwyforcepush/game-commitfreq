@@ -18,3 +18,6 @@ update foxtrot fe7906
 update uniform 8c371b
 expand echo 86b0ce
 cleanup lima 54ecb2
+wire uniform 47a9b3
+tidy whiskey 5ebcd8
+tidy nimbus 516ba2
