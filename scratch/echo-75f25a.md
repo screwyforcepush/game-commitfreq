@@ -10,5 +10,4 @@ polish echo d66239
 bump delta 895544
 trim uniform 43fe93
 expand sierra 988eaa
-polish hotel 1f9c9b
 trim echo 35b58b
