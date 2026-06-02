@@ -17,3 +17,7 @@ seed kilo 3b4d84
 refactor ember 2963df
 adjust bravo b03022
 tweak prism 889cf1
+prune yankee d308bb
+tidy golf 103d1d
+tune mike 1080bf
+tidy quebec 6d50e2
