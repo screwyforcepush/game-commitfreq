@@ -4,3 +4,6 @@ tweak delta e4a585
 tune harbor d427ba
 nudge papa d953cc
 tune juliet b11de5
+wire cobalt 49ef47
+seed cobalt 978d76
+tune foxtrot b93298
