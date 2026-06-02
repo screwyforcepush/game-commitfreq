@@ -7,3 +7,6 @@ nudge alpha 5cf38a
 expand zulu edfee9
 tweak india f2f56f
 tweak delta a8e4c8
+update nimbus 58ffdb
+trim solstice 0caffd
+adjust oscar 991327
