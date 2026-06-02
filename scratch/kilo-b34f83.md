@@ -17,3 +17,6 @@ bump delta f585de
 adjust alpha 3a8252
 update delta a64ad4
 trim foxtrot 3e3914
+nudge bravo 66eb1c
+cleanup solstice 51d97e
+tidy solstice cb3a16
