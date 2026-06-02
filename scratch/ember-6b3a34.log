@@ -22,3 +22,5 @@ tune bravo 1f80a0
 wire charlie 5cb93a
 tidy foxtrot da93fe
 wire xray eead6e
+adjust xray 7ccb33
+update alpha 91d617
