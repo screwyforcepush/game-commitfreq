@@ -4,7 +4,6 @@ prune lattice 6ac832
 rework juliet fb4e87
 nudge ember 08c284
 wire golf f1bf13
-update xray b4ab99
 cleanup nimbus fad074
 tune prism fa8e05
 prune victor eb9064
