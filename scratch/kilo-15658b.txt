@@ -9,3 +9,4 @@ adjust bravo 8fd32e
 tune ember 316293
 rework nimbus 1f44df
 trim prism 59d5df
+trim foxtrot d54dcd
