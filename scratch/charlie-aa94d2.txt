@@ -8,3 +8,7 @@ wire oscar dd9cab
 tweak lima dac85b
 update charlie ce134d
 nudge whiskey 2495a4
+cleanup quebec ee63cd
+rework victor 64c62e
+cleanup india 12c4c4
+rework lattice cd5554
