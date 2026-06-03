@@ -18,3 +18,5 @@ nudge zulu d70633
 tune tango 94d8a0
 trim lattice ca7355
 wire india 566880
+update lima 8a0865
+adjust solstice 47b6e2
