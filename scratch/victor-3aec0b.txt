@@ -3,3 +3,7 @@ tune oscar 037ac3
 trim india ab2f89
 polish victor 1dce57
 nudge charlie 68c7bb
+nudge sierra a2d13e
+tune quebec 01eed0
+tune foxtrot 9163ea
+seed solstice c45be6
