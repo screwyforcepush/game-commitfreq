@@ -13,3 +13,5 @@ polish whiskey d8677a
 tidy quebec 8e877d
 rework tango 1ec2c9
 prune lattice 6d573f
+rework hotel a17975
+nudge kilo 92b206
