@@ -4,3 +4,7 @@ bump romeo 4b4328
 refactor oscar 13b722
 refactor sierra a2b346
 tune mike 12365b
+adjust delta 6bee45
+tidy xray 14947d
+trim foxtrot ebb30d
+nudge foxtrot 4924e1
