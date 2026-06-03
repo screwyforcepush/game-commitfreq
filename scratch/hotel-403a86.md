@@ -3,7 +3,6 @@ polish yankee 5ab0bf
 rework mike a1b0be
 trim uniform 85a42e
 tweak charlie becc73
-trim uniform 40080a
 tweak oscar 1bc728
 adjust tango 92579e
 tidy golf 6cbc63
