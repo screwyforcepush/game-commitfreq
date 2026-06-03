@@ -8,3 +8,5 @@ adjust zulu 9beb17
 wire bravo 328704
 prune lattice d88a6e
 cleanup xray 9bef6a
+rework whiskey 245c3b
+trim oscar 6234ec
