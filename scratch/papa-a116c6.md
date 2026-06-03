@@ -10,3 +10,6 @@ update bravo 1c526e
 refactor bravo 9fd06b
 expand quebec d640eb
 tidy oscar de0695
+wire golf fd7a61
+trim victor 861b10
+prune sierra 573f52
