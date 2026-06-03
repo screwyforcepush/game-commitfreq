@@ -8,6 +8,6 @@ polish delta a092c7
 cleanup lima 30c1c0
 trim harbor c48775
 rework foxtrot f48aa6
-bump mike 3d2f8d
+tweak quebec cef8be
 refactor foxtrot a5a002
 refactor india 7cc63b
