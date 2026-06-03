@@ -1,6 +1,0 @@
-prune yankee 5eca80
-bump romeo 37a165
-polish golf 07e460
-trim juliet f51516
-tidy charlie a655cf
-tidy hotel 0a91d8
