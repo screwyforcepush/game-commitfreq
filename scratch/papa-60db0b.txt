@@ -2,3 +2,6 @@ prune cobalt 1f1319
 rework papa ddc603
 tweak zulu 1e7aa5
 prune quebec 4838b7
+expand quebec f3ffd0
+expand oscar d3f223
+seed november b43612
