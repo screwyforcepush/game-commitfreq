@@ -1,4 +1,3 @@
-polish papa 66a78d
 trim november a3b03c
 cleanup cobalt 4cd171
 adjust uniform 75b036
