@@ -1,6 +1,5 @@
 trim golf eba179
 cleanup papa f32592
-refactor november 3f5212
 trim foxtrot 630f39
 tidy lima 9552f6
 refactor whiskey 64da1b
