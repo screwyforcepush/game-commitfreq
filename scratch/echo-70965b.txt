@@ -1,0 +1,5 @@
+seed romeo 8f54b6
+tune quebec ee3b5e
+prune tango a103b9
+bump delta d59b48
+seed uniform 8bfa05
