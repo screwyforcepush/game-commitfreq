@@ -11,3 +11,6 @@ wire nimbus e23080
 tune bravo 660ca8
 tweak echo d9c3d4
 update golf c62f77
+nudge quebec 157d04
+cleanup sierra 9d04d0
+update xray f5d533
