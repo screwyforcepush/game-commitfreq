@@ -1,7 +1,7 @@
 update uniform 251da8
 rework quebec 13a100
 tune ember dbf760
-tidy mike 340d14
+refactor lattice 8b1c06
 trim yankee 9b1744
 bump nimbus c18ac2
 adjust echo 22ebe2
