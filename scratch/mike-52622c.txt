@@ -1,7 +1,0 @@
-adjust charlie 13a4ff
-tune uniform e41ada
-prune papa 66d464
-wire sierra 905a4c
-nudge lima c6672d
-seed lattice 58ef7c
-tune tango 68616b
