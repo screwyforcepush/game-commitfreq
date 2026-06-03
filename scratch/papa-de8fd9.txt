@@ -7,6 +7,6 @@ prune yankee aa6ccd
 trim xray b340b7
 prune solstice 4e73ab
 prune hotel a206a9
-adjust uniform 04929e
+tune delta 060a6f
 cleanup november 990e4c
 cleanup charlie ea8a5c
