@@ -10,3 +10,5 @@ polish quebec de0bc5
 expand harbor d8f104
 tidy ember 2beb57
 tweak foxtrot f3c097
+expand bravo 03371a
+trim nimbus 87a27d
