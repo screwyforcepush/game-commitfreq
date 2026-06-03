@@ -4,3 +4,7 @@ refactor nimbus 524948
 refactor solstice 787f53
 rework xray 49084a
 expand prism 6b286f
+cleanup golf d327bf
+adjust hotel 1bd5bf
+seed hotel b700ee
+seed foxtrot 8f5fb9
