@@ -2,7 +2,7 @@ tune foxtrot 003f0b
 tweak papa 610db2
 update bravo 6b1ac6
 wire romeo 5352de
-wire mike 02f3cd
+tune cobalt d0b22b
 polish nimbus 9e8455
 cleanup november f388d1
 tune lima e139ea
