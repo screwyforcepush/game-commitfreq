@@ -1,5 +1,0 @@
-trim uniform 99fe20
-rework oscar d8f8d5
-adjust lattice c8a09a
-polish solstice 2e198b
-polish yankee dd1938
