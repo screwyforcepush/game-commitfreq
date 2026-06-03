@@ -6,7 +6,7 @@ prune lattice 4dd26f
 update victor 9b3a82
 refactor delta 36949c
 rework yankee a14f5f
-refactor whiskey e13325
+prune echo 438c8b
 polish echo 637d72
 rework charlie 73de0b
 refactor lima ae9543
