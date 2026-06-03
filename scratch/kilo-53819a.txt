@@ -1,1 +1,1 @@
-expand quebec bb3110
+prune prism 07236a
