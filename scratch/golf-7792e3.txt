@@ -5,3 +5,7 @@ tidy lima 9552f6
 refactor whiskey 64da1b
 nudge victor ac6b85
 polish whiskey d671f7
+refactor oscar 5bdc87
+polish uniform 03a567
+wire quebec c04711
+nudge quebec 9802c0
