@@ -7,3 +7,7 @@ rework papa adebef
 expand yankee cef828
 rework hotel 10ac24
 cleanup lattice d6e977
+rework oscar ab8ed3
+prune cobalt c4ab3d
+cleanup zulu 4ff79b
+refactor india d3f53d
