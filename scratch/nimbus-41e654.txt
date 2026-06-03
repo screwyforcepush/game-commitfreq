@@ -3,7 +3,7 @@ trim juliet 16bdf7
 polish yankee 7ecbbf
 tweak foxtrot 497fe5
 prune lattice db895d
-update quebec acc80e
+prune kilo 032a3a
 prune bravo 196c00
 trim november f940cc
 wire quebec f5e2b0
