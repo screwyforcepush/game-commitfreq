@@ -5,4 +5,3 @@ polish hotel 525d83
 tweak victor 7857c0
 refactor echo b4001b
 rework cobalt 55ed53
-polish tango 52a8ac
