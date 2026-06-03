@@ -4,7 +4,6 @@ cleanup victor bfe521
 polish yankee 7ecbbf
 tweak foxtrot 497fe5
 prune lattice db895d
-tidy delta b642c4
 update quebec acc80e
 prune bravo 196c00
 trim november f940cc
