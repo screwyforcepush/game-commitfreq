@@ -1,3 +1,0 @@
-expand yankee 15121f
-expand quebec 718e23
-tidy solstice 8ad366
