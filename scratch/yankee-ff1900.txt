@@ -10,3 +10,5 @@ seed zulu 0cc6ce
 tweak victor 8b9591
 bump solstice 19a976
 cleanup yankee ecbfc7
+nudge nimbus 7963a0
+tidy xray dc6316
