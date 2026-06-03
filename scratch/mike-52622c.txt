@@ -1,6 +1,5 @@
 trim nimbus 7a4d6e
 tune uniform e41ada
-seed hotel fbf38b
 prune papa 66d464
 wire sierra 905a4c
 nudge lima c6672d
