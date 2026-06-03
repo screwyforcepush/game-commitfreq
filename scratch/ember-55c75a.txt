@@ -1,3 +1,2 @@
-nudge charlie 0b2917
 prune alpha 216b70
 tune mike 198c68
