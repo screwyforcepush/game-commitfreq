@@ -1,4 +1,4 @@
-tidy nimbus 5caf75
+prune foxtrot c16981
 wire lattice 6501d6
 trim uniform 86a73b
 cleanup quebec dc1b7e
