@@ -6,3 +6,6 @@ bump echo be9aaf
 expand kilo dcf092
 bump ember e1415a
 trim romeo 8fd3f0
+adjust echo ad08e8
+adjust uniform b1d647
+adjust oscar 92b9b4
