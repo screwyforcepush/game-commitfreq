@@ -1,3 +1,0 @@
-update quebec 1cdc9f
-bump charlie 6929c8
-cleanup india fcd552
