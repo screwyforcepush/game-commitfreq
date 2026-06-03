@@ -2,3 +2,4 @@ adjust yankee edfd3d
 trim papa d9c42b
 tidy xray 7d21e6
 rework whiskey 373f85
+prune solstice 11d674
