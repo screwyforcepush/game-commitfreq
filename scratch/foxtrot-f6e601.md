@@ -18,3 +18,7 @@ tidy nimbus e393f9
 polish solstice d87865
 trim zulu 080aab
 tweak oscar 30c934
+bump sierra 8e8834
+tidy xray d4a77e
+cleanup alpha 2edc92
+tweak oscar eafdef
