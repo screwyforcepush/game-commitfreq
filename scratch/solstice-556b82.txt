@@ -1,3 +1,0 @@
-seed foxtrot 8d5cee
-tune november 43afa6
-tweak quebec 4e1429
