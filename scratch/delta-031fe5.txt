@@ -1,1 +1,1 @@
-wire lattice e6f75f
+seed lattice 2a23d7
