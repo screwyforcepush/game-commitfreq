@@ -10,3 +10,5 @@ tweak echo df7102
 wire yankee ec7b08
 seed oscar 41ccf5
 tidy lattice 528b26
+nudge quebec 56ea59
+rework hotel 68cb10
