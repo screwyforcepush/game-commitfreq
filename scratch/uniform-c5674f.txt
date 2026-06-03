@@ -1,4 +1,0 @@
-prune solstice c481eb
-prune yankee 443ed7
-wire hotel b8ceac
-expand november 8d4f77
