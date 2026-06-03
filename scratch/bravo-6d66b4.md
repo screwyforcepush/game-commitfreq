@@ -1,5 +1,4 @@
 seed solstice 2114ad
-bump juliet ca6085
 update kilo e39087
 cleanup foxtrot 3dfdb8
 refactor kilo a752a5
