@@ -1,4 +1,3 @@
-tune oscar 8a77db
 tune lattice 1ec70a
 seed whiskey 133627
 prune cobalt 2a7618
