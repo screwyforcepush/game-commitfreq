@@ -1,4 +1,3 @@
-seed tango 37e2bd
 tidy golf 6f0339
 update tango 012907
 adjust zulu 3ea6ee
