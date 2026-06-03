@@ -1,7 +1,0 @@
-cleanup hotel 8f4c36
-tweak hotel a6c336
-update juliet fa293c
-rework sierra faf0ab
-tidy hotel ebf6fc
-update solstice ec24ef
-cleanup tango dbd95b
