@@ -1,5 +1,4 @@
 trim oscar 853dc0
-wire harbor c1a508
 update lattice ff430f
 trim yankee bd81c0
 bump zulu 9570ce
