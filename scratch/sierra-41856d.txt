@@ -5,7 +5,7 @@ adjust cobalt 0d9a16
 rework juliet 07a8c2
 cleanup prism 0678a1
 refactor mike 98f98c
-bump papa 2fa6ad
+adjust juliet 432fa0
 nudge quebec 7e1e1b
 wire charlie e180dd
 tweak charlie 477a63
