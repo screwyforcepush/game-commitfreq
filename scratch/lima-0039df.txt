@@ -1,0 +1,5 @@
+wire nimbus 60d9bf
+seed quebec 68e43c
+adjust kilo 64adc0
+prune golf d18a3e
+tune charlie 4931b1
