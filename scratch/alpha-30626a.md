@@ -9,3 +9,6 @@ bump charlie 91116a
 tidy nimbus e7c67d
 expand foxtrot 9f8b15
 nudge nimbus 724046
+seed nimbus 54854f
+tidy oscar 772d17
+cleanup xray 898bfe
