@@ -1,4 +1,3 @@
-polish charlie 418a37
 tidy zulu cff251
 tidy sierra a52bf4
 cleanup lima ba2e08
