@@ -5,7 +5,7 @@ seed echo 1f94e0
 tidy victor 802991
 update kilo b093cd
 polish ember 1b974b
-seed zulu 0cc6ce
+polish tango e59b4c
 bump solstice 19a976
 cleanup yankee ecbfc7
 nudge nimbus 7963a0
