@@ -1,7 +1,6 @@
 update sierra 6203d8
 prune november 6a7f71
 seed zulu 273a40
-tune lima 86f19f
 bump whiskey 9d36c1
 update tango 7c8ebb
 tweak delta bda203
