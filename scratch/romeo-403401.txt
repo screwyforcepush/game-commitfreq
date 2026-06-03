@@ -1,4 +1,4 @@
-polish alpha 8bd436
+polish november cd5f99
 prune india 39ee3e
 nudge zulu e671fc
 rework quebec ccb56c
