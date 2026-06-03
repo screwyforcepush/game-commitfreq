@@ -1,7 +1,6 @@
 polish hotel 1779be
 update romeo f2b649
 bump harbor 4f8be6
-polish whiskey 227db1
 refactor kilo e5a70c
 update yankee d9beaa
 wire xray 1165e9
