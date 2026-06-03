@@ -1,7 +1,6 @@
 trim mike cdb0c7
 tune lima c84804
 adjust papa 838c3f
-trim echo 0d4b32
 expand tango b80ca5
 expand zulu 96949c
 tweak uniform c9456d
