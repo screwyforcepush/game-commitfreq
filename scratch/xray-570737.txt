@@ -1,3 +1,0 @@
-seed solstice afa655
-trim alpha 302ab1
-expand bravo e1d095
