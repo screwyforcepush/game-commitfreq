@@ -7,4 +7,3 @@ rework papa adebef
 expand yankee cef828
 rework hotel 10ac24
 cleanup lattice d6e977
-polish delta 0bb207
