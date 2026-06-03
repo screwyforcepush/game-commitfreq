@@ -1,5 +1,0 @@
-adjust uniform d07855
-prune foxtrot 11cce5
-wire ember 7f9a4b
-adjust juliet d1e084
-tune echo 7ef2ee
