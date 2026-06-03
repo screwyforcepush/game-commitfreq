@@ -1,4 +1,3 @@
 prune bravo 4dd468
-seed sierra b0ae35
 bump kilo 855013
 nudge lima ed4102
