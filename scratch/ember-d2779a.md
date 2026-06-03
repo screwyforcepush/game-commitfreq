@@ -8,7 +8,7 @@ cleanup hotel 636ee3
 bump alpha 7c3425
 cleanup victor 363eee
 polish india 23ff0f
-bump quebec 08e068
+trim foxtrot a481a4
 wire nimbus 0de3b8
 rework kilo c1c46c
 trim harbor 85065e
