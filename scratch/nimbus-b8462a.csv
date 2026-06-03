@@ -10,3 +10,5 @@ tune xray 5bcd4c
 tidy victor 8b1693
 tune victor 2812fc
 rework tango 0a959e
+tidy lattice dafb4c
+refactor tango 9f2e63
