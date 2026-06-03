@@ -12,3 +12,5 @@ polish juliet d2879c
 cleanup oscar d0608c
 rework prism c619c6
 adjust uniform 8fc72f
+wire mike 6332c1
+seed xray 36357d
