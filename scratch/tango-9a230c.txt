@@ -10,3 +10,5 @@ seed bravo 2abc80
 wire sierra e28826
 rework delta 1ebbf7
 wire romeo ffb722
+wire oscar 1c9bde
+expand delta afccb4
