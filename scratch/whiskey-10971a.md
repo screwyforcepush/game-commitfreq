@@ -5,3 +5,4 @@ refactor golf b8ca71
 update alpha 51714f
 trim papa 59ef04
 trim romeo 967b56
+tidy quebec 525e21
