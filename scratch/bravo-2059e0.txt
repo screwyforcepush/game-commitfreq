@@ -5,3 +5,5 @@ tune lima 86f19f
 bump whiskey 9d36c1
 update tango 7c8ebb
 tweak delta bda203
+polish victor d16965
+tidy juliet 2318f1
