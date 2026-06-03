@@ -13,3 +13,6 @@ tweak echo 3d7fa4
 tidy delta 6a0968
 seed november c867e0
 nudge bravo 47dc2b
+wire sierra 612edd
+prune charlie 31ce0e
+trim alpha eac9fc
