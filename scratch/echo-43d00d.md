@@ -2,7 +2,6 @@ cleanup xray c74e88
 tune papa cddf33
 bump romeo 4b4328
 refactor oscar 13b722
-trim mike 098c8b
 tune mike 12365b
 adjust delta 6bee45
 tidy xray 14947d
