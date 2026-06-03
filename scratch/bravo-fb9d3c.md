@@ -1,5 +1,5 @@
 tidy nimbus 5caf75
-tidy solstice 667894
+wire lattice 6501d6
 trim uniform 86a73b
 cleanup quebec dc1b7e
 trim ember df50db
