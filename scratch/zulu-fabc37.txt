@@ -1,5 +1,4 @@
 nudge prism 140b7f
-tidy nimbus 1870b2
 rework quebec 982d4e
 refactor sierra 83101b
 tune whiskey e010a9
