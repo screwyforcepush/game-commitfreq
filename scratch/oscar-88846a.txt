@@ -1,5 +1,4 @@
 prune solstice 44c166
-bump sierra 83b9e2
 tidy oscar 7bdca3
 expand lattice 42a1e2
 rework oscar adb50f
