@@ -1,4 +1,4 @@
-trim whiskey cbe84d
+seed whiskey 2e25ec
 rework delta cba76d
 cleanup nimbus c11ed0
 prune tango 8947f1
