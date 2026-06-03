@@ -6,3 +6,5 @@ bump oscar 5fd29d
 nudge whiskey 5f757c
 bump xray ef8a2c
 expand lattice f0db9c
+tidy november 37489b
+cleanup oscar 2097bb
