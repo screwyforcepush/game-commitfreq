@@ -2,7 +2,6 @@ cleanup romeo e827dd
 update november ac0e4f
 wire charlie bd7801
 expand india cf30fa
-trim mike 613676
 tune lima b0a3c3
 rework delta b6a51e
 prune delta a3fbee
