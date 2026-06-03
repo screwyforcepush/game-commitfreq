@@ -20,5 +20,4 @@ tweak delta 5c90d0
 cleanup sierra 4f406d
 nudge harbor 6b73e2
 update foxtrot c78bb7
-polish golf 6a4dc6
 seed kilo 1bf8b3
