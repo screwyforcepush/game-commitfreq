@@ -1,4 +1,3 @@
-tune uniform ca5cdb
 nudge kilo e7dfa8
 seed foxtrot 5194c2
 expand hotel 1003c8
