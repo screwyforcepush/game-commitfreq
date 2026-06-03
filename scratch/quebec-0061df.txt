@@ -7,3 +7,6 @@ tidy yankee 8d5184
 tidy juliet 49c6d7
 rework lima 3ad11b
 update sierra c5bcba
+tweak delta 152b0e
+rework alpha 3a97cc
+update tango 0b2400
