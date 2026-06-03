@@ -1,3 +1,6 @@
 wire delta 53afc9
 rework lattice f8e7c1
 tidy uniform 07d491
+polish xray 10e5dd
+refactor quebec e24c5c
+cleanup foxtrot 0baefc
