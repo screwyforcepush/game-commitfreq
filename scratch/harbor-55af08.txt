@@ -5,7 +5,7 @@ trim kilo acb8ad
 tidy xray b6f8e7
 rework whiskey a0ceb1
 adjust lima a906b0
-tweak alpha dab4db
+tweak delta 170d93
 seed delta 66c1fa
 tune november 7f2980
 tune india b87564
