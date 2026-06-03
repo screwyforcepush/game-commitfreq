@@ -1,6 +1,5 @@
 refactor echo ee55a7
 nudge quebec 0a2b8d
 tidy lattice b22076
-prune tango a00599
 tidy delta 17836c
 adjust mike bf3d56
