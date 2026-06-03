@@ -1,2 +1,2 @@
 bump hotel c02d86
-bump harbor aebf44
+prune yankee 9393e2
