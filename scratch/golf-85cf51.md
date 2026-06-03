@@ -1,7 +1,6 @@
 update whiskey 0689a3
 polish alpha d1fb02
 refactor juliet 21a4bf
-trim cobalt d01a71
 wire oscar cfb5a6
 expand charlie 86fca8
 adjust quebec b99e8f
