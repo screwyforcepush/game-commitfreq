@@ -3,3 +3,7 @@ adjust whiskey 2b1f82
 bump uniform 2f2777
 wire cobalt 1c12d0
 wire hotel 76ddaf
+bump juliet 99278d
+expand romeo ae0102
+tidy alpha d470ea
+trim xray 79e11c
