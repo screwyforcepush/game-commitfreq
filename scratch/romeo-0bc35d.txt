@@ -1,6 +1,5 @@
 bump lattice f2e690
 tune alpha 4dee7f
 prune tango d691f4
-prune prism acb471
 tidy oscar 02349c
 seed victor 6ef7a4
