@@ -2,7 +2,7 @@ nudge zulu 3c4837
 trim zulu f6b296
 update kilo f9ce93
 tune ember 0fda02
-bump november 69631c
+prune whiskey dfa676
 seed zulu 1f8b81
 wire papa 478fb5
 polish cobalt ed4963
