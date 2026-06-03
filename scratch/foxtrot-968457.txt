@@ -14,5 +14,4 @@ prune kilo 800f7f
 refactor yankee ed446c
 tweak india ed37b6
 cleanup romeo 5959d3
-wire sierra 8aa2ca
 tidy india d0acb0
