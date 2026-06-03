@@ -1,3 +1,2 @@
 update zulu 60ddfe
-prune golf 1324f4
 trim foxtrot a3c8ab
