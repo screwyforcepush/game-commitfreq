@@ -11,3 +11,6 @@ expand romeo fb7a6d
 cleanup xray 5df841
 adjust zulu 232e96
 polish victor 039976
+adjust delta c89e65
+trim foxtrot 993015
+wire alpha 90c3ef
