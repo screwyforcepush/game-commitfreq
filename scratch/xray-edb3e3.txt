@@ -1,5 +1,4 @@
 refactor echo ee55a7
-nudge quebec 0a2b8d
 tidy lattice b22076
 tidy delta 17836c
 adjust mike bf3d56
