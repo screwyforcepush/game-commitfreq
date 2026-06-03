@@ -4,3 +4,6 @@ tune harbor 5250b0
 trim whiskey 119f62
 tweak november 5d3421
 adjust bravo 6335bf
+bump tango 68996c
+bump foxtrot b98dd8
+bump ember ce1a1e
