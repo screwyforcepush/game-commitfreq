@@ -1,2 +1,1 @@
 cleanup hotel dd8c2d
-adjust cobalt 1320af
