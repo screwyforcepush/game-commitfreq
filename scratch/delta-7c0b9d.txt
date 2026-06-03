@@ -1,6 +1,5 @@
 tune uniform ca5cdb
 nudge kilo e7dfa8
-refactor victor a14c7e
 seed foxtrot 5194c2
 expand hotel 1003c8
 update xray b736e6
