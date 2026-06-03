@@ -8,3 +8,5 @@ adjust yankee 2a7cd7
 prune kilo 5196d4
 polish quebec de0bc5
 expand harbor d8f104
+tidy ember 2beb57
+tweak foxtrot f3c097
