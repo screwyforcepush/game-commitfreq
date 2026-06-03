@@ -4,3 +4,7 @@ bump solstice 970318
 rework solstice ceaf56
 cleanup echo 7b97f7
 expand juliet fd0768
+adjust juliet bdd32e
+bump romeo fe937d
+tweak nimbus de6c75
+polish charlie f649ce
