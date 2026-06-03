@@ -1,6 +1,5 @@
 polish oscar d89f79
 polish sierra d01d1c
 trim mike 78bb03
-refactor yankee e079e4
 cleanup whiskey 4077a5
 rework romeo 69ec7d
