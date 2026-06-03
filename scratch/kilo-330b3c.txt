@@ -2,5 +2,4 @@ update zulu 60ddfe
 trim foxtrot a3c8ab
 polish kilo 40471f
 adjust charlie 967df3
-prune lattice 8cd3ab
 tweak charlie 0e0805
