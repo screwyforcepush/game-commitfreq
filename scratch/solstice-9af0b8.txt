@@ -2,7 +2,7 @@ cleanup golf 4a8a8b
 bump nimbus 0c9aa4
 expand echo 3f7510
 tune india ed74cf
-cleanup juliet 9cd474
+polish solstice 0d9080
 bump kilo ce41f2
 adjust bravo 6d6f62
 polish xray c5ca5c
