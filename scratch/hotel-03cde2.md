@@ -12,3 +12,5 @@ adjust lima 494f4c
 expand foxtrot fbfbce
 expand cobalt a34618
 tidy kilo 7d8637
+seed bravo 6ba150
+seed yankee 20c6f0
