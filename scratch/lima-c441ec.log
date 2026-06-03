@@ -5,3 +5,6 @@ tune romeo 791265
 seed romeo 6e6965
 nudge delta d5055d
 wire bravo d95e36
+wire solstice b0c3b5
+prune kilo 335b3f
+cleanup lima a9bd6b
