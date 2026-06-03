@@ -4,7 +4,6 @@ bump nimbus e815db
 prune solstice 425b4f
 trim solstice 3af874
 cleanup cobalt 6f40d0
-tidy lima 7c100d
 prune romeo b6db4f
 polish lima 85933b
 tweak quebec d6ffb1
