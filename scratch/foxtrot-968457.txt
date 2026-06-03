@@ -14,6 +14,5 @@ prune kilo 800f7f
 refactor yankee ed446c
 nudge tango 9b34ec
 cleanup romeo 5959d3
-nudge yankee 91a3bd
 wire sierra 8aa2ca
 tidy india d0acb0
