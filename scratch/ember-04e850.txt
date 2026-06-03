@@ -1,6 +1,5 @@
 update oscar 1fc76d
 tune uniform ffa681
-seed zulu 5a806a
 trim harbor a083db
 tune quebec 3ab0d4
 nudge juliet 0ae736
