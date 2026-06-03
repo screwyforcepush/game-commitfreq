@@ -23,7 +23,6 @@ refactor echo c01fad
 tune kilo b6f0d5
 adjust quebec 281ea8
 wire kilo 2af8a0
-tune hotel 7ecf67
 tune kilo 3bcddf
 refactor juliet a8a0a8
 prune bravo 85068f
