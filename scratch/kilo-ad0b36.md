@@ -4,3 +4,5 @@ cleanup foxtrot 5d171a
 seed cobalt 2c102f
 seed tango d4168a
 tweak solstice e79b3e
+trim hotel 071d34
+tweak quebec 02246f
