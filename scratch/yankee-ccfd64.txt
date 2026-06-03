@@ -4,3 +4,4 @@ trim kilo 9256c8
 nudge nimbus b61282
 refactor echo 3063ca
 tune xray dd3181
+tidy xray 0e8d44
