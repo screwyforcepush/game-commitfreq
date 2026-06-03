@@ -1,5 +1,4 @@
 tune xray cec3f4
 trim uniform b7cde8
-nudge foxtrot dd1d5e
 polish ember 1bbe6c
 polish uniform 9f40d1
