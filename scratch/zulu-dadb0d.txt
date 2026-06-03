@@ -2,5 +2,4 @@ update uniform 039df1
 cleanup oscar 1a2f41
 nudge uniform 23fee7
 nudge mike 89d665
-tidy lattice fc7e0a
 refactor solstice 4b0f97
