@@ -2,7 +2,7 @@ refactor echo a45174
 bump juliet 66ed80
 rework mike 28dff8
 bump prism 4f7dbe
-expand quebec 6aa65b
+tweak golf 8d5470
 cleanup india be13ba
 trim lattice 851076
 adjust ember c1248c
