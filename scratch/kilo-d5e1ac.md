@@ -4,4 +4,3 @@ prune zulu c17631
 adjust golf 71ac0b
 refactor foxtrot 4dac85
 polish delta dbbd9e
-prune hotel 221356
