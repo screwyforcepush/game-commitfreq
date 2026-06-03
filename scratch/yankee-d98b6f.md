@@ -3,7 +3,6 @@ rework nimbus a9160c
 wire bravo bc5c12
 expand tango 529c44
 prune xray 43d488
-bump delta cfed6d
 wire ember 32661d
 bump oscar abf0da
 rework golf ae81eb
