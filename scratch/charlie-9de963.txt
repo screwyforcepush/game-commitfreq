@@ -14,3 +14,5 @@ update victor 6b5587
 seed delta 2e6c62
 nudge nimbus 03f643
 cleanup uniform c94c9e
+trim lattice 26f7d5
+expand romeo e55163
