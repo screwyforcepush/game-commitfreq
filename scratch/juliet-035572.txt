@@ -1,3 +1,0 @@
-seed zulu 8f631c
-nudge foxtrot ab11d6
-refactor oscar 266bb3
