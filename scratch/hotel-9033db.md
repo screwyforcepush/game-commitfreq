@@ -7,3 +7,6 @@ tweak uniform f15cab
 cleanup echo cbac45
 update nimbus b9a77a
 trim delta 12d6b8
+tweak prism 82e7e8
+polish solstice 74e177
+adjust uniform 8d4f46
