@@ -1,4 +1,0 @@
-trim hotel 855540
-adjust yankee a4a51b
-refactor victor 0bdb61
-nudge victor 18edd0
