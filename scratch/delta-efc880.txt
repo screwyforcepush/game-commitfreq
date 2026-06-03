@@ -7,3 +7,6 @@ wire oscar f685c7
 tidy alpha 8dee23
 nudge hotel fb2cb6
 wire quebec 08776c
+tweak kilo 8d172b
+adjust golf b7268d
+tweak hotel d37f79
