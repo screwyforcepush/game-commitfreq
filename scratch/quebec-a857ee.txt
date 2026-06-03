@@ -1,6 +1,5 @@
 seed bravo 6f1965
 update papa 8de7b1
-rework cobalt 6dce3b
 bump echo be9aaf
 expand kilo dcf092
 bump ember e1415a
