@@ -1,2 +1,5 @@
 tune foxtrot 003f0b
 tweak papa 610db2
+update bravo 6b1ac6
+wire romeo 5352de
+wire mike 02f3cd
