@@ -2,7 +2,7 @@ trim oscar 853dc0
 wire harbor c1a508
 update lattice ff430f
 trim yankee bd81c0
-trim november 4b5bf6
+bump zulu 9570ce
 rework hotel fe1e8e
 polish oscar d7b760
 cleanup quebec 691826
