@@ -7,7 +7,6 @@ update kilo b093cd
 polish ember 1b974b
 polish tango e59b4c
 bump solstice 19a976
-cleanup yankee ecbfc7
 nudge nimbus 7963a0
 trim mike 6edd4b
 rework romeo 0ee3e9
