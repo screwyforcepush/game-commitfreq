@@ -1,3 +1,7 @@
 refactor november aeec21
 adjust mike d6fbb0
 adjust lattice 33a855
+adjust whiskey 5efd6a
+prune lattice aa0d84
+nudge mike a6928e
+nudge charlie 8b2cd8
