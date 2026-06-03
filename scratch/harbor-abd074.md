@@ -4,3 +4,5 @@ expand sierra 57fce6
 seed zulu ff87a1
 bump oscar 5fd29d
 nudge whiskey 5f757c
+bump xray ef8a2c
+expand lattice f0db9c
