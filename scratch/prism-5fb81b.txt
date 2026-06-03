@@ -1,5 +1,4 @@
 tidy xray 271ef0
-wire ember cc6871
 seed ember 16b818
 wire delta 28e634
 cleanup oscar cc0b4a
