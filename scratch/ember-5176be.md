@@ -4,7 +4,6 @@ trim lattice 1d20ea
 bump romeo f50c48
 rework india 4309fd
 bump whiskey 331816
-tweak solstice b7bd9d
 tweak foxtrot 218769
 update lima ef3220
 polish yankee 9b2926
