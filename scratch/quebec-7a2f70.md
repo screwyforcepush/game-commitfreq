@@ -4,7 +4,6 @@ tidy golf bb511d
 cleanup lima cc5a1d
 adjust november bf0e0f
 nudge nimbus 5641c2
-rework cobalt 1031b0
 prune charlie bc2d11
 trim zulu dcbf6c
 tweak harbor cfd0cf
