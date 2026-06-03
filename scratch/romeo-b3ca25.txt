@@ -1,7 +1,0 @@
-tune juliet ef0614
-tune tango 665234
-prune foxtrot b0598a
-prune delta 9ed693
-seed golf 491e8a
-nudge quebec fbbc0c
-cleanup mike 9031b2
