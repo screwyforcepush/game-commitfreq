@@ -14,3 +14,5 @@ bump ember 51268f
 rework xray 1e1804
 rework juliet 78ed87
 refactor foxtrot 400090
+nudge nimbus bce14c
+nudge yankee 8231e6
