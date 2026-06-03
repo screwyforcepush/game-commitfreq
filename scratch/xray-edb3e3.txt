@@ -3,5 +3,4 @@ nudge quebec 0a2b8d
 tidy lattice b22076
 prune tango a00599
 tidy delta 17836c
-tweak tango e6bab1
 adjust mike bf3d56
