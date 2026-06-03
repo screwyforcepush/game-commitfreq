@@ -3,3 +3,7 @@ tweak prism 2184cf
 trim papa dbee59
 tune xray cec361
 expand oscar 31c620
+polish whiskey 7336d1
+trim kilo f5e84a
+tidy mike c1deef
+nudge mike 039be3
