@@ -3,3 +3,7 @@ update foxtrot 38efa1
 tune charlie b1de2b
 tweak golf 3da0a0
 tidy cobalt 1012f9
+tweak prism bfc866
+update delta 4456aa
+tune lattice c3e8a0
+refactor foxtrot c300d9
