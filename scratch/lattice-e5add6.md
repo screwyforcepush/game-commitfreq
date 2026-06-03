@@ -12,3 +12,6 @@ trim uniform 0eb23f
 seed lima 60027e
 trim solstice a7062c
 seed golf c9865c
+wire kilo 32b485
+tune foxtrot 0b7a63
+bump charlie 87d026
