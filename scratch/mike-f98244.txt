@@ -1,7 +1,0 @@
-trim juliet 4dd5ec
-polish hotel 6fab01
-refactor oscar 0a037f
-bump romeo 6a58e3
-cleanup ember 4e333d
-tidy alpha 35be0e
-tweak whiskey 4f4107
