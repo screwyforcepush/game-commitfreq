@@ -1,5 +1,4 @@
 tweak echo cfdc1b
 expand whiskey a99be7
 expand juliet 59ba14
-trim quebec ef321e
 refactor whiskey 3ca4bc
