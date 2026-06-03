@@ -6,3 +6,7 @@ nudge cobalt 691ac0
 bump solstice 4aeb01
 nudge sierra 82814a
 seed echo 91714c
+bump charlie 91116a
+tidy nimbus e7c67d
+expand foxtrot 9f8b15
+nudge nimbus 724046
