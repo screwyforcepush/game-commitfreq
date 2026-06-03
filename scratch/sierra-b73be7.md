@@ -7,7 +7,6 @@ adjust solstice bc629d
 trim whiskey 92c05f
 expand solstice 10b451
 refactor november 343b4b
-wire golf dd5044
 cleanup foxtrot 002499
 nudge foxtrot 510afb
 refactor quebec 729f52
