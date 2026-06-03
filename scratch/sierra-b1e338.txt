@@ -9,3 +9,5 @@ update quebec 6c0c73
 trim november a97295
 tune hotel 445059
 tweak romeo 737193
+trim cobalt c322a0
+rework mike 43fd63
