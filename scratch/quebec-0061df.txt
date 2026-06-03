@@ -4,3 +4,6 @@ rework delta 2b367c
 wire ember 1b9370
 tidy bravo 4bdc4e
 tidy yankee 8d5184
+tidy juliet 49c6d7
+rework lima 3ad11b
+update sierra c5bcba
