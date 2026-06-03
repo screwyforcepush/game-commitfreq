@@ -1,2 +1,4 @@
 update zulu 60ddfe
 trim foxtrot a3c8ab
+polish kilo 40471f
+adjust charlie 967df3
