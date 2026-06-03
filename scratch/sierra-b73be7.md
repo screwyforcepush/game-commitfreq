@@ -2,7 +2,6 @@ update prism 6a6922
 update lima 073aaa
 tweak delta da246c
 cleanup cobalt 83ada7
-wire sierra e72d7b
 adjust solstice 4eeeb7
 adjust solstice bc629d
 trim whiskey 92c05f
