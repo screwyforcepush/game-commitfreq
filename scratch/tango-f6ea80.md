@@ -5,3 +5,5 @@ tune mike 269dd7
 bump solstice 7b9a13
 tweak echo c19a8e
 seed hotel 6050af
+adjust sierra 29ef5e
+tune papa c08010
