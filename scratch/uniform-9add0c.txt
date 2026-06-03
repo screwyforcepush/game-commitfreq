@@ -15,3 +15,5 @@ cleanup delta 60a981
 adjust nimbus c08a68
 tune ember 1c3b27
 bump bravo 4c5485
+refactor golf d4ebf2
+tidy lattice 826841
