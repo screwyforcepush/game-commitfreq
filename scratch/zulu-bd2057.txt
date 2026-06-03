@@ -3,5 +3,4 @@ refactor victor ab0b07
 cleanup foxtrot cf776b
 bump prism 25ed6f
 tweak golf 638a11
-expand uniform f7466c
 refactor november 5ef4ca
