@@ -4,3 +4,7 @@ wire hotel 156ea4
 wire whiskey 86e64e
 nudge foxtrot 14a255
 tune mike f93882
+prune kilo 5a1fd2
+tune juliet 4dca73
+tune tango 43044f
+bump whiskey d46c70
