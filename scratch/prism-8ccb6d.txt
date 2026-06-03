@@ -4,7 +4,6 @@ wire quebec ea36dc
 expand solstice eeb0ee
 rework delta 839c23
 rework whiskey 585f70
-expand prism c7aa9b
 bump india 87394d
 expand foxtrot faf86b
 cleanup bravo b29d4a
