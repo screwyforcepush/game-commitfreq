@@ -1,4 +1,4 @@
-wire nimbus ceb376
+trim prism c76213
 wire sierra 5b4cd8
 prune xray 5d0ac4
 rework victor 846a53
