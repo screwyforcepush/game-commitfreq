@@ -1,8 +1,0 @@
-wire delta 53afc9
-tidy uniform 07d491
-refactor quebec e24c5c
-seed ember 68e9c9
-nudge oscar f292c5
-prune golf 6107b8
-update alpha f53916
-bump kilo 618b51
