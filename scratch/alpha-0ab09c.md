@@ -11,3 +11,6 @@ adjust foxtrot c6a0e8
 trim papa cb2487
 seed golf efe9db
 expand solstice a02d6b
+trim alpha bd1119
+nudge sierra a75ee0
+tweak zulu 777868
