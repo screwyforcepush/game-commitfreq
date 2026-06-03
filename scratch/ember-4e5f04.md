@@ -3,7 +3,6 @@ nudge lattice 3c3f91
 rework delta b65ded
 seed echo e3b02f
 update whiskey 9382e6
-prune quebec 563837
 refactor mike 431ceb
 tune india 464bd2
 wire lima 3e071b
