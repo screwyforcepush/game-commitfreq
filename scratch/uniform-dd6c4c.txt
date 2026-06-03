@@ -5,3 +5,6 @@ prune alpha 86a985
 refactor kilo 4964fc
 prune november 3ca9cf
 expand lattice 6d86cd
+refactor foxtrot 5bfc7b
+polish prism 0e47f6
+rework kilo fcb81d
