@@ -5,4 +5,4 @@ update tango 0b3eaf
 wire echo 7808fa
 cleanup sierra eefc8c
 seed nimbus e08740
-bump echo 085b07
+update november 85d29b
