@@ -1,5 +1,0 @@
-cleanup cobalt 60c1b8
-adjust quebec 81934b
-refactor oscar 8d3861
-refactor juliet 95fa1c
-rework alpha 770fe3
