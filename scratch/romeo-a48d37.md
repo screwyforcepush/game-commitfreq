@@ -8,3 +8,5 @@ tweak echo ab045c
 refactor kilo cc2784
 prune alpha 98fb35
 polish echo e3d3cc
+tune kilo fd2ce3
+seed xray ddd1b2
