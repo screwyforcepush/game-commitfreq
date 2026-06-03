@@ -1,3 +1,0 @@
-trim golf a78bbd
-seed delta d1045c
-trim uniform 5701ff
