@@ -5,3 +5,7 @@ nudge sierra a2d13e
 tune quebec 01eed0
 tune foxtrot 9163ea
 seed solstice c45be6
+tune charlie 86cac1
+tune delta eb7bd3
+tidy victor 8eec2f
+cleanup november e0a35a
