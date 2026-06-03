@@ -1,2 +1,2 @@
-prune nimbus 256933
+refactor xray ec7188
 prune delta 1d4d4a
