@@ -1,4 +1,3 @@
-prune lima f76878
 seed zulu 77a246
 prune prism d2f4f6
 polish echo 75ecbd
