@@ -14,7 +14,6 @@ cleanup mike 95d1b6
 wire nimbus d14336
 update prism bfb117
 prune papa 168704
-cleanup nimbus a4bec7
 tidy bravo f4925e
 refactor sierra 7f57d8
 tidy harbor b87193
