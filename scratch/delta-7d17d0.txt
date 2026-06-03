@@ -1,0 +1,6 @@
+adjust nimbus d095b9
+expand lima 53cbef
+nudge cobalt 826256
+tweak lattice 7b4135
+adjust harbor 60e0dc
+tweak uniform 0c1c7f
