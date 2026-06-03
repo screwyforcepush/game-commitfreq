@@ -1,4 +1,3 @@
-update sierra 6203d8
 prune november 6a7f71
 seed zulu 273a40
 bump whiskey 9d36c1
