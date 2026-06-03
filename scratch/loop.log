@@ -191646,3 +191646,4 @@ To https://github.com/screwyforcepush/game-commitfreq.git
 320/633  wip: rework xray for solstice                 drop xray-53302c.dat
 321/633  wip: adjust november (b2b07d)                 drop quebec-375da1.csv
 322/633  fix: prune lima for papa                      drop quebec-314b4d.log
+323/633  fix: prism bumps                              rename hotel-93fda0.log -> bravo-a24d4a.csv
