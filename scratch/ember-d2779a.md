@@ -5,3 +5,7 @@ update tango f6f44f
 cleanup hotel 7773df
 cleanup delta b7130a
 cleanup hotel 636ee3
+bump alpha 7c3425
+cleanup victor 363eee
+polish india 23ff0f
+bump quebec 08e068
