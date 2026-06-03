@@ -1,7 +1,6 @@
 tweak golf 1bdbba
 tweak november 396de6
 tweak ember 5fbdc6
-tweak sierra 788991
 tune lattice 632ed7
 wire zulu 613a3b
 prune yankee aa6ccd
