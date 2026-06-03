@@ -7,5 +7,4 @@ wire lattice d600f9
 nudge india 96c445
 expand uniform 36947a
 bump prism 87489d
-bump sierra 6cac6b
 polish alpha 467091
