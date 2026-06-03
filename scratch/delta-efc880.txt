@@ -5,7 +5,7 @@ tune whiskey 5f24b4
 prune romeo b0dbdb
 wire oscar f685c7
 tidy alpha 8dee23
-nudge hotel fb2cb6
+nudge sierra 7422aa
 wire quebec 08776c
 tweak kilo 8d172b
 adjust golf b7268d
