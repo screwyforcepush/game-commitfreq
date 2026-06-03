@@ -3,7 +3,6 @@ wire hotel 01f3d7
 polish solstice 835614
 tidy harbor 967e92
 prune charlie 808c90
-wire zulu ba3ca9
 polish delta a092c7
 rework papa 629387
 trim harbor c48775
