@@ -1,7 +1,6 @@
 update prism 6a6922
 refactor quebec e935d5
 tweak delta da246c
-polish echo 73fd40
 cleanup cobalt 83ada7
 trim romeo 79ef16
 adjust solstice 4eeeb7
