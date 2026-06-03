@@ -15,3 +15,4 @@ bump quebec 95f55d
 adjust victor 415bbc
 nudge juliet d914b0
 bump xray 7eae18
+tune nimbus 348b5e
