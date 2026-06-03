@@ -5,7 +5,7 @@ tweak uniform c82bdc
 refactor whiskey 64da1b
 nudge victor ac6b85
 polish harbor f25777
-refactor oscar 5bdc87
+adjust november 2195af
 polish uniform 03a567
 wire quebec c04711
 nudge quebec 9802c0
