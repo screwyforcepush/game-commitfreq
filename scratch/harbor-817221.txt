@@ -1,4 +1,3 @@
-update juliet 4041dc
 tidy yankee 9e5c16
 prune papa 64d85d
 expand bravo 2307ff
