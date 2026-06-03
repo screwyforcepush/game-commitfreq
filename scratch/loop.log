@@ -191521,3 +191521,4 @@ To https://github.com/screwyforcepush/game-commitfreq.git
 195/633  wip: bump whiskey (5502f5)                    append nimbus-540488.csv
 196/633  docs: bump sierra for quebec                  modify mike-56ce9b.csv:3
 197/633  docs: adjust solstice                         drop hotel-54862d.dat
+198/633  rework oscar                                  rename echo-ff29ad.dat -> charlie-9b7aa0.dat
