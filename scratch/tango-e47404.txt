@@ -1,4 +1,3 @@
-update lattice 59e153
 nudge juliet d7ed9f
 rework foxtrot 2b04a6
 polish lima 97aa1a
