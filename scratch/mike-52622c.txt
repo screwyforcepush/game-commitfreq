@@ -1,5 +1,4 @@
 trim nimbus 7a4d6e
-polish quebec 11c404
 tune uniform e41ada
 seed hotel fbf38b
 prune papa 66d464
