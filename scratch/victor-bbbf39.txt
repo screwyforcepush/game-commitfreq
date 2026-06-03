@@ -3,7 +3,7 @@ bump whiskey 68cd44
 bump victor 428d89
 prune uniform 52e904
 refactor prism 8b1591
-rework lima 536ff4
+adjust solstice 116a56
 rework charlie 6751e6
 update juliet c7db98
 tweak echo df7102
