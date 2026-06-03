@@ -7,3 +7,7 @@ tune mike f93882
 prune kilo 5a1fd2
 tune tango 43044f
 bump whiskey d46c70
+update oscar 7c2e69
+prune zulu acc2e1
+tweak tango edf318
+wire cobalt febecb
