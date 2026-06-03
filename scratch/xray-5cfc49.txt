@@ -12,7 +12,6 @@ polish oscar 193240
 rework charlie 47667f
 refactor solstice 17ce3b
 bump lima 7b3200
-adjust hotel 777288
 polish golf 55c40b
 prune cobalt ccc087
 polish whiskey f3d454
