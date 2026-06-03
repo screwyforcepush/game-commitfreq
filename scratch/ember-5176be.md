@@ -7,6 +7,5 @@ bump whiskey 331816
 tweak solstice b7bd9d
 tweak foxtrot 218769
 update lima ef3220
-nudge cobalt 12b192
 polish yankee 9b2926
 update bravo 1c526e
