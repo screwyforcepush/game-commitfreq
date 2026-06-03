@@ -1,5 +1,0 @@
-wire nimbus 60d9bf
-adjust kilo 64adc0
-wire alpha 03d59e
-tidy echo 08375b
-bump kilo 9ee17f
