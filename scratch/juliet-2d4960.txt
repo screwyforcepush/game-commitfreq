@@ -1,3 +1,2 @@
-seed juliet 50c61c
 polish romeo 8b6458
 nudge prism 11926d
