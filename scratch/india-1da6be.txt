@@ -12,3 +12,6 @@ wire cobalt 5a7475
 wire zulu 7552f4
 nudge yankee f9337a
 wire romeo 33390b
+bump whiskey 309aea
+tidy xray b3a905
+trim lattice baeeef
