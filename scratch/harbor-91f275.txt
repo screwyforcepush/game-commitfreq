@@ -1,5 +1,4 @@
 seed quebec c7e9b9
-prune delta c79738
 expand romeo 3e0811
 tweak bravo 04ed89
 seed solstice 29bb7b
