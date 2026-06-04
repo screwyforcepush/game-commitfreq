@@ -3,7 +3,6 @@ adjust cobalt 2215fd
 update yankee fcecc2
 update solstice 0d0fd2
 tweak lattice ed648d
-update charlie 27c09a
 tweak echo f5b9ad
 tweak alpha a94d36
 seed harbor e4cbf4
