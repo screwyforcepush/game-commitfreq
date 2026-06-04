@@ -4,4 +4,4 @@ expand victor 7c5584
 seed yankee 0f292c
 tune bravo 6e3773
 tidy whiskey b71c82
-tidy solstice b058e4
+trim yankee 72236f
