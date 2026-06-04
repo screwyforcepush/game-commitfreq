@@ -1,4 +1,3 @@
-expand solstice ea1f40
 prune bravo 276162
 expand sierra 57fce6
 seed zulu ff87a1
