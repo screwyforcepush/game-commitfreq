@@ -10,7 +10,6 @@ adjust harbor dee0e2
 refactor golf 657d36
 adjust zulu ba08ce
 adjust harbor 49c65a
-update papa 348159
 tidy hotel 25055a
 tune hotel 359767
 cleanup cobalt 551723
