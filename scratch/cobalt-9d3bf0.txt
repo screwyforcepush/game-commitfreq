@@ -14,7 +14,7 @@ rework sierra 89bd5d
 cleanup solstice 30ee4d
 update echo 40a0b1
 rework yankee 4249b3
-seed solstice fde1a2
+tidy solstice 4c7687
 wire lattice 17f427
 expand whiskey 95cc65
 prune lima de6f9e
