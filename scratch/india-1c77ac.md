@@ -4,3 +4,4 @@ prune india a2ed50
 nudge lattice 2b9653
 nudge lattice 0545cc
 update whiskey 0d9cc1
+tidy lattice 172635
