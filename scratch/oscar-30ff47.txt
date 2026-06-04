@@ -1,2 +1,4 @@
 trim yankee bbc0cc
 expand foxtrot cc1e3e
+trim nimbus 5b1ef1
+tweak sierra 89ee9e
