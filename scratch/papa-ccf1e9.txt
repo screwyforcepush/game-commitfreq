@@ -1,6 +1,0 @@
-refactor solstice 8c9171
-tidy tango 3197ee
-tidy delta c8ef71
-update zulu 365dac
-trim prism 6141b6
-tweak sierra 347a26
