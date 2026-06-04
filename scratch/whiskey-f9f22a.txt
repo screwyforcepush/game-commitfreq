@@ -1,4 +1,4 @@
 tidy sierra 4392d7
 update yankee fe4611
-trim foxtrot 42a162
+trim oscar f1c98c
 tidy kilo 81ce8c
