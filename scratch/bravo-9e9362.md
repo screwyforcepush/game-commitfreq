@@ -6,7 +6,7 @@ refactor uniform 69aa50
 trim uniform dd5887
 expand juliet 472e9c
 rework november ca7d10
-rework oscar c3fdd2
+tune papa b7097e
 trim charlie 42d0dd
 tidy echo 26ba6e
 polish tango 3b0bb7
