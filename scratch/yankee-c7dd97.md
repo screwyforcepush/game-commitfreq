@@ -6,3 +6,7 @@ update romeo a77f02
 wire romeo e4f396
 prune lattice 15fdc1
 polish yankee 356c2b
+seed prism fa7660
+expand lattice 9856b9
+cleanup papa 5ea4af
+tidy golf ec13a7
