@@ -11,3 +11,5 @@ bump sierra ceabc1
 expand victor 130b25
 refactor zulu d086f7
 polish delta 3f0b9a
+update echo 000dbc
+adjust xray 06cc07
