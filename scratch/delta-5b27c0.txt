@@ -2,3 +2,5 @@ adjust whiskey 605440
 seed zulu 684140
 trim zulu a4efca
 tidy ember 0efc52
+tidy foxtrot 7f79fa
+rework papa 384fea
