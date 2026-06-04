@@ -6,3 +6,5 @@ update whiskey 0842fc
 polish ember 86d2e2
 tweak quebec 455c81
 expand bravo 2e4726
+adjust kilo 440f38
+tune yankee 42356b
