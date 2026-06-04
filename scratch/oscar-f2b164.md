@@ -12,7 +12,6 @@ wire quebec 246765
 polish golf 8c0bdb
 adjust xray 632d6e
 tune bravo b5aac0
-cleanup india 4f284d
 tidy sierra 195e32
 tidy uniform bc2f84
 update lattice 4ed8c0
