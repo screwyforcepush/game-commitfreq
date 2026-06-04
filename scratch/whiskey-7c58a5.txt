@@ -2,5 +2,4 @@ refactor juliet 9d4a2e
 wire romeo f17a64
 adjust tango 3e2f4e
 tune quebec b042fa
-trim alpha 8c9bca
 cleanup delta dddb31
