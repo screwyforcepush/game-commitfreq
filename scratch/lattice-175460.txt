@@ -9,3 +9,6 @@ prune delta 8d06e1
 expand ember 19f4bc
 expand bravo 9f0636
 tidy lattice f8e45a
+seed delta 5d5e12
+tidy quebec 5275a2
+trim uniform 7dbcc4
