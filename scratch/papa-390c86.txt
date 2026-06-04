@@ -1,5 +1,0 @@
-prune november 91ce1f
-cleanup solstice 3fcc6c
-prune harbor 53c2fe
-adjust sierra 19516a
-cleanup india a754de
