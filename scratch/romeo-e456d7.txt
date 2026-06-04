@@ -1,3 +1,6 @@
 cleanup nimbus 05fb57
 tune charlie 063c6c
 trim romeo d56ea7
+seed romeo b0a86e
+adjust tango f79a58
+prune foxtrot 75afe9
