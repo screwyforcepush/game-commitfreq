@@ -12,3 +12,5 @@ expand solstice 5f006c
 prune yankee 332670
 prune echo 0a7e58
 tune nimbus 506209
+expand nimbus 118ed9
+adjust charlie 793af2
