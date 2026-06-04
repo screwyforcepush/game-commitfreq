@@ -1,6 +1,6 @@
 update xray 8696d8
 update prism 290dcf
-bump delta b2ea43
+expand kilo 13ce73
 expand whiskey eeb84f
 rework hotel a556a7
 nudge foxtrot 77f7b0
