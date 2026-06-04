@@ -7,3 +7,7 @@ tidy kilo 9d0f75
 expand juliet 472e9c
 rework november ca7d10
 rework oscar c3fdd2
+trim charlie 42d0dd
+tidy echo 26ba6e
+polish tango 3b0bb7
+tidy juliet 0097ca
