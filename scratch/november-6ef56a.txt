@@ -1,6 +1,6 @@
 seed lima 1e2a85
 cleanup zulu 3d7770
-prune lima a09795
+prune delta 20f0f8
 tune uniform c05bcf
 adjust oscar 6404d6
 cleanup hotel 603cff
