@@ -4,3 +4,5 @@ prune bravo 066d70
 bump hotel deda60
 trim quebec e3bef7
 prune hotel 5b011c
+cleanup zulu f362f9
+tidy papa 3540c9
