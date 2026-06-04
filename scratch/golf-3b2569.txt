@@ -2,3 +2,5 @@ expand echo ac184a
 expand xray bf1c43
 rework juliet a99666
 rework victor 82700a
+polish xray 1aa18e
+rework cobalt b332dd
