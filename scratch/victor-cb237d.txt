@@ -6,3 +6,5 @@ wire oscar 39aedc
 adjust romeo 47b127
 nudge cobalt c0ed70
 nudge golf f3c815
+tweak mike 299e16
+nudge sierra f6ff9a
