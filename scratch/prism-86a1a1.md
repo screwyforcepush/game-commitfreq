@@ -5,3 +5,7 @@ refactor whiskey 1863cd
 tidy yankee a369c1
 bump charlie beb260
 trim golf b8049e
+rework sierra de276e
+adjust oscar d607cd
+trim oscar 12f394
+tune harbor c47751
