@@ -1,7 +1,6 @@
 refactor golf d0d6da
 polish november 8de33a
 expand sierra ae9191
-expand echo 224004
 tune lima f464b2
 nudge lattice ab8c0f
 tune nimbus e22269
