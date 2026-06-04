@@ -1,2 +1,1 @@
-seed hotel 2c1cbe
 prune india d3c4d0
