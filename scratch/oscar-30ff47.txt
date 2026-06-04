@@ -1,4 +1,4 @@
 trim yankee bbc0cc
-polish quebec b58d9c
+tidy bravo 103b93
 trim nimbus 5b1ef1
 tweak sierra 89ee9e
