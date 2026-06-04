@@ -1,3 +1,0 @@
-prune quebec ad987b
-seed alpha 6a4b7c
-tune quebec 8bfcf2
