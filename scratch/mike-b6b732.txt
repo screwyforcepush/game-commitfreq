@@ -1,6 +1,0 @@
-adjust quebec b622fd
-polish prism 600381
-bump tango d78a88
-tune nimbus 2c3865
-tidy alpha e3972f
-rework whiskey 6fdebb
