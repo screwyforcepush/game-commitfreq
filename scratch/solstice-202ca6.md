@@ -5,5 +5,4 @@ rework echo 4a5205
 prune juliet ea9f80
 update yankee fc4a6a
 adjust charlie 24d231
-tune xray 9b0d25
 update zulu e7912b
