@@ -1,2 +1,2 @@
-trim hotel 5106f0
+tidy quebec c7d26a
 expand charlie cd0673
