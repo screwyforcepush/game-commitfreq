@@ -10,3 +10,6 @@ expand yankee ce1f2b
 refactor papa e04fec
 tweak zulu 2d439d
 tweak lima 60a828
+tidy delta 97ad37
+tune golf a96908
+refactor oscar f6301c
