@@ -1,4 +1,3 @@
-trim bravo e3c0cd
 wire hotel 1a5b25
 polish oscar 786e44
 nudge lattice 210e77
