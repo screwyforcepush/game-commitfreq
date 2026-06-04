@@ -10,3 +10,5 @@ adjust nimbus 88536c
 adjust xray 5fce23
 refactor whiskey 3d8ca2
 trim alpha cafa78
+polish november fdac5d
+rework alpha c08882
