@@ -1,6 +1,0 @@
-trim echo 79c180
-prune november 027c97
-tune foxtrot 399edc
-rework bravo 02f99c
-rework xray 4c357a
-polish tango c375ab
