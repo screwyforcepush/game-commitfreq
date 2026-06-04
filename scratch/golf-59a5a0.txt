@@ -4,7 +4,6 @@ trim november 96e147
 seed lima 51f7fd
 polish cobalt f3c740
 expand yankee 04b778
-update oscar 830439
 expand xray cea011
 tune bravo 88bab5
 seed foxtrot 1a2149
