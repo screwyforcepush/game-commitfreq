@@ -1,5 +1,0 @@
-trim oscar 5948ed
-adjust echo 49270c
-seed cobalt 87495a
-tweak oscar d41cbc
-polish victor 024e13
