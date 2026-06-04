@@ -1,5 +1,5 @@
 tweak solstice fe4f95
 adjust zulu 17c89e
-adjust alpha 55b8e9
+tidy alpha 0dc10c
 seed charlie 7e6c7b
 nudge zulu c6d7c8
