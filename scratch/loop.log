@@ -201856,3 +201856,4 @@ To https://github.com/screwyforcepush/game-commitfreq.git
 583/600  fix: cleanup alpha                            rename kilo-016505.txt -> lima-f6b89b.csv
 584/600  trim xray for juliet                          create echo-1fa48b.csv
 585/600  seed quebec tango                             trim echo-14903a.dat:2
+586/600  docs: tidy kilo for charlie                   rename nimbus-7cefbb.dat -> charlie-5f9c8a.txt
