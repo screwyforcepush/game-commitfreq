@@ -13,3 +13,4 @@ wire hotel e5f6db
 tune quebec 0ffeb3
 wire cobalt 05ccc5
 seed november 8eba16
+polish xray 2f97d6
