@@ -5,3 +5,6 @@ trim india 84b205
 seed lima 51f7fd
 polish cobalt f3c740
 expand yankee 04b778
+polish lattice 523879
+expand xray cea011
+tune bravo 88bab5
