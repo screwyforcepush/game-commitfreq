@@ -7,7 +7,6 @@ rework hotel 720419
 tune golf 8b1056
 polish xray 6437fd
 cleanup cobalt 13d9a7
-rework sierra 33760b
 rework solstice 6e0c15
 tune oscar d81cc2
 cleanup lattice 440558
