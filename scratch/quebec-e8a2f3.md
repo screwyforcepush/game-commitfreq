@@ -13,3 +13,5 @@ seed lattice 83694f
 polish quebec 939e6d
 tweak zulu d26a22
 trim uniform 78ea71
+tune quebec ed5780
+adjust bravo ad9451
