@@ -5,3 +5,7 @@ wire nimbus 3a27f4
 rework lima a4518c
 expand india 04d737
 rework whiskey a7cc2a
+wire zulu f44d3b
+expand foxtrot 29a82b
+adjust golf 7a351b
+adjust nimbus ce80ab
