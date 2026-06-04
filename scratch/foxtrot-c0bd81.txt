@@ -1,5 +1,4 @@
 tweak papa 49e238
 bump kilo 8451a0
-bump echo 1d7688
 nudge echo 461599
 refactor tango 489c8a
