@@ -17,3 +17,5 @@ refactor echo 52791c
 nudge mike dacfdf
 adjust xray cb14f5
 wire lattice 68bb2a
+rework kilo cedde3
+adjust quebec 71d9db
