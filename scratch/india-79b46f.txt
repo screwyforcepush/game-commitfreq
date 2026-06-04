@@ -1,1 +1,4 @@
 wire echo 682b59
+bump kilo c3021c
+tune papa 9f7677
+nudge uniform c61c42
