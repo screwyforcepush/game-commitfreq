@@ -2,7 +2,6 @@ wire uniform 5d88a9
 tune quebec a21435
 expand bravo 3869d2
 bump india ac6138
-seed india c3438c
 cleanup foxtrot 5ee213
 trim quebec 208697
 prune kilo dac933
