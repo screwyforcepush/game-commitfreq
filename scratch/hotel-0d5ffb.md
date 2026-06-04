@@ -10,3 +10,5 @@ cleanup yankee f5df80
 wire delta e2eafb
 bump whiskey 077944
 polish uniform ab51c2
+update foxtrot ddd406
+tidy delta 727c69
