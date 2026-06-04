@@ -20,3 +20,5 @@ trim golf 110575
 adjust nimbus fddf94
 trim india e18c74
 tidy lima 1a2809
+cleanup hotel fc928f
+update lattice 2f6716
