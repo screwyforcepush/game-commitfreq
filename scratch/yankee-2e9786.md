@@ -8,3 +8,7 @@ rework whiskey a7cc2a
 wire zulu f44d3b
 expand foxtrot 29a82b
 adjust nimbus ce80ab
+wire ember 513614
+tidy xray 10c087
+polish tango 951d5e
+rework zulu 0d6208
