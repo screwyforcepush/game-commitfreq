@@ -13,3 +13,7 @@ tune charlie 6d145b
 expand echo ea2d4e
 cleanup mike 7ef38b
 trim zulu a11c9c
+tweak zulu b66dc4
+seed echo 8de1c4
+nudge uniform 1b3d34
+refactor sierra 170311
