@@ -4,3 +4,4 @@ tidy cobalt b0fa9b
 seed solstice eeccf9
 tidy tango 67a532
 seed ember 9c7826
+wire lattice d5901a
