@@ -21,3 +21,5 @@ cleanup kilo 219734
 nudge hotel 19449a
 tune echo 04131e
 nudge ember 18904c
+wire kilo 794cb6
+cleanup echo 3134cf
