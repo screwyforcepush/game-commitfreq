@@ -5,3 +5,5 @@ tweak bravo 4f816b
 adjust nimbus 895319
 polish whiskey ff442e
 tune quebec f114a2
+adjust xray c7cf7d
+bump nimbus f482c8
