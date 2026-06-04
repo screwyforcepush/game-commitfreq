@@ -8,3 +8,5 @@ cleanup delta 48b69d
 update oscar d2a577
 rework kilo 81acc7
 rework romeo dee6d7
+refactor hotel 5dfb77
+trim foxtrot 7c2696
