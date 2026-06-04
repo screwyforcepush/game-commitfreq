@@ -3,3 +3,4 @@ seed romeo cb4779
 expand tango 62215c
 rework lima 58eb87
 adjust whiskey 020a2a
+seed solstice fdc46a
