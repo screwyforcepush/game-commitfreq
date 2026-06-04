@@ -6,7 +6,7 @@ expand charlie dfd2a8
 rework mike d6438e
 tidy lattice 1528a5
 adjust ember 18a60e
-rework prism 6a0942
+tidy kilo 889a68
 wire yankee 87f42b
 polish nimbus ff7ffb
 refactor victor 48f84e
