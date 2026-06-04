@@ -3,7 +3,7 @@ bump echo d563b7
 tune victor b2cb4a
 polish sierra e35d67
 wire alpha a8dccb
-bump quebec 80045d
+prune sierra 069e83
 nudge golf b568e0
 prune cobalt b920a2
 tune nimbus 4c5f38
