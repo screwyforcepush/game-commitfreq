@@ -1,7 +1,6 @@
 bump echo 4a3995
 wire mike 16bd6b
 refactor ember cfcfca
-refactor kilo 3adf50
 update echo ec53a2
 tweak xray 1f0e71
 update delta 2bf436
