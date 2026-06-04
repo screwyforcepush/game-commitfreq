@@ -27,3 +27,5 @@ update tango d371cb
 trim delta e32f64
 wire xray 7f796c
 tune tango 37b4cf
+trim prism 71c3a2
+trim kilo d4a282
