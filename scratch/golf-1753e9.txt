@@ -1,3 +1,6 @@
 expand quebec 098832
 tune oscar 3bb244
 wire zulu 5bd7d7
+wire echo b5843d
+tweak harbor b9b89b
+tidy whiskey c514b4
