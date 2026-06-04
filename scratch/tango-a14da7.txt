@@ -3,7 +3,6 @@ expand kilo b51eaa
 update sierra 776d96
 cleanup yankee c72302
 nudge mike b0100f
-seed papa e16886
 prune sierra 008511
 polish sierra d6d056
 seed papa 740732
