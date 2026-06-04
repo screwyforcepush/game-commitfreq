@@ -1,4 +1,4 @@
 tidy victor 335e42
 trim cobalt 9ae823
 expand delta dedb3c
-cleanup quebec 20bd04
+tidy solstice 515c52
