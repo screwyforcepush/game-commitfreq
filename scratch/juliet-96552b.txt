@@ -3,3 +3,5 @@ cleanup quebec 01189d
 nudge zulu a844f4
 adjust nimbus 70481c
 update tango 45ba81
+trim solstice 8ecd4e
+update tango ddabde
