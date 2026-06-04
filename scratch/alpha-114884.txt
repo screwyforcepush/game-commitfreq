@@ -18,3 +18,6 @@ tidy delta 25e333
 expand juliet f4bc16
 tune oscar 315c6a
 adjust romeo 2f169d
+bump sierra d83431
+polish yankee 43b721
+nudge delta 27a357
