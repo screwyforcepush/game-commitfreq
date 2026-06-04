@@ -6,7 +6,7 @@ seed prism fcc8fc
 bump echo 99fc39
 expand delta 8dd0d6
 refactor harbor 88e9b2
-bump cobalt bc5609
+expand foxtrot 5a34f0
 wire echo e2877d
 seed ember 335bfc
 tune kilo 2f1783
