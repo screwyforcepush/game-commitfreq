@@ -14,3 +14,6 @@ tune kilo 018bd9
 prune india e36a17
 cleanup nimbus 4156d9
 seed delta 34204e
+wire nimbus 074ac8
+rework whiskey 51ddf8
+wire delta a33f6d
