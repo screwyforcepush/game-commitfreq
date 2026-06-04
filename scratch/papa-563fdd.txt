@@ -1,4 +1,3 @@
-adjust quebec be105b
 seed kilo 089ad9
 tidy tango 927030
 tune kilo a7fb1d
