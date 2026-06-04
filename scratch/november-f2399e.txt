@@ -1,7 +1,6 @@
 prune bravo 276162
 nudge delta 1ad706
 seed zulu ff87a1
-nudge whiskey 5f757c
 bump xray ef8a2c
 expand lattice f0db9c
 tidy november 37489b
