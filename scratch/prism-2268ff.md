@@ -8,3 +8,5 @@ update nimbus 79becc
 tweak november 38ea8c
 polish bravo 4c31da
 cleanup solstice b89b99
+seed hotel f33aef
+trim bravo 7700f1
