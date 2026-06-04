@@ -4,7 +4,6 @@ prune bravo f4a18c
 tidy xray a9a9b0
 bump cobalt 36ea39
 wire bravo 6dffda
-prune yankee 344113
 cleanup mike 21c09b
 adjust uniform 7ca8c8
 tidy whiskey 2977ea
