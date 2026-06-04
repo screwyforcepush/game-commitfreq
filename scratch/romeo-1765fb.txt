@@ -1,3 +1,7 @@
 rework yankee ed9c7c
 tune victor 7a8556
 update xray e5f189
+tidy yankee a35c5b
+refactor kilo 8c6d4e
+refactor uniform c02a18
+rework kilo 74ec28
