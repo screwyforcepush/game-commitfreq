@@ -18,3 +18,6 @@ nudge solstice 70142e
 expand cobalt ad2db5
 trim tango 955368
 seed echo 332485
+bump golf b39606
+tidy xray 7a8f6b
+polish mike d9025b
