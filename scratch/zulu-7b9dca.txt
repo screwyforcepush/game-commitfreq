@@ -1,2 +1,0 @@
-cleanup sierra 8fd8ce
-seed lattice ce27c9
