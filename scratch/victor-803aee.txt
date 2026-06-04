@@ -1,2 +1,1 @@
-seed quebec 4ba3ef
 prune bravo ddc896
