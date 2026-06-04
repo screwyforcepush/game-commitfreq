@@ -15,3 +15,7 @@ tune yankee b1762e
 cleanup delta 99f5a7
 wire victor 1bc1a1
 rework sierra d0c6ab
+rework kilo 54f73b
+expand nimbus 2ec98f
+adjust xray 0f5f94
+adjust foxtrot 88f08d
