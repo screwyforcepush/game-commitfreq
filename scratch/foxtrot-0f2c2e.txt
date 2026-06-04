@@ -17,3 +17,5 @@ adjust bravo 4dfd09
 cleanup november 674165
 tidy nimbus bda31d
 cleanup solstice c6fb99
+rework hotel bfb814
+refactor echo bbcaa2
