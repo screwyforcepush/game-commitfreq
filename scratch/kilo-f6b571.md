@@ -8,3 +8,4 @@ tune sierra 40e8b6
 seed echo 562846
 nudge xray 2951c3
 trim kilo 9c7d21
+tweak juliet 5a7805
