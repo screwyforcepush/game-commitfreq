@@ -1,6 +1,6 @@
 update nimbus 691182
 update yankee acd0f7
-seed papa fce60d
+wire papa 7ac30c
 nudge november be8e16
 cleanup echo 610614
 wire solstice 916560
