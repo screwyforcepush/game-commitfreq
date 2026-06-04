@@ -1,5 +1,4 @@
 update nimbus 691182
-update yankee acd0f7
 wire papa 7ac30c
 nudge november be8e16
 cleanup echo 610614
