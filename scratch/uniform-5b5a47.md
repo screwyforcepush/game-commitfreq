@@ -19,3 +19,7 @@ expand nimbus 2ec98f
 adjust xray 0f5f94
 adjust hotel bb8ade
 polish tango f8e7a7
+expand uniform ce9afc
+wire india 0a28c7
+wire xray 35e19d
+tweak solstice ed86e9
