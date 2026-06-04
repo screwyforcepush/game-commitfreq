@@ -1,0 +1,5 @@
+tune tango 3c06ae
+adjust yankee 45451e
+tune juliet 568c21
+cleanup zulu ea06ac
+adjust cobalt b1a147
