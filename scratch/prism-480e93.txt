@@ -1,5 +1,4 @@
 adjust yankee dfbcba
-expand nimbus 8622d2
 cleanup november 323ede
 expand hotel 7c6c2d
 bump delta 232cd2
