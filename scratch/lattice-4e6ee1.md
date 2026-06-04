@@ -10,7 +10,6 @@ tune juliet 662aa3
 update uniform 6de4b4
 tweak xray c48e99
 bump charlie 74c304
-tidy cobalt c39163
 tweak ember 576f55
 update romeo 1b3940
 cleanup harbor f8de2b
