@@ -12,3 +12,5 @@ tweak bravo 3da781
 trim romeo d3ad30
 nudge charlie 64b86d
 tweak whiskey 315cba
+seed india f4e788
+polish yankee 5150dc
