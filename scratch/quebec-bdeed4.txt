@@ -3,3 +3,6 @@ trim harbor cd0a81
 wire quebec f81330
 rework sierra 6ac71e
 adjust echo 2bdf34
+adjust romeo e0192d
+cleanup tango fb1e0b
+polish delta a0d40b
