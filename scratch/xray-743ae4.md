@@ -1,4 +1,4 @@
-prune zulu 1cd279
+cleanup sierra eb02c9
 prune cobalt c3c2de
 seed golf ca2e2a
 bump kilo 76a5f4
