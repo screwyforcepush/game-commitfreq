@@ -1,1 +1,2 @@
 trim solstice 4aff8c
+prune delta a68b70
