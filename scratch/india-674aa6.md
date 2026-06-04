@@ -1,4 +1,3 @@
-nudge oscar c0b1bb
 nudge papa 789e39
 polish charlie d4c3a6
 tune delta 6ed859
