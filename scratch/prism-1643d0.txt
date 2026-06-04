@@ -8,3 +8,6 @@ tweak xray 013bbc
 expand papa 67251c
 refactor charlie 0a3f21
 expand solstice 0e01d3
+tweak tango d1fece
+polish hotel 81ac0a
+rework romeo 0c6586
