@@ -7,3 +7,6 @@ wire uniform ce26b8
 trim victor fdfab6
 bump november 065feb
 nudge whiskey 7f69d0
+trim bravo de0443
+expand delta 71ceb6
+tweak ember 139e3a
