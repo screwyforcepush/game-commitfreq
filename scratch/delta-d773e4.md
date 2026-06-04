@@ -6,6 +6,6 @@ wire alpha a8dccb
 bump quebec 80045d
 nudge golf b568e0
 prune cobalt b920a2
-rework hotel dd3fb2
+tune nimbus 4c5f38
 adjust lattice 3d4f8c
 rework harbor b4be17
