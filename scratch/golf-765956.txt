@@ -1,1 +1,2 @@
 prune sierra 67adf8
+prune zulu e83cda
