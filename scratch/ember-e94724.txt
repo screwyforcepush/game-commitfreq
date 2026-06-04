@@ -1,3 +1,0 @@
-bump yankee 3a25fd
-update lima 225ba2
-update solstice 0af12a
