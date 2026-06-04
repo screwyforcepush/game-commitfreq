@@ -8,3 +8,6 @@ adjust nimbus 052b3b
 bump zulu a725ec
 bump romeo 92b7da
 prune sierra 1bdab4
+nudge kilo 0345e4
+expand echo 1d6fd5
+cleanup golf fde5da
