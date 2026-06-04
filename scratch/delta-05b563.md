@@ -9,3 +9,5 @@ cleanup yankee 521a0a
 update lattice 1c2642
 bump echo 31bb29
 trim golf 8a99a6
+trim quebec 136d53
+seed oscar 5207f7
