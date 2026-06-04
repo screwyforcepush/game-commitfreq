@@ -1,6 +1,6 @@
 trim nimbus 920dee
 cleanup quebec 01189d
 nudge zulu a844f4
-trim juliet e221d5
+wire oscar 8b7df9
 adjust nimbus 70481c
 update tango 45ba81
