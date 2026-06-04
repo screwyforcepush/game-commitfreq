@@ -1,5 +1,4 @@
 polish mike fcc85f
 tune mike e5307c
 tune golf d4a930
-seed cobalt a8766f
 seed november abf5aa
