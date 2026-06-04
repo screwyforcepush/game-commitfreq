@@ -7,3 +7,7 @@ tweak india 094dda
 tweak mike cfbca5
 tidy india f92bf0
 wire victor 59df37
+bump zulu c0a747
+bump yankee cff7a4
+rework kilo cafef3
+tidy uniform 3c9236
