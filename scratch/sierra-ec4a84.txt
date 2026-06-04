@@ -4,5 +4,5 @@ nudge november 9247b9
 bump tango 670842
 tweak xray 7e1d15
 trim tango e09394
-seed victor ede102
+prune november 496826
 prune delta bf1140
