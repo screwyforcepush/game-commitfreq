@@ -16,7 +16,7 @@ nudge juliet 533e9a
 update quebec c33309
 update kilo c0144e
 wire whiskey 3d4e73
-wire lattice 1ddf8d
+tune papa 395186
 adjust nimbus c521b7
 tidy xray 43ea3f
 prune yankee 51d16f
