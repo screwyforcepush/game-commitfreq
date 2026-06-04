@@ -3,6 +3,6 @@ update cobalt 6dc1f3
 prune uniform d26f7e
 polish lima 2c431f
 tidy kilo e3c99c
-bump lattice 165df4
+nudge alpha 16e671
 rework india f8cae3
 rework ember cf0bc5
