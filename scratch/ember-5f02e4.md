@@ -5,3 +5,5 @@ tweak papa 6093e7
 trim lattice 6d9a01
 tune harbor a35886
 trim uniform 72e1fd
+tidy solstice b7e6f7
+trim hotel 6de9e7
