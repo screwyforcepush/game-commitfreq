@@ -10,7 +10,6 @@ nudge delta 580a02
 polish delta 38df10
 expand oscar e0912d
 refactor echo 581369
-tidy golf 30b935
 adjust golf 90e030
 rework uniform 91b66f
 tweak prism 961b4b
