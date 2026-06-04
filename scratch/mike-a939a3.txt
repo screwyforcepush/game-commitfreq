@@ -1,7 +1,6 @@
 prune prism 85d5d9
 cleanup alpha a56513
 adjust echo ffc0c7
-prune lima 2368e0
 expand nimbus 54aa54
 trim nimbus 8836e6
 tweak papa 3e8978
