@@ -3,7 +3,6 @@ tidy hotel ae96ff
 nudge sierra a7df81
 polish lattice 275ad1
 adjust lattice c07977
-wire november 3ba323
 refactor papa c37b12
 nudge golf cb6985
 expand foxtrot d2398b
