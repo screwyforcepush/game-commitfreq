@@ -4,3 +4,6 @@ expand sierra 82b669
 nudge lima 0b081e
 polish oscar c91906
 tweak echo 7b8de7
+trim nimbus ebcc77
+prune delta 8d06e1
+expand ember 19f4bc
