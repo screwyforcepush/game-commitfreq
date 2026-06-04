@@ -1,4 +1,0 @@
-tune juliet 2ed7e8
-adjust whiskey ba12b7
-nudge charlie 798841
-seed mike 2831dd
