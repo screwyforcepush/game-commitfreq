@@ -1,3 +1,5 @@
 trim delta 17c159
 nudge zulu bf1382
 tune solstice 64888c
+wire prism 5c4854
+wire india 48c3a1
