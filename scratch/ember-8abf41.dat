@@ -13,3 +13,7 @@ wire romeo d83b9a
 tune xray 7fdaea
 prune quebec 7e6e92
 expand alpha 1570e8
+trim victor 253c68
+adjust delta 0f4df9
+trim victor 50b79b
+prune zulu 2839ca
