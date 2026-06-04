@@ -3,6 +3,5 @@ update yankee acd0f7
 wire papa 7ac30c
 nudge november be8e16
 cleanup echo 610614
-wire solstice 916560
 rework zulu 989d51
 refactor delta a0d5f3
