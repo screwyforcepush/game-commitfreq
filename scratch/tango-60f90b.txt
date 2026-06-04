@@ -4,3 +4,6 @@ seed mike f82b18
 trim bravo 8150c1
 expand lima 973679
 tweak hotel 45c342
+wire xray 106aff
+tidy whiskey 6d436b
+tune mike 875ab9
