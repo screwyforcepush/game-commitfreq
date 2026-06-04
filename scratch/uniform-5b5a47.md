@@ -11,3 +11,7 @@ cleanup yankee a89b34
 rework charlie 419ad5
 tweak charlie 689f0c
 adjust charlie f1592f
+tune yankee b1762e
+cleanup delta 99f5a7
+wire victor 1bc1a1
+rework sierra d0c6ab
