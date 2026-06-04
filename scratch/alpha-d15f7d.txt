@@ -14,7 +14,6 @@ expand charlie a050b8
 prune mike a1192d
 refactor delta 0ae602
 seed yankee 7ff6a0
-prune foxtrot 405dd7
 tweak yankee 97e935
 tweak november 76192b
 cleanup kilo 219734
