@@ -1,4 +1,3 @@
 refactor tango 86a30c
 refactor ember 5f2193
-polish yankee 412d07
 tune india bee46b
