@@ -1,4 +1,3 @@
-wire mike 68314b
 tweak cobalt f98498
 update quebec 7a27ee
 polish tango 75c62c
