@@ -4,3 +4,7 @@ expand november cf9e04
 prune harbor 614e93
 expand oscar 6e0f28
 trim kilo eaf08f
+update nimbus 79becc
+tweak november 38ea8c
+polish bravo 4c31da
+cleanup solstice b89b99
