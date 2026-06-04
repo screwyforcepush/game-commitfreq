@@ -12,3 +12,6 @@ seed delta 1f7b1b
 cleanup uniform 57e3dc
 seed lattice 3faee8
 polish xray 055646
+wire prism cb5b2e
+tidy uniform 70e5d3
+update hotel 971ccf
