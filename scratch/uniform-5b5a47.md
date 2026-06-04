@@ -19,3 +19,4 @@ rework kilo 54f73b
 expand nimbus 2ec98f
 adjust xray 0f5f94
 adjust foxtrot 88f08d
+adjust hotel bb8ade
