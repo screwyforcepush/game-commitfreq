@@ -1,3 +1,2 @@
 bump hotel 5a1a0e
-update golf 355b85
 bump whiskey 50f192
