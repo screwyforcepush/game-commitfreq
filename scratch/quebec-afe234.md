@@ -8,3 +8,5 @@ nudge mike 5e1b2a
 update xray a5185c
 polish foxtrot 093769
 tweak juliet 4d3e81
+bump nimbus 360173
+wire zulu ffb981
