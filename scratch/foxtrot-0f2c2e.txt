@@ -2,7 +2,7 @@ bump solstice 73fc5d
 tune yankee c6b050
 tidy november f6c4f7
 refactor xray 88a682
-bump ember 5dc7d2
+refactor cobalt abe63a
 tidy lima 9771e9
 cleanup juliet 5ce968
 refactor papa 039a3f
