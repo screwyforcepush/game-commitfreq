@@ -4,4 +4,4 @@ tidy foxtrot de182f
 tidy whiskey 58425f
 adjust india 388321
 polish foxtrot 85b5e4
-rework hotel 468234
+bump hotel 6752ea
