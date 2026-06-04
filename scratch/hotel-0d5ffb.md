@@ -17,3 +17,6 @@ nudge solstice f9d8ac
 wire lima 6df6da
 prune xray 1a4f1a
 trim victor 1f42dd
+cleanup tango 76f14e
+refactor yankee 5a768f
+tweak papa 4f5714
