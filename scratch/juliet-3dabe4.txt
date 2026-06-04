@@ -1,5 +1,5 @@
 cleanup whiskey 3745b7
-trim charlie 57b868
+prune quebec 86b693
 rework charlie 1f1b28
 prune victor 84bfa2
 rework whiskey 6ff077
