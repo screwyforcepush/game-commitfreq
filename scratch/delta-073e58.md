@@ -1,4 +1,4 @@
 seed alpha a5bb9e
-prune lattice f149e2
+adjust bravo 327f6e
 bump xray 08bc6c
 polish delta a0a100
