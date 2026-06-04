@@ -2,7 +2,7 @@ prune quebec 6912dd
 trim echo c43ace
 polish cobalt 778c15
 polish whiskey 0e6852
-expand sierra bb986b
+trim bravo 23f750
 refactor kilo 6160c2
 update lima 546dd5
 expand sierra 68b10e
