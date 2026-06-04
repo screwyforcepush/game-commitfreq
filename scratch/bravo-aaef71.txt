@@ -19,3 +19,7 @@ wire whiskey 3d4e73
 wire lattice 1ddf8d
 adjust nimbus c521b7
 tidy xray 43ea3f
+prune yankee 51d16f
+cleanup tango 9bcece
+expand yankee 51e6b1
+nudge harbor f187b6
