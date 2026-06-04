@@ -1,7 +1,6 @@
 cleanup sierra eb02c9
 prune cobalt c3c2de
 seed golf ca2e2a
-bump kilo 76a5f4
 adjust solstice 484324
 seed charlie 683301
 prune delta b18b34
