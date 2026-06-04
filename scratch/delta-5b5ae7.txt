@@ -3,7 +3,6 @@ bump xray 4c409b
 update alpha 774ed4
 expand hotel f96933
 bump lima 51a7a6
-wire xray 438297
 prune mike 12d59d
 tune lima 1fe266
 cleanup cobalt 2d3901
