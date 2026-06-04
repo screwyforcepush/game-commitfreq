@@ -1,3 +1,2 @@
-seed hotel 540913
 bump ember 8c0890
 expand yankee a6ced6
