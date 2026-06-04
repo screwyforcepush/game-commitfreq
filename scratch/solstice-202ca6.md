@@ -4,7 +4,6 @@ update charlie 7e3a97
 refactor lattice 552071
 adjust november 23f325
 seed kilo 1f92a0
-polish bravo e6f0e4
 cleanup sierra 4eb648
 adjust charlie 24d231
 tune xray 9b0d25
