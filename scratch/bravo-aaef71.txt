@@ -18,3 +18,5 @@ update quebec c33309
 update kilo c0144e
 wire whiskey 3d4e73
 wire lattice 1ddf8d
+adjust nimbus c521b7
+tidy xray 43ea3f
