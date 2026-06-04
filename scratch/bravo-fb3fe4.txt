@@ -11,3 +11,6 @@ cleanup kilo af0baf
 trim golf 4472bc
 update whiskey 4e5aaa
 refactor victor ae582e
+tidy india cdd605
+polish quebec c21315
+tweak xray c400d3
