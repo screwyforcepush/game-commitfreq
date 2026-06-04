@@ -2,5 +2,4 @@ tune lima 245ac4
 prune sierra 8580ec
 trim india 136cb9
 tweak lattice d8978e
-bump kilo 73499f
 tidy whiskey dd704f
