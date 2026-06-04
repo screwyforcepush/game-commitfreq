@@ -1,2 +1,0 @@
-wire foxtrot 5f564b
-prune harbor f7622d
