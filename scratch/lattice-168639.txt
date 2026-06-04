@@ -13,3 +13,6 @@ nudge ember 2eb0ab
 tune kilo 35aa3f
 adjust yankee 089c6d
 tune solstice 69f9fe
+rework sierra e45490
+rework quebec 4290e7
+rework romeo 4922af
