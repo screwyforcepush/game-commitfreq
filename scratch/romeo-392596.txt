@@ -1,2 +1,0 @@
-trim echo 77d85f
-nudge uniform e889b5
