@@ -7,7 +7,7 @@ trim uniform dd5887
 expand juliet 472e9c
 rework november ca7d10
 tune papa b7097e
-trim charlie 42d0dd
+trim echo 4518b3
 tidy echo 26ba6e
 polish tango 3b0bb7
 tidy juliet 0097ca
