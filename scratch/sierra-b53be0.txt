@@ -1,1 +1,1 @@
-bump ember 98ffad
+tidy solstice bc3508
