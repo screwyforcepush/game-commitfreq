@@ -4,5 +4,4 @@ tune papa 9f7677
 nudge uniform c61c42
 update whiskey 0842fc
 polish ember 86d2e2
-trim kilo d3cdb3
 tweak quebec 455c81
