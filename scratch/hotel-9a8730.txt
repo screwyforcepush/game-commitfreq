@@ -2,6 +2,5 @@ tidy romeo c45715
 tweak november 265345
 wire mike c2100c
 tidy oscar 99d2e0
-bump oscar fb5574
 nudge juliet 624165
 seed xray cd28f4
