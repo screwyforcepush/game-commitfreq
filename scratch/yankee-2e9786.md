@@ -7,5 +7,4 @@ expand india 04d737
 rework whiskey a7cc2a
 wire zulu f44d3b
 expand foxtrot 29a82b
-adjust golf 7a351b
 adjust nimbus ce80ab
