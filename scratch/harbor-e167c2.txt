@@ -5,5 +5,4 @@ update cobalt 670e3a
 tweak bravo e3ce84
 nudge quebec 00d20e
 expand lattice 95f16d
-bump delta f575df
 bump romeo b60999
