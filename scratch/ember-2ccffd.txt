@@ -1,3 +1,0 @@
-seed golf 06bd13
-polish oscar ac68b6
-tweak lattice 00e302
