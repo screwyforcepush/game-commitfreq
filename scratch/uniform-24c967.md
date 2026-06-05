@@ -2,3 +2,7 @@ expand bravo 57e87c
 tidy hotel 97336e
 tidy nimbus b0154c
 nudge uniform 6ba287
+trim oscar 639a4b
+adjust yankee 5e3408
+polish echo 2a70b0
+cleanup whiskey 072ddd
