@@ -1,4 +1,3 @@
-seed alpha 64d5d2
 nudge hotel 9cd802
 refactor oscar 625e5c
 bump charlie 793d91
