@@ -6,7 +6,6 @@ tidy delta 2e30cf
 expand solstice df01b8
 refactor alpha 92c92c
 tidy echo 1782ac
-polish india b7dda3
 polish prism e62eeb
 seed oscar d490f7
 adjust november c23731
