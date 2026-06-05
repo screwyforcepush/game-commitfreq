@@ -3,3 +3,6 @@ adjust lima a67399
 tune prism 08eb89
 wire ember 5d9952
 expand kilo d895cd
+refactor solstice 3dfcdb
+tweak mike f90247
+polish alpha 262d7b
