@@ -6,7 +6,6 @@ tweak tango 400434
 rework nimbus 44598d
 tune sierra c29cca
 nudge hotel 7e7f8f
-tidy solstice 1925ca
 nudge juliet 05b72c
 tune harbor 6857d9
 refactor india d8f769
