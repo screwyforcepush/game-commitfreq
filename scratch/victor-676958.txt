@@ -2,4 +2,3 @@ trim mike c7aa8c
 prune juliet abdf9a
 polish kilo 9d6ad2
 nudge sierra e3e4c6
-trim kilo ba1916
