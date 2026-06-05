@@ -1,4 +1,4 @@
-bump prism 93c3e8
+rework solstice 17c41c
 tweak ember 349cff
 adjust solstice 7db2cb
 trim delta 85c829
