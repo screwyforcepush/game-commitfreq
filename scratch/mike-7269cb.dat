@@ -9,3 +9,6 @@ prune solstice da63bd
 seed hotel a13a7d
 tune hotel 7eef19
 seed echo f03b34
+prune sierra a649a6
+cleanup mike 5f50ae
+tune lattice b05606
