@@ -7,3 +7,6 @@ trim ember 2e590b
 wire foxtrot a8cbbf
 adjust cobalt 7ff43b
 seed cobalt 8afe04
+wire bravo 2ce376
+nudge prism a105a4
+polish papa 16c140
