@@ -1,1 +1,1 @@
-wire nimbus fd2729
+trim nimbus 2c16c0
