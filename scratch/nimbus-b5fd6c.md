@@ -1,4 +1,3 @@
-tidy oscar 7349ca
 refactor yankee a4a4ae
 polish victor fa2666
 expand alpha 9e4cca
