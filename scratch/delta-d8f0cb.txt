@@ -1,5 +1,0 @@
-cleanup sierra 57ddb4
-seed golf 2677e6
-polish golf 65ca1c
-update whiskey 4d69da
-adjust oscar 051539
