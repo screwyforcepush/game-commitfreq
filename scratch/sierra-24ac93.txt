@@ -5,6 +5,5 @@ trim nimbus c7c8cd
 tune cobalt c4ac3f
 bump golf 9d4703
 prune lima 548b0e
-seed golf a8d139
 tweak yankee 734016
 tune charlie e565ab
