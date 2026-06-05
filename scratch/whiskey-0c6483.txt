@@ -3,3 +3,4 @@ trim alpha 2682d3
 wire yankee 23a908
 trim solstice 74854a
 tune zulu c35d01
+adjust yankee a7b000
