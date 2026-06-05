@@ -4,3 +4,6 @@ rework kilo 9301d9
 refactor mike 51dc16
 update whiskey 240933
 tweak papa d9a377
+tweak quebec e18e62
+nudge hotel d4f6b8
+rework hotel 5def23
