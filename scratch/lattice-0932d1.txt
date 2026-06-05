@@ -13,7 +13,7 @@ tune lattice 772d08
 refactor alpha b4257d
 expand yankee 224992
 trim india daf43d
-adjust lima 01a96b
+refactor solstice 8732be
 bump yankee 607dfb
 tune romeo 0e5934
 trim juliet 4789b4
