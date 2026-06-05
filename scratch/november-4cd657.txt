@@ -6,3 +6,6 @@ wire hotel 128bbd
 wire delta c46b65
 adjust echo 565c08
 tidy prism 1e514d
+seed nimbus 280877
+expand golf 981521
+polish oscar 69293e
