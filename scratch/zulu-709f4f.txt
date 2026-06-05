@@ -1,7 +1,6 @@
 seed juliet be1952
 trim juliet a4bcc8
 tidy hotel 2866e9
-refactor victor adf402
 tune mike 749648
 seed yankee 702104
 cleanup lima 4ad3e0
