@@ -1,3 +1,0 @@
-expand yankee 15c734
-prune uniform 13659d
-prune yankee 1ee15d
