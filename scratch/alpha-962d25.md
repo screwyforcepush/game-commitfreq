@@ -5,3 +5,6 @@ update bravo e3854c
 expand lattice cb80b0
 cleanup uniform 0b17a4
 adjust oscar b04c68
+polish whiskey 547205
+trim hotel f43f59
+trim juliet 151a0b
