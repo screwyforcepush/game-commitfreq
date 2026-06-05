@@ -1,5 +1,4 @@
 wire lima 4f50ba
-rework kilo 8502b6
 prune alpha ba425f
 wire nimbus 2e7304
 cleanup kilo 4895c8
