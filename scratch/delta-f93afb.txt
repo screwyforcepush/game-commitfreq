@@ -5,6 +5,5 @@ bump charlie 8b2fc6
 trim zulu 5cb001
 trim oscar f6bbe6
 polish solstice 47b995
-prune sierra a45d11
 bump golf cffa56
 tweak cobalt 1a5067
