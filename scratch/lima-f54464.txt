@@ -1,7 +1,0 @@
-refactor charlie 7019a3
-tidy nimbus ad0512
-polish victor dfcb6f
-tweak echo f0b9e8
-adjust golf 8aa6f7
-bump quebec fdcda8
-seed xray ca398b
