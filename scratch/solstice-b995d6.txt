@@ -19,3 +19,6 @@ trim solstice 502a3d
 tidy ember 76cc64
 prune harbor ffa59e
 nudge charlie f43ff0
+cleanup nimbus 651eb8
+wire xray f6dbbc
+wire oscar f704cb
