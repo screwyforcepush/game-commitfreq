@@ -1,5 +1,4 @@
 nudge whiskey e740ee
 tune quebec 6c2939
 tweak sierra e6f052
-expand romeo 29772a
 seed solstice 97c183
