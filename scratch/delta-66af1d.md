@@ -7,3 +7,6 @@ wire lattice 127424
 trim prism 147698
 seed delta cf8fdf
 expand xray 570161
+adjust cobalt d337cd
+adjust charlie f6dc47
+wire xray 85dfe8
