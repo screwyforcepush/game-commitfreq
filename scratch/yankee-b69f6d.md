@@ -10,3 +10,6 @@ cleanup tango 946350
 expand quebec ff3aca
 seed yankee a98109
 wire papa c6d63a
+rework lattice 02dcb1
+wire ember 3902af
+seed foxtrot e248d1
