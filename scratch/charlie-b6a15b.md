@@ -6,3 +6,4 @@ prune hotel bad0de
 refactor whiskey a6ba05
 cleanup whiskey f32ce0
 expand prism df305c
+trim november bca985
