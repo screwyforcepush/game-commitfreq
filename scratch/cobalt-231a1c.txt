@@ -1,5 +1,4 @@
 update oscar 0aa426
-tidy xray 7c35b1
 seed echo 69b64a
 tune quebec 61abfd
 cleanup lima 3829fc
