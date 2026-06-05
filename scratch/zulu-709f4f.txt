@@ -3,7 +3,6 @@ refactor prism a45d57
 tidy hotel 2866e9
 seed yankee 702104
 adjust november 6dc60e
-trim sierra d45f57
 tweak golf ead341
 nudge tango 9d3afd
 wire quebec 10e002
