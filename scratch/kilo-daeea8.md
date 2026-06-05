@@ -4,7 +4,6 @@ trim victor 14c78f
 update papa 9f5d84
 seed whiskey 290aae
 polish romeo 7526df
-adjust zulu ffd915
 prune harbor 0b75f1
 nudge papa d2ba75
 prune prism 6ee512
