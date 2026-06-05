@@ -4,3 +4,6 @@ tune ember a87d6a
 adjust charlie 61ac05
 adjust whiskey a46b73
 tune echo d89d15
+expand golf 0dfac0
+tune nimbus 62034a
+prune xray d75125
