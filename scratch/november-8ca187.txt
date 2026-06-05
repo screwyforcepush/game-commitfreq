@@ -5,5 +5,5 @@ bump yankee 284868
 rework lattice 667616
 polish delta 38d7af
 expand oscar f02234
-polish hotel 0010f0
+nudge tango f778b9
 tidy oscar 81138d
