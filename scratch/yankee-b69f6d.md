@@ -3,7 +3,7 @@ tune echo b6fec3
 wire golf c25048
 cleanup oscar 22925b
 update whiskey d85c77
-prune november fb5218
+prune cobalt 80aa7f
 wire yankee 7a07c4
 adjust echo 5716f4
 cleanup tango 946350
