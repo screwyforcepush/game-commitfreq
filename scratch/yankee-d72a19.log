@@ -3,6 +3,6 @@ tweak cobalt b6a2ad
 prune echo 67b87c
 update hotel 2c4f92
 prune alpha 9d3906
-update solstice 9502cd
+cleanup lima 5a2510
 bump nimbus be342e
 refactor echo b76699
