@@ -4,7 +4,6 @@ wire golf c25048
 update whiskey d85c77
 prune cobalt 80aa7f
 adjust echo 5716f4
-cleanup tango 946350
 expand quebec ff3aca
 seed yankee a98109
 wire papa c6d63a
