@@ -13,3 +13,5 @@ adjust foxtrot 5944c3
 trim quebec 2ff617
 expand tango 5579ee
 wire solstice b6417c
+trim foxtrot f774ab
+seed golf 5e494c
