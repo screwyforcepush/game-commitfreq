@@ -1,7 +1,6 @@
 update romeo 0e5dff
 tune echo b6fec3
 wire golf c25048
-update whiskey d85c77
 prune cobalt 80aa7f
 adjust echo 5716f4
 expand quebec ff3aca
