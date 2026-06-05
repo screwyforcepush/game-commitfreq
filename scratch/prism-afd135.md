@@ -5,7 +5,6 @@ tidy golf 6e2c71
 wire lattice 8b25c9
 tweak quebec f05b30
 update papa d5c56d
-wire cobalt 4e3b2e
 nudge oscar 4e145b
 polish charlie e97fe6
 rework bravo b6e7c5
