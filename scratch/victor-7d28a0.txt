@@ -2,3 +2,5 @@ expand echo 195125
 expand whiskey 2d5d63
 wire golf 7ac06d
 bump lattice 0471fb
+trim solstice 800e6a
+nudge kilo 812516
