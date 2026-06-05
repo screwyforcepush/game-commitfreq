@@ -4,3 +4,7 @@ trim kilo 6e8202
 expand xray 9226d2
 cleanup alpha b0d7ec
 cleanup papa a6c2fd
+tune delta 2bc962
+prune cobalt 810415
+update oscar d7b6a1
+tune cobalt 636b16
