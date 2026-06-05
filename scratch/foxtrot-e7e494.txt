@@ -1,0 +1,5 @@
+adjust delta 0410b8
+tidy hotel b45e55
+trim harbor 941119
+trim delta c83b30
+cleanup hotel b58710
