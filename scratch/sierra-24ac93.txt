@@ -4,6 +4,5 @@ refactor golf 692cbe
 trim nimbus c7c8cd
 trim november 407b66
 bump golf 9d4703
-prune lima 548b0e
 tweak yankee 734016
 tune charlie e565ab
