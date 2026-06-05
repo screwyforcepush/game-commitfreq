@@ -8,3 +8,7 @@ rework solstice fd7f19
 prune kilo 7fae47
 refactor quebec 8290f9
 expand zulu 9dfd56
+trim hotel 09ecf9
+tune hotel ff045a
+refactor papa e33bed
+refactor whiskey 8114c6
