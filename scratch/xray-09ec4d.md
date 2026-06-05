@@ -6,3 +6,4 @@ update charlie 07493a
 refactor tango 6ca206
 adjust mike e83797
 update yankee 138f3a
+adjust quebec 7e52fa
