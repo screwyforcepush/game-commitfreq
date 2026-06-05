@@ -3,3 +3,7 @@ wire mike 791c68
 prune charlie 60f7ed
 update kilo f53a38
 rework ember 52b97a
+adjust foxtrot 34cb97
+tidy ember d3429b
+nudge mike 40ae0c
+expand nimbus ba80f2
