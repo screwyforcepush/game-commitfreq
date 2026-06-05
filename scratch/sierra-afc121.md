@@ -3,3 +3,7 @@ update foxtrot b628e8
 adjust bravo 462a3e
 rework nimbus d391f2
 rework sierra 4cff1e
+tweak harbor 7fc7d9
+trim golf 45571b
+cleanup xray 542174
+expand ember e79ef6
