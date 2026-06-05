@@ -9,3 +9,7 @@ nudge lima ea0a32
 trim uniform 729141
 expand papa 5f6897
 update juliet fc9611
+cleanup quebec 972060
+tidy yankee e165ad
+wire juliet 026709
+tidy prism c56d50
