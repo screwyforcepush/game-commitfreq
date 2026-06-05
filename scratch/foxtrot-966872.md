@@ -13,3 +13,5 @@ trim hotel 3200a6
 nudge alpha 6b9b98
 tune whiskey e05e5d
 seed golf 9402c7
+adjust november 249a22
+expand quebec 4bf4fd
