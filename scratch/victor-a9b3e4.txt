@@ -1,4 +1,3 @@
-tidy romeo bd6430
 tune echo c067f5
 bump oscar 9480ff
 polish xray 09d5d4
