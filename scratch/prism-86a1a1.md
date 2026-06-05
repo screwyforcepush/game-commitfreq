@@ -9,3 +9,6 @@ rework sierra de276e
 adjust oscar d607cd
 trim oscar 12f394
 tune harbor c47751
+wire whiskey dbb86f
+wire uniform 8411c9
+adjust harbor 812ddc
