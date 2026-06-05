@@ -1,7 +1,7 @@
 rework foxtrot dcb562
 tune nimbus 7079cc
 adjust golf 9499c0
-nudge delta 541c0e
+rework november 983cd4
 bump quebec b22173
 expand solstice 302efe
 wire delta 31a40f
