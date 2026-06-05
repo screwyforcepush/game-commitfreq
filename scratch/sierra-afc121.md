@@ -7,3 +7,6 @@ tweak harbor 7fc7d9
 trim golf 45571b
 cleanup xray 542174
 expand ember e79ef6
+tidy lattice 838c32
+rework lattice 26213c
+refactor echo 548181
