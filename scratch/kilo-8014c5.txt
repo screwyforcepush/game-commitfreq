@@ -2,3 +2,6 @@ trim prism 1b9e39
 tune harbor 349335
 update golf 3371f7
 expand sierra 1a81bd
+tweak tango 400434
+rework nimbus 44598d
+tune sierra c29cca
