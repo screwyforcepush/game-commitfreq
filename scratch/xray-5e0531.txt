@@ -2,3 +2,6 @@ cleanup oscar 0a111f
 refactor hotel 2ee778
 prune ember f39726
 rework delta 305706
+tidy india 9e7135
+tidy mike 8d8f19
+prune foxtrot 638ceb
