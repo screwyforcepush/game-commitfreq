@@ -2,4 +2,3 @@ expand quebec 5749ea
 update echo e4bcd1
 bump solstice 763f35
 refactor kilo 7aeac0
-prune hotel 8071a9
