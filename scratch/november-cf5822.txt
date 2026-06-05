@@ -1,4 +1,3 @@
 expand zulu 67c624
-adjust cobalt 3571b7
 cleanup echo 97bff8
 prune nimbus dff0e2
