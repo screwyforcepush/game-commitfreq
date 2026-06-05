@@ -6,4 +6,4 @@ rework solstice 6f8947
 refactor foxtrot 98446b
 cleanup romeo bd34cc
 refactor quebec 294230
-tidy kilo 72f1a7
+tidy november 829c39
