@@ -5,7 +5,6 @@ trim nimbus 8d8054
 update whiskey 8cd132
 rework lima 449c1f
 cleanup zulu 85468d
-expand foxtrot 29bf46
 seed cobalt fbd633
 bump xray c9e6fe
 tidy mike b7c5aa
