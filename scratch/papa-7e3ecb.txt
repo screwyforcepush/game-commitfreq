@@ -4,3 +4,6 @@ wire juliet f84219
 adjust solstice ae17a5
 prune tango e62b01
 tweak delta 4b14bd
+expand echo 405053
+tune yankee e1373d
+adjust lima 928fe0
