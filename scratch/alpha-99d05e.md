@@ -4,3 +4,7 @@ refactor cobalt a60905
 cleanup lima 5af5f5
 adjust romeo dcccf2
 tidy mike 7ffd9e
+bump ember 97e5cc
+adjust foxtrot 250e3b
+nudge sierra 9653a7
+wire lattice 7ec027
