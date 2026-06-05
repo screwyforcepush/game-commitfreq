@@ -1,4 +1,3 @@
-adjust solstice a45158
 rework lima 2a6cd6
 prune charlie f43c4a
 prune tango a3d5bf
