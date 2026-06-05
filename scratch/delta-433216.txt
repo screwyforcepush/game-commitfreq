@@ -1,6 +1,6 @@
 expand hotel 811ca2
 cleanup solstice 8655ca
-tune solstice f822a5
+trim xray e7f44d
 tweak juliet cbe510
 tidy prism 09474c
 nudge sierra 5c075b
