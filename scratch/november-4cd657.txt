@@ -2,3 +2,5 @@ bump delta 433dc6
 wire uniform 957f12
 update lattice 83ee6c
 tweak zulu 5a1ef0
+wire hotel 128bbd
+wire delta c46b65
