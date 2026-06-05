@@ -2,3 +2,6 @@ seed quebec 531343
 bump kilo 1af6ae
 tweak solstice 4be307
 cleanup prism 8a2192
+bump hotel 93300a
+update yankee 5d75d6
+cleanup echo efcc97
