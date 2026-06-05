@@ -3,3 +3,5 @@ adjust harbor db9dfe
 update yankee c9a609
 tweak prism 436423
 update echo 82c97a
+prune juliet e9fc49
+prune foxtrot e48dd3
