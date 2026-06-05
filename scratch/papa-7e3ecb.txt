@@ -2,3 +2,5 @@ bump whiskey 92db0d
 wire charlie f29af9
 wire juliet f84219
 adjust solstice ae17a5
+prune tango e62b01
+tweak delta 4b14bd
