@@ -7,3 +7,6 @@ seed india e04c72
 refactor delta 9b5b5a
 tune alpha d7d664
 nudge lattice b13f9a
+seed cobalt c82a9e
+tune victor 6094f4
+tweak alpha d82bf0
