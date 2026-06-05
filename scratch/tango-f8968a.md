@@ -1,7 +1,6 @@
 tweak whiskey 961ae9
 expand solstice 08e8c4
 trim romeo 7915de
-update november 92e86e
 polish whiskey 061a74
 expand juliet 47e385
 tune yankee 4e88ff
