@@ -1,4 +1,3 @@
 update oscar 0aa426
-seed echo 69b64a
 tune quebec 61abfd
 refactor sierra 4cfda2
