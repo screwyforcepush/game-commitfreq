@@ -3,3 +3,6 @@ bump uniform 89793c
 cleanup india 4b30b3
 bump foxtrot 4cb6c7
 expand lima aac567
+bump lattice ba43c9
+wire echo 3bae95
+polish yankee dc7e9d
