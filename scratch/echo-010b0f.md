@@ -7,3 +7,4 @@ tune echo d89d15
 expand golf 0dfac0
 tune nimbus 62034a
 prune xray d75125
+tune tango a09902
