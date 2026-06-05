@@ -7,3 +7,6 @@ refactor whiskey a6ba05
 cleanup whiskey f32ce0
 expand prism df305c
 trim november bca985
+cleanup bravo 2611d8
+trim bravo 934e57
+tidy oscar 7b5190
