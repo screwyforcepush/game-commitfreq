@@ -2,7 +2,6 @@ refactor foxtrot bc268e
 update zulu c8e705
 nudge victor 88f000
 tidy mike bdafbc
-tune kilo c36c40
 tune victor 831188
 nudge yankee 99cf3b
 tweak romeo 20512a
