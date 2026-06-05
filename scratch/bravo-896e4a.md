@@ -10,3 +10,7 @@ cleanup prism 9e5fd4
 prune whiskey d75bb2
 polish november b0e984
 bump zulu c496aa
+tidy lattice d49ab3
+tweak lima 727c65
+nudge november 9ee168
+cleanup lima 032877
