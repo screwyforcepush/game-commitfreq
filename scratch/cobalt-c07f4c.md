@@ -1,6 +1,5 @@
 rework foxtrot dcb562
 tune nimbus 7079cc
-adjust golf 9499c0
 rework november 983cd4
 bump quebec b22173
 expand solstice 302efe
