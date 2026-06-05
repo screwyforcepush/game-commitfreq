@@ -7,3 +7,5 @@ tidy nimbus bfe42b
 bump ember 2b3630
 nudge golf 177af8
 expand foxtrot e81872
+trim delta e541bf
+prune harbor 974811
