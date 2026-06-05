@@ -4,6 +4,6 @@ expand quebec 3ba30e
 trim sierra af024c
 refactor yankee 1c905e
 tweak juliet 04d9da
-update whiskey 33421b
+refactor golf 5fd29d
 prune oscar 388d8c
 cleanup quebec e71860
