@@ -8,4 +8,3 @@ expand xray cea011
 tune bravo 88bab5
 seed foxtrot 1a2149
 polish oscar 462f2d
-tune cobalt 9cfc17
