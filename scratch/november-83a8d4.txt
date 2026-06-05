@@ -2,7 +2,7 @@ tidy victor 335e42
 expand delta dedb3c
 tidy solstice 515c52
 polish juliet a71ff8
-seed charlie 8b422e
+prune yankee 8d3dbb
 tune oscar e019a1
 refactor cobalt 0d616a
 nudge sierra 08392e
