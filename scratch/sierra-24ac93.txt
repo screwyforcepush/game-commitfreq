@@ -4,3 +4,4 @@ prune golf 6cfba2
 trim nimbus c7c8cd
 tune cobalt c4ac3f
 bump golf 9d4703
+wire victor 1b628c
