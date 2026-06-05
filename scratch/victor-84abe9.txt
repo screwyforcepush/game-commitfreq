@@ -1,6 +1,5 @@
 cleanup mike 47ba19
 expand quebec 6eb915
 update nimbus 265b40
-bump november dfff05
 adjust lima 9292f9
 seed foxtrot e24326
