@@ -1,6 +1,5 @@
 refactor xray 46c177
 refactor hotel 99701a
-update bravo 9fe9b6
 prune alpha 7d72c0
 bump mike 9d1559
 rework charlie e1d0d9
