@@ -5,6 +5,5 @@ rework charlie 9bae55
 seed uniform aa23d8
 update lima 4783c3
 wire cobalt eeb6e1
-polish prism 8786f0
 nudge cobalt 4a979e
 wire foxtrot 04bf60
