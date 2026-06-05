@@ -4,6 +4,5 @@ seed romeo 64995c
 adjust zulu d6cf86
 tune uniform 0945a3
 tweak nimbus e3d78c
-tune foxtrot f11f5a
 rework delta 634b34
 bump hotel cfcae0
