@@ -2,3 +2,5 @@ seed golf 37c3ab
 bump oscar a37b45
 cleanup whiskey 717b1d
 trim ember d4999f
+tidy november 33d0bc
+rework victor 9dd403
