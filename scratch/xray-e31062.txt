@@ -1,0 +1,2 @@
+wire echo 52444b
+tune kilo eefa00
