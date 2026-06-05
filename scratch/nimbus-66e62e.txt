@@ -3,6 +3,5 @@ tweak solstice 0ea0f9
 cleanup kilo bf97d3
 prune golf 0e431a
 update prism 3b0100
-bump hotel 7cd24f
 tidy solstice 890883
 cleanup hotel 168b6e
