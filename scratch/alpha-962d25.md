@@ -8,3 +8,6 @@ adjust oscar b04c68
 expand papa f5cc6e
 trim hotel f43f59
 trim juliet 151a0b
+trim november 66e220
+update sierra 5fe9d2
+refactor india f3f2ff
