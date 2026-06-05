@@ -4,7 +4,6 @@ wire golf c25048
 cleanup oscar 22925b
 update whiskey d85c77
 prune cobalt 80aa7f
-wire yankee 7a07c4
 adjust echo 5716f4
 cleanup tango 946350
 expand quebec ff3aca
