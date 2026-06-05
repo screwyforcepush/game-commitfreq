@@ -7,3 +7,7 @@ tweak india efe1a7
 expand nimbus 76f366
 wire victor bd13ac
 seed uniform ded313
+prune sierra f6429c
+bump sierra 8144e8
+tidy zulu be294e
+tweak golf 28502a
