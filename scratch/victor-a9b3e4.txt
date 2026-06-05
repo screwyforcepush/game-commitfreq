@@ -2,3 +2,6 @@ tidy romeo bd6430
 tune echo c067f5
 bump oscar 9480ff
 polish xray 09d5d4
+expand cobalt a46fb7
+expand solstice d9d9c7
+bump charlie 9a1630
