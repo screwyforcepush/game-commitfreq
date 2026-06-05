@@ -6,3 +6,6 @@ polish whiskey 061a74
 expand juliet 47e385
 tune yankee 4e88ff
 seed zulu 76ff8b
+expand zulu d43f71
+bump prism c05006
+trim juliet 1d204f
