@@ -12,7 +12,6 @@ seed oscar 9971c8
 wire bravo 1448c9
 polish xray 935d66
 refactor juliet d8ea03
-nudge sierra ff8ba4
 refactor quebec f75395
 bump papa ee2c7e
 expand zulu 9a8234
