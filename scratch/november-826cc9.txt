@@ -1,2 +1,1 @@
-prune hotel 9f5573
 tweak nimbus 857eca
