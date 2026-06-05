@@ -11,7 +11,6 @@ trim juliet 1d204f
 tune cobalt 8476c4
 adjust kilo a1ea40
 nudge bravo 75b9cb
-expand solstice 41b2f7
 cleanup zulu edbe03
 tweak sierra 3b1d1f
 tune alpha 6800d3
