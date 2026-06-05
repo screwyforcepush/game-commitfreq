@@ -3,5 +3,4 @@ expand prism eac79d
 tidy delta 78e410
 wire lima 45268c
 adjust kilo e378b5
-seed lima fd9bb5
 update quebec 37c307
