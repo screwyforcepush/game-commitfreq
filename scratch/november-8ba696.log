@@ -14,3 +14,7 @@ tune solstice 770672
 prune hotel ed1081
 cleanup harbor 8e105c
 tweak xray 3a4a1d
+seed solstice ecdbd3
+nudge harbor e0892c
+wire romeo 0d24d2
+tweak tango 4a631d
