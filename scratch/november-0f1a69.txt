@@ -3,4 +3,3 @@ expand juliet 16e3fe
 trim romeo 02967c
 adjust mike 63878a
 tidy sierra f63b19
-prune lattice ce001b
