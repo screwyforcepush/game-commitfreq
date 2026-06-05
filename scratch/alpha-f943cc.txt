@@ -4,3 +4,7 @@ cleanup papa 8f1e9d
 refactor hotel 55e27e
 polish nimbus 11e21c
 cleanup november 51b237
+update charlie ce298d
+bump sierra 10f90a
+bump yankee efd246
+seed hotel 2922af
