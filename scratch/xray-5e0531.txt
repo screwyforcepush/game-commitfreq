@@ -8,3 +8,4 @@ prune foxtrot 638ceb
 trim xray 03b08d
 cleanup lattice e6af2d
 bump romeo a64199
+bump harbor 796bc1
