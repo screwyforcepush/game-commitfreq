@@ -7,3 +7,6 @@ adjust kilo 941de5
 tweak whiskey 9dde27
 update lattice d6164c
 adjust charlie 9a1e9e
+prune foxtrot 9be6a7
+nudge nimbus 3a1e35
+adjust lattice 0b2b10
