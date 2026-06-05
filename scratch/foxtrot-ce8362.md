@@ -11,5 +11,4 @@ refactor cobalt 15d236
 expand papa 578ea5
 polish quebec 39795b
 cleanup hotel 397992
-polish solstice cbd02d
 refactor echo 499ee7
