@@ -1,6 +1,5 @@
 refactor foxtrot 1b350b
 rework echo eb924e
-wire foxtrot 0248ab
 seed india 64e029
 tidy india 4669a8
 tune india 798fe9
