@@ -12,3 +12,5 @@ expand tango 1c046b
 tidy xray 8c7960
 bump yankee 3af3e5
 trim quebec abadcb
+cleanup prism dd7435
+bump echo fa4c68
