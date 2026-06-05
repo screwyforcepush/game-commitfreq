@@ -5,7 +5,6 @@ wire sierra 5ba4f0
 refactor india 3bab01
 tweak oscar acffd6
 cleanup yankee 981900
-rework delta b5137c
 cleanup prism 9e5fd4
 prune whiskey d75bb2
 polish november b0e984
