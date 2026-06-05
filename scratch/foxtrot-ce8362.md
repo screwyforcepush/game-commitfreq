@@ -17,3 +17,6 @@ bump lattice 63b962
 expand solstice 1b0cf0
 rework solstice 5dff85
 trim yankee 18bdcc
+seed nimbus eb2d88
+update foxtrot fa8e39
+adjust bravo 458d46
