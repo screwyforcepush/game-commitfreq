@@ -13,3 +13,7 @@ polish quebec 39795b
 cleanup hotel 397992
 refactor echo 499ee7
 expand papa 731909
+bump lattice 63b962
+expand solstice 1b0cf0
+rework solstice 5dff85
+trim yankee 18bdcc
