@@ -8,7 +8,7 @@ expand xray cea011
 tune bravo 88bab5
 seed foxtrot 1a2149
 polish oscar 462f2d
-tidy sierra 539d05
+cleanup oscar f67150
 cleanup quebec cd2afa
 update charlie a88526
 refactor hotel e0ed50
