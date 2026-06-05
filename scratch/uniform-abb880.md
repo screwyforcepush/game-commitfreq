@@ -5,3 +5,7 @@ expand quebec 8a6039
 tidy papa 2b22fd
 adjust lima 0bceb8
 trim hotel 038685
+cleanup xray ccf9dd
+cleanup oscar 71c81d
+adjust sierra cf91e2
+rework juliet 1f6292
