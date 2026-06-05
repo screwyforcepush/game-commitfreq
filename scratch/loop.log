@@ -210155,3 +210155,4 @@ To https://github.com/screwyforcepush/game-commitfreq.git
 189/543  tidy ember (6da3f3)                           modify lattice-cf90f3.dat:4
 190/543  wip: update golf                              trim quebec-d6eb48.log:4
 191/543  build: ember tidys                            create xray-71f031.csv
+192/543  fix: tweak lattice for india                  drop prism-6bfeb9.csv
