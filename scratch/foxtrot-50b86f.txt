@@ -3,3 +3,6 @@ prune delta 156d1d
 tune november 3c4cb8
 rework echo 1d06cb
 trim papa 891ed2
+tidy lattice 77c52d
+wire quebec 5501af
+expand uniform 58f721
