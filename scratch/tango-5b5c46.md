@@ -6,3 +6,5 @@ rework victor b775a7
 nudge alpha bae6c1
 expand quebec 8e3057
 bump quebec 575882
+adjust echo 16ab16
+trim lattice 0b5dc4
