@@ -5,7 +5,7 @@ tune kilo f6147a
 bump november 7ef2e4
 tune sierra 4acc49
 refactor delta 9b5b5a
-tune alpha d7d664
+seed charlie af10c5
 nudge lattice b13f9a
 seed cobalt c82a9e
 tune victor 6094f4
