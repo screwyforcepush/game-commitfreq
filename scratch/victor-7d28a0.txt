@@ -1,1 +1,5 @@
 expand echo 195125
+expand charlie 813db3
+trim zulu addd4e
+wire golf 7ac06d
+update oscar fbb582
