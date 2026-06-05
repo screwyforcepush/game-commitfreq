@@ -1,5 +1,0 @@
-adjust quebec 1f9eef
-tweak kilo a8de3c
-expand delta 347f4b
-refactor tango 311732
-tidy kilo fdfb74
