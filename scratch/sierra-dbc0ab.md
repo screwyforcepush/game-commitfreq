@@ -5,7 +5,7 @@ polish juliet 774e24
 refactor tango bcc157
 expand lattice 003b72
 bump mike a1cf90
-seed golf aee7fa
+tidy uniform 8f794b
 tune tango c2f961
 polish uniform 687a36
 prune prism a13f7b
