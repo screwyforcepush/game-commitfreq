@@ -8,3 +8,5 @@ update echo 293851
 prune xray 8817ea
 tune harbor f8f699
 expand oscar 237cb0
+adjust prism c74ad7
+nudge ember 8e8044
