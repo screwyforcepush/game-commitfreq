@@ -1,2 +1,4 @@
 bump lattice 2f8855
 bump uniform 89793c
+cleanup india 4b30b3
+trim charlie 3bc9f4
