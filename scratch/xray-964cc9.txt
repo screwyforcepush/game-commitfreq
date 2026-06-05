@@ -6,3 +6,7 @@ wire papa 2299de
 prune mike 44be56
 rework tango 5b51a0
 update charlie cdd187
+prune quebec 909afc
+rework hotel af17d0
+trim golf c68faf
+tune papa beef62
