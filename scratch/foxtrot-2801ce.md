@@ -1,6 +1,0 @@
-polish india 49d76e
-trim sierra 2ba45e
-refactor quebec bf9375
-prune india d634d5
-update golf b97bfc
-refactor romeo e4d017
