@@ -4,3 +4,6 @@ cleanup xray 20b0bf
 tune zulu 32a384
 tweak juliet 8fea93
 trim foxtrot ac0c85
+adjust solstice b743f0
+adjust juliet 9afa0b
+tidy golf c35eec
