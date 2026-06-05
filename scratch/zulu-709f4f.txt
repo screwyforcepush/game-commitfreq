@@ -1,3 +1,2 @@
 seed juliet be1952
 trim juliet a4bcc8
-wire nimbus a6a6f0
