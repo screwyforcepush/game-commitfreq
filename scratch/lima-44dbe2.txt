@@ -1,2 +1,0 @@
-tune kilo c64ba6
-nudge xray 67f2c3
