@@ -6,3 +6,6 @@ tidy juliet faf125
 seed foxtrot 890076
 cleanup hotel cfd27c
 wire lima f58e27
+cleanup lattice f7ff4b
+rework solstice b7069d
+refactor uniform 6d9e62
