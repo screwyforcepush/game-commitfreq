@@ -1,6 +1,5 @@
 wire lima 4f50ba
 prune alpha ba425f
-wire nimbus 2e7304
 cleanup kilo 4895c8
 adjust harbor b5cd98
 cleanup yankee 7b64c3
