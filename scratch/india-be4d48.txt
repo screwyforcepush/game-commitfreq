@@ -2,6 +2,6 @@ cleanup hotel 49224f
 nudge mike 577689
 prune kilo 556bb4
 bump delta bfb644
-nudge tango 5f04bd
+seed alpha f92b6f
 adjust solstice 0e15c6
 wire whiskey f958f5
