@@ -2,7 +2,6 @@ rework papa e4db78
 refactor india 36a392
 rework ember 5979f3
 rework charlie c08e03
-wire ember 7890d2
 wire prism b649d7
 trim whiskey ec4546
 trim harbor d9be10
