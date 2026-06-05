@@ -1,6 +1,5 @@
 expand lima b592da
 polish lima 15195a
-trim oscar d60e24
 prune charlie 79d7a5
 update kilo e2fb5e
 polish whiskey 3203b1
