@@ -1,7 +1,6 @@
 refactor foxtrot bc268e
 expand lattice bbddd5
 nudge victor 88f000
-tidy mike bdafbc
 tune victor 831188
 nudge yankee 99cf3b
 tidy cobalt 847516
