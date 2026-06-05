@@ -1,6 +1,5 @@
 expand harbor 66f9f3
 expand golf 511d9f
-wire xray 4b0427
 tweak victor f3995a
 tune juliet 995f66
 tidy november ae1b3e
