@@ -1,4 +1,4 @@
-prune papa b805c5
+cleanup whiskey 5b26a2
 bump echo 76d3c8
 expand kilo c22888
 cleanup tango 10f4c5
