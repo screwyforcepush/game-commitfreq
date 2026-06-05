@@ -3,7 +3,6 @@ prune cobalt c79145
 nudge hotel 42efdf
 seed nimbus e5ab2a
 rework echo 3c36e6
-refactor foxtrot e621b0
 refactor ember 7345ed
 adjust uniform af06af
 adjust november 85af7d
