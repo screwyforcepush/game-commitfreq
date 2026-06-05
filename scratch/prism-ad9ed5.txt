@@ -5,7 +5,7 @@ tidy mike bdafbc
 tune victor 831188
 nudge yankee 99cf3b
 tweak romeo 20512a
-expand sierra dc5730
+tidy cobalt 847516
 tune november 2045ed
 nudge lima ea0a32
 trim uniform 729141
