@@ -2,7 +2,6 @@ polish charlie adc34e
 bump oscar d82901
 wire yankee 5e6282
 wire mike fa2e62
-rework tango 44d287
 tidy zulu 9361f7
 trim charlie 58e376
 wire golf 8656a1
