@@ -4,3 +4,6 @@ rework golf e438d4
 adjust delta b4dfd6
 trim harbor 12ca5d
 tweak lattice c6fb6c
+tidy oscar afd9f0
+bump quebec 5e18a2
+rework prism b540fc
