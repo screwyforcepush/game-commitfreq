@@ -8,7 +8,6 @@ rework prism ccfe79
 tune papa ea9bf1
 refactor november ca6576
 cleanup alpha e51bc4
-wire sierra 72d425
 nudge echo 11857b
 wire oscar 86694e
 rework tango 50f246
