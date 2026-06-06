@@ -1,8 +1,0 @@
-adjust quebec 62a21b
-tweak foxtrot 3df4ac
-bump november 39ae91
-trim echo cdb6f2
-tweak foxtrot 22815b
-trim hotel 9c9f4b
-tune papa 806b77
-prune solstice e363b4
