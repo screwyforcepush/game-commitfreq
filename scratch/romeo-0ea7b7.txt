@@ -1,4 +1,4 @@
-prune echo eabafa
+tweak lattice dc8769
 tune cobalt 655349
 expand harbor f3ad80
 cleanup quebec 85f92e
