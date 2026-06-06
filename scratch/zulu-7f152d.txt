@@ -1,3 +1,5 @@
 wire juliet fa0c77
 cleanup victor 0f281a
 adjust lattice 0fc9e0
+seed juliet 137c2a
+tune foxtrot 84cf32
