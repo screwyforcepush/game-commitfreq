@@ -1,5 +1,0 @@
-polish kilo 5a124a
-cleanup bravo 69979b
-adjust nimbus d064c0
-cleanup sierra d22a94
-update charlie 3e1f41
