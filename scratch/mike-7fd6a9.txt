@@ -4,3 +4,6 @@ tune cobalt 23701f
 cleanup alpha 687a77
 prune echo e0e254
 prune india 338a15
+adjust sierra 15142a
+adjust echo 22a093
+refactor hotel 31acc5
