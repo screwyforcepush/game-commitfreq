@@ -1,3 +1,6 @@
 adjust kilo 520ee1
 cleanup lattice c3ac7d
 prune quebec 4caaef
+update mike 504d4d
+trim tango 02ff54
+cleanup xray f5176d
