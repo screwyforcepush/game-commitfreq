@@ -18,3 +18,7 @@ prune ember 095675
 bump quebec 6c76ab
 bump papa 485bfc
 wire lattice 1b575c
+trim zulu 001a36
+nudge delta 4e67c6
+seed delta 56af5f
+seed tango bfe6bf
