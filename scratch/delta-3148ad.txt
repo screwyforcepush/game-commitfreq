@@ -1,5 +1,0 @@
-trim alpha 738671
-cleanup lattice 1ae13a
-adjust lattice 585023
-nudge victor 2a337f
-trim india 50e9b1
