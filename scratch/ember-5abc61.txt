@@ -1,5 +1,0 @@
-nudge quebec 14b033
-adjust kilo 8b66dc
-tweak delta d62ef1
-prune charlie 911eab
-prune solstice 51c7a0
