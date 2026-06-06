@@ -10,3 +10,6 @@ refactor ember acef2b
 update nimbus 1b909e
 tidy romeo 10ec17
 tweak sierra fe9354
+tweak golf 7184ce
+trim harbor 5b0f1f
+update november 7ac8f6
