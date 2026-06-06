@@ -5,7 +5,6 @@ tidy victor 435f25
 cleanup charlie a986d4
 tune ember 6de2ab
 rework delta d4fc25
-trim victor f5287a
 seed xray 1feb5d
 tune charlie 7e1e29
 nudge romeo 7f9557
