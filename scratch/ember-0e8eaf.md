@@ -1,4 +1,3 @@
-refactor oscar 205b43
 adjust hotel 8be235
 cleanup nimbus 342186
 polish charlie b32faf
