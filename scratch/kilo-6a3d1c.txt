@@ -11,7 +11,6 @@ expand nimbus 37cd27
 tidy ember 3f141f
 trim bravo f91877
 adjust whiskey d2387b
-rework whiskey 6b4cfa
 polish sierra 1a1679
 tidy sierra 9ec754
 prune charlie 22bf37
