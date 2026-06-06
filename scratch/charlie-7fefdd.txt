@@ -14,3 +14,7 @@ nudge lattice b7cf84
 wire charlie 2ea068
 bump romeo d43977
 polish oscar 9a890f
+bump lattice b08edf
+nudge victor be8b69
+trim nimbus 409783
+polish zulu 566f52
