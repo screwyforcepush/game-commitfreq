@@ -6,3 +6,6 @@ cleanup foxtrot b059bc
 nudge lima a5a52c
 tidy tango e7116d
 expand golf 2f262f
+update uniform 96ba42
+prune november 41e70d
+polish uniform 7ffa22
