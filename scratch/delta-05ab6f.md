@@ -5,7 +5,7 @@ rework prism 2ef0dd
 seed india 815d5b
 update xray 0c3e69
 refactor uniform 9cd71c
-seed xray b0c463
+adjust alpha 4d1c81
 tweak yankee 3f93d6
 bump uniform e0a9d3
 bump lima 2c2415
