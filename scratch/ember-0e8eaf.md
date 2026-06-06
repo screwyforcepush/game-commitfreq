@@ -11,7 +11,7 @@ trim golf c68faf
 tune papa beef62
 tune alpha 1eb5c7
 nudge lattice b7cf84
-wire charlie 2ea068
+nudge delta d6ca93
 bump romeo d43977
 polish oscar 9a890f
 bump lattice b08edf
