@@ -6,3 +6,5 @@ bump india d9ec96
 bump yankee 3532fb
 seed juliet 719fc1
 trim golf 51dfdc
+tidy delta 0b0791
+cleanup whiskey a082ab
