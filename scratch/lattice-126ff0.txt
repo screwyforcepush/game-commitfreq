@@ -8,3 +8,4 @@ bump charlie cffbb0
 trim sierra 1c2059
 polish harbor e30853
 expand kilo 2cc56b
+wire quebec 247ea0
