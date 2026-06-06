@@ -8,7 +8,6 @@ trim oscar d21f7c
 update sierra 9faba3
 seed tango 65ef6b
 tidy quebec e4517d
-tweak victor fbfe7b
 bump uniform 0e8305
 rework november 14f0e8
 tune charlie de5d6d
