@@ -1,4 +1,4 @@
-trim november 9a220e
+cleanup delta f3e1a8
 seed echo bc8215
 adjust oscar 3f4a17
 bump charlie 5cc1d1
