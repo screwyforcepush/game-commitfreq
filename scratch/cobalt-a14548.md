@@ -1,6 +1,5 @@
 rework juliet 686bb3
 cleanup tango da74cc
-polish charlie 981c7b
 prune quebec c8ffc6
 expand harbor fd80cf
 refactor golf 2ba17d
