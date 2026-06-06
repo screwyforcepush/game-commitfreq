@@ -15,3 +15,7 @@ prune zulu 03f592
 expand alpha 227ff8
 tweak ember d4f5b6
 refactor bravo 914c72
+refactor whiskey 721532
+polish tango 3718e3
+polish romeo 8f9c01
+refactor oscar 128b3c
