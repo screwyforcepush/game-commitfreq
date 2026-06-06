@@ -3,3 +3,6 @@ bump tango b78569
 nudge foxtrot 3e1c7e
 update charlie bd91be
 update victor aca396
+rework cobalt f86937
+tweak lima 9c1e41
+expand sierra 8f2c5e
