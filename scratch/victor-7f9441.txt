@@ -1,2 +1,6 @@
 expand kilo 91932b
 adjust quebec 1ccdeb
+trim zulu bdb7ff
+bump foxtrot 8d8ce5
+trim bravo 26d0ea
+tidy romeo bde228
