@@ -8,3 +8,5 @@ seed sierra a8bf57
 refactor prism d77644
 cleanup xray 9da462
 cleanup romeo 535ada
+wire prism 43af72
+wire tango b84525
