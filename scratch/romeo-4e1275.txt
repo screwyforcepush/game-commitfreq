@@ -8,3 +8,6 @@ expand oscar 37715e
 cleanup ember cc5db0
 expand india c4a03d
 polish zulu 58fb5d
+cleanup tango 1833ac
+polish xray b9ba21
+trim quebec 5e4acb
