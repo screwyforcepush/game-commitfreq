@@ -6,3 +6,7 @@ trim tango 02ff54
 cleanup xray f5176d
 seed hotel 8fa5f7
 cleanup cobalt 3976a3
+trim golf 19e6dc
+seed hotel a50acc
+rework yankee e257fd
+tweak uniform 91bcef
