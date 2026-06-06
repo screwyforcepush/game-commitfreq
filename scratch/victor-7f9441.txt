@@ -1,4 +1,3 @@
 expand juliet 3f434e
 nudge juliet f907a1
-tidy echo cf39bc
 expand kilo 91932b
