@@ -4,3 +4,6 @@ nudge whiskey fe0ab8
 refactor echo 077fec
 polish victor 9400a9
 tune mike 24dd89
+tune lima 30deaa
+nudge delta 9b9d62
+polish lattice e58b9b
