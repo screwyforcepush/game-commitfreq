@@ -12,3 +12,5 @@ wire sierra 72d425
 nudge echo 11857b
 wire oscar 86694e
 rework tango 50f246
+tidy delta 73cc63
+tune charlie c7330f
