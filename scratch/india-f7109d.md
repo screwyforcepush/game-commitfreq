@@ -6,5 +6,4 @@ expand echo c8399d
 tweak india 01c27c
 tidy golf 17014b
 nudge sierra cf0129
-polish zulu bcf575
 adjust kilo e929c8
