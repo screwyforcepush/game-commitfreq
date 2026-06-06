@@ -1,4 +1,3 @@
 wire charlie 07ba0a
-update juliet 8c2c04
 wire tango 970929
 seed lattice d08a7f
