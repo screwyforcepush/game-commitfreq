@@ -3,7 +3,6 @@ cleanup nimbus 342186
 polish charlie b32faf
 wire papa 2299de
 prune mike 44be56
-rework tango 5b51a0
 update charlie cdd187
 rework hotel af17d0
 trim golf c68faf
