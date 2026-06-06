@@ -14,3 +14,5 @@ adjust whiskey d2387b
 polish sierra 1a1679
 tidy sierra 9ec754
 prune charlie 22bf37
+update lattice b0abaf
+refactor foxtrot c84e95
