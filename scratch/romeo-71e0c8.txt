@@ -10,3 +10,5 @@ nudge cobalt ea706f
 cleanup alpha e51bc4
 wire sierra 72d425
 nudge echo 11857b
+wire oscar 86694e
+rework tango 50f246
