@@ -5,7 +5,6 @@ update mike 0c6db9
 refactor yankee 1c905e
 tweak juliet 04d9da
 refactor golf 5fd29d
-prune oscar 388d8c
 cleanup quebec e71860
 seed victor 00fcba
 polish india 331f39
