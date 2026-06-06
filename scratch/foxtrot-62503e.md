@@ -7,3 +7,7 @@ adjust tango c9ce86
 tweak echo 1d9c7b
 tidy juliet 06020c
 cleanup victor 8599d0
+tweak uniform da0be0
+refactor hotel 906ef4
+refactor harbor 9be7e9
+tune quebec 793298
