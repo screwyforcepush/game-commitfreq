@@ -10,7 +10,6 @@ tidy tango 11855b
 refactor romeo 7952ad
 expand yankee a2af5f
 nudge oscar ecc84a
-update nimbus 75e97f
 trim harbor 8587b4
 trim whiskey ed48f9
 nudge quebec 9ff26b
