@@ -1,5 +1,4 @@
 wire sierra cd8411
-update prism 0cfca7
 adjust charlie d769d1
 trim quebec 9058ba
 prune oscar 9ff090
