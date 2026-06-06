@@ -4,3 +4,6 @@ tidy zulu 5c9ffc
 cleanup mike 5e5e07
 tidy yankee 701044
 rework cobalt 3802ad
+tweak mike b6a238
+update kilo ddd018
+adjust golf 9b6657
