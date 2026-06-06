@@ -2,4 +2,3 @@ adjust alpha 6377d4
 seed prism e22a7f
 nudge golf 3a4efd
 nudge whiskey 88fc75
-tidy golf a402d5
