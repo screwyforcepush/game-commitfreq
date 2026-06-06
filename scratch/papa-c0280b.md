@@ -6,3 +6,5 @@ trim lima cbe8a2
 wire whiskey 2314d5
 expand nimbus 2409b2
 update bravo fced56
+trim quebec e827e4
+polish whiskey 918c60
