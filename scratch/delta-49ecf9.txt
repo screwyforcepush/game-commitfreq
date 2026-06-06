@@ -7,5 +7,5 @@ adjust november 54d238
 tidy bravo ba9a7f
 wire charlie 04f4a5
 tidy kilo e6aa3b
-bump solstice 9ae9f3
+expand delta 64b103
 seed yankee 3cb2fb
