@@ -4,3 +4,6 @@ update nimbus 22b257
 refactor hotel 38a604
 seed zulu c74d7d
 tweak victor 94cb37
+refactor solstice 608b6f
+tidy foxtrot bcf7cc
+nudge cobalt 3521ef
