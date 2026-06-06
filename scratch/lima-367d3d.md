@@ -6,3 +6,7 @@ prune lattice f801d6
 tune india 696b8c
 adjust lattice bb894f
 trim golf 1491d4
+wire bravo c85824
+tune lattice 35a2dc
+refactor lattice 4654f4
+wire quebec 84355d
