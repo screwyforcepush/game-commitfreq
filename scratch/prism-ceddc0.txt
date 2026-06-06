@@ -13,3 +13,5 @@ update whiskey 0888c5
 wire golf 78e45f
 trim romeo ae96cb
 cleanup charlie ce3d4e
+wire papa e6db67
+adjust zulu c8608a
