@@ -8,3 +8,6 @@ nudge prism b642c3
 tune victor 7dde8b
 expand golf e53e6f
 tune lima 00a308
+tidy solstice 51705c
+prune papa c9d0d0
+trim quebec 8980e6
