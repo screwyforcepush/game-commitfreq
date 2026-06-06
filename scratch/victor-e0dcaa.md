@@ -1,4 +1,3 @@
-polish xray 4029e1
 trim november 9a220e
 seed echo bc8215
 adjust oscar 3f4a17
