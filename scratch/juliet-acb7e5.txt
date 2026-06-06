@@ -7,3 +7,7 @@ adjust november 3829b1
 bump mike 0366f7
 tweak echo 71eb91
 adjust echo c6daa1
+adjust yankee a06a17
+adjust foxtrot 347b3a
+expand golf 7dbc1b
+polish ember b91661
