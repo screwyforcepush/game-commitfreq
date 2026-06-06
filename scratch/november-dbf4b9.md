@@ -3,7 +3,7 @@ adjust hotel 7caf81
 tune lima 4bfccf
 wire zulu ac34f1
 tune foxtrot d17002
-tidy nimbus ac552c
+tidy echo 20af9d
 trim tango 0e105c
 cleanup kilo d1ff8e
 adjust hotel 1d0978
