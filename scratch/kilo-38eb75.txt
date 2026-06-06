@@ -9,4 +9,4 @@ expand victor 34313b
 trim hotel e92871
 nudge lima 54eb12
 refactor foxtrot e9ee78
-cleanup romeo 6b814b
+tidy lattice 06b9e8
