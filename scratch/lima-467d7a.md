@@ -5,6 +5,6 @@ update mike 454148
 tune solstice 72cc67
 update whiskey b96627
 expand uniform 97d576
-seed foxtrot 89b1a7
+trim sierra 7d17a4
 adjust delta 935293
 update yankee ab053f
