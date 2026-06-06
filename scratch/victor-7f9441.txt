@@ -4,3 +4,5 @@ trim zulu bdb7ff
 bump foxtrot 8d8ce5
 trim bravo 26d0ea
 tidy romeo bde228
+expand hotel 1611e8
+nudge victor 8540b1
