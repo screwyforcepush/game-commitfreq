@@ -4,3 +4,7 @@ expand quebec 8c728c
 polish yankee 30e24e
 trim bravo 9999e0
 adjust mike 86305e
+wire mike 55b6eb
+trim whiskey a473cc
+trim bravo d61b6b
+polish quebec 2812da
