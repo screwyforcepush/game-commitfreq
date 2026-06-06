@@ -1,5 +1,4 @@
 cleanup xray df5bc7
-tidy november f6969c
 trim prism 7c526a
 seed delta 708c9a
 update cobalt b0787f
