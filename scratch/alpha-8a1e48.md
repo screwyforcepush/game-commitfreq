@@ -2,7 +2,6 @@ polish papa 78291b
 seed solstice 6b02e9
 refactor zulu 02f920
 nudge victor b3f6ae
-seed alpha c3595e
 polish foxtrot 73dc80
 bump yankee 160c1c
 adjust whiskey 9043f6
