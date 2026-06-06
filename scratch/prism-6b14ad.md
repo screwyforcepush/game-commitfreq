@@ -4,6 +4,6 @@ tweak yankee bbb56d
 cleanup cobalt 62a3d5
 refactor alpha f4cf33
 polish nimbus bca2b6
-bump whiskey 3ac067
+nudge whiskey 1cbfc1
 rework mike d5d98f
 nudge lattice d4eb70
