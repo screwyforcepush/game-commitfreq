@@ -11,3 +11,4 @@ update juliet 255dfc
 cleanup golf 1138ad
 prune prism 99dc8e
 cleanup uniform 7fa614
+tidy lattice fd7bc5
