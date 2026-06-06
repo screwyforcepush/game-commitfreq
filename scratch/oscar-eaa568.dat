@@ -8,3 +8,6 @@ tune lima f2c61a
 tune cobalt 1cac84
 expand solstice dcd2e1
 polish delta 7c6497
+cleanup papa 6d894b
+tune delta 37cb9c
+trim uniform 1cacef
