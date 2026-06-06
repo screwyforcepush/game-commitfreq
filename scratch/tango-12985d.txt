@@ -1,5 +1,0 @@
-update hotel a64f84
-cleanup yankee 0c057e
-rework quebec da4ae8
-rework sierra 8851b5
-rework victor 04424d
