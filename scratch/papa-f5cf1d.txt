@@ -4,6 +4,6 @@ update november d4fcb9
 polish foxtrot 1e9d16
 nudge golf 493d3a
 wire papa 47d99b
-update uniform b57205
+polish uniform f7ce23
 nudge nimbus fa01c3
 rework november 023799
