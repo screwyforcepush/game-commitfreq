@@ -19,3 +19,7 @@ refactor whiskey 721532
 polish tango 3718e3
 polish romeo 8f9c01
 refactor oscar 128b3c
+polish whiskey 1aafc4
+tidy alpha f27646
+adjust tango 3aa1aa
+expand charlie 4ebdca
