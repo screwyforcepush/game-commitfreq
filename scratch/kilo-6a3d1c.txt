@@ -9,3 +9,7 @@ seed prism 073c39
 trim papa 17f598
 nudge ember af2692
 expand nimbus 37cd27
+tidy ember 3f141f
+trim bravo f91877
+adjust whiskey d2387b
+rework whiskey 6b4cfa
