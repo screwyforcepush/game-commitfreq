@@ -8,3 +8,7 @@ wire uniform 2c6665
 nudge tango 38b345
 cleanup whiskey b7f661
 nudge romeo d61fb7
+nudge hotel 0a8816
+wire ember a51878
+trim india 3e1ff0
+seed alpha 765e67
