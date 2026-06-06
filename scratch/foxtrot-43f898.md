@@ -1,4 +1,4 @@
-cleanup nimbus d9abd4
+tune nimbus 300698
 cleanup zulu bf1fb9
 trim mike 21c0c8
 tune lima 88fad4
