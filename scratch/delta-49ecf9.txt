@@ -1,0 +1,4 @@
+seed lattice 932e21
+bump uniform c40719
+update tango 97c0ce
+adjust oscar 5aa733
