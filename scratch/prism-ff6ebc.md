@@ -4,3 +4,6 @@ tidy quebec c200d1
 update oscar 0eecd2
 cleanup nimbus 22cbe0
 trim juliet 1e5e5a
+tidy xray 7c83d3
+cleanup xray a93aa3
+nudge whiskey 8bedeb
