@@ -1,2 +1,1 @@
-prune oscar 605f19
 seed harbor 1d02c9
