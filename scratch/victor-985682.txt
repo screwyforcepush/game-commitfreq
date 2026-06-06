@@ -1,5 +1,0 @@
-wire echo e7659f
-tune charlie 868d64
-tidy foxtrot 7b6ae7
-prune whiskey 5962a8
-prune lattice f95487
