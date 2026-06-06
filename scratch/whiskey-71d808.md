@@ -1,5 +1,5 @@
 prune lattice 8d8ae6
-bump yankee 312f34
+trim quebec bb4708
 rework papa 707130
 tune alpha 25acd0
 tweak foxtrot 781cb7
