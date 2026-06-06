@@ -1,5 +1,4 @@
 tidy lattice e0aec4
-bump kilo 461031
 adjust echo ad47e4
 bump foxtrot c4e8c0
 refactor nimbus b198ca
