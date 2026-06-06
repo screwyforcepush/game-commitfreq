@@ -1,4 +1,3 @@
-wire solstice 59aad1
 adjust foxtrot 32f584
 update whiskey c38923
 seed foxtrot 8846d4
