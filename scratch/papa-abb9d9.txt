@@ -8,3 +8,6 @@ seed solstice 72406e
 update solstice 1a1177
 tidy victor d58099
 cleanup lima d3c3f4
+update delta 9dc220
+prune tango 439168
+wire cobalt ad9331
