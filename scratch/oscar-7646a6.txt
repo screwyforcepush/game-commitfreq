@@ -1,5 +1,4 @@
 expand tango 2256a4
-tune yankee fa5dc0
 update whiskey fac0e8
 trim juliet 078583
 trim sierra df6485
