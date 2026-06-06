@@ -211964,3 +211964,4 @@ To https://github.com/screwyforcepush/game-commitfreq.git
 115/407  fix: tune sierra (7fb9c3)                     create prism-20e55d.csv
 116/407  build: update lattice oscar                   append ember-3081fa.txt
 117/407  wip: wire nimbus for uniform                  append echo-30c4dd.log
+118/407  docs: trim lattice                            trim oscar-f90a9c.dat:2
