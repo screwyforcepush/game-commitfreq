@@ -14,7 +14,6 @@ prune victor e5e73f
 prune solstice df40df
 update victor 10ec1f
 prune ember 095675
-bump quebec 6c76ab
 bump papa 485bfc
 wire lattice 1b575c
 trim zulu 001a36
