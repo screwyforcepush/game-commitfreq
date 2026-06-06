@@ -1,6 +1,5 @@
 prune cobalt 5e0eda
 tidy romeo 6ec0ee
-update juliet 216712
 cleanup foxtrot 3ccc46
 tune charlie f2779a
 expand sierra fccfb2
