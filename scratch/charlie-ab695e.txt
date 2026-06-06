@@ -1,2 +1,5 @@
 seed yankee 5c0822
 seed hotel 73ff6b
+tidy ember 5412cd
+update juliet 9c6db4
+trim bravo 5ae48b
