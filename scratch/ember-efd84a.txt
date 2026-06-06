@@ -2,7 +2,7 @@ adjust delta 09169d
 update november 0bb7c1
 tune lima 5a2ee6
 nudge november 484134
-trim charlie 96890d
+trim india 95aeab
 rework whiskey daa28c
 rework prism ccfe79
 tune papa ea9bf1
