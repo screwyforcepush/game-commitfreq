@@ -7,3 +7,6 @@ bump whiskey 3deefc
 prune kilo 3922a4
 prune juliet a3a9ab
 refactor mike a4e1d8
+trim ember 9808fb
+wire zulu dbb3a1
+tidy tango a1d71a
