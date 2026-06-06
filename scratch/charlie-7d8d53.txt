@@ -1,6 +1,5 @@
 tidy romeo 45e012
 seed lattice 18132a
-bump sierra 033515
 rework lattice 7808da
 prune quebec 8f665e
 cleanup sierra 312c49
