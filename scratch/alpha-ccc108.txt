@@ -1,6 +1,0 @@
-cleanup victor 39da09
-adjust harbor 4bcc21
-bump victor 2c1298
-prune charlie adcec2
-prune india 37c926
-cleanup quebec 4b7987
