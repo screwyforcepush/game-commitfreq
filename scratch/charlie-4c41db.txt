@@ -2,3 +2,7 @@ refactor solstice decef2
 expand golf e97e49
 rework november 3b768b
 refactor delta cbf98c
+trim yankee 9d0552
+trim alpha d6c69e
+tweak lima 5a66eb
+refactor kilo 1d936e
