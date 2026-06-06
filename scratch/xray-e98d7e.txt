@@ -2,5 +2,4 @@ wire sierra cd8411
 trim quebec 9058ba
 prune oscar 9ff090
 rework bravo fc7917
-bump ember f07bb2
 prune charlie 65b205
