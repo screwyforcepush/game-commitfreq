@@ -1,7 +1,6 @@
 tidy lattice 0cce19
 update yankee bd1c56
 prune quebec 92af0c
-tidy cobalt 6f7ad6
 tune quebec afee03
 tidy foxtrot 6e6731
 update lima 8d15b8
