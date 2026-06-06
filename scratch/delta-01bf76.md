@@ -4,3 +4,6 @@ polish papa fcab79
 tidy harbor 07339c
 adjust xray a05b69
 cleanup sierra adf50a
+tidy lattice a8df5e
+seed lattice 1608e9
+tune whiskey 04c976
