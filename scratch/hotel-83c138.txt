@@ -1,5 +1,4 @@
 wire kilo 9858f5
-trim zulu 861047
 cleanup tango c81e69
 update xray e42931
 rework romeo ea7968
