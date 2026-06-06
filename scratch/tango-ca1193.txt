@@ -1,7 +1,6 @@
 refactor zulu c060b6
 rework lima 107f96
 nudge sierra 1f9890
-expand india 9dbc75
 adjust charlie a471d4
 trim xray 779083
 refactor charlie 347786
