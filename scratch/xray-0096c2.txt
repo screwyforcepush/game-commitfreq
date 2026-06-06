@@ -1,6 +1,0 @@
-cleanup quebec 1f8901
-tune november 240568
-refactor ember a4379d
-expand kilo 72cb0a
-trim foxtrot 5c463f
-tidy lima a92457
