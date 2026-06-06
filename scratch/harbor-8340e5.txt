@@ -3,3 +3,7 @@ bump lattice a0870b
 rework xray 92014c
 trim bravo 6d049c
 nudge lattice 9ef53c
+expand bravo 5a9514
+seed whiskey a4f19a
+wire yankee 795fe2
+rework prism a6ea85
