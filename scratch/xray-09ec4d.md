@@ -3,7 +3,7 @@ adjust lima 386dd2
 rework charlie 908cde
 wire sierra be9ef6
 update charlie 07493a
-update echo bde748
+prune november 074f02
 trim victor f78907
 update yankee 138f3a
 adjust quebec 7e52fa
