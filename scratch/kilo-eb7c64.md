@@ -4,6 +4,5 @@ nudge whiskey b67127
 wire delta 40afbe
 wire prism 7b4f51
 cleanup kilo ed6116
-bump victor 2b3030
 adjust delta e28ada
 wire victor 753331
