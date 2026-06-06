@@ -5,4 +5,4 @@ polish bravo fd2392
 adjust juliet ccf01f
 trim whiskey 013377
 prune sierra 046c9c
-trim november 219e6b
+adjust whiskey 9d2bf0
