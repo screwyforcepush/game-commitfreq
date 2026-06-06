@@ -4,3 +4,5 @@ wire uniform 9de88f
 tidy cobalt eb2f3f
 trim bravo 2badaa
 tidy november 79a499
+tidy foxtrot 77cf10
+trim uniform 78f8a4
