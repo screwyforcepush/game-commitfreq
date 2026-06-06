@@ -1,0 +1,3 @@
+prune november 6f76be
+prune yankee 8ad072
+adjust whiskey fc3653
