@@ -4,3 +4,6 @@ tweak harbor a737f4
 tweak india f430b5
 tune prism d6c7aa
 adjust tango 284fb4
+expand victor 34507b
+bump yankee 43b547
+trim alpha b17943
