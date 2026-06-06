@@ -1,7 +1,6 @@
 prune delta 11949f
 expand lima 576d51
 refactor kilo 1105b0
-tidy victor ef661a
 tweak mike bd2c46
 wire ember c84c1e
 tidy romeo 4c93d4
