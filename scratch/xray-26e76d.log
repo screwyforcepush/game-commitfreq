@@ -8,3 +8,6 @@ tune nimbus 321f26
 trim delta c73700
 nudge whiskey 679d7a
 cleanup zulu 3b5f4c
+trim ember 7cfd9f
+refactor whiskey ca5576
+wire lattice b6cb9d
