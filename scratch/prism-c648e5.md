@@ -5,3 +5,5 @@ seed xray 2d552b
 tune cobalt 34bd03
 expand quebec dee712
 tune oscar eb374c
+adjust ember 0cd4b0
+update charlie e6a230
