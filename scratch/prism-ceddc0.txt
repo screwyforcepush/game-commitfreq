@@ -17,3 +17,4 @@ wire papa e6db67
 adjust zulu c8608a
 prune yankee 8f03b4
 wire foxtrot c206f2
+trim oscar 5dba17
