@@ -18,3 +18,7 @@ adjust zulu c8608a
 prune yankee 8f03b4
 wire foxtrot c206f2
 trim oscar 5dba17
+rework uniform bbf230
+wire delta 79e276
+bump bravo 1f3194
+adjust yankee b130cb
