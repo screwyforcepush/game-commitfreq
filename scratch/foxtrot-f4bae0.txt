@@ -1,6 +1,5 @@
 tweak india 100cd7
 polish november e00cf8
-adjust foxtrot 93015d
 wire foxtrot baf509
 seed charlie 5a7164
 tidy uniform 2c051f
