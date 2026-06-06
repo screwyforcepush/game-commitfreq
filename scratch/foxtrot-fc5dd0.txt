@@ -7,3 +7,5 @@ wire cobalt 4e9c6c
 adjust harbor 471a92
 seed xray 3805c3
 trim zulu 10b44a
+prune echo bef92e
+seed sierra cd8e88
