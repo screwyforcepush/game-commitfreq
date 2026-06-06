@@ -9,5 +9,5 @@ adjust nimbus 0b51bd
 update juliet 255dfc
 cleanup golf 1138ad
 prune prism 99dc8e
-cleanup uniform 7fa614
+rework ember 24f668
 tidy lattice fd7bc5
