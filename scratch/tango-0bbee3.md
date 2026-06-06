@@ -3,3 +3,6 @@ expand hotel 2ffa1f
 trim papa b5b78f
 prune lima ca2241
 rework oscar 9791ec
+tidy victor 8adb9c
+prune ember 070f61
+tidy kilo 2a3dec
