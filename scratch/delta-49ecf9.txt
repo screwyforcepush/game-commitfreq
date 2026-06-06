@@ -4,7 +4,7 @@ update tango 97c0ce
 adjust oscar 5aa733
 polish prism de1fc6
 adjust november 54d238
-tidy bravo ba9a7f
+polish bravo 2d5df0
 wire charlie 04f4a5
 tidy kilo e6aa3b
 expand delta 64b103
