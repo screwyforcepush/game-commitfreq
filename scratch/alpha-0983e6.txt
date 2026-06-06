@@ -1,5 +1,4 @@
 prune solstice 5f67f3
-expand india 047a3a
 seed lattice 4cb494
 polish cobalt 21cfe6
 seed juliet af4daa
