@@ -4,3 +4,5 @@ trim victor d003d0
 tune uniform 4f5bbd
 nudge cobalt a1e8e8
 nudge delta 5594af
+trim foxtrot b789df
+update lattice c4389d
