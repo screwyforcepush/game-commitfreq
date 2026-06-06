@@ -6,7 +6,7 @@ trim charlie 96890d
 update november 2a14fa
 rework prism ccfe79
 tune papa ea9bf1
-nudge cobalt ea706f
+refactor november ca6576
 cleanup alpha e51bc4
 wire sierra 72d425
 nudge echo 11857b
