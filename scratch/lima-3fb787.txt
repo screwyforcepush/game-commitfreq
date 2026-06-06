@@ -4,3 +4,5 @@ tweak prism f87ddb
 seed prism 5abe9a
 update mike 88fc50
 tidy harbor ca22c1
+nudge quebec 2f43f7
+adjust sierra 77377b
