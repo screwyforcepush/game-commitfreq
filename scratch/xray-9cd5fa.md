@@ -4,7 +4,6 @@ tweak prism f5d563
 tidy prism 24825c
 seed prism 064776
 tidy solstice e15e7d
-expand prism f53fa2
 trim golf 35e6c4
 polish sierra b2bc0c
 nudge hotel 32651b
