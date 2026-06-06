@@ -1,6 +1,0 @@
-refactor sierra c9a335
-trim yankee 5d9286
-prune zulu b4be0c
-tune sierra 60521a
-prune november 030ae1
-adjust november 513d26
