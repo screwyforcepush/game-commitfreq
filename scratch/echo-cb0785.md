@@ -1,4 +1,3 @@
-update kilo fa4bd4
 tidy whiskey 5a505c
 trim cobalt 912827
 wire victor 0bb16f
