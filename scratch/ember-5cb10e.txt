@@ -1,1 +1,2 @@
 adjust lattice 844ce6
+wire tango eee1fc
