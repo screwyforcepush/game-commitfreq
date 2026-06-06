@@ -1,9 +1,0 @@
-prune india ad5038
-seed oscar d4c47a
-refactor zulu aa3cb7
-tweak juliet 08c632
-prune sierra 2442f7
-refactor kilo e48027
-polish echo e5a271
-cleanup alpha b4e942
-seed quebec c03c28
