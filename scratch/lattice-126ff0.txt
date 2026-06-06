@@ -1,7 +1,6 @@
 tune sierra a08c62
 cleanup charlie 1876b1
 bump delta 7af264
-update cobalt ae3f83
 tune whiskey 317463
 rework mike d97056
 bump charlie cffbb0
