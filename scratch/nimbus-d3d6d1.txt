@@ -1,5 +1,4 @@
 tidy cobalt 808df7
 bump yankee f3ff9b
 wire papa fb86a9
-trim delta 0369e7
 update tango 3ef41c
