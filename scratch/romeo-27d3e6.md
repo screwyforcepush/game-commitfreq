@@ -3,7 +3,6 @@ update golf a3bc0b
 expand india 3c5673
 cleanup quebec fded8e
 polish bravo fd2392
-refactor quebec abcd42
 adjust juliet ccf01f
 trim whiskey 013377
 prune sierra 046c9c
