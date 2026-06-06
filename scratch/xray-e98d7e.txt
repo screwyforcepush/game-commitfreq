@@ -1,4 +1,3 @@
 wire sierra cd8411
-cleanup hotel 74287b
 trim quebec 9058ba
 prune oscar 9ff090
