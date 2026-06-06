@@ -7,3 +7,6 @@ prune november 074f02
 trim victor f78907
 update yankee 138f3a
 adjust quebec 7e52fa
+rework nimbus a4ebbd
+cleanup cobalt d2ac4f
+wire uniform 427f12
