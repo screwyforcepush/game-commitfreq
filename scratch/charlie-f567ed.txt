@@ -1,6 +1,0 @@
-tweak quebec 75698b
-cleanup november 33a601
-polish xray b7a857
-seed hotel c1a5e2
-rework yankee bed264
-update november be1511
