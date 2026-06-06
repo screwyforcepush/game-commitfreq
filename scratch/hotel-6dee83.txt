@@ -6,5 +6,5 @@ prune oscar 339f65
 prune sierra f2c3e5
 trim echo be25ef
 cleanup zulu 2a4110
-seed charlie 0d780a
+tidy yankee e4766e
 rework harbor b898b6
