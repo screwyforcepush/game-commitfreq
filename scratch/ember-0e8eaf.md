@@ -16,3 +16,6 @@ bump lattice b08edf
 nudge victor be8b69
 trim nimbus 409783
 polish zulu 566f52
+tune foxtrot 079bf9
+bump foxtrot 666b77
+tune delta 79cd87
