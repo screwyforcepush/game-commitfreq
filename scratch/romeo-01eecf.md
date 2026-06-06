@@ -4,3 +4,6 @@ refactor november f93917
 tweak india 29c1a9
 seed tango d8ab0d
 cleanup lima 7614d0
+wire india b45964
+trim echo 43d262
+trim lattice 7e4358
