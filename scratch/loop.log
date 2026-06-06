@@ -213370,3 +213370,4 @@ To https://github.com/screwyforcepush/game-commitfreq.git
 177/533  fix: rework bravo for uniform                 create yankee-3d7a93.csv
 178/533  chore: tidy xray (6619a8)                     append ember-e2fb64.csv
 179/533  wip: tweak ember (cabecd)                     append sierra-ba5b32.dat
+180/533  tidy sierra bravo                             trim mike-fe92f9.dat:8
