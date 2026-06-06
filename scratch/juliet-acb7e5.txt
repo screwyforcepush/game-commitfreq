@@ -1,4 +1,4 @@
-seed victor f6f7bd
+prune victor 49d63f
 bump foxtrot f7baab
 tidy foxtrot 831d96
 wire delta 2c63d8
