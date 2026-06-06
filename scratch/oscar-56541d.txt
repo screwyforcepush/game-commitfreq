@@ -1,8 +1,0 @@
-prune sierra bbdd3c
-adjust cobalt 8cac30
-expand yankee 96735d
-prune tango 496597
-tweak uniform d39d84
-expand harbor a8ac15
-tune charlie f840c9
-cleanup nimbus a00479
