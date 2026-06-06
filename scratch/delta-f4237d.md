@@ -11,3 +11,6 @@ cleanup echo 3f7d9f
 update victor 7ce608
 bump golf db5beb
 bump juliet 459931
+rework nimbus be28b7
+tune charlie bc52b3
+rework golf be0118
