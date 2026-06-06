@@ -1,4 +1,3 @@
-wire papa 553bf3
 prune quebec 825490
 refactor prism b453cd
 tweak whiskey ec4982
