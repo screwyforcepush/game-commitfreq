@@ -5,3 +5,6 @@ expand cobalt 012cb7
 bump echo 058732
 tidy xray 837e59
 rework xray 844e59
+update juliet cb51e7
+tidy sierra 6307df
+trim solstice 6c6b32
