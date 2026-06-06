@@ -1,3 +1,0 @@
-polish delta 93202d
-tweak nimbus 418ca8
-nudge kilo c58214
