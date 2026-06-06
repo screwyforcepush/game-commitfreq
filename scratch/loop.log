@@ -216187,3 +216187,4 @@ To https://github.com/screwyforcepush/game-commitfreq.git
 383/449  rework cobalt yankee                          append xray-41d63d.dat
 384/449  build: nudge mike (c78820)                    append india-2c99f5.dat
 385/449  feat: prune victor (de4970)                   append mike-7fd6a9.txt
+386/449  chore: adjust yankee for sierra               rename tango-eb000e.txt -> india-275200.csv
