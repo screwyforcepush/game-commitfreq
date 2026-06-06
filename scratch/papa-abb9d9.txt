@@ -3,3 +3,6 @@ cleanup alpha 9f3a5e
 cleanup lima 13d8cf
 nudge uniform e08435
 tidy lima 7d0b9f
+trim charlie e6e3e4
+refactor tango 899c8a
+seed solstice 72406e
