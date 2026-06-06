@@ -1,4 +1,3 @@
-tidy lattice 0cce19
 update yankee bd1c56
 prune quebec 92af0c
 tune quebec afee03
