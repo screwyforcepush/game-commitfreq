@@ -1,3 +1,5 @@
 tune sierra e22006
 rework quebec f29e9c
 rework lattice bfaf87
+update ember b8ea40
+rework oscar ac72e2
