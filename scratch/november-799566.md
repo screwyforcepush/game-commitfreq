@@ -3,7 +3,6 @@ refactor kilo eaa4af
 tune echo c9200e
 prune harbor ff88b4
 tune tango 32c2bf
-tune india 47389e
 prune kilo 82b572
 nudge foxtrot 2b4416
 rework romeo 0fdd85
