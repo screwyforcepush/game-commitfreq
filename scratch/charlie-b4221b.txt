@@ -6,3 +6,7 @@ prune tango 09c9e4
 prune yankee 5dd9d0
 rework oscar 4ab638
 tidy xray efd0c3
+trim yankee 61d896
+tune charlie 7660a5
+refactor cobalt 3ae6e1
+cleanup yankee 61a367
