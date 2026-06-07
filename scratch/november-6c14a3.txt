@@ -8,3 +8,6 @@ update kilo fc7312
 bump sierra 4ff8b5
 tweak nimbus e8f6a1
 tune golf 58995e
+tidy nimbus f6b874
+polish yankee af0a15
+tune quebec 385793
