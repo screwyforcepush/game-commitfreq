@@ -3,3 +3,7 @@ nudge xray 4dba80
 trim juliet 83604e
 tweak hotel ff57d4
 bump harbor 469383
+tune oscar 18251a
+tune zulu 82af48
+expand kilo 87d64e
+tweak lattice 637e96
