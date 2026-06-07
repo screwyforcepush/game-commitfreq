@@ -20,7 +20,7 @@ seed victor 882c95
 prune lattice 743eb7
 bump lima 4ce8c5
 update romeo 3d334b
-expand quebec 438955
+expand solstice ae9dd0
 refactor mike 4e322f
 tune ember 44ffc1
 wire lima a80a7f
