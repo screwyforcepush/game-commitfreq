@@ -3,7 +3,7 @@ tidy cobalt b80089
 tidy xray 5e8cc8
 tidy kilo 774c81
 wire zulu e74078
-tweak mike d7797e
+tweak xray 05fa5e
 bump solstice 21c0c3
 adjust yankee e5f9ff
 tidy xray d72bee
