@@ -1,5 +1,5 @@
 expand quebec 07aef1
-rework foxtrot 985bf3
+refactor hotel bf4369
 refactor sierra 82c701
 tweak lattice 8d3ce3
 adjust papa 03d7fa
