@@ -1,5 +1,5 @@
 prune oscar 051c66
 wire romeo 12564b
 tweak whiskey e14005
-polish juliet a30ab3
+tidy golf 38c00e
 tidy charlie 924a66
