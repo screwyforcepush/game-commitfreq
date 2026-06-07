@@ -7,3 +7,5 @@ update echo 38434d
 polish foxtrot 1c7031
 nudge zulu 7b4f97
 nudge papa 6bcd27
+tune charlie d02487
+prune victor 74a866
