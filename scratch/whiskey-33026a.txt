@@ -8,3 +8,5 @@ tidy yankee 748083
 expand lattice fa9205
 rework hotel 1aa741
 adjust ember 6f8c54
+expand juliet 3d217f
+trim juliet 4a8e93
