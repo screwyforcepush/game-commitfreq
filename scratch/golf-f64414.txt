@@ -3,7 +3,6 @@ rework sierra 476a98
 cleanup foxtrot db70c5
 rework echo 5e814c
 nudge sierra e7dff4
-seed juliet f69079
 refactor lattice d0cff4
 expand uniform e2eb3c
 tidy lima a0bab6
