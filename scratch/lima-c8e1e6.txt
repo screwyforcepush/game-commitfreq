@@ -6,3 +6,5 @@ tidy echo f3464e
 polish alpha 85f1d6
 tidy kilo cf0d1c
 tidy romeo 223b92
+rework sierra 6fa72f
+adjust lima 8911d6
