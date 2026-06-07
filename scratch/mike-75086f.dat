@@ -9,7 +9,7 @@ update lima 11e1d8
 tune xray 20f56e
 cleanup cobalt af8990
 tune lattice 3f264f
-expand echo 8406ee
+rework lattice 659c9d
 tidy delta 3ddc79
 tweak tango 19251c
 polish victor e6a140
