@@ -29,3 +29,7 @@ seed xray 141048
 cleanup india d81661
 wire november 551752
 expand yankee d9bd59
+seed delta 417a2c
+wire yankee 67ae45
+nudge lattice ac5fab
+tune delta a6b251
