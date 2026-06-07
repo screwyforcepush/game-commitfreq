@@ -1,4 +1,3 @@
-adjust foxtrot 32f584
 rework foxtrot d7192e
 cleanup tango d880ec
 wire oscar 720d59
