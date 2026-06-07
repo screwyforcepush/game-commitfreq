@@ -1,6 +1,5 @@
 tidy bravo be65dd
 prune bravo 31b165
-tidy lattice b3cf6e
 trim zulu a3c024
 bump juliet 9cbca0
 rework golf f2cc78
