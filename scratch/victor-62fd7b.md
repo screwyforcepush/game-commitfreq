@@ -13,3 +13,6 @@ refactor whiskey 364436
 polish quebec 37be1a
 cleanup kilo 5b996c
 seed tango af749d
+expand lattice 67a91c
+adjust bravo a1e8bb
+polish juliet 7f0452
