@@ -1,7 +1,7 @@
 cleanup foxtrot 14387f
 prune xray f35e17
 tidy november 323f94
-trim golf 4728b5
+update whiskey ee2b16
 cleanup victor ddc97e
 tune foxtrot 21f244
 nudge delta 1f651e
