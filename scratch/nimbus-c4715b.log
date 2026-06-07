@@ -12,3 +12,6 @@ tune nimbus 705848
 expand delta 5dbc22
 polish harbor e1cd10
 trim sierra 6dbb72
+prune alpha b42a84
+tidy lattice 5066e8
+tidy golf df090f
