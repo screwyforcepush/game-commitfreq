@@ -6,3 +6,5 @@ polish quebec ffb982
 tidy november d8f76b
 trim sierra 6a8f05
 bump mike 14658c
+tidy cobalt 0a6c64
+adjust charlie 5ddf80
