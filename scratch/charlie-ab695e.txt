@@ -3,7 +3,6 @@ seed hotel 73ff6b
 tidy ember 5412cd
 update juliet 9c6db4
 bump mike 2c68e1
-trim bravo e4a311
 refactor echo e586ba
 tweak harbor c876ab
 wire oscar 54bf76
