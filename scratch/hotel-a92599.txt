@@ -29,3 +29,6 @@ nudge xray 803e7d
 cleanup uniform 0db4f7
 trim hotel 3cda96
 bump lima 21e7ac
+tidy sierra e2473b
+cleanup harbor b79584
+prune solstice d33566
