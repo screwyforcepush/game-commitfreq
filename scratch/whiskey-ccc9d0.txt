@@ -1,3 +1,0 @@
-seed papa f35a07
-wire romeo d1bd2e
-trim lattice e14b0f
