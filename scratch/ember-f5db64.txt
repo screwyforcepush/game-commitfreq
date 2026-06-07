@@ -2,3 +2,6 @@ refactor uniform b39f64
 cleanup echo da5406
 tweak lattice a0e3cc
 nudge sierra 717883
+trim solstice 8f8148
+refactor uniform ed5a74
+adjust quebec 09b0f0
