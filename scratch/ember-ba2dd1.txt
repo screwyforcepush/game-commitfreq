@@ -1,4 +1,0 @@
-tidy zulu 39f85a
-trim golf 64dff6
-tweak charlie bd1c9b
-seed golf a9283c
