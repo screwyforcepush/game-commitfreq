@@ -11,7 +11,6 @@ wire nimbus da2e48
 tweak hotel 94d493
 cleanup lattice 8fbe6d
 wire bravo 2b3849
-nudge prism f343d7
 tune tango 59de7c
 update quebec 028e98
 polish nimbus cc8d42
