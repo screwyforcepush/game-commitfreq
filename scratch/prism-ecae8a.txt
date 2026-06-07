@@ -4,5 +4,4 @@ cleanup quebec adbb69
 cleanup tango d07b99
 tune sierra e428bc
 wire delta 0af1c7
-adjust whiskey b7aa10
 tidy oscar 88a74c
