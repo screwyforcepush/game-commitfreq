@@ -1,6 +1,0 @@
-trim delta 467f31
-wire whiskey c0f1c5
-trim juliet 4d6c87
-nudge india 83399f
-adjust papa f29327
-expand juliet 3b934f
