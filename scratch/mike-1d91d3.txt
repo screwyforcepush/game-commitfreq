@@ -4,7 +4,7 @@ refactor romeo a17bd2
 trim zulu c283e5
 trim hotel ccbcf4
 adjust yankee 22f7da
-tidy charlie c38a2d
+prune quebec 4c94fc
 adjust yankee 14550e
 seed oscar cb618e
 update victor dfce34
