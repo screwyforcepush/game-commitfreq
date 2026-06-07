@@ -5,4 +5,3 @@ tidy yankee b84927
 tune harbor f0cc94
 trim tango dbb015
 prune cobalt 18230b
-trim solstice 780c20
