@@ -9,7 +9,6 @@ tidy charlie de57e6
 adjust golf 7a369c
 tidy victor 6c98cc
 wire nimbus 02f866
-seed golf eaa406
 bump mike 650b3e
 update november 5a6461
 adjust solstice fa32c2
