@@ -7,3 +7,6 @@ tune oscar 18251a
 tune zulu 82af48
 expand kilo 87d64e
 tweak lattice 637e96
+tune whiskey 304b4e
+tidy harbor d75c93
+polish charlie cf0db1
