@@ -6,3 +6,7 @@ cleanup bravo 1442ae
 update lima 0971ef
 expand echo bfb8b8
 polish foxtrot f4f5ad
+tweak lima 1b5d10
+tune charlie 10572c
+expand sierra b67f86
+tidy mike 7e33a9
