@@ -1,2 +1,1 @@
-nudge xray d32167
 wire kilo a28bf8
