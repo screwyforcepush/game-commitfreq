@@ -1,1 +1,1 @@
-bump xray 70180e
+polish nimbus 3824c8
