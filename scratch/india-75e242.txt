@@ -4,3 +4,7 @@ prune tango 408a4f
 prune quebec 327d4a
 trim harbor 2b13eb
 tune uniform ff85e0
+adjust charlie fd4661
+prune quebec 517dd4
+rework juliet 04bdfa
+cleanup lattice 83d06c
