@@ -3,3 +3,5 @@ expand lattice d0b5a1
 adjust whiskey c0ba75
 polish golf e7cab1
 seed zulu d42c02
+nudge victor 75250d
+tidy alpha 657e89
