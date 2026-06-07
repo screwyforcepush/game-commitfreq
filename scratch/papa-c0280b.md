@@ -7,3 +7,5 @@ expand nimbus 2409b2
 update bravo fced56
 trim quebec e827e4
 polish whiskey 918c60
+tune oscar 4cf5fb
+bump mike 245e9c
