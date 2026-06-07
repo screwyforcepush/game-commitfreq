@@ -1,4 +1,3 @@
 adjust foxtrot 32f584
 seed juliet efc1e3
-bump romeo e640c8
 refactor november e09fc2
