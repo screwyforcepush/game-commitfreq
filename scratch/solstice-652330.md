@@ -7,3 +7,5 @@ refactor zulu 39bae1
 polish lima 68c88c
 rework lima d194f5
 adjust tango 5b8f8e
+bump solstice 942995
+trim hotel ed0694
