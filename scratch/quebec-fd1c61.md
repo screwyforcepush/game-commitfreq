@@ -4,5 +4,4 @@ polish zulu 42a4c4
 seed quebec 112793
 trim foxtrot b27f98
 update oscar 0407fe
-update sierra fe9391
 trim juliet 319cf1
