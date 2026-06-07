@@ -7,5 +7,4 @@ tune ember f97348
 tidy nimbus e8c36e
 cleanup foxtrot 194e20
 polish sierra cf3774
-polish quebec faeb65
 prune nimbus fdaca7
