@@ -1,5 +1,4 @@
 tweak lattice 9a1603
-tune sierra daa099
 adjust harbor 2d64bc
 adjust xray e497a3
 cleanup ember 4ecb9d
