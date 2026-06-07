@@ -1,4 +1,3 @@
-expand lattice 27f253
 cleanup tango 2913e4
 adjust tango a45d2d
 seed oscar e96e23
