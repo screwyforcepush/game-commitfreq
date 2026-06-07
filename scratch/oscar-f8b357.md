@@ -1,5 +1,5 @@
 bump lattice be8999
 adjust uniform 12cbf9
-prune bravo dc851b
+trim cobalt f96f0c
 trim delta 094810
 refactor foxtrot 884228
