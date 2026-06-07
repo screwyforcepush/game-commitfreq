@@ -7,3 +7,5 @@ wire harbor d446bb
 cleanup prism 331b98
 tune lima 99a7c2
 bump india c9fdbc
+cleanup solstice 1830c1
+cleanup quebec 70a048
