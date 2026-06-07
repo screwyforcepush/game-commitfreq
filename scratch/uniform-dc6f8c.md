@@ -1,6 +1,6 @@
 seed golf 18886c
 tweak nimbus 3f19bc
 bump bravo caacfe
-wire lattice d0517d
+adjust papa c7ac90
 wire cobalt bae442
 seed solstice 610903
