@@ -8,3 +8,5 @@ tune hotel 93a7d0
 tweak quebec 625083
 tweak oscar 3f532a
 tune cobalt 7c8af8
+bump echo 2bcfe6
+bump xray fc830c
