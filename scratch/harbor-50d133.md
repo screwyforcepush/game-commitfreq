@@ -3,3 +3,7 @@ trim quebec dd414d
 tune zulu 2c5de3
 rework lattice ee4b1f
 tweak whiskey a083a2
+cleanup lattice b35b1a
+cleanup whiskey 57f892
+adjust ember b82a84
+rework victor 10e140
