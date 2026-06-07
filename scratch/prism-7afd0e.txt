@@ -1,8 +1,0 @@
-nudge quebec 397990
-trim golf 8eba5a
-nudge delta 6413a1
-expand delta 9b8259
-adjust xray 964af2
-tune victor ee2c5b
-polish delta ae88cc
-prune harbor 3c7fca
