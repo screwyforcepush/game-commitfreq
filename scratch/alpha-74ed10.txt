@@ -1,2 +1,4 @@
 tidy bravo be65dd
 adjust alpha e4f637
+tidy lattice b3cf6e
+trim zulu a3c024
