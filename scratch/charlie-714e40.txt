@@ -1,2 +1,2 @@
 prune nimbus 695469
-tune kilo 7a4cde
+prune foxtrot d0082b
