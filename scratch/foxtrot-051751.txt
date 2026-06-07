@@ -2,7 +2,6 @@ trim romeo beed2c
 cleanup mike 26a1f0
 prune juliet 66de13
 polish mike 3e8c3c
-tune solstice 438961
 update xray 6d45b8
 nudge yankee 1b982c
 adjust juliet 3a9c65
