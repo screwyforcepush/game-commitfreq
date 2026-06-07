@@ -1,7 +1,6 @@
 wire bravo 220d81
 wire india 102600
 refactor charlie dfd28a
-prune echo 1cb439
 nudge solstice 936562
 tidy romeo b7f058
 wire tango ad6787
