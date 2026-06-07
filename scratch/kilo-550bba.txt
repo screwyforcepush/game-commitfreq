@@ -1,4 +1,3 @@
 wire kilo 6ad484
-polish juliet 880ec1
 tune hotel 92b611
 wire cobalt 17edb9
