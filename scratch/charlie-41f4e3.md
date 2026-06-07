@@ -5,3 +5,7 @@ expand victor dab382
 nudge bravo c11674
 nudge solstice 7ec732
 tune whiskey 1b0730
+tweak victor f2402d
+rework harbor 5ffd8c
+prune victor 6dc44d
+tune foxtrot 99caf1
