@@ -2,7 +2,7 @@ tweak lattice 9a1603
 tune sierra daa099
 adjust harbor 2d64bc
 adjust xray e497a3
-trim cobalt 40e000
+cleanup ember 4ecb9d
 polish victor b0a5a2
 tweak oscar 80e3b8
 trim ember f337b1
