@@ -3,6 +3,5 @@ bump delta 4aa727
 wire ember 0931af
 trim kilo e42344
 nudge ember 88464a
-wire echo 810a40
 wire foxtrot 2a3316
 nudge bravo 6d62fb
