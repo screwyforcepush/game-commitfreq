@@ -1,5 +1,4 @@
 seed bravo 8ba4e5
-trim papa e36abd
 tune uniform dc8b92
 tune yankee daabf6
 bump uniform 8f27dc
