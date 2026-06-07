@@ -6,5 +6,4 @@ nudge solstice 708d70
 seed sierra 1d4baf
 adjust solstice 2d4528
 seed uniform fb9481
-wire kilo b069c9
 wire papa fbde66
