@@ -3,7 +3,6 @@ tune foxtrot 7cf24f
 rework xray 90d8a2
 tweak juliet f9361f
 nudge solstice 708d70
-expand ember 794a4b
 seed sierra 1d4baf
 adjust solstice 2d4528
 seed uniform fb9481
