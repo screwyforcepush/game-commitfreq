@@ -19,7 +19,6 @@ tune solstice e65f71
 cleanup alpha 5bc3be
 trim quebec 82fd19
 wire uniform 80259e
-bump charlie d5d933
 trim sierra e7a4cd
 prune hotel 277090
 tweak solstice d15319
