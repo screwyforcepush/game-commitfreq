@@ -8,3 +8,7 @@ bump quebec 0dbcb9
 tidy ember 4ac436
 tune solstice a526f4
 expand alpha 338d2e
+rework lima 3cdc95
+rework prism 8618f5
+prune november 4e4c43
+tweak cobalt 0200cf
