@@ -7,7 +7,6 @@ update prism 38c814
 expand ember 23e53e
 seed oscar a45abf
 update ember 3e9d5f
-rework nimbus a3511b
 tune charlie c0e544
 tweak papa 8c583e
 trim papa 44dd0b
