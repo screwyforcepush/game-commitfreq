@@ -19,6 +19,6 @@ prune sierra d07451
 expand echo 2d6ac7
 expand xray ea0a0b
 prune solstice b5eaca
-adjust mike a58ede
+nudge nimbus 89a1b3
 polish hotel 45f300
 bump charlie 4c7ee8
