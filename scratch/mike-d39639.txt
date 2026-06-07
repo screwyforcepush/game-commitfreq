@@ -1,5 +1,0 @@
-rework mike 84a61b
-trim alpha f21279
-refactor yankee 1e95ca
-polish november 07fdcd
-adjust ember e5ce52
