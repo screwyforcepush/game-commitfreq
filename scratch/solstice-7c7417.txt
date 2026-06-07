@@ -3,7 +3,6 @@ seed india 2a15ec
 rework zulu 34a7eb
 update mike d3a286
 wire foxtrot 36046e
-adjust echo f51e51
 bump romeo acb8fa
 cleanup whiskey d462ab
 seed nimbus 1d465b
