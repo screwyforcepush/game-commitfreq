@@ -4,7 +4,7 @@ polish delta 82ce11
 seed november caf884
 trim echo e1f678
 cleanup echo f2f4d7
-refactor india 122a87
+cleanup juliet d99ca5
 adjust yankee a722bf
 seed lattice f1b1ae
 tweak india 5a8cb2
