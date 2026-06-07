@@ -1,1 +1,0 @@
-prune echo 9693f6
