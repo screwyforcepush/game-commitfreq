@@ -1,2 +1,0 @@
-tune solstice 937722
-wire echo b7bb45
