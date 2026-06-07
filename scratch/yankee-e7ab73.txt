@@ -1,7 +1,7 @@
 rework xray 552c60
 refactor hotel 9e6597
 rework sierra ca04ac
-expand juliet 1e2c3b
+adjust yankee 2c9fad
 adjust foxtrot 091f0d
 trim bravo 503d5d
 adjust whiskey 2f941a
