@@ -8,6 +8,5 @@ tidy xray 7c83d3
 cleanup xray a93aa3
 nudge whiskey 8bedeb
 rework foxtrot 1fba19
-refactor delta 398a07
 polish golf 101c02
 prune november 597941
