@@ -1,4 +1,4 @@
-wire quebec 12cd62
+trim bravo bbd036
 prune yankee 8ad072
 adjust whiskey fc3653
 wire tango 1eab45
