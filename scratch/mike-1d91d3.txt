@@ -1,5 +1,4 @@
 update quebec 3c0328
-tidy papa 0cf557
 refactor romeo a17bd2
 trim zulu c283e5
 trim hotel ccbcf4
