@@ -2,7 +2,6 @@ polish cobalt fc0ac5
 polish solstice 87a9be
 seed zulu 619d0a
 refactor xray 408295
-prune whiskey 43e4f9
 wire sierra 22ead2
 polish whiskey 0a12f9
 rework tango f74a4a
