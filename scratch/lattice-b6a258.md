@@ -8,3 +8,7 @@ adjust sierra 15142a
 adjust echo 22a093
 update bravo 0481bc
 seed papa ed59a6
+wire tango 53c32d
+trim lattice 6c09e7
+nudge alpha af70e4
+rework solstice aecd66
