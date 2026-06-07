@@ -13,3 +13,5 @@ trim lattice 715bc7
 tidy papa 50123e
 rework uniform 133496
 bump whiskey 8db812
+adjust hotel a37d87
+rework hotel 83870d
