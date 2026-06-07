@@ -1,0 +1,5 @@
+adjust oscar 0bfe66
+bump lattice 59d55f
+bump delta a3a90d
+nudge zulu f8d72e
+cleanup whiskey 80fd90
