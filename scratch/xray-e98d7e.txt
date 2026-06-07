@@ -1,5 +1,4 @@
 nudge nimbus f20f1d
-trim quebec 9058ba
 prune oscar 9ff090
 refactor yankee e63c8c
 prune charlie 65b205
