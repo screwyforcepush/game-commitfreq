@@ -4,3 +4,7 @@ tweak oscar b2822e
 adjust november 1dce5c
 refactor november c16f0b
 cleanup mike 1af301
+nudge nimbus 72a30a
+rework echo 4a0502
+tidy quebec 594f21
+prune ember 30b89e
