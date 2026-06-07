@@ -1,4 +1,3 @@
-bump alpha 0ff483
 wire oscar 498140
 nudge golf e1e458
 polish zulu 5650d3
