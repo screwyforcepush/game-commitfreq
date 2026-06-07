@@ -5,7 +5,7 @@ nudge yankee b61a9d
 nudge tango 9d5513
 cleanup charlie 936084
 adjust bravo 671d86
-nudge quebec 34babf
+seed whiskey a1fb79
 tweak bravo 141ea6
 trim harbor 099479
 update charlie a88d6b
