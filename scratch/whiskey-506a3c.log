@@ -7,6 +7,6 @@ tune foxtrot 21f244
 nudge delta 1f651e
 refactor lattice e5ee10
 tune charlie fbfff2
-tweak whiskey e40c9a
+prune lattice bc1fb8
 trim quebec 199044
 trim zulu 12c5f6
