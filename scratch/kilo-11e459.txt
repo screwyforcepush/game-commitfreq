@@ -7,3 +7,6 @@ nudge oscar 3080b6
 update harbor bee8e3
 refactor oscar 9a92b1
 update prism 201d31
+tweak lattice c226ca
+trim harbor 36f3b2
+tweak november 397ba0
