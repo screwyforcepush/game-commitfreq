@@ -1,4 +1,3 @@
-prune nimbus e74d34
 update whiskey b72aad
 expand echo 976d46
 seed juliet 6fe6f9
