@@ -12,3 +12,6 @@ update charlie a88d6b
 polish zulu 1d332c
 polish alpha 375ad5
 tweak oscar 7508cd
+bump solstice ba1585
+tune nimbus dbffe0
+tune prism 01e0b9
