@@ -8,3 +8,4 @@ trim ember 096a7d
 bump nimbus bfe5db
 trim lima 7af882
 wire lattice f065f6
+bump kilo 7ab284
