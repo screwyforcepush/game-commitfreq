@@ -1,6 +1,6 @@
 tune sierra ef89a2
 prune kilo d2ecb8
-wire zulu a5e2ef
+trim foxtrot e16193
 polish nimbus bcc683
 cleanup hotel da647c
 trim bravo f8162b
