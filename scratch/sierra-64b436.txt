@@ -4,7 +4,7 @@ tweak yankee 5178b6
 prune golf aad584
 update solstice 5c112f
 polish golf 2562c0
-cleanup lattice eebbdc
+tune victor d1b9c1
 wire tango 943f7e
 tune mike 133abe
 cleanup whiskey 8963df
