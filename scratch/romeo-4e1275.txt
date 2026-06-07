@@ -2,7 +2,6 @@ prune cobalt 5e0eda
 tidy romeo 6ec0ee
 cleanup foxtrot 3ccc46
 trim alpha 9dcdab
-expand sierra fccfb2
 cleanup india 67e201
 expand oscar 37715e
 cleanup ember cc5db0
