@@ -6,3 +6,5 @@ expand foxtrot 904e8c
 expand xray 10e0b0
 tune hotel 93a7d0
 tweak quebec 625083
+tweak oscar 3f532a
+tune cobalt 7c8af8
