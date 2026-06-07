@@ -5,3 +5,5 @@ polish hotel a01bda
 tweak lima 503a2c
 polish golf 5e0373
 trim harbor 9a1a79
+expand india fd37b0
+adjust hotel af8d70
