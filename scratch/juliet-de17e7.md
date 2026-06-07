@@ -2,3 +2,6 @@ update hotel 98afc8
 cleanup tango a3a18a
 prune prism 6bdc6f
 polish hotel a01bda
+tweak lima 503a2c
+polish golf 5e0373
+trim harbor 9a1a79
