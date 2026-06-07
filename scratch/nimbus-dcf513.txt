@@ -1,5 +1,0 @@
-seed bravo 8ba4e5
-tune uniform dc8b92
-tune yankee daabf6
-bump uniform 8f27dc
-wire solstice 4347f6
