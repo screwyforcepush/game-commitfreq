@@ -5,3 +5,4 @@ tweak kilo f87480
 seed xray 6c1536
 trim alpha c548cc
 prune delta 7ced95
+adjust nimbus 51052d
