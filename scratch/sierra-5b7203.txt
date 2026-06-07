@@ -2,5 +2,4 @@ cleanup charlie 450829
 rework charlie c879be
 wire nimbus 25d073
 cleanup charlie e7dea5
-adjust hotel 24949c
 polish delta 3e1e66
