@@ -1,5 +1,0 @@
-seed zulu 25cd2a
-tune cobalt 46f377
-seed juliet 2c1319
-prune nimbus b2be45
-nudge delta 9f9f97
