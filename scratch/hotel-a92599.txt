@@ -18,7 +18,6 @@ prune bravo 8a9262
 nudge uniform e70726
 wire solstice a8a59e
 rework golf 4169f2
-wire tango 5c33f6
 cleanup hotel c67cfb
 nudge foxtrot e60832
 tune mike 105e05
