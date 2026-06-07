@@ -4,7 +4,7 @@ tune cobalt e104cb
 trim whiskey 9e7fa4
 refactor alpha 974332
 nudge november 46ed52
-polish lattice 4de9e4
+polish lattice f1293a
 tidy cobalt d60578
 polish november 1e4584
 adjust golf c752f5
