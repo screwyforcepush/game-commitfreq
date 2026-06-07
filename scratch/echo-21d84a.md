@@ -4,3 +4,7 @@ expand prism 155f72
 cleanup mike f74c68
 tune harbor f71c73
 tune ember ea040c
+trim november fbc5c0
+trim ember 096a7d
+bump nimbus bfe5db
+trim lima 7af882
