@@ -8,3 +8,7 @@ refactor echo fd5b0f
 update quebec 5ff9a2
 expand whiskey 8ae55f
 wire golf ecca5f
+nudge zulu 1dbf77
+trim charlie 4a0633
+expand kilo a3f511
+rework xray cda6a6
