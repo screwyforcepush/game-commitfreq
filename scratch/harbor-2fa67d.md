@@ -4,3 +4,6 @@ refactor whiskey 19f7bd
 nudge sierra 477d59
 tune victor de79c1
 wire charlie 8e38ce
+tweak xray e681d4
+prune november 1257c7
+expand sierra e9566f
