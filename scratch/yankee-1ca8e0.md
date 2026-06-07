@@ -20,3 +20,5 @@ prune sierra f450dc
 expand echo 6843ae
 nudge foxtrot fa2dbc
 update harbor 4678ae
+seed romeo ce12a3
+update oscar 2a8e90
