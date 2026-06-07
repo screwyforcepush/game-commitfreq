@@ -4,3 +4,5 @@ bump november d5b03e
 expand xray 938e6f
 adjust golf 76eeaf
 adjust tango 87b6e9
+update quebec 2c5505
+expand nimbus 248068
