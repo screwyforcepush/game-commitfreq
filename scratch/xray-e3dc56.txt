@@ -3,3 +3,6 @@ bump lattice 59d55f
 bump delta a3a90d
 nudge zulu f8d72e
 cleanup whiskey 80fd90
+polish juliet a7d360
+seed charlie 9c3913
+tweak uniform 20d747
