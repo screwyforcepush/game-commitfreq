@@ -14,3 +14,5 @@ expand bravo 04b079
 tidy oscar 176063
 wire solstice 3a81df
 tidy oscar e6cd24
+trim victor e5ecd3
+update victor 08f27c
