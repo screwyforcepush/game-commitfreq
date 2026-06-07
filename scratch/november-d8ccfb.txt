@@ -2,7 +2,6 @@ nudge india ea58bd
 prune sierra 8d53e7
 refactor cobalt d5626c
 prune cobalt 0b6890
-update victor 6aedd4
 prune charlie 57df33
 prune whiskey 080915
 expand solstice eb7bef
