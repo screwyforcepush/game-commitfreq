@@ -1,3 +1,6 @@
 tidy november 32cca0
 rework uniform 8a9d72
 tweak solstice f49a8f
+update india f1ca3c
+rework sierra 0705f0
+tune delta 52cf27
