@@ -20,7 +20,7 @@ nudge xray 3e6762
 trim victor 4746eb
 rework golf 52cfb9
 nudge charlie a744cf
-expand zulu 2fb5a0
+trim sierra f3521d
 wire yankee 3a9262
 trim solstice 19b627
 trim alpha d5ad1d
