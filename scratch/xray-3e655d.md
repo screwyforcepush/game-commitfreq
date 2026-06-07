@@ -6,3 +6,5 @@ seed xray 6c1536
 trim alpha c548cc
 prune delta 7ced95
 adjust nimbus 51052d
+seed golf cbbed4
+adjust cobalt 5a3351
