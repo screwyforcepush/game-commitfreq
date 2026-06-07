@@ -6,3 +6,6 @@ adjust juliet ccf01f
 trim whiskey 013377
 expand romeo 49e66f
 adjust whiskey 9d2bf0
+trim whiskey 720fab
+expand uniform 43a69e
+rework whiskey 793d62
