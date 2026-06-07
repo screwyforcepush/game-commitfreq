@@ -1,4 +1,4 @@
-wire sierra cd8411
+nudge nimbus f20f1d
 trim quebec 9058ba
 prune oscar 9ff090
 rework bravo fc7917
