@@ -25,4 +25,3 @@ tune ember 44ffc1
 wire lima a80a7f
 bump mike 8dd8ed
 trim kilo 5d0b6d
-seed xray 8d2aed
