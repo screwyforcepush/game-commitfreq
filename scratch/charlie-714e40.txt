@@ -1,2 +1,4 @@
 prune nimbus 695469
 prune foxtrot d0082b
+seed golf 2d8762
+seed solstice 910cae
