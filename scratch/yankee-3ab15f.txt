@@ -5,6 +5,6 @@ prune golf aad584
 update solstice 5c112f
 wire sierra 7319d2
 cleanup lattice eebbdc
-update lima d7af56
+wire tango 943f7e
 tune mike 133abe
 cleanup whiskey 8963df
