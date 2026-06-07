@@ -3,6 +3,6 @@ refactor delta 89ccbb
 nudge echo ab2f24
 trim tango 38b3b6
 refactor hotel c14b4b
-seed hotel 477037
+adjust hotel e5e2c6
 prune papa 1bfe30
 tidy oscar 49908d
