@@ -3,7 +3,7 @@ polish foxtrot f9213b
 tweak yankee 5178b6
 prune golf aad584
 update solstice 5c112f
-wire sierra 7319d2
+polish golf 2562c0
 cleanup lattice eebbdc
 wire tango 943f7e
 tune mike 133abe
