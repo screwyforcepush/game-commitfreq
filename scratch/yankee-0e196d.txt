@@ -1,3 +1,0 @@
-wire whiskey b82d44
-wire alpha 80fef4
-polish romeo 7791e2
