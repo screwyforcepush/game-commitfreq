@@ -1,2 +1,2 @@
-wire solstice a571b1
+tune solstice 937722
 wire echo b7bb45
