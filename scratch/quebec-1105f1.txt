@@ -1,4 +1,3 @@
 tune cobalt b07032
-adjust romeo afba19
 prune nimbus 5cf209
 wire quebec a1c5a6
