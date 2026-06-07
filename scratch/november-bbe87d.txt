@@ -6,3 +6,5 @@ update hotel 00b0c0
 tune echo e6529e
 tweak charlie a1dbbe
 expand bravo 54311f
+tweak harbor 50e810
+tidy nimbus a7930a
