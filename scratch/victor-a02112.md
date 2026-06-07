@@ -18,3 +18,5 @@ update solstice 99102a
 seed lima 38a865
 polish oscar e4cfa9
 expand oscar 92a2ed
+adjust cobalt 1c9255
+polish xray df664c
