@@ -1,5 +1,5 @@
 tweak bravo fcaad7
-bump cobalt 682adb
+seed lattice e9b129
 seed cobalt 8c370e
 expand papa dddb09
 expand foxtrot 904e8c
