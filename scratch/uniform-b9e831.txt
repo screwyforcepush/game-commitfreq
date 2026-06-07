@@ -1,4 +1,0 @@
-nudge quebec 052f86
-refactor whiskey 3a6dbe
-tidy sierra d2dea5
-seed alpha 325240
