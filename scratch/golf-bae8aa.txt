@@ -1,0 +1,3 @@
+nudge yankee 6bc75e
+prune uniform 20604e
+prune whiskey 10fc02
