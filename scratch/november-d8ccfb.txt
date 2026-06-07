@@ -8,5 +8,4 @@ tweak golf 281e69
 tidy lima 8bb50f
 wire yankee 1a2013
 expand quebec 50e89e
-adjust juliet d4ca04
 polish prism 5833ba
