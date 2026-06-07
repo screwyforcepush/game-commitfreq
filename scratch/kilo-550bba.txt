@@ -1,2 +1,5 @@
 wire kilo 6ad484
 tune hotel 92b611
+adjust alpha 8de23c
+trim hotel b5a855
+tweak tango 0794a1
