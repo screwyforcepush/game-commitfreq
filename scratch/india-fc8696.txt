@@ -1,5 +1,4 @@
 wire quebec ec1f78
-wire tango ceb147
 tidy solstice 6f7a13
 nudge november 756d3d
 expand uniform c6495f
