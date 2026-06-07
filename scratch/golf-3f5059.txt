@@ -4,7 +4,7 @@ tweak harbor a737f4
 tune prism d6c7aa
 tweak solstice 321df5
 bump yankee 43b547
-trim alpha b17943
+prune foxtrot 1ce0f0
 nudge xray 0b56ff
 prune whiskey e75731
 rework india 3ec7ff
