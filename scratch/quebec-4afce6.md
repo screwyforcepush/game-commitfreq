@@ -7,3 +7,4 @@ trim november fbc5c0
 trim ember 096a7d
 bump nimbus bfe5db
 trim lima 7af882
+wire lattice f065f6
