@@ -1,7 +1,6 @@
 tweak bravo fcaad7
 seed lattice e9b129
 seed cobalt 8c370e
-expand papa dddb09
 expand foxtrot 904e8c
 expand xray 10e0b0
 tune hotel 93a7d0
