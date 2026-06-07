@@ -17,3 +17,7 @@ update quebec 028e98
 polish nimbus cc8d42
 update cobalt 4f4225
 rework mike 76915d
+update juliet 3fb718
+update delta 775288
+refactor romeo 384c27
+tune kilo 1cb3b6
