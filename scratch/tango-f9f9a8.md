@@ -12,3 +12,4 @@ tidy victor 9965fc
 expand golf 1a4e69
 bump yankee 748c9c
 bump ember ff2acd
+polish ember eac465
