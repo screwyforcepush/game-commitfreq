@@ -2,3 +2,7 @@ update juliet 5b4748
 nudge november 793d23
 tidy kilo 3fbfc5
 rework juliet fc929a
+adjust prism 795d23
+adjust prism 580d0a
+trim nimbus 1711c3
+seed ember 5772b6
