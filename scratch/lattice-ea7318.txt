@@ -1,6 +1,5 @@
 bump romeo daa05c
 seed delta 48fb01
-tidy quebec 12deb3
 expand cobalt 1fd233
 seed zulu 5d470d
 trim papa 2f5596
