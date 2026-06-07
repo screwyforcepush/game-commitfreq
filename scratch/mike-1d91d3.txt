@@ -1,4 +1,3 @@
-wire golf 634bf0
 update quebec 3c0328
 tidy papa 0cf557
 refactor romeo a17bd2
