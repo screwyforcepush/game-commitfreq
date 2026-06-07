@@ -2,7 +2,6 @@ tweak papa 9ba59f
 rework india 3aeef7
 rework yankee defaec
 rework romeo 12d2d5
-prune whiskey e38e3e
 trim november 217526
 refactor ember fbdfd6
 refactor quebec 4827df
