@@ -1,6 +1,5 @@
 polish cobalt 273dac
 update xray 4d5086
-adjust quebec af48a8
 prune tango 408a4f
 prune quebec 327d4a
 trim harbor 2b13eb
