@@ -1,2 +1,0 @@
-prune quebec 716d12
-tidy delta 22d57f
