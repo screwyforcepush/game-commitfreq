@@ -1,3 +1,2 @@
 wire kilo 6ad484
 tune hotel 92b611
-wire cobalt 17edb9
