@@ -9,3 +9,5 @@ tweak yankee 9a02f2
 prune alpha a8d43e
 trim golf adb068
 wire nimbus da2e48
+tweak hotel 94d493
+cleanup lattice 8fbe6d
