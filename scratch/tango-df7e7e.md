@@ -5,6 +5,6 @@ trim uniform 3d0cfc
 wire yankee 86efea
 nudge yankee 17ae98
 rework romeo 0bd8e1
-trim whiskey 9474dc
+cleanup ember 123a0b
 adjust ember 45a274
 prune nimbus 0efc35
