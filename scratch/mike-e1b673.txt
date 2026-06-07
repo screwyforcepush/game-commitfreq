@@ -1,6 +1,6 @@
 polish foxtrot 4610de
 tweak victor 061dc5
-rework charlie d8c8f4
+trim delta d7aaab
 seed charlie 18f1d2
 tidy whiskey 03ef56
 tune victor bd3035
