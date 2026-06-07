@@ -5,3 +5,4 @@ tidy ember 391e1b
 tidy cobalt 27e159
 tidy foxtrot e53b7d
 rework uniform c55ed5
+rework yankee 076cbb
