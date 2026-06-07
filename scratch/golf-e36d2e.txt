@@ -7,7 +7,6 @@ seed xray 633366
 rework victor 37dcc5
 bump kilo 12a6bf
 tweak golf af1c79
-refactor quebec 567c07
 rework whiskey 01b84d
 tidy papa d642fe
 update kilo e045f1
