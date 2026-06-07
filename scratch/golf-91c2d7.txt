@@ -9,7 +9,7 @@ tune tango d44957
 expand november 51bef2
 prune solstice aa417f
 nudge tango 0f38cc
-trim whiskey cffaf1
+update sierra 8e33c9
 refactor delta 650884
 nudge victor 3dcd97
 seed oscar 6f49cb
