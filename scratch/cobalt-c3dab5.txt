@@ -6,4 +6,3 @@ bump mike cb96ac
 tweak delta 2f1c21
 refactor kilo e56576
 rework nimbus d5523b
-seed solstice 289370
