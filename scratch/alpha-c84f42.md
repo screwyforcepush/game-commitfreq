@@ -14,3 +14,7 @@ cleanup lattice 8fbe6d
 wire bravo 2b3849
 nudge prism f343d7
 tune tango 59de7c
+update quebec 028e98
+polish nimbus cc8d42
+update cobalt 4f4225
+rework mike 76915d
