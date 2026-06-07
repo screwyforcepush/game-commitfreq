@@ -6,3 +6,6 @@ tidy romeo 72c781
 wire lattice 867708
 tweak delta a29807
 bump echo f955b1
+tidy victor d7f51c
+cleanup tango de6571
+trim india e8ffff
