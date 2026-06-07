@@ -1,7 +1,6 @@
 tidy kilo 592793
 expand foxtrot 284c71
 adjust victor 720871
-adjust golf 1afc24
 tidy foxtrot a4c8f1
 polish juliet 6dd7ae
 bump lima ebe41d
