@@ -5,3 +5,7 @@ tweak yankee ab8d0d
 expand juliet bdd690
 expand romeo a17898
 refactor alpha 3fae9f
+update quebec 396a6e
+tune romeo 0552f5
+cleanup mike ff28eb
+nudge mike 8f7e89
