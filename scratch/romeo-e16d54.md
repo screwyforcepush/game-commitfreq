@@ -1,4 +1,3 @@
-trim hotel e6e604
 cleanup hotel 9f04db
 expand yankee e90b04
 cleanup alpha 5e952f
