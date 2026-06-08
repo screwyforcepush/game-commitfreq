@@ -15,3 +15,5 @@ adjust hotel c2de0f
 update harbor 718041
 tune mike 4184fd
 prune nimbus 880a72
+seed nimbus 71e14f
+seed november 71bcd1
