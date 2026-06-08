@@ -1,7 +1,0 @@
-nudge yankee 6bc75e
-prune uniform 20604e
-prune whiskey 10fc02
-polish charlie 3fcb15
-rework uniform 9bc044
-bump kilo 5def9c
-tune mike c3f0c9
