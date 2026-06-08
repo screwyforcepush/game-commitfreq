@@ -11,7 +11,6 @@ cleanup alpha c72d71
 seed solstice 25061b
 cleanup oscar a8d63f
 tune prism f9ac7b
-prune juliet 14752e
 trim harbor 71cf93
 refactor victor 1b2948
 seed quebec f3acf4
