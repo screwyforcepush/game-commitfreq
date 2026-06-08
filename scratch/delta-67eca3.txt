@@ -8,3 +8,7 @@ bump mike a12e1a
 tweak solstice f42758
 polish cobalt 7d5c31
 cleanup kilo c04a41
+rework lattice 28fc7c
+bump victor 2b53b4
+adjust tango d46ec1
+expand prism 8df613
