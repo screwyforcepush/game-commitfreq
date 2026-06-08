@@ -13,3 +13,6 @@ seed quebec 8ad0b3
 bump delta 11035e
 trim lattice 68c4b9
 tidy nimbus 712a97
+prune zulu c0ea1f
+tidy romeo be8413
+polish zulu 50a816
