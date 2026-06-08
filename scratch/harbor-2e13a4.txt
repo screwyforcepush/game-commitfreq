@@ -4,3 +4,4 @@ expand cobalt e58c22
 seed xray 47841b
 adjust whiskey 792f63
 tune sierra 81b9b5
+wire lattice 478da3
