@@ -5,3 +5,6 @@ wire echo 45844c
 nudge echo 9bd4fd
 trim charlie ff6972
 adjust lima e64bd2
+tune lattice 17623e
+expand echo 3e089e
+tidy tango bdb5f0
