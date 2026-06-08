@@ -4,3 +4,5 @@ seed quebec ea226b
 seed victor 79fc65
 tidy lattice 4f6900
 tune lattice 77518f
+expand cobalt 59bee6
+polish hotel e8cd8b
