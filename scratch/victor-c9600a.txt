@@ -3,3 +3,7 @@ polish november 6ec816
 trim foxtrot 9a4163
 tidy uniform 7d5b96
 polish juliet bd3eac
+tidy victor cc858c
+update nimbus 301b53
+tune tango 774cf2
+tweak romeo 7f704d
