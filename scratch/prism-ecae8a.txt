@@ -6,3 +6,5 @@ tune sierra e428bc
 wire delta 0af1c7
 tidy oscar 88a74c
 trim foxtrot 7443d9
+wire zulu 6af592
+adjust hotel fb8bfa
