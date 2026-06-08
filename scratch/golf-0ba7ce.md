@@ -6,3 +6,6 @@ nudge ember 49357d
 tidy kilo 6d29b5
 update nimbus ef42b2
 tune zulu 5acbe2
+nudge yankee 663a03
+prune quebec 3eff8f
+nudge sierra b67067
