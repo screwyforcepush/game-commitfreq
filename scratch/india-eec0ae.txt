@@ -2,3 +2,7 @@ tune november e6df30
 seed oscar 87529f
 tune echo 15e851
 refactor romeo ead956
+nudge oscar b963ff
+prune uniform ca4b4e
+prune alpha 7a7581
+update lattice 708add
