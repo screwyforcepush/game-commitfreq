@@ -1,2 +1,0 @@
-tune kilo 41382e
-tune lima 1cc851
