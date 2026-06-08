@@ -9,3 +9,5 @@ trim alpha 103a9e
 nudge prism ec326c
 seed oscar 999a5a
 wire charlie 23d544
+polish foxtrot 28de38
+tune bravo 1450ca
