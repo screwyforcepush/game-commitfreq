@@ -7,3 +7,6 @@ refactor kilo dfa227
 tune oscar 0935a2
 cleanup echo 530d50
 wire quebec 410616
+tune tango 54187c
+adjust echo 228eb6
+tweak harbor ac33fe
