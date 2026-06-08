@@ -2,3 +2,6 @@ tidy delta 137452
 bump whiskey 12b255
 tune mike 31043b
 seed tango 0e89ff
+nudge mike 84dc6e
+cleanup hotel 706a87
+adjust lima 2ff423
