@@ -9,3 +9,5 @@ tidy bravo 5ced2a
 tidy bravo 835ce9
 refactor uniform bd2d87
 tweak lima 33df22
+tidy hotel c9d67c
+seed india a31c85
