@@ -2,7 +2,6 @@ nudge prism 02984d
 wire whiskey 5ceec5
 rework delta 304b14
 tweak alpha f702f1
-adjust golf 46fe97
 rework victor 25fe89
 cleanup delta e25257
 polish xray 540c61
