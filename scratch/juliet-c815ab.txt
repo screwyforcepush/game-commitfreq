@@ -5,3 +5,6 @@ trim tango e4df71
 rework lattice d4d014
 update whiskey a1c555
 wire romeo c0481a
+rework oscar 029eee
+bump mike a1db03
+nudge mike c16235
