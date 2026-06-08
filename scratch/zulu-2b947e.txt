@@ -1,6 +1,5 @@
 wire charlie f20824
 polish foxtrot c1549a
-tweak sierra fd50b0
 nudge kilo ff6916
 tweak lima bdb5f0
 expand november cdae24
