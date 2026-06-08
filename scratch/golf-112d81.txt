@@ -1,3 +1,0 @@
-prune juliet 46963c
-prune quebec 4435d3
-polish xray 32466f
