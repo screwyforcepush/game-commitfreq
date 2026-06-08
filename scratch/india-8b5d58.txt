@@ -1,3 +1,2 @@
-tidy hotel da07d6
 bump cobalt 388ac4
 polish lima 476312
