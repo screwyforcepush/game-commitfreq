@@ -1,4 +1,3 @@
-prune nimbus 695469
 prune foxtrot d0082b
 seed golf 2d8762
 refactor ember a19934
