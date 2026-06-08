@@ -8,3 +8,7 @@ wire romeo c0481a
 rework oscar 029eee
 bump mike a1db03
 nudge mike c16235
+nudge alpha c5ecaf
+polish whiskey 4eec68
+rework prism 77fe13
+rework delta 725ee3
