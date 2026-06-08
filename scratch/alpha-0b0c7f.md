@@ -6,7 +6,6 @@ refactor juliet 1c780f
 trim alpha a05129
 tidy india f33499
 trim tango 6a2025
-refactor juliet 944ae7
 tidy xray b77a29
 tweak prism 26c968
 cleanup sierra 133c88
