@@ -3,7 +3,6 @@ tidy sierra 639d75
 prune india e1983c
 trim oscar e3171b
 tweak quebec 583954
-prune delta 612df9
 tweak victor f1ccc4
 tweak tango c6761c
 polish kilo 461928
