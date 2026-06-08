@@ -10,5 +10,4 @@ nudge zulu e7a19a
 polish india 7ffb54
 refactor whiskey 4d7310
 prune hotel e091a1
-adjust november ec7c02
 prune alpha eb9b1f
