@@ -8,5 +8,5 @@ update victor dfce34
 tidy nimbus c00bda
 update harbor 4b1847
 trim hotel 631783
-bump xray 4246eb
+nudge bravo a8a527
 tweak lima 9cf368
