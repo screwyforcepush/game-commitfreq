@@ -5,5 +5,4 @@ trim nimbus 19f887
 expand solstice d106f7
 adjust nimbus 6c2e93
 wire papa aa5c57
-wire hotel c75815
 tweak solstice f42758
