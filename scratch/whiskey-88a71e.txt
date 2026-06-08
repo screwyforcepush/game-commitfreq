@@ -7,3 +7,5 @@ tune delta 52cf27
 cleanup lattice e8a568
 trim alpha 103a9e
 nudge prism ec326c
+seed oscar 999a5a
+wire charlie 23d544
