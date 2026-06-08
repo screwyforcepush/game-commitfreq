@@ -1,4 +1,4 @@
 rework hotel 1ded65
 seed echo e164fe
-bump ember 0e5d57
+bump lattice c6456f
 refactor harbor 000ded
