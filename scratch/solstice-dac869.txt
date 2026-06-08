@@ -1,0 +1,5 @@
+nudge lima 27e1b1
+tune november d33185
+tweak foxtrot bec888
+wire echo 45844c
+nudge echo 9bd4fd
