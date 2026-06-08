@@ -8,3 +8,5 @@ cleanup golf 894abf
 tidy november a679be
 nudge echo 213387
 tidy lattice 77b8c8
+cleanup juliet ea45c0
+update alpha c87114
