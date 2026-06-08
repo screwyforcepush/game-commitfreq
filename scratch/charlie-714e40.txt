@@ -5,3 +5,6 @@ tune nimbus adaff3
 wire golf 1552d9
 refactor charlie ced8e2
 rework oscar 9b3066
+rework quebec e26ad5
+tune hotel 8b1ae9
+prune delta 49e120
