@@ -4,3 +4,6 @@ tune yankee a1800a
 tune nimbus 2ba5c6
 bump sierra dc9619
 tidy yankee ce3956
+adjust november 8df28b
+adjust harbor cfa0eb
+refactor mike f43599
