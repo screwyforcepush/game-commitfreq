@@ -9,7 +9,7 @@ cleanup solstice 80072c
 nudge zulu e7a19a
 update whiskey 206f2e
 refactor whiskey 4d7310
-rework sierra 612bb6
+prune hotel e091a1
 adjust november ec7c02
 prune alpha eb9b1f
 expand nimbus a1a309
