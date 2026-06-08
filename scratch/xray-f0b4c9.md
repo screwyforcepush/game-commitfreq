@@ -15,3 +15,5 @@ cleanup uniform e4f538
 seed charlie bcbfc9
 tidy sierra 9880ef
 tidy golf b3c270
+trim november 30709f
+prune foxtrot 2835b2
