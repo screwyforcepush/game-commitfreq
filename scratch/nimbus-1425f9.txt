@@ -4,5 +4,4 @@ tidy golf 7a8aff
 tweak whiskey 999c2b
 trim harbor 7af01e
 seed juliet b03600
-bump prism 368bc1
 tweak nimbus 237ca2
