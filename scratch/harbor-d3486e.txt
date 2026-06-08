@@ -1,3 +1,3 @@
-cleanup zulu 22660a
+prune bravo cee883
 adjust yankee 16abac
 trim zulu 076096
