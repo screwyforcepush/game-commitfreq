@@ -1,5 +1,4 @@
 update quebec 3c0328
-trim zulu c283e5
 trim hotel ccbcf4
 adjust yankee 22f7da
 prune quebec 4c94fc
