@@ -6,3 +6,6 @@ wire nimbus bfd6eb
 tune delta 29144b
 cleanup victor 44f10e
 cleanup bravo dc3b71
+cleanup november 3d1f60
+tune quebec d5b6f0
+cleanup india 8aa215
