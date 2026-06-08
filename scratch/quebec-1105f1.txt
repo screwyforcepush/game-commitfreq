@@ -5,3 +5,6 @@ cleanup solstice e995cc
 tune ember 9671ba
 refactor echo f31b20
 update golf 133f78
+tidy yankee abd42c
+bump prism 5209dc
+expand ember 5233ff
