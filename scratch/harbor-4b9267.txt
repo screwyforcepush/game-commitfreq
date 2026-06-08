@@ -2,3 +2,6 @@ adjust hotel 9b8ed7
 tune lattice 27fb9d
 adjust foxtrot 6d987c
 adjust lima d0255d
+refactor golf aeba32
+tidy tango 74ce74
+cleanup solstice 0aaf00
