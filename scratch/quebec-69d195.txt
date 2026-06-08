@@ -5,3 +5,6 @@ tweak oscar 8d91f6
 adjust bravo 8a49c5
 trim november 0c698b
 refactor sierra 55a2b8
+adjust xray 519355
+update golf 18c2a6
+rework papa 4f18b9
