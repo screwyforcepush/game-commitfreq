@@ -4,3 +4,5 @@ update charlie 850f41
 update victor 8fb65e
 wire oscar 234df4
 tweak harbor fed1d3
+tune hotel 0004a9
+tidy xray 6f78b1
