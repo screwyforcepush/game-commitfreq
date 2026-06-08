@@ -1,4 +1,3 @@
-nudge tango ca640a
 tune prism f8767e
 seed juliet 9926f5
 rework prism c2a731
