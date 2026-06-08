@@ -2,3 +2,7 @@ wire solstice 39b923
 rework xray ff91d1
 update whiskey 00031c
 tweak lattice 97c8bc
+tune papa 3457c1
+refactor whiskey be1d4f
+refactor india a3691f
+wire cobalt f98382
