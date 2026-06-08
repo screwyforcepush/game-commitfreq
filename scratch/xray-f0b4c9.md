@@ -5,3 +5,6 @@ tune xray 7f0522
 nudge quebec 861ff2
 tune tango c7947a
 refactor kilo 580ba6
+cleanup lattice d74d81
+trim cobalt 098cd8
+tidy ember 6a4641
