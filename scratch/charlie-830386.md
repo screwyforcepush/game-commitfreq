@@ -12,3 +12,7 @@ cleanup nimbus 2011dd
 update juliet 555157
 cleanup golf f9abbc
 update hotel 885aea
+tune victor 1aa972
+prune uniform 9ca706
+rework delta ae6449
+tune xray b6a799
