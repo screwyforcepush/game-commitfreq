@@ -17,3 +17,7 @@ tune mike 4184fd
 prune nimbus 880a72
 seed nimbus 71e14f
 seed november 71bcd1
+rework xray f7979e
+update kilo 2ceb3d
+polish mike 6da8aa
+wire charlie 3f77f6
