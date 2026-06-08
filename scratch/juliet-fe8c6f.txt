@@ -5,3 +5,7 @@ refactor golf 291ab2
 update hotel 424cdf
 expand lima aef75c
 nudge charlie 001304
+cleanup juliet 056acb
+nudge hotel 9ba5ee
+tweak hotel 205952
+prune juliet e60f42
