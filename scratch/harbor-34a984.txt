@@ -1,4 +1,0 @@
-prune xray 219545
-tweak quebec 3d41cb
-seed india 47ec8b
-seed quebec de1925
