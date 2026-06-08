@@ -1,5 +1,4 @@
 update cobalt 10b1ba
-rework whiskey 67e971
 tune delta ab211e
 tweak quebec aec9cc
 update charlie fd9901
