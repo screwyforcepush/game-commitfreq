@@ -4,7 +4,7 @@ bump charlie 8bbd9d
 nudge juliet d12f21
 cleanup quebec 6d33a1
 rework echo d076bc
-adjust foxtrot 3f4a3a
+prune november 991053
 bump oscar eb4583
 cleanup november 406435
 seed charlie 41fe2f
