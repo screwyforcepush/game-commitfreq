@@ -1,4 +1,3 @@
-update lattice efba05
 wire papa ee01b2
 wire papa fc108f
 cleanup lattice 38ec65
