@@ -1,6 +1,5 @@
 cleanup delta b7b48f
 tweak yankee 5d37e3
-refactor foxtrot 1a4740
 update whiskey b31936
 prune sierra 40a85f
 tweak zulu 358c88
