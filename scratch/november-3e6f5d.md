@@ -2,7 +2,6 @@ adjust prism dc0f7f
 refactor delta 15dde7
 seed cobalt 8188d3
 wire lattice 26e093
-seed november 0467d4
 trim whiskey 0195af
 seed hotel 545ff0
 adjust cobalt 35245a
