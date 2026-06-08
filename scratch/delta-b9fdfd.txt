@@ -10,5 +10,4 @@ update alpha fde89e
 tune romeo 8311ff
 seed tango 4ade8a
 seed foxtrot fd0912
-wire india 7d719d
 refactor golf e42b55
