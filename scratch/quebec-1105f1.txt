@@ -1,7 +1,6 @@
 tune cobalt b07032
 prune nimbus 5cf209
 wire quebec a1c5a6
-tune romeo 5150c1
 cleanup solstice e995cc
 tune ember 9671ba
 refactor echo f31b20
