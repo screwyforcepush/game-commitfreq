@@ -1,4 +1,3 @@
 polish prism 36e534
 prune hotel ec61c4
-cleanup romeo bb1992
 adjust tango a6a00e
