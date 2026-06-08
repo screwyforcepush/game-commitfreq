@@ -4,4 +4,4 @@ cleanup oscar 9257a9
 tune tango c96bfe
 nudge alpha df1cb5
 seed foxtrot b88aa1
-adjust alpha bd19db
+seed uniform 818cdb
