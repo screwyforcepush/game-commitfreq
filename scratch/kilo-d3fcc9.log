@@ -7,6 +7,6 @@ seed echo 6f1e6f
 trim ember 384025
 expand mike 4cdfa4
 tune foxtrot 87bfc4
-nudge mike f7bfc4
+trim delta a7c34c
 nudge zulu 8ff482
 tune victor bd3d1f
