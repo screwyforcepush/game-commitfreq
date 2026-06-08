@@ -7,3 +7,6 @@ update bravo 4dd695
 tidy november e62684
 cleanup xray 40e080
 tidy sierra a20c01
+rework delta 768447
+cleanup mike 5dd77e
+bump juliet 7341ce
