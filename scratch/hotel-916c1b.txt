@@ -3,3 +3,7 @@ tune victor 05f44b
 tweak golf 5cf763
 cleanup victor 11340d
 refactor yankee 1a05b9
+tune quebec 74ecf9
+tweak foxtrot 24e26e
+polish charlie a5bd1c
+prune mike f5bb24
