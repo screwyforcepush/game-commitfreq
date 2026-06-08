@@ -2,5 +2,5 @@ adjust papa 6a5dfd
 nudge mike a3f5f1
 expand xray 724845
 prune uniform 89963c
-adjust echo 145da8
+nudge solstice 2fa39a
 adjust sierra 7fbc46
