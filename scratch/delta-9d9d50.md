@@ -1,4 +1,4 @@
-update papa 4f3fe3
+trim quebec 24c342
 trim lattice 255970
 seed nimbus 43b2f3
 refactor alpha 999348
