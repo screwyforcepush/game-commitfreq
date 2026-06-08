@@ -1,0 +1,3 @@
+update delta ae0018
+nudge kilo 0c5d12
+nudge cobalt 2d5e80
