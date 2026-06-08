@@ -5,3 +5,7 @@ trim delta 9cb2b8
 update november 2f00ec
 cleanup victor 20196a
 trim lattice 7d0806
+tidy lattice a89ded
+expand foxtrot f02893
+expand quebec 8cc234
+polish whiskey c0fb6a
