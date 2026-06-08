@@ -6,5 +6,4 @@ rework ember bc0daa
 tweak hotel 3b7423
 trim quebec 520b23
 nudge romeo 99c6f8
-cleanup india 76a7cc
 polish juliet 5a9b5a
