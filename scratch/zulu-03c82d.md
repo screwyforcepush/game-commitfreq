@@ -10,3 +10,6 @@ wire november 392d71
 tidy harbor deabec
 polish alpha a829e5
 cleanup yankee 91175d
+trim juliet 1d5b11
+tidy bravo 9e3dd6
+bump nimbus 14a6d5
