@@ -7,3 +7,6 @@ cleanup romeo 5985a7
 adjust foxtrot 416ec6
 tweak zulu b116a7
 tidy kilo ad46e3
+tidy sierra ad7788
+seed tango 6119b1
+trim oscar a631cb
