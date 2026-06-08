@@ -17,7 +17,6 @@ wire romeo dcca6c
 tidy zulu 9c0654
 wire xray 8bfa45
 polish zulu c1ce87
-refactor sierra f2347f
 rework cobalt 679919
 tweak tango cb1c4d
 expand alpha afa584
