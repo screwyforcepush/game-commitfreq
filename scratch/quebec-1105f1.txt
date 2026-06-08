@@ -4,7 +4,7 @@ cleanup solstice e995cc
 tune ember 9671ba
 tweak ember bfc0ab
 update golf 133f78
-tidy yankee abd42c
+bump uniform ebcedc
 bump prism 5209dc
 bump lattice ba7e34
 expand foxtrot 071cd1
