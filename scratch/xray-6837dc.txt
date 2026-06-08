@@ -1,5 +1,4 @@
 tidy delta 137452
 bump whiskey 12b255
 tune mike 31043b
-tune yankee 0ff76c
 bump kilo b1a8df
