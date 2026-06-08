@@ -9,3 +9,4 @@ prune sierra f1f25a
 prune alpha 74f661
 rework sierra c8d903
 update bravo b93ca0
+prune solstice 3613c6
