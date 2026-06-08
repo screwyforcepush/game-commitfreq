@@ -2,3 +2,4 @@ wire echo 9bad2a
 prune lattice 671456
 update kilo 158cdc
 expand whiskey 7fd781
+cleanup solstice 901e3b
