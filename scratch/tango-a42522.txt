@@ -3,7 +3,6 @@ cleanup ember 6d04b9
 wire yankee 22a74a
 trim delta 6e4795
 trim cobalt a19439
-nudge xray 305d6a
 tune juliet fcc183
 cleanup solstice 80072c
 nudge zulu e7a19a
