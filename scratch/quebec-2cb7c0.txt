@@ -1,2 +1,5 @@
 wire xray fe1576
 nudge cobalt ca7989
+trim oscar deba2b
+expand sierra aa3546
+bump juliet 2522f9
