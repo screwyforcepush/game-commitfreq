@@ -2,7 +2,7 @@ seed yankee b72429
 rework solstice c97678
 tune kilo 536fdf
 tweak ember 1c1ca8
-tidy tango a39e5d
+adjust bravo 7fb6e3
 tweak uniform 4d9e97
 tidy juliet a6aa7d
 tweak bravo 925b5a
