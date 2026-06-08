@@ -2,6 +2,5 @@ trim solstice 6a769f
 prune tango 81fb41
 nudge foxtrot 039f5a
 expand alpha a5b9dd
-polish november 77f10e
 polish golf fc8ba2
 refactor hotel 4fe893
