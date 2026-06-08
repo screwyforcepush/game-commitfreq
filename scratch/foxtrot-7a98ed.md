@@ -1,1 +1,1 @@
-prune uniform a10fb6
+polish nimbus fc4695
