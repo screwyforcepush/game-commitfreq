@@ -1,3 +1,3 @@
 trim echo 37737d
-prune bravo ccc9cb
+polish victor c6eacd
 tweak alpha c1a1d3
