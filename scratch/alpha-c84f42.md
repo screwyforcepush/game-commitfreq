@@ -3,7 +3,6 @@ update prism ad4bd5
 prune uniform 7f1534
 update nimbus 7a89c4
 refactor charlie 1a089d
-tidy lima f82f53
 tweak yankee 9a02f2
 prune alpha a8d43e
 trim golf adb068
