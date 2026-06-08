@@ -9,3 +9,6 @@ refactor yankee 26ff1f
 polish bravo c4db88
 tweak golf 0127b7
 tidy tango 7ded69
+polish prism 70c17b
+expand charlie ce484d
+tune kilo 343678
