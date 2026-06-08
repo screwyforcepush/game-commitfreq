@@ -5,3 +5,6 @@ seed yankee c1cdcc
 wire ember c19d05
 nudge sierra c78ecd
 adjust yankee f76c00
+refactor tango d20c11
+cleanup delta b4a765
+trim quebec fcf245
