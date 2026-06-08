@@ -8,7 +8,6 @@ bump charlie 3e6960
 polish quebec 713860
 update lima c442fe
 polish lattice 2f5a36
-wire romeo ae9f47
 refactor charlie 58ab7a
 update quebec 100ee0
 wire bravo 6d220a
