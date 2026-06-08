@@ -2,3 +2,6 @@ adjust cobalt b65320
 rework india b9bf26
 cleanup november adf36f
 tidy november 21f871
+adjust nimbus 9877ee
+nudge golf 169853
+trim charlie cc7fae
