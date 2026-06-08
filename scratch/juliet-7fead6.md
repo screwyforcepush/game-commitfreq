@@ -7,3 +7,6 @@ tidy yankee ce3956
 adjust november 8df28b
 adjust harbor cfa0eb
 refactor mike f43599
+nudge nimbus c871cb
+nudge prism 90095e
+refactor whiskey 81adf9
