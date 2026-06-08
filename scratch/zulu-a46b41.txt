@@ -9,3 +9,5 @@ cleanup papa 6d9437
 rework uniform aee23c
 bump mike 959fb5
 adjust yankee f47850
+seed quebec fe8c00
+adjust tango f1d5e0
