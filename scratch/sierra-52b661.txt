@@ -1,2 +1,1 @@
-prune cobalt 9d33b8
 adjust yankee 9a9486
