@@ -1,2 +1,4 @@
 tweak lattice 7f7130
 tune mike db6cff
+seed cobalt bf232a
+nudge whiskey e493ee
