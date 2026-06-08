@@ -1,5 +1,5 @@
 seed yankee b72429
-refactor juliet 9ee46f
+rework solstice c97678
 tune kilo 536fdf
 cleanup mike 153a8d
 tweak ember 1c1ca8
