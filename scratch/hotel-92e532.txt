@@ -13,3 +13,6 @@ trim delta 864e81
 rework tango 3cdc5b
 bump romeo 3bd425
 cleanup whiskey 858cf2
+expand lattice 7b41fb
+trim kilo a5e094
+refactor mike 02d268
