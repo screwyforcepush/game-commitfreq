@@ -7,3 +7,6 @@ expand bravo 44b6ed
 prune mike 152c1f
 adjust november 970d56
 prune juliet 09b22e
+prune romeo a932fe
+cleanup yankee 6e5406
+update hotel 333ef4
