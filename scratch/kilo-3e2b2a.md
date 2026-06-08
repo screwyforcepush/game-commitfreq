@@ -9,3 +9,5 @@ update quebec 396a6e
 tune romeo 0552f5
 cleanup mike ff28eb
 nudge mike 8f7e89
+seed golf e16914
+expand lattice e305c4
