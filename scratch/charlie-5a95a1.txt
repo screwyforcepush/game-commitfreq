@@ -1,4 +1,4 @@
-seed foxtrot 702970
+trim cobalt 8f59db
 seed tango 6be3e9
 prune uniform 3ad22c
 expand nimbus dd63c7
