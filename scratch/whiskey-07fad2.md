@@ -3,7 +3,6 @@ adjust foxtrot 8b2015
 rework lattice 621fca
 tidy whiskey cb0df7
 rework tango 548c3b
-trim bravo e7ec0e
 update india 9ebd03
 polish whiskey 156c08
 adjust victor 2a3ba5
