@@ -1,7 +1,6 @@
 tune victor 3e50da
 prune golf 1a1ab7
 prune november 493f62
-trim prism 8148bd
 nudge victor 20e1a1
 prune mike 85be8d
 nudge foxtrot 7154d6
