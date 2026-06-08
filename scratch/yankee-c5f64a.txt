@@ -1,1 +1,4 @@
 update lattice 30caf7
+trim kilo fb5cc8
+tidy quebec ebae70
+polish november 13d25e
