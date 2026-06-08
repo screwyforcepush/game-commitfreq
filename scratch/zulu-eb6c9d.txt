@@ -6,3 +6,6 @@ tweak foxtrot 1979be
 rework solstice 8dc2c4
 prune harbor 7f0e01
 tune hotel 314aca
+rework golf 11da55
+bump foxtrot 6539e7
+adjust uniform a9990c
