@@ -23,7 +23,6 @@ tweak tango cb1c4d
 expand alpha afa584
 adjust lima d757c9
 nudge quebec 8601e1
-prune india 23e8e8
 seed solstice 3e04b4
 tune prism 8ba04f
 rework hotel a6752b
