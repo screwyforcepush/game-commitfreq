@@ -1,5 +1,5 @@
 seed uniform c16d77
-polish charlie ecdff8
+polish victor ec2c28
 rework echo 714668
 rework delta 07ce96
 tidy quebec dd9349
