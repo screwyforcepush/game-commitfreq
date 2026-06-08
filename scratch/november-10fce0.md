@@ -10,7 +10,7 @@ tweak yankee 3e6c47
 polish lattice 8ef0a6
 wire zulu d75f90
 refactor charlie af775b
-rework lima c07c56
+prune sierra d0112a
 tweak solstice f2e048
 adjust sierra 5e6f16
 tidy victor 5a1d78
