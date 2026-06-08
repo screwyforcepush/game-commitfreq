@@ -6,3 +6,5 @@ tune harbor 299660
 trim zulu f01e09
 tweak romeo eb112f
 expand mike 02c100
+trim yankee a829bd
+expand hotel e1dcc7
