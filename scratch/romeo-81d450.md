@@ -15,3 +15,7 @@ tweak oscar 7508cd
 bump solstice ba1585
 tune nimbus dbffe0
 tune prism 01e0b9
+trim mike d7bc98
+nudge foxtrot f723af
+wire lattice 8663bb
+tune quebec 908778
