@@ -8,7 +8,7 @@ rework quebec 84132e
 polish tango 981b9a
 nudge oscar 50b386
 adjust cobalt 987d2a
-expand delta 5257d5
+nudge charlie 570b18
 bump echo f42b0a
 refactor mike e622c4
 refactor lattice a008b8
