@@ -5,7 +5,6 @@ tidy delta 0e1b26
 prune xray ac6d1a
 wire golf 468577
 expand november c7abff
-polish oscar 9417dd
 prune zulu 2cc16e
 tidy delta f86abe
 tune bravo 03b5d3
