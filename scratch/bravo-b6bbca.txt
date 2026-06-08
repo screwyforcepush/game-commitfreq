@@ -18,3 +18,5 @@ trim mike d7bc98
 nudge foxtrot f723af
 wire lattice 8663bb
 polish papa 869006
+expand sierra 6aa18a
+seed juliet 749386
