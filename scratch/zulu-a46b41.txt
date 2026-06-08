@@ -5,7 +5,7 @@ tweak zulu 7ed543
 adjust echo 340112
 cleanup echo 9e4657
 tidy sierra 2ab2ad
-cleanup papa 6d9437
+tidy solstice c05791
 trim kilo 68ed38
 adjust yankee f47850
 seed quebec fe8c00
