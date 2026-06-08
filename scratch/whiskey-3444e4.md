@@ -1,0 +1,6 @@
+adjust juliet 1de705
+update sierra 5cc4b2
+update charlie 850f41
+update victor 8fb65e
+wire oscar 234df4
+tweak harbor fed1d3
