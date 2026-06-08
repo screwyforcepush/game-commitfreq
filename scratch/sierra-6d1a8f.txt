@@ -1,4 +1,3 @@
 bump bravo 15a071
 adjust sierra 65094c
-tidy lattice 773fda
 polish prism b4d376
