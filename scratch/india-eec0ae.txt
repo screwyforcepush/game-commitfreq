@@ -1,5 +1,4 @@
 tune november e6df30
-seed oscar 87529f
 tune echo 15e851
 refactor romeo ead956
 nudge oscar b963ff
