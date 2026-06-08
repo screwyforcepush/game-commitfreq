@@ -7,3 +7,5 @@ rework cobalt b60f51
 cleanup foxtrot 7e522c
 update solstice 371413
 expand solstice e8b192
+adjust kilo fa1109
+adjust echo d6c923
