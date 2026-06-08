@@ -3,3 +3,5 @@ polish victor ec2c28
 rework echo 714668
 rework delta 07ce96
 tidy quebec dd9349
+polish echo 451cf5
+rework whiskey 63f8dc
