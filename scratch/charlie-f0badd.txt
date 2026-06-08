@@ -4,3 +4,4 @@ expand xray 724845
 prune uniform 89963c
 nudge solstice 2fa39a
 adjust sierra 7fbc46
+trim hotel 3928a6
