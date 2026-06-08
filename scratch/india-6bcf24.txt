@@ -3,5 +3,4 @@ seed bravo 7ff944
 refactor victor 3c4e4f
 adjust echo 8c1f19
 seed prism 1f24c5
-prune oscar ac8db4
 adjust yankee 98a2cd
