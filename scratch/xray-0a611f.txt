@@ -1,5 +1,0 @@
-update quebec ebaef4
-bump zulu db84d4
-prune india cac280
-nudge xray c091f4
-polish sierra e33cc4
