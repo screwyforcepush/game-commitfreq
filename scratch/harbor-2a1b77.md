@@ -8,3 +8,5 @@ tweak romeo eb112f
 expand mike 02c100
 trim yankee a829bd
 expand hotel e1dcc7
+tune victor 9d1243
+rework cobalt 9112b1
