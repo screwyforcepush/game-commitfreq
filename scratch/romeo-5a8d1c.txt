@@ -9,3 +9,6 @@ update uniform 06e92e
 tune romeo 6e9e98
 polish hotel ecc576
 tweak victor a075e1
+tweak juliet 138d6e
+expand golf 0366d3
+adjust xray 5abdd1
