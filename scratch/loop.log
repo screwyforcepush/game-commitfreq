@@ -224506,3 +224506,4 @@ To https://github.com/screwyforcepush/game-commitfreq.git
 483/504  fix: cobalt nudges                            append delta-147cb4.dat
 484/504  wip: november reworks                         drop yankee-16f38f.dat
 485/504  adjust sierra for whiskey                     drop ember-d95325.csv
+486/504  prune cobalt for lattice                      trim yankee-34d25d.dat:2
