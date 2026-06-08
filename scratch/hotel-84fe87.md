@@ -6,3 +6,7 @@ update hotel b7cbe2
 tweak mike 678fa3
 cleanup alpha 9a2b66
 tweak prism 06eb74
+expand alpha 5efadc
+expand alpha 3c4096
+refactor foxtrot fbd3f9
+polish bravo 91e417
