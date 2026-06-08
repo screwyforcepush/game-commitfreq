@@ -10,3 +10,5 @@ tidy cobalt 0a6c64
 adjust charlie 5ddf80
 nudge november a53827
 update xray 5840ad
+update golf e4ba5e
+rework foxtrot 912e7f
