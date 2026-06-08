@@ -1,1 +1,1 @@
-trim tango e45e58
+wire oscar 1e6109
