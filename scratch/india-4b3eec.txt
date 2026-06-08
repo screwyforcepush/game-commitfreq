@@ -1,6 +1,0 @@
-bump tango 7610a1
-seed juliet 4f3e29
-seed uniform c1dd76
-expand quebec 7a744d
-polish oscar b05804
-trim quebec 545caa
