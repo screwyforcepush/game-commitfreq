@@ -1,4 +1,3 @@
-tidy zulu 0caf43
 nudge whiskey 7fb467
 expand golf 698c0a
 polish lima c2e47d
