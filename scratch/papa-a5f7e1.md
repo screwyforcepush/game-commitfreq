@@ -5,3 +5,6 @@ tune tango 6b9def
 cleanup lima 798ec0
 refactor juliet e68e84
 rework quebec 84132e
+polish tango 981b9a
+nudge oscar 50b386
+adjust cobalt 987d2a
