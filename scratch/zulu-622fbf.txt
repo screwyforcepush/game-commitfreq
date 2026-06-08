@@ -1,4 +1,3 @@
-seed romeo 3d103d
 seed quebec a2b394
 tweak alpha 7986b6
 polish oscar d5ea9b
