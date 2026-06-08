@@ -1,4 +1,4 @@
-nudge india 79c243
+cleanup hotel f8a4d3
 adjust echo b8d54f
 seed sierra 7c87aa
 refactor quebec 4b9743
