@@ -2,3 +2,7 @@ rework xray 0c21fb
 expand victor 9422d4
 rework foxtrot 233179
 adjust victor 8fc85a
+tidy quebec ca3b3e
+tidy hotel 42b76a
+nudge lattice 149eb9
+trim victor 687f26
