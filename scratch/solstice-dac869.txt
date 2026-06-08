@@ -1,9 +1,0 @@
-nudge lima 27e1b1
-tune november d33185
-tweak foxtrot bec888
-wire echo 45844c
-nudge echo 9bd4fd
-trim charlie ff6972
-adjust lima e64bd2
-expand echo 3e089e
-tidy tango bdb5f0
