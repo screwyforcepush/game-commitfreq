@@ -3,6 +3,6 @@ cleanup hotel 39a5cf
 update whiskey 4508f0
 cleanup yankee 277ac1
 update juliet 085b51
-tidy lattice 5f380f
+adjust november b7afe2
 wire prism 1dc204
 prune sierra 5b1720
