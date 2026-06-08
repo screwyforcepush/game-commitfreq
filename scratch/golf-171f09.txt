@@ -1,5 +1,0 @@
-update foxtrot 3e4cdc
-nudge prism 278ea3
-adjust november 71362e
-rework juliet c08509
-rework mike a12ea7
