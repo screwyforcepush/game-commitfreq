@@ -8,3 +8,6 @@ tweak kilo e31005
 seed delta 22bffd
 adjust yankee 944d30
 prune hotel 5e7a3d
+tune tango 58f48e
+trim quebec 6dcc1e
+tune kilo 0e138d
