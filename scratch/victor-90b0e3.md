@@ -3,3 +3,7 @@ nudge november 43a799
 trim kilo d784a7
 cleanup ember b175be
 seed charlie f6337f
+seed nimbus 4a6f65
+wire bravo 15ea91
+rework harbor c3e5cb
+polish ember 2b7c99
