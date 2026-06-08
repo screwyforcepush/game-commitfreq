@@ -1,0 +1,3 @@
+prune hotel fd3b33
+trim whiskey d3dae3
+seed lattice 5553a5
