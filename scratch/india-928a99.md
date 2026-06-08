@@ -1,4 +1,4 @@
-trim zulu 0e1b0e
+tune foxtrot a88ad4
 trim romeo eaefda
 adjust juliet 304522
 refactor romeo c814a0
