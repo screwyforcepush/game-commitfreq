@@ -1,3 +1,2 @@
 tidy delta 137452
-bump sierra 6ba01b
 bump whiskey 12b255
