@@ -1,5 +1,4 @@
 update solstice 8c8817
-prune nimbus 5cf209
 cleanup solstice e995cc
 tune ember 9671ba
 tweak ember bfc0ab
