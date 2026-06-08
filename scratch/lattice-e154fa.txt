@@ -3,7 +3,6 @@ tune quebec 52e78b
 wire xray 487330
 prune victor cd7a57
 wire papa c59247
-tune november 678d25
 adjust prism 6fc689
 rework alpha 3a2e6e
 nudge uniform 18b100
