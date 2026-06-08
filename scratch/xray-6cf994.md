@@ -7,3 +7,7 @@ polish foxtrot a3960b
 bump prism 3bdd68
 refactor papa 3ce778
 adjust november 9d840b
+polish oscar 3c3b22
+wire oscar ed6fb5
+nudge lattice 0a8012
+tweak victor b65e92
