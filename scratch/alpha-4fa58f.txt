@@ -8,3 +8,5 @@ expand solstice ad33e5
 nudge xray 571be9
 nudge foxtrot ddbbeb
 tidy mike f8d922
+update kilo 9d9458
+tune yankee 8f34e2
