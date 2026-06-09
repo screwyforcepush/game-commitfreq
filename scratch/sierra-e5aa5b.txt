@@ -9,7 +9,7 @@ wire echo 5134ad
 expand foxtrot f02893
 expand quebec 8cc234
 polish whiskey c0fb6a
-refactor sierra 6f3804
+refactor solstice a7064e
 seed sierra 8cc27e
 tweak zulu 1ad9bf
 seed lattice 23b386
