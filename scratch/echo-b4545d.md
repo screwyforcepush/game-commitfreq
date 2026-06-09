@@ -8,7 +8,6 @@ seed solstice f84c60
 tune victor b0f3ed
 rework nimbus 1b168c
 bump quebec 782099
-seed november c5e734
 expand lima 7c0c0b
 polish bravo b8d758
 bump november 94d4cf
