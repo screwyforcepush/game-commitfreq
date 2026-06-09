@@ -3,3 +3,5 @@ tidy hotel d92f74
 adjust alpha a455e0
 trim whiskey 80da01
 nudge zulu d94aef
+tidy xray a158af
+seed hotel 5ef0d9
