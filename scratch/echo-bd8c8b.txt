@@ -1,3 +1,0 @@
-rework yankee 821b20
-rework charlie 43ae0b
-cleanup juliet fb2750
