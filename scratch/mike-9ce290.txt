@@ -9,3 +9,5 @@ trim tango 96e2c1
 tune sierra bb67d6
 cleanup victor f592e3
 bump hotel 70762b
+polish golf e5a574
+prune november b82c8f
