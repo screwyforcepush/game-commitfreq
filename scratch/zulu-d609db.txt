@@ -8,7 +8,7 @@ tune whiskey c7739f
 expand alpha 8895c0
 refactor prism 29f9ff
 tidy lattice 8388b4
-refactor november fffc53
+refactor victor 4511dd
 cleanup victor cd8273
 polish bravo 36e7de
 expand romeo 981689
