@@ -1,6 +1,6 @@
 nudge delta 2d8fe7
 seed papa e5327d
-polish prism 827b70
+seed prism 1a2af9
 prune cobalt a49234
 tidy foxtrot 9b9f45
 tweak whiskey e4ae55
