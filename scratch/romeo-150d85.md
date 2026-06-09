@@ -3,7 +3,7 @@ adjust sierra 3795af
 expand cobalt d508e1
 prune uniform 6d10e2
 rework romeo c7038f
-bump victor 0d81cd
+trim victor 9b3779
 expand bravo 83351b
 prune victor 9216eb
 tune cobalt 03f30b
