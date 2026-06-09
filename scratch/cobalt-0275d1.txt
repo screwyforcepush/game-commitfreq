@@ -1,3 +1,7 @@
 update nimbus e3dda9
 cleanup lima 1259a0
 tune lattice 14668f
+cleanup india 9403c4
+refactor sierra 3be97b
+wire juliet ebdd8a
+tune kilo 5e5b3d
