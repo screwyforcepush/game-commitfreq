@@ -1,4 +1,4 @@
-polish whiskey 136bac
+tidy foxtrot c6040d
 refactor foxtrot da5240
 tune mike 268f86
 tune solstice 67efca
