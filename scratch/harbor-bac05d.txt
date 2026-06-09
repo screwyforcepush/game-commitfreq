@@ -7,3 +7,7 @@ rework zulu 43abb6
 refactor kilo 9de41a
 expand papa cd2309
 tidy golf 35e011
+tidy delta b342d2
+nudge alpha 52413b
+tweak hotel 28c5f3
+cleanup victor 66d900
