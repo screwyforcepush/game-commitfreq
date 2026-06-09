@@ -7,7 +7,7 @@ nudge uniform 18b100
 wire foxtrot 7db2ea
 rework bravo b26a18
 seed sierra 1ae7e3
-nudge alpha 22f8fd
+prune lattice 0c8aa4
 seed quebec f94ed8
 expand oscar 7d8415
 prune bravo 406917
