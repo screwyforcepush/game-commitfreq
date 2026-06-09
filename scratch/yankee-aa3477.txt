@@ -10,3 +10,4 @@ tune kilo b1dfad
 trim papa 22e6d8
 rework nimbus 233497
 update whiskey 3b4af0
+update solstice 660e09
