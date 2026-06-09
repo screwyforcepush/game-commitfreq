@@ -1,3 +1,2 @@
 prune juliet 35c0b3
-polish whiskey eb41ed
 seed tango fb9097
