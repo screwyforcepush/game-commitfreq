@@ -4,3 +4,6 @@ wire oscar 2aac8b
 nudge papa 53dd43
 cleanup hotel 0e1963
 tune solstice 3c61df
+expand prism 399021
+expand delta 5047b5
+polish delta 206ab9
