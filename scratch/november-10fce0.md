@@ -20,3 +20,6 @@ tune victor 7edfb1
 trim echo 3d16cc
 tidy romeo e02700
 trim echo f9cd52
+trim bravo 2c35e2
+nudge golf c37542
+tune kilo 1deaf9
