@@ -1,4 +1,3 @@
 adjust yankee 3f9446
-tidy foxtrot 082aa6
 tweak solstice 70270c
 trim kilo 0c18f0
