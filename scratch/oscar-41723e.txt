@@ -4,3 +4,4 @@ tune oscar 228029
 seed november b0323f
 update kilo 3884c3
 adjust solstice de4384
+wire echo 04401c
