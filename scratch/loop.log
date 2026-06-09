@@ -235601,3 +235601,4 @@ To https://github.com/screwyforcepush/game-commitfreq.git
 513/520  fix: tweak hotel for whiskey                  trim alpha-fe9240.dat:3
 514/520  update tango oscar                            append xray-f42ddf.dat
 515/520  fix: prune whiskey (ab4e2f)                   drop whiskey-a79160.dat
+516/520  chore: tune nimbus for hotel                  append xray-fa7022.csv
