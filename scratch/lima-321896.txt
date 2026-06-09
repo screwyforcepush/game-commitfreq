@@ -1,5 +1,4 @@
 tweak xray ba9d5f
-tidy quebec 8bf4c6
 tweak romeo 76da6f
 tidy oscar 8f27c5
 seed ember 7f4b14
