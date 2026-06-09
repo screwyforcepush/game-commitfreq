@@ -5,4 +5,3 @@ tweak quebec d0082a
 tweak quebec 8dd3c3
 tidy kilo 6cfda0
 tidy cobalt edaa20
-tune xray ffe259
