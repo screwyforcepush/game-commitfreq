@@ -1,4 +1,3 @@
-polish whiskey 3d7e48
 bump prism 7d72f9
 tweak zulu 82ec92
 trim solstice f498ae
