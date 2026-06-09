@@ -2,5 +2,4 @@ bump sierra 80e89e
 expand yankee 6bb0f9
 refactor cobalt b0e95b
 expand november b99e45
-polish uniform 263f99
 seed papa 48b8aa
