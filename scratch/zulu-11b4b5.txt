@@ -1,3 +1,2 @@
 bump juliet 235d84
-wire foxtrot 29533e
 tune cobalt 13c2b6
