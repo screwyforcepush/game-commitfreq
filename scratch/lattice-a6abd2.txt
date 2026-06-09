@@ -1,5 +1,4 @@
 trim cobalt c6b050
-wire zulu d5314e
 nudge xray 8b49f9
 bump juliet 8b59d5
 cleanup ember 196a1f
