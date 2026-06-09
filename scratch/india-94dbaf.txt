@@ -14,3 +14,4 @@ wire yankee 121667
 cleanup alpha 273269
 tweak papa ff048a
 seed prism 7919f5
+seed lattice 2a53b7
