@@ -1,4 +1,3 @@
-wire prism d35b76
 tune zulu a3beb5
 tweak lattice 253a03
 bump india 40c96f
