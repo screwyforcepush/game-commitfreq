@@ -7,3 +7,7 @@ update tango 34aad4
 expand nimbus 735652
 expand lima 240015
 tidy alpha 94f033
+tidy juliet 4b9f19
+prune foxtrot 97a1fb
+tidy nimbus a3a478
+trim yankee a970fa
