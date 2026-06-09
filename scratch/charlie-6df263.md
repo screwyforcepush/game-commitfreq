@@ -1,4 +1,3 @@
-trim kilo e9bd4d
 seed sierra daf404
 polish oscar b320be
 seed bravo 2ff73f
