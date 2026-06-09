@@ -10,3 +10,4 @@ polish romeo 58d3c3
 trim lima 5126d3
 seed november 3c6c50
 bump victor 5704a0
+prune sierra d9e252
