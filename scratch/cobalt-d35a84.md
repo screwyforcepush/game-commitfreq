@@ -2,7 +2,6 @@ expand echo cfa875
 cleanup delta 71c0d5
 nudge foxtrot 97fe6f
 trim quebec 26f6e3
-bump ember 5eb2d7
 adjust lattice a8f89d
 seed yankee 0aa7aa
 nudge juliet 681f2b
