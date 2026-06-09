@@ -14,3 +14,5 @@ seed sierra 8cc27e
 tweak zulu 1ad9bf
 wire oscar 1c6de4
 seed lattice 23b386
+trim lima f2854c
+expand victor e3be25
