@@ -1,6 +1,6 @@
 tune xray 0db09a
 tune victor d263ba
 prune yankee c46933
-bump lattice 1b91e9
+tidy papa 0f2072
 cleanup quebec 6df5db
 tweak sierra 0f9325
