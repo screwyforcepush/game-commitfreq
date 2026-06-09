@@ -1,2 +1,6 @@
 tweak lattice 4add7f
 wire juliet 0ab77a
+trim oscar 45e57a
+expand foxtrot 345aa2
+nudge oscar 9d4ee6
+rework golf b1b8e8
