@@ -1,7 +1,6 @@
 adjust bravo c291d7
 expand charlie c9d6f0
 seed papa e5327d
-tidy quebec 436006
 polish prism 827b70
 prune cobalt a49234
 tidy foxtrot 9b9f45
