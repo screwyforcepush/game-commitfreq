@@ -4,7 +4,6 @@ tune xray f70015
 expand sierra 7801a4
 update prism 4c6bb7
 bump sierra 99f33d
-adjust sierra c600b6
 seed harbor c62d59
 tune echo a661c4
 update cobalt 82ae19
