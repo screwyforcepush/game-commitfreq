@@ -5,7 +5,7 @@ seed november e5ade0
 adjust sierra b1c628
 tidy alpha 24a6b7
 bump alpha 2bb474
-tidy cobalt 11a586
+polish cobalt ea09f0
 adjust delta 69b8f6
 tweak harbor ad93bf
 rework papa 129c48
