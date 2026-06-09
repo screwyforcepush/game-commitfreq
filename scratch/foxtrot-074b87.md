@@ -1,1 +1,1 @@
-tune nimbus a35a04
+bump lattice c1230c
