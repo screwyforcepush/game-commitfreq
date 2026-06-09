@@ -10,3 +10,6 @@ tune alpha cd0a84
 polish lattice 31395e
 expand echo 57c847
 trim kilo 17ae89
+wire foxtrot 69f81d
+expand tango f9531c
+refactor yankee 2643a0
