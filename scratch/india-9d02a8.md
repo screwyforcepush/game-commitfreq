@@ -5,3 +5,6 @@ cleanup oscar 977cf4
 bump charlie 35c2d5
 tweak november 807834
 tidy yankee 4e7008
+tune whiskey 472e67
+rework quebec 0e10a8
+update bravo e45402
