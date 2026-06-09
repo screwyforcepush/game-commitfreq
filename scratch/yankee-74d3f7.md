@@ -4,7 +4,7 @@ prune xray d06bca
 refactor november f1e2f3
 cleanup lattice 1777ce
 cleanup quebec a94818
-tune foxtrot 390f76
+cleanup lattice a97e1c
 tweak lima 45a84d
 nudge juliet 1fdc91
 trim zulu 86c976
