@@ -4,3 +4,7 @@ seed delta e31a33
 cleanup quebec 6c3cc1
 adjust quebec 474d05
 rework quebec c41583
+adjust quebec 566eed
+expand golf 4aaed2
+wire sierra e7e619
+adjust tango 614d58
