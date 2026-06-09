@@ -1,9 +1,0 @@
-expand oscar 8e2927
-trim oscar 8f70dc
-expand charlie f45af4
-bump bravo d10a0c
-adjust yankee 6370fa
-tweak mike d0b03f
-polish bravo 80f872
-wire nimbus 149a0b
-adjust foxtrot 64b719
