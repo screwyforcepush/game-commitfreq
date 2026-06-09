@@ -11,4 +11,3 @@ wire zulu 1f157c
 bump tango 53947d
 wire india 8a231d
 cleanup kilo eded5e
-wire solstice ac8119
