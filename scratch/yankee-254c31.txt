@@ -1,7 +1,0 @@
-nudge cobalt 90fb37
-tweak yankee 29d712
-expand papa 92eb34
-adjust november 2e0715
-rework uniform 9dec73
-nudge xray c1f8ff
-trim alpha ce51cc
