@@ -1,1 +1,5 @@
 bump mike cd0000
+polish yankee 0d6f8c
+seed uniform 9392cd
+seed kilo 2a6894
+seed india 13d3cf
