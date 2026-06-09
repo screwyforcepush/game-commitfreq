@@ -1,7 +1,6 @@
 trim quebec 7a8c5f
 update victor c7e6fc
 tweak charlie 2cf857
-bump mike 00d796
 trim mike 72a4e0
 rework delta b969fe
 adjust harbor 72fe67
