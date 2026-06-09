@@ -1,4 +1,4 @@
-seed alpha 123d8d
+trim foxtrot e5f982
 prune oscar 555b00
 trim romeo 06688b
 tune kilo 047904
