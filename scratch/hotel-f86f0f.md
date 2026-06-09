@@ -6,5 +6,5 @@ rework quebec aa3ee1
 adjust foxtrot 13f8af
 seed foxtrot 0ee9ac
 update cobalt d1bd65
-tidy delta 5ef693
+wire lattice ad1c01
 update lima d5d841
