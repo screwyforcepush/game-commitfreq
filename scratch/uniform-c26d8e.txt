@@ -2,7 +2,6 @@ trim cobalt c6b050
 wire zulu d5314e
 nudge xray 8b49f9
 bump juliet 8b59d5
-rework prism 6c7d7b
 cleanup ember 196a1f
 bump echo 10e2f5
 polish foxtrot 7cea57
