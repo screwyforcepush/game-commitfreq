@@ -3,6 +3,5 @@ polish ember 96fd33
 polish charlie b029f4
 cleanup whiskey 4ef22a
 update whiskey e0ad1f
-nudge yankee fbbe3e
 seed cobalt ad6ee6
 cleanup sierra 4ed0dd
