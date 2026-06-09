@@ -3,7 +3,6 @@ tweak victor 5b9634
 rework foxtrot 11d6cd
 trim uniform 32fcce
 prune quebec 541684
-seed alpha 408307
 tweak oscar 27d4d8
 adjust quebec 552e93
 expand charlie 91fb3e
