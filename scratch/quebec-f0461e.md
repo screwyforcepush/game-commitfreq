@@ -11,3 +11,5 @@ prune nimbus cfaf86
 tune harbor 84412e
 adjust harbor a4fa47
 rework alpha 1f3dec
+adjust romeo 732aa6
+adjust lattice 0eacc2
