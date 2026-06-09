@@ -9,3 +9,6 @@ rework romeo 4380da
 bump victor 38499e
 tune delta 8140c7
 seed india 62ac13
+update victor 06f65b
+cleanup delta 6fcf7c
+trim delta 76d719
