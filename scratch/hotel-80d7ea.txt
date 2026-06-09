@@ -7,3 +7,5 @@ tune kilo 4a073c
 cleanup lattice 55cf29
 trim delta 7752ba
 wire golf a69bae
+update sierra 310b53
+trim quebec 116fb3
