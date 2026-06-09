@@ -6,7 +6,6 @@ adjust india 55378d
 adjust lattice 7cdbe3
 bump bravo 6aa1d6
 bump papa 60c92c
-update zulu b78a1c
 cleanup oscar 034b1d
 expand india d1440d
 wire papa f86e45
