@@ -20,3 +20,5 @@ tidy golf fc6930
 update prism 8856de
 tweak lattice 80927b
 update sierra dd137c
+cleanup ember 44d1c1
+rework hotel 4195f4
