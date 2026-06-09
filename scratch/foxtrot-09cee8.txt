@@ -3,7 +3,7 @@ tune charlie 1993d6
 tweak charlie 206efd
 cleanup nimbus 97793b
 cleanup cobalt 4a23fc
-tweak prism 205d63
+polish nimbus f964fd
 tweak victor 726e0b
 tune golf c24cf7
 tune alpha cd0a84
