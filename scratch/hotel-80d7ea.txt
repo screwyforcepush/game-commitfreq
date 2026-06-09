@@ -4,3 +4,6 @@ nudge delta 0bf6a4
 update alpha a37c94
 tidy mike a9399d
 tune kilo 4a073c
+cleanup lattice 55cf29
+trim delta 7752ba
+wire golf a69bae
