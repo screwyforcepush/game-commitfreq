@@ -14,3 +14,5 @@ wire kilo 548877
 expand mike 6d4681
 cleanup alpha d077f1
 tweak lima 9e7cbc
+nudge uniform c1e1fa
+tidy lattice 2746fe
