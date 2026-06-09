@@ -8,7 +8,6 @@ expand delta 664d84
 nudge solstice 6a2ed6
 tune alpha 74eddc
 trim victor dcd838
-expand prism 7b13a3
 tidy yankee cca6ed
 nudge mike db2d8f
 cleanup juliet 031b88
