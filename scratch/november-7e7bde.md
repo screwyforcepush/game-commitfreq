@@ -14,3 +14,4 @@ wire prism dc3376
 update tango 4c1aa1
 tune nimbus 67749a
 cleanup alpha a3d142
+bump xray 12069d
