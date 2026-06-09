@@ -15,5 +15,4 @@ cleanup yankee 115382
 tweak lattice 5308d7
 tune whiskey 1995b9
 update delta a93183
-tune cobalt 31b68f
 tune kilo 60dc7e
