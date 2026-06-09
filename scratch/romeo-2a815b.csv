@@ -6,3 +6,7 @@ tune tango f9251b
 cleanup alpha 545a06
 bump nimbus 76b09b
 tune bravo 9541a1
+nudge tango 8a7ced
+tune lattice 70892c
+rework alpha bc3f9f
+adjust foxtrot dca6ee
