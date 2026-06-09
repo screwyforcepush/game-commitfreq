@@ -14,3 +14,5 @@ expand echo 7c71bd
 wire papa 05e074
 tweak quebec abce97
 tune hotel 66d8a6
+update nimbus 9d46f7
+rework tango f0d2c0
