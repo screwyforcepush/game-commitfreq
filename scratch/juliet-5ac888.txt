@@ -1,0 +1,2 @@
+prune alpha 8b8947
+prune nimbus 679ccf
