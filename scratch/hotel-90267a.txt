@@ -2,4 +2,4 @@ tidy whiskey 527ebe
 cleanup echo 696430
 trim papa f1643f
 adjust echo bd3bc1
-refactor bravo 866a59
+tidy papa be5022
