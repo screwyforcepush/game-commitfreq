@@ -1,3 +1,0 @@
-tidy yankee a26f63
-prune hotel dac16e
-tidy xray 983500
