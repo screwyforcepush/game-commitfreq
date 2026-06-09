@@ -2,5 +2,5 @@ bump oscar a10a2d
 polish foxtrot c2379b
 tidy ember 2a93fd
 prune prism 7f81e2
-update cobalt 4e3eb3
+trim whiskey 969eca
 nudge uniform 10e5d2
