@@ -235600,3 +235600,4 @@ To https://github.com/screwyforcepush/game-commitfreq.git
 512/520  wip: zulu adjusts                             append oscar-70ea19.csv
 513/520  fix: tweak hotel for whiskey                  trim alpha-fe9240.dat:3
 514/520  update tango oscar                            append xray-f42ddf.dat
+515/520  fix: prune whiskey (ab4e2f)                   drop whiskey-a79160.dat
