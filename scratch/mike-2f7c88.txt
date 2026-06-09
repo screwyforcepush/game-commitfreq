@@ -1,6 +1,6 @@
 tweak lattice 7f7130
 tune mike db6cff
-seed cobalt bf232a
+seed nimbus a310cd
 nudge whiskey e493ee
 tweak lima 24b5d6
 expand mike 31cacf
