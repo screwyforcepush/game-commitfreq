@@ -6,3 +6,5 @@ seed yankee 0aa7aa
 nudge juliet 681f2b
 tune juliet 221367
 tweak november e9dd65
+adjust quebec 973546
+tweak mike 99ddfa
