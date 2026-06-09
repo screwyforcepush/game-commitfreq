@@ -2,7 +2,6 @@ update solstice afd3f9
 tune sierra fc87fe
 expand hotel ea65c7
 refactor sierra 0f8335
-prune whiskey 3a8a92
 tweak foxtrot 86d2c6
 seed uniform bdfaa4
 cleanup papa ed3991
