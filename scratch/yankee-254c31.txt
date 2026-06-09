@@ -3,6 +3,5 @@ tweak yankee 29d712
 expand papa 92eb34
 cleanup xray 594e2a
 rework uniform 9dec73
-expand solstice c5d28f
 nudge xray c1f8ff
 trim alpha ce51cc
