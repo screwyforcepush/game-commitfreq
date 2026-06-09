@@ -16,7 +16,6 @@ cleanup yankee 153e66
 trim mike 10c1f9
 tune juliet cba8fb
 tune oscar b0ab55
-tweak delta feeea4
 refactor oscar 7b5a0d
 update prism f40a21
 adjust sierra b428eb
