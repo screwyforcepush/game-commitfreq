@@ -1,0 +1,5 @@
+nudge nimbus 4a1024
+seed alpha d7c4bb
+adjust lattice e50044
+polish uniform 80d421
+expand uniform a5255c
