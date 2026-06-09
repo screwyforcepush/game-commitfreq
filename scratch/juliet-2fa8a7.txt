@@ -1,3 +1,0 @@
-bump golf 38c4b9
-bump foxtrot f87641
-adjust bravo 155585
