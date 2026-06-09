@@ -2,3 +2,7 @@ tune quebec b5a075
 cleanup india ad5439
 expand delta 40041a
 seed harbor a497d3
+seed prism 08efe8
+trim uniform 394a54
+seed oscar 2970ab
+adjust oscar bf78d3
