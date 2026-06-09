@@ -1,5 +1,0 @@
-bump nimbus 49a9a7
-tidy oscar 3c8217
-tweak sierra 9e7abb
-tweak november d69747
-tweak juliet e9ce6a
