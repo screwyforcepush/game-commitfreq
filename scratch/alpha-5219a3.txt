@@ -1,2 +1,5 @@
 polish alpha 626a57
 tune yankee bdd6ca
+wire juliet 3a766a
+rework yankee a3975a
+tidy quebec 200524
