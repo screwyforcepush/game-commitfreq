@@ -7,6 +7,5 @@ bump delta d01264
 update mike 49ace9
 refactor zulu 0c35f7
 seed yankee c9ac04
-adjust delta 2e9289
 trim golf a90f15
 nudge prism 810ac3
