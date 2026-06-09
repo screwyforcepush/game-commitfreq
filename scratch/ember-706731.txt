@@ -1,3 +1,2 @@
 wire kilo 5c3900
-tidy delta 952ed0
 expand lima ff1289
