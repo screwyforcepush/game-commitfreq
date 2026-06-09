@@ -12,3 +12,6 @@ prune mike 5c4db2
 update golf 0e1261
 tune lima 2e6856
 update victor afc748
+cleanup solstice f38d0d
+tweak oscar 735cf3
+tune hotel 865b44
