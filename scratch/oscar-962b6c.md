@@ -11,3 +11,6 @@ bump lima 8ff2fa
 rework lattice ea3c4d
 rework hotel fc8f71
 adjust india 129e6d
+refactor tango e22576
+refactor lattice 7580f8
+tidy prism 0dfc6c
