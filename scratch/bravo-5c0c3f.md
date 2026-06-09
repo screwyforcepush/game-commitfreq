@@ -5,3 +5,6 @@ bump hotel 1a70f6
 cleanup yankee 24470c
 tune prism 1a163c
 cleanup hotel 88b177
+update whiskey 8fa37c
+adjust delta 565bcd
+tune november 21c7e1
