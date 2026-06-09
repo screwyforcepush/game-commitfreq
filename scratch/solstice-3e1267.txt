@@ -3,7 +3,7 @@ update nimbus aab456
 tweak hotel bf43df
 nudge oscar 9eadb7
 expand zulu a19112
-update solstice 74dfed
+update november b37439
 prune bravo 30d1dc
 tweak sierra ab705d
 bump november 443669
