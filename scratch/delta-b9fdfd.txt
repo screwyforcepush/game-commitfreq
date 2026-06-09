@@ -8,7 +8,6 @@ tidy hotel a786e7
 adjust mike ffbd18
 update alpha fde89e
 tune romeo 8311ff
-seed tango 4ade8a
 seed foxtrot fd0912
 refactor golf e42b55
 refactor delta 8e44e7
