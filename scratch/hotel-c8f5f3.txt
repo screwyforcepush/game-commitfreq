@@ -2,3 +2,7 @@ wire foxtrot f61dd6
 polish sierra a26c5c
 adjust solstice e691d0
 seed nimbus 48f73a
+rework oscar 094a26
+bump november 7ca635
+bump oscar 94a290
+update nimbus 1e9de1
