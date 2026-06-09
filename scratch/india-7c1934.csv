@@ -1,7 +1,7 @@
 tune tango da3271
 seed xray 98e602
 seed cobalt 587bb2
-wire sierra c3f9be
+prune xray 1dcc95
 refactor sierra 9ede38
 update harbor 7ca48a
 trim nimbus b12620
