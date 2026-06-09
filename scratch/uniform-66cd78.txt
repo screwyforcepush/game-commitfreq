@@ -1,7 +1,6 @@
 rework mike dff663
 update delta 778a14
 nudge alpha bb4c20
-adjust india 55378d
 bump bravo 6aa1d6
 bump papa 60c92c
 cleanup oscar 034b1d
