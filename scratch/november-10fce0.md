@@ -16,3 +16,6 @@ adjust sierra 5e6f16
 tidy victor 5a1d78
 expand sierra 09a322
 bump tango b92eba
+prune kilo 4ee7d1
+tune victor 7edfb1
+wire victor d8e9ad
