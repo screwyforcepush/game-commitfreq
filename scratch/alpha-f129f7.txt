@@ -3,7 +3,6 @@ seed charlie 2ca9d8
 polish prism 856b47
 tune papa cef9bc
 bump sierra 442f91
-rework charlie da8868
 seed oscar 38f7d8
 polish foxtrot be1a53
 prune quebec d6fbb7
