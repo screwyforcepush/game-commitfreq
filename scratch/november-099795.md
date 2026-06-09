@@ -4,7 +4,6 @@ adjust alpha 23f892
 polish solstice fec2b7
 polish whiskey f4eebd
 update juliet 84b96d
-cleanup yankee 25992f
 trim lima cdce4a
 tune whiskey c3b15c
 trim india 2dc063
