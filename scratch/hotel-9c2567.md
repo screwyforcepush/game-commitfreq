@@ -4,7 +4,6 @@ expand romeo af23d8
 refactor zulu b4b1bc
 tune hotel 0a5e9c
 bump charlie a1d32b
-trim sierra 1007a0
 cleanup solstice b1ea02
 update mike c46fb2
 tune november 5c2f67
