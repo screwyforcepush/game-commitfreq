@@ -5,7 +5,6 @@ cleanup ember 741e28
 seed mike 054aa8
 tune victor 1ddb27
 seed mike 1a6d99
-prune quebec 74b921
 tidy uniform 11d190
 adjust golf 0d0af0
 update kilo afdcf6
