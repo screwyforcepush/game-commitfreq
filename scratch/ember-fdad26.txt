@@ -1,5 +1,4 @@
 bump echo 3c6c71
 tidy india d4d32d
-wire lattice 87cc2a
 prune nimbus 8a8a6e
 prune november 4b5f67
