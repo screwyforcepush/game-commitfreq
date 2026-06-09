@@ -2,7 +2,7 @@ tweak sierra 25c0c8
 tidy golf 259936
 bump foxtrot 8e0fdf
 adjust quebec 0d7414
-seed prism 1f50c9
+tune delta 74ffab
 polish xray 9e0417
 tweak uniform 3ef73a
 rework bravo c2e45d
