@@ -6,3 +6,7 @@ expand juliet 2efda9
 rework juliet cbc512
 tweak romeo c9019c
 tidy ember 9c74a0
+trim oscar 2b828a
+tune zulu 6a98d9
+cleanup bravo 7e7db4
+tidy bravo fb15d8
