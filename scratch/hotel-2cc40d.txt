@@ -1,6 +1,5 @@
 seed tango 4624fd
 trim mike 43ad78
-bump november 8244b6
 tune kilo 518056
 update november f67c57
 bump charlie 418e7f
