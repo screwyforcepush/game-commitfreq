@@ -5,4 +5,3 @@ tune echo 68d98b
 prune xray 904130
 refactor solstice f0c531
 trim zulu 3fa7b2
-tidy foxtrot 03963a
