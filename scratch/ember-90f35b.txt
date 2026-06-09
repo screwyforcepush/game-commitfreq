@@ -1,4 +1,3 @@
 bump hotel 66df7f
 prune cobalt 68dd2e
-update cobalt a8b3f6
 cleanup bravo 887488
