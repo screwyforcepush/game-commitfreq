@@ -6,4 +6,3 @@ prune mike 89eed3
 cleanup lima a10778
 adjust alpha acd089
 polish oscar 701fff
-trim whiskey ecb684
