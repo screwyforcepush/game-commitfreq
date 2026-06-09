@@ -4,3 +4,6 @@ nudge oscar c12342
 refactor oscar 11e4da
 rework juliet 7e69ad
 bump romeo 84d1de
+cleanup sierra 7e7531
+tune uniform a4ac3d
+seed lattice ca75c6
