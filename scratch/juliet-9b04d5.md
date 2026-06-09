@@ -3,7 +3,6 @@ tweak alpha 7986b6
 nudge whiskey 86f0ac
 prune ember c5ae4e
 prune alpha 844dba
-polish delta 5bcd5c
 tidy bravo 5ced2a
 tidy bravo 835ce9
 refactor uniform bd2d87
