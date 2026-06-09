@@ -10,7 +10,7 @@ tidy lattice 8388b4
 refactor victor 4511dd
 cleanup victor cd8273
 polish bravo 36e7de
-expand romeo 981689
+adjust cobalt eabb4e
 rework cobalt 88e24e
 nudge delta ddfa79
 prune lima 79d213
