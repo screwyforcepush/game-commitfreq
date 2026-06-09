@@ -8,3 +8,7 @@ polish yankee 3fd083
 tidy delta 60b5af
 tune harbor e25240
 prune lattice 1e5e53
+trim zulu 554d0d
+bump tango 778bcf
+nudge charlie ba5b90
+nudge whiskey e34d50
