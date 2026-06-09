@@ -1,2 +1,0 @@
-cleanup oscar a4832c
-cleanup quebec c0fcc5
