@@ -5,7 +5,7 @@ bump solstice 2b97ad
 prune bravo 8e322e
 adjust lattice f58457
 nudge delta acd7cc
-expand oscar 48c8d6
+refactor whiskey dc59c9
 trim echo f28db9
 polish victor de0458
 wire romeo eb421d
