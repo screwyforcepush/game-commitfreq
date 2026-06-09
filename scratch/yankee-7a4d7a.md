@@ -9,3 +9,5 @@ prune lima 32f9e0
 prune romeo 0ce9f5
 expand charlie 441bcf
 update harbor fe5f4c
+tune cobalt 80239a
+tune lattice 79dbc7
