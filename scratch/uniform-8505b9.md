@@ -1,2 +1,2 @@
-prune golf ec4f70
+adjust alpha d69c9a
 refactor whiskey 000cdf
