@@ -1,4 +1,3 @@
-seed quebec a2b394
 tweak alpha 7986b6
 nudge whiskey 86f0ac
 prune ember c5ae4e
