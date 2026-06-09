@@ -5,7 +5,7 @@ tweak delta 57637c
 adjust bravo 040eaf
 tidy whiskey 6a1350
 tidy india bece2b
-tweak bravo 61eda5
+prune november a0588a
 expand xray 78d9bb
 bump lima 8ff2fa
 rework lattice ea3c4d
