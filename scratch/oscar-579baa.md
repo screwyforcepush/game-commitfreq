@@ -4,7 +4,7 @@ refactor whiskey cedc9c
 bump papa 8c6dd2
 bump solstice 2b97ad
 prune bravo 8e322e
-expand november 458658
+adjust lattice f58457
 nudge delta acd7cc
 expand oscar 48c8d6
 trim echo f28db9
