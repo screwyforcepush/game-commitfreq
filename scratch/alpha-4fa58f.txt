@@ -4,3 +4,7 @@ nudge delta 8efdf1
 prune xray ed6d1d
 update lattice bd6b27
 rework tango f0adc2
+expand solstice ad33e5
+nudge xray 571be9
+nudge foxtrot ddbbeb
+tidy mike f8d922
