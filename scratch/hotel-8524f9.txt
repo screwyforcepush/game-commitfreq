@@ -1,2 +1,0 @@
-wire solstice 839a45
-wire uniform 16ad14
