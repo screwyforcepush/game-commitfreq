@@ -7,7 +7,7 @@ tidy bravo 835ce9
 refactor uniform bd2d87
 tweak lima 33df22
 tidy hotel c9d67c
-seed india a31c85
+expand lattice b09b87
 nudge quebec b6f708
 cleanup prism 95c363
 tidy quebec a71ba9
