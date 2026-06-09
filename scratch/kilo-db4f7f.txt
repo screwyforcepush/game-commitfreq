@@ -1,4 +1,4 @@
-nudge nimbus 4a1024
+tune quebec e9e578
 seed alpha d7c4bb
 adjust lattice e50044
 polish uniform 80d421
