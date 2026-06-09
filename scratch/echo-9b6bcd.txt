@@ -1,3 +1,6 @@
 tweak nimbus 5512ee
 refactor tango eccd6a
 tidy sierra f3f5b3
+adjust oscar 31a2f7
+rework nimbus 3fc611
+refactor tango e36346
