@@ -3,3 +3,5 @@ wire uniform b8f646
 adjust sierra 37bfec
 wire delta 42069a
 polish foxtrot 082327
+trim papa ac8d5c
+expand xray f9438c
