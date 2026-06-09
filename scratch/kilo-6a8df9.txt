@@ -1,4 +1,4 @@
-seed charlie ce4668
+bump lattice e6d220
 bump victor 2c2bff
 cleanup ember 488c86
 refactor victor e53c1d
