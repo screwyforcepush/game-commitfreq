@@ -1,4 +1,3 @@
 prune juliet 35c0b3
-adjust uniform 2e3633
 polish whiskey eb41ed
 seed tango fb9097
