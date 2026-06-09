@@ -11,3 +11,5 @@ prune prism 704073
 polish tango 207b55
 tweak golf 31166b
 nudge delta ca7029
+expand echo 7c71bd
+wire papa 05e074
