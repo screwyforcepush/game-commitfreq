@@ -2,3 +2,6 @@ adjust mike 0a4d75
 trim echo 3a8760
 adjust yankee 1613b0
 tidy papa 98ca9a
+tune oscar 1022c9
+expand xray 5f4b21
+prune xray ae4ac6
