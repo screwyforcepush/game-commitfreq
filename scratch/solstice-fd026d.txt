@@ -6,5 +6,4 @@ refactor echo afc730
 refactor xray 03485b
 update harbor c5a9bc
 adjust hotel a38cc9
-trim romeo 5fe3c0
 tidy charlie 977dc3
