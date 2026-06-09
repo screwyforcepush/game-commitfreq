@@ -4,7 +4,6 @@ wire oscar 94954e
 refactor nimbus 1775c8
 cleanup kilo 7bdf05
 refactor alpha 85d34c
-expand india 2755cd
 tweak charlie d20f16
 cleanup papa a6ec77
 adjust uniform df4d10
