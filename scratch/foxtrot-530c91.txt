@@ -1,4 +1,3 @@
-update delta 0305fd
 seed solstice 5e7fbd
 polish yankee cf6ccd
 expand harbor 13072d
