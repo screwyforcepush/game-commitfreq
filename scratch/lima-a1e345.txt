@@ -3,3 +3,7 @@ bump uniform f2f8fe
 rework tango a385be
 trim hotel fdba24
 seed golf f8e80c
+nudge uniform 22e881
+tune nimbus ad0fe2
+expand india d0dba1
+tidy yankee 4d2fab
