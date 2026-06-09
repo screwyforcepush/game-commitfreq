@@ -1,6 +1,6 @@
 prune golf 1a1ab7
 prune november 493f62
-nudge victor 20e1a1
+trim echo 9110bd
 adjust whiskey 5295ec
 tidy juliet 88d944
 expand cobalt e88c2d
