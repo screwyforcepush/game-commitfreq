@@ -7,7 +7,6 @@ trim victor 6093ad
 refactor tango 2f77d0
 polish solstice 685201
 tune juliet 5c0600
-prune sierra 7caef8
 seed foxtrot d09925
 cleanup delta 488eb0
 rework november 7e4d2b
