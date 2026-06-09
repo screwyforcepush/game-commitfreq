@@ -7,3 +7,6 @@ cleanup victor 9c7e44
 nudge charlie 81924d
 nudge victor 26bd2c
 tidy lima 1c1d3e
+tweak echo 8f551b
+bump hotel 8aeee6
+polish yankee 63b79d
