@@ -4,3 +4,6 @@ adjust uniform c57a3a
 trim juliet 72e875
 tune papa dcd2bd
 cleanup uniform 9721db
+tidy hotel b0b497
+polish foxtrot 217fed
+prune hotel c645cd
