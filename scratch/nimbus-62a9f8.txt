@@ -1,5 +1,0 @@
-tidy delta 137452
-bump whiskey 12b255
-seed tango 0e89ff
-nudge mike 84dc6e
-cleanup hotel 706a87
