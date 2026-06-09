@@ -1,5 +1,4 @@
 prune kilo 77e504
-polish hotel e441ff
 tweak victor 5b9634
 rework foxtrot 11d6cd
 trim uniform 32fcce
