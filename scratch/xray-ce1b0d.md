@@ -5,3 +5,6 @@ tidy prism 50ab86
 tweak papa 2dc82a
 adjust lattice 63b1f1
 polish hotel 4f003d
+cleanup yankee 162e9f
+tidy alpha eeefdc
+wire november 5b6d54
