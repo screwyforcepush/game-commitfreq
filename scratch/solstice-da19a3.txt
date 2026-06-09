@@ -4,3 +4,6 @@ refactor ember c501fc
 prune prism a2af69
 cleanup uniform fa35e2
 tidy whiskey cad584
+polish yankee 3fd083
+tidy delta 60b5af
+tune harbor e25240
