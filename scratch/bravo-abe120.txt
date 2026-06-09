@@ -1,6 +1,0 @@
-bump golf ebdb2b
-prune sierra 2b7986
-seed bravo c038d1
-adjust charlie cf348d
-rework uniform 9acde1
-nudge victor e39b43
