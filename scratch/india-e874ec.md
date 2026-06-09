@@ -9,7 +9,6 @@ tweak hotel 7315cb
 cleanup zulu 138aa0
 expand yankee 0c60c1
 prune lima 23d098
-cleanup sierra 3d734c
 update india 244e90
 cleanup oscar 2c8efb
 refactor kilo 46370c
