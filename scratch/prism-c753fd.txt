@@ -1,4 +1,0 @@
-adjust yankee 3f9446
-tweak solstice 70270c
-trim kilo 0c18f0
-adjust november 4f8609
