@@ -3,5 +3,4 @@ tune lattice ba0d86
 seed delta 89178c
 tune echo 68d98b
 prune xray 904130
-cleanup papa 9080b6
 trim zulu 3fa7b2
