@@ -6,3 +6,7 @@ update nimbus 170f22
 tidy prism cf6417
 bump zulu 1affc5
 trim romeo 616fb5
+tidy xray b32660
+polish juliet aea846
+expand charlie 2973ec
+seed november 4fc51a
