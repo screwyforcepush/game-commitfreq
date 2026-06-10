@@ -9,3 +9,5 @@ tune prism 21dab9
 tweak sierra a3e229
 rework india 817659
 adjust ember b9dd03
+wire ember cd661d
+adjust quebec 474d1a
