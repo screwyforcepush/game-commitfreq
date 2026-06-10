@@ -1,2 +1,0 @@
-rework solstice 25372a
-cleanup yankee de769f
