@@ -1,0 +1,4 @@
+expand oscar eaf5e4
+tidy oscar bc5dbe
+tidy xray c4e2ec
+trim echo 38af92
