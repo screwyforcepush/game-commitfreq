@@ -6,7 +6,7 @@ tidy sierra 0cf24b
 expand hotel 6cae51
 adjust alpha e1ad2e
 tweak romeo 2cbcbc
-tweak lattice b3be2c
+expand romeo 4c82b2
 wire cobalt 2848a8
 rework sierra 006a8c
 tidy quebec 4688f4
