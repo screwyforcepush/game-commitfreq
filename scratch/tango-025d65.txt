@@ -5,7 +5,6 @@ tidy india 849675
 nudge golf 12d040
 prune november fd60d8
 nudge echo bb0be5
-bump lima 8cdf5e
 trim oscar 5fe335
 adjust kilo a5ef8b
 expand foxtrot e77d07
