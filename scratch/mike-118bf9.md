@@ -2,7 +2,6 @@ trim xray 84e6b1
 rework alpha 2b255f
 adjust echo fa3e05
 tweak delta 9eaa1c
-polish papa cd8b4e
 expand india ab2585
 tune victor 80a732
 prune november 8a6756
