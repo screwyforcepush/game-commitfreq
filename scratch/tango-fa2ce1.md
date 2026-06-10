@@ -1,1 +1,1 @@
-wire sierra 7231dc
+adjust hotel b2898c
