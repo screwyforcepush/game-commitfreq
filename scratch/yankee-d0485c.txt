@@ -1,4 +1,3 @@
-tidy tango 942bbf
 trim sierra 546711
 tune alpha 08242c
 refactor nimbus cc5156
