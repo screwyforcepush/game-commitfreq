@@ -1,6 +1,5 @@
 adjust oscar d0f112
 rework papa acd57b
-rework delta 6400ec
 tune harbor 25fe94
 polish charlie 234340
 tweak solstice b18327
