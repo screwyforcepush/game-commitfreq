@@ -3,7 +3,6 @@ adjust victor 449c41
 tune harbor 6a3990
 rework tango 7cade9
 adjust romeo 817e22
-polish tango 11317b
 tidy lima a0308d
 nudge ember b4630e
 expand whiskey c27301
