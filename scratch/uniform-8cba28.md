@@ -3,7 +3,6 @@ seed cobalt 20d351
 nudge delta 3276cd
 wire whiskey 1fbd25
 adjust whiskey 06e1cb
-nudge romeo 897c98
 wire foxtrot a1d3ca
 cleanup bravo ef404a
 tweak echo 3947d3
