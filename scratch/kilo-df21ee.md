@@ -21,3 +21,5 @@ expand papa dab2d5
 prune november d70be2
 seed golf c49346
 tune echo 8ab6ff
+update whiskey 32c19b
+bump charlie b16f24
