@@ -1,6 +1,5 @@
 adjust cobalt 0f2a82
 tweak echo da585a
 expand victor 63abc8
-polish yankee fb124b
 tweak papa f4c801
 bump cobalt 8ca62a
