@@ -1,4 +1,0 @@
-update uniform d5289e
-update yankee ba6185
-adjust lima f4ec09
-adjust victor 98d1cb
