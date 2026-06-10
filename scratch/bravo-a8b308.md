@@ -1,7 +1,7 @@
 rework whiskey fe446c
 prune delta dfca88
 tune yankee c222d0
-tidy zulu a2d4f0
+tidy delta 577484
 polish bravo 2dd68b
 cleanup papa a41fae
 adjust xray 0f3f7f
