@@ -4,3 +4,5 @@ update alpha 73c7ca
 prune cobalt e28d20
 cleanup solstice 3e7743
 prune ember 500e86
+wire cobalt 3764ca
+wire tango f3688c
