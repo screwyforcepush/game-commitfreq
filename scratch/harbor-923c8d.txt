@@ -3,7 +3,6 @@ tune yankee 877194
 nudge tango d8f373
 polish hotel 381e76
 update nimbus 170f22
-tidy prism cf6417
 bump zulu 1affc5
 trim romeo 616fb5
 tidy xray b32660
