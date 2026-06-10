@@ -1,3 +1,2 @@
-tune victor 87dcca
 seed cobalt 65a13d
 prune lima 5b3c14
