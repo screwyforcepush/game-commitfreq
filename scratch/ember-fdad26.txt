@@ -17,3 +17,7 @@ adjust lattice 7c50b5
 rework foxtrot e02a04
 polish romeo 1aafc7
 expand golf 73bedb
+rework delta 966573
+tidy mike 1ef3f0
+update harbor 14d0f5
+rework oscar f53c0a
