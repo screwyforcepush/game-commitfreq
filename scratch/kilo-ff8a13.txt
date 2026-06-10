@@ -1,6 +1,5 @@
 rework delta c2a516
 prune foxtrot 10b4d7
-bump echo 6da900
 seed foxtrot 086740
 cleanup yankee 2d4a0e
 tidy victor 8edbfe
