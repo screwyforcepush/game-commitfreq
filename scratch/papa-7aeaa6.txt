@@ -1,5 +1,0 @@
-adjust lima 50133a
-adjust nimbus 160904
-polish cobalt da32bd
-seed solstice 203204
-tune xray b4d192
