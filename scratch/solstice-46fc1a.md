@@ -5,7 +5,7 @@ tune whiskey ec32e6
 polish november 2fbda9
 tidy romeo 53a50c
 wire charlie 442f49
-polish alpha 0ce8cf
+adjust nimbus dc3341
 prune mike edeacc
 adjust whiskey 9ad0d6
 cleanup november 05c458
