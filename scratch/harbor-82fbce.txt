@@ -1,2 +1,1 @@
-wire kilo 68ffc8
 polish quebec d2c7f4
