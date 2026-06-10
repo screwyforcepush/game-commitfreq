@@ -11,3 +11,4 @@ cleanup bravo 05197b
 polish cobalt 8e9133
 polish whiskey b5412d
 refactor mike 9861f9
+adjust lattice c2e135
