@@ -3,3 +3,5 @@ tune kilo 6afe00
 bump charlie 9688af
 expand charlie 5c4c74
 adjust lima f16630
+polish delta 802241
+rework whiskey 49a545
