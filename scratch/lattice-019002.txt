@@ -1,6 +1,6 @@
 polish lattice f5ff61
 nudge solstice ee4a31
-rework oscar 2f9a92
+trim quebec f85f65
 seed november 846bb9
 tidy tango b78ae6
 prune alpha 9d0300
