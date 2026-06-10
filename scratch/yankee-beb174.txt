@@ -1,2 +1,0 @@
-bump yankee 71d11f
-cleanup whiskey 170a39
