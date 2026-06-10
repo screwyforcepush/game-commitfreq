@@ -11,7 +11,6 @@ rework tango 228d21
 update tango 912460
 prune yankee f9034e
 tidy prism 1d6d45
-polish delta 1fca95
 prune kilo a6f571
 tweak nimbus 7618b3
 tune quebec b8df7b
