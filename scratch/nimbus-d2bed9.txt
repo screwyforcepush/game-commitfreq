@@ -1,3 +1,0 @@
-tune lima 7979d9
-wire romeo 666c4c
-trim charlie d45509
