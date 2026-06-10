@@ -1,4 +1,3 @@
-seed quebec f51ba1
 tweak alpha ccc484
 tweak india 660d1a
 trim romeo 6c674b
