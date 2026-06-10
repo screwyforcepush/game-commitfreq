@@ -4,3 +4,6 @@ update uniform 2e6f56
 polish november e7e56d
 expand xray f54716
 bump xray 1e7432
+update victor 6cd069
+adjust hotel d3d776
+cleanup cobalt bce150
