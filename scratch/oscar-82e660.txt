@@ -1,3 +1,0 @@
-prune india ce0278
-tidy oscar 8ae01c
-seed yankee 022ed6
