@@ -237398,3 +237398,4 @@ To https://github.com/screwyforcepush/game-commitfreq.git
 448/522  refactor: update solstice (ec0293)            trim kilo-f571f0.dat:3
 449/522  wire bravo romeo                              modify solstice-1aa828.log:4
 450/522  wip: polish lima for yankee                   trim hotel-cca47a.csv:3
+451/522  build: cleanup yankee for lattice             rename papa-d4883e.log -> yankee-45560a.csv
