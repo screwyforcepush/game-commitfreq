@@ -5,3 +5,5 @@ wire echo e9bc0c
 seed juliet 438202
 expand charlie 491034
 bump sierra ddb37e
+bump lattice bc8de4
+tweak yankee 186191
