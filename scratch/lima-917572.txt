@@ -1,6 +1,5 @@
 tidy xray 2302a2
 seed sierra 0f663c
-wire bravo 7abd58
 polish romeo 698afc
 adjust foxtrot 5552a7
 nudge solstice 689f28
