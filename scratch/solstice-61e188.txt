@@ -1,6 +1,0 @@
-tidy alpha cf86a8
-nudge charlie ebe7fc
-tweak quebec 9d8df6
-seed zulu a9ee25
-prune mike 2ac278
-tune lattice ca4df6
