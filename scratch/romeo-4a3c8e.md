@@ -1,4 +1,3 @@
-trim alpha cd0cfe
 tune sierra 038ee0
 expand zulu ede7d9
 expand cobalt d30147
