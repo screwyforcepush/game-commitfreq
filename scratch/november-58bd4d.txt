@@ -1,0 +1,3 @@
+seed echo a76762
+seed kilo e78e98
+wire whiskey 9e36c7
