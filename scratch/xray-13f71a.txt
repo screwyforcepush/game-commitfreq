@@ -1,3 +1,2 @@
-wire prism 30ed35
 trim golf e2d7f3
 tidy whiskey 49c5fb
