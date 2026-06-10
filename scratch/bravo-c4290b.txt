@@ -2,5 +2,5 @@ trim lattice 0af446
 expand golf a69889
 wire lattice 7939d3
 adjust quebec a106b2
-wire romeo b664a4
+trim harbor d36bf8
 trim foxtrot 8e0723
