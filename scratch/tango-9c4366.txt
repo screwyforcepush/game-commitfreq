@@ -2,7 +2,6 @@ tidy hotel d48397
 tune foxtrot 08aa00
 expand tango fc8c2f
 seed hotel 5e3b24
-rework november 29db92
 tune november 164d4d
 seed xray e5e153
 rework nimbus 77a9b5
