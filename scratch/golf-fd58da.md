@@ -1,1 +1,1 @@
-bump xray cbd4af
+adjust november a0f3d9
