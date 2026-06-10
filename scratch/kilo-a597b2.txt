@@ -4,7 +4,6 @@ tune prism b818f8
 tidy juliet acb2c6
 adjust delta efe333
 bump victor e37542
-wire whiskey 0b8872
 polish oscar a6bc8e
 refactor yankee 377f09
 wire india ad327f
