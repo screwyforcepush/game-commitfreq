@@ -14,7 +14,6 @@ cleanup mike 301a4d
 adjust quebec 5c62f3
 cleanup hotel b6fc41
 prune tango 8ac41c
-expand hotel 601b77
 polish sierra 86e9df
 expand papa dab2d5
 prune november d70be2
