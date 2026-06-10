@@ -1,6 +1,5 @@
 polish echo 69b215
 refactor quebec 4f0833
-wire bravo 0e652c
 polish delta e5d6e3
 cleanup mike e2673c
 tune november 50acf8
