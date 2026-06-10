@@ -24,3 +24,5 @@ tune echo 8ab6ff
 update whiskey 32c19b
 bump charlie b16f24
 nudge lima 61641e
+prune sierra c66f2f
+trim lattice fcea9a
