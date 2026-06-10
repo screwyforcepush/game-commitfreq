@@ -1,2 +1,2 @@
 cleanup quebec f1ee85
-adjust lattice bfb196
+trim alpha add2e4
