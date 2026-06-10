@@ -9,6 +9,5 @@ rework quebec 1649b1
 refactor victor d56761
 rework ember e41a34
 adjust papa 16dd88
-wire bravo 8373d6
 polish juliet d22630
 prune lima 6bd461
