@@ -12,7 +12,6 @@ update tango 912460
 prune yankee f9034e
 tidy prism 1d6d45
 prune kilo a6f571
-tune quebec b8df7b
 trim romeo a852a0
 cleanup oscar 4a522e
 refactor yankee 814315
