@@ -1,6 +1,5 @@
 tune mike d6ed08
 wire nimbus 23d86f
-tune prism a5b91b
 tidy india 849675
 nudge golf 12d040
 nudge echo bb0be5
