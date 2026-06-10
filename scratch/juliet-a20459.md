@@ -8,3 +8,5 @@ seed juliet e430cc
 adjust foxtrot d0e51d
 nudge india 65c4e8
 tidy november bd183a
+seed hotel 7dabe5
+tidy ember 39bdee
