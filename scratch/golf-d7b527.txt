@@ -1,0 +1,5 @@
+bump quebec 7bb4e8
+seed india 0a8471
+seed lattice 6461dd
+prune charlie b7815f
+adjust mike fe02d3
