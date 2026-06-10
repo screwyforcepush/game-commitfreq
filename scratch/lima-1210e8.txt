@@ -5,7 +5,7 @@ nudge uniform dd67df
 refactor echo afc730
 refactor xray 03485b
 update harbor c5a9bc
-adjust hotel a38cc9
+seed golf 2d5d9a
 bump nimbus 29c30f
 cleanup xray 08d9d8
 polish lima cfa4f9
