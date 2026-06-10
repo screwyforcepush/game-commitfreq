@@ -3,3 +3,7 @@ rework papa 49a9d0
 cleanup ember 6d8f50
 tune solstice 23c4c2
 refactor juliet 7e0771
+expand oscar 4b2bf0
+polish golf e581a1
+trim zulu bbbf01
+refactor delta c98bf5
