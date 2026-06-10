@@ -1,6 +1,6 @@
 rework hotel e0f994
 tidy golf 29e35b
-polish victor 1733c5
+trim solstice 2658e2
 refactor november f4bcbc
 wire whiskey 40641f
 wire lattice b15c3d
