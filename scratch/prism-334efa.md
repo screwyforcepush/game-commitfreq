@@ -3,3 +3,7 @@ expand whiskey e5e3ce
 adjust bravo f7e9b0
 prune harbor 7e9d76
 wire lattice ca82e5
+expand nimbus 27db88
+rework foxtrot f4bd16
+adjust tango 98e643
+tune cobalt b578b3
