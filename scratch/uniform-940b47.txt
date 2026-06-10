@@ -1,7 +1,7 @@
 tweak hotel 3e71e6
 tweak lattice ad116f
 bump mike bdfcd2
-adjust victor 689a56
+wire solstice e93f35
 tune india 3594fa
 tidy sierra eca1ee
 tweak oscar 7b095d
