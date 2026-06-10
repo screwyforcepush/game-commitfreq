@@ -1,0 +1,6 @@
+trim zulu 41d26e
+trim xray 0a8c66
+expand harbor 7927a8
+trim bravo b57600
+adjust zulu 2b8f90
+tune india 32c1bf
