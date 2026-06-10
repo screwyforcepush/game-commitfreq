@@ -3,3 +3,7 @@ expand lattice 7399be
 tune cobalt 2984c1
 tune ember a0c709
 polish foxtrot 53d1d1
+nudge juliet 37e105
+tune sierra b9620c
+refactor solstice d63a1b
+rework oscar acb2e2
