@@ -1,7 +1,6 @@
 nudge echo ae6269
 nudge delta 48df0f
 seed uniform 7887c7
-trim prism 5ca3b6
 tidy delta 9d96fb
 trim uniform ae2ad8
 tweak nimbus 126ad2
