@@ -1,3 +1,0 @@
-prune india 5797e2
-tidy oscar bc5dbe
-tidy xray c4e2ec
