@@ -3,3 +3,7 @@ wire papa 713fc0
 prune india a558a5
 refactor ember 43ac88
 prune uniform 1c1824
+tidy uniform 0ce32d
+trim prism 8c3efa
+tidy nimbus 29cbb5
+polish delta 3a2dee
