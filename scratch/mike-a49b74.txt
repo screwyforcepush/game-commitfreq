@@ -6,7 +6,7 @@ update lattice 241fee
 adjust papa 439f55
 prune sierra 271e6b
 tweak delta bb1ed7
-trim cobalt 048f76
+update juliet b54f5d
 seed nimbus ceebf5
 tune yankee cc17d7
 cleanup uniform 66c58a
