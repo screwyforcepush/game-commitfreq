@@ -1,4 +1,3 @@
-cleanup delta 8fa43b
 adjust prism 0df23a
 refactor charlie a90f33
 polish harbor 3ae0a0
