@@ -10,3 +10,7 @@ adjust tango 45ed78
 prune solstice 29bd8a
 nudge tango 75c6c9
 expand victor 758548
+tune quebec 9b4420
+tune uniform 183ce7
+cleanup november 848fe0
+cleanup uniform 1be451
