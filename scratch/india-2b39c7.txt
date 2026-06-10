@@ -2,7 +2,6 @@ tweak india db697e
 trim echo a0e396
 bump xray faaf4e
 adjust delta 24db7d
-tune mike f46ee2
 update delta 9743ea
 rework yankee 500626
 tune alpha e7222f
