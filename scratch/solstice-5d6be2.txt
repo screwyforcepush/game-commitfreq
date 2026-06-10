@@ -1,7 +1,0 @@
-adjust yankee 6e0bb9
-prune foxtrot ebd93a
-polish november 4639c6
-trim tango 439d0c
-nudge golf 0e6ee4
-cleanup mike 139f19
-polish ember 2fca6e
