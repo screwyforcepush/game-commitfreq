@@ -4,3 +4,5 @@ refactor bravo 2d3289
 bump ember 494664
 refactor uniform cc2dec
 polish quebec 90e5ab
+tidy hotel 7b809b
+polish ember bebb9b
