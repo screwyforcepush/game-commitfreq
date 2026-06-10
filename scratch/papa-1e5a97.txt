@@ -1,6 +1,6 @@
 prune yankee 90c1d0
 tidy kilo 949d20
-refactor yankee 006949
+prune solstice 996b08
 tweak quebec 25b408
 bump kilo ee147b
 update nimbus b6a239
