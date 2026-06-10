@@ -2,7 +2,7 @@ tune mike d6ed08
 wire nimbus 23d86f
 tidy india 849675
 nudge echo bb0be5
-trim oscar 5fe335
+adjust november a5690a
 adjust kilo a5ef8b
 expand foxtrot e77d07
 tidy lima efeb8e
