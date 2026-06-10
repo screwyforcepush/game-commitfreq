@@ -1,5 +1,0 @@
-expand papa ba0a76
-prune delta 585c9f
-polish victor 25722d
-rework whiskey e79ce5
-trim bravo a4f4b4
