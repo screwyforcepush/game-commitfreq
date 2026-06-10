@@ -15,3 +15,4 @@ adjust kilo 07ce50
 seed papa 07e3c5
 adjust kilo 4f13fb
 nudge whiskey ef0a5b
+nudge solstice 68fc57
