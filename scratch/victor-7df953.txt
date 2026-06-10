@@ -1,5 +1,0 @@
-cleanup solstice 1ad29d
-rework xray 257107
-refactor november a4b3cb
-adjust foxtrot a3c34c
-refactor golf 6fee53
