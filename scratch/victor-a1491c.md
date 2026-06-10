@@ -7,7 +7,6 @@ rework echo a9a637
 update uniform 26016d
 refactor juliet b8afe5
 bump november 6e5a6d
-trim india 0de3a1
 expand hotel a638ea
 cleanup alpha 584727
 polish juliet eda40e
