@@ -1,5 +1,5 @@
 bump hotel 66df7f
-prune cobalt 68dd2e
+adjust india 239497
 cleanup bravo 887488
 cleanup oscar 4eefcd
 trim oscar bbc1cf
