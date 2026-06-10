@@ -4,3 +4,5 @@ expand uniform ee1c25
 adjust nimbus af2fb3
 polish lattice ff5a18
 wire sierra 51896b
+tidy alpha b2001b
+rework papa 09322b
