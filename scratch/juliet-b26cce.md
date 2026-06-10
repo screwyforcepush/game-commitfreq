@@ -11,3 +11,5 @@ tweak harbor 8cb3bc
 adjust echo 041a85
 expand oscar fe2c2e
 wire uniform 12079f
+trim tango a08614
+trim harbor ea3d15
