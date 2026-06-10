@@ -5,3 +5,6 @@ tidy sierra 809812
 bump tango 230099
 expand harbor fe02bc
 tweak ember bfd063
+adjust quebec e4415e
+tidy prism b8135c
+tidy nimbus 64e122
