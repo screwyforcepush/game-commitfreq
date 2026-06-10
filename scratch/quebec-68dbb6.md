@@ -7,3 +7,5 @@ seed oscar 338fe5
 bump kilo 623544
 tweak uniform 092ad3
 nudge mike 08eded
+wire mike b001a9
+seed oscar 01ade9
