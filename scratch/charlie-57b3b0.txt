@@ -1,4 +1,4 @@
-nudge romeo 4b2bef
+seed charlie 7c1eb0
 tune prism ce6230
 prune lattice 1e7ca7
 wire yankee 0900b7
