@@ -1,5 +1,5 @@
 trim hotel 582277
-adjust kilo e79e5c
+prune foxtrot 10b4d7
 bump echo 6da900
 seed foxtrot 086740
 cleanup yankee 2d4a0e
