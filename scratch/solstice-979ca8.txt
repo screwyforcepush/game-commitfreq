@@ -8,3 +8,6 @@ refactor juliet 96ebd9
 trim xray ac7416
 wire ember 268d66
 seed oscar 0188f0
+trim solstice 9c20d0
+seed solstice 4b7ea0
+update sierra 908a55
