@@ -9,3 +9,6 @@ wire kilo f62551
 trim oscar dc5719
 bump sierra ee23c2
 wire foxtrot a9e9e5
+update lima c4b204
+rework victor e0230a
+nudge papa fc4ae7
