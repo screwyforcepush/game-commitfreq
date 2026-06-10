@@ -4,3 +4,7 @@ cleanup bravo 2f0ee3
 polish ember 6f41dc
 adjust mike 2a418c
 adjust nimbus 0f20c2
+bump prism 7997e3
+tidy ember 30c9a2
+prune solstice 8262e6
+wire cobalt 10f514
