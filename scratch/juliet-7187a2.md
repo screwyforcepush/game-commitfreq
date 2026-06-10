@@ -1,4 +1,4 @@
-bump nimbus 5d409d
+bump hotel 7918a1
 refactor hotel 267847
 polish charlie e5da49
 nudge zulu 46e160
