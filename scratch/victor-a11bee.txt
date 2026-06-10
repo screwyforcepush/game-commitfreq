@@ -3,3 +3,6 @@ trim india bf7331
 cleanup xray b68be0
 refactor zulu 1ce506
 nudge papa f490f9
+update nimbus 4a012d
+refactor foxtrot 93dacc
+wire mike 2f6901
