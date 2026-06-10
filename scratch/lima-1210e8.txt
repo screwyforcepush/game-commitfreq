@@ -8,7 +8,6 @@ update harbor c5a9bc
 seed golf 2d5d9a
 bump nimbus 29c30f
 cleanup xray 08d9d8
-polish lima cfa4f9
 tidy nimbus 933094
 seed lattice bb4be3
 tweak prism 46cb15
