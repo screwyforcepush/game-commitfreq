@@ -15,3 +15,6 @@ adjust lattice c2e135
 seed oscar 7427c4
 rework kilo 29fc56
 bump ember fa27b0
+bump mike 7df124
+nudge charlie 09ea76
+adjust papa 4afcba
