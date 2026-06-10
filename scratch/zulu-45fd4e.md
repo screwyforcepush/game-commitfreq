@@ -3,3 +3,7 @@ expand victor e4811a
 update quebec 20ad13
 nudge lima 2fa505
 tidy victor 98b602
+nudge sierra e4a868
+nudge golf dc43fa
+update nimbus dac3f6
+nudge charlie da2c8e
