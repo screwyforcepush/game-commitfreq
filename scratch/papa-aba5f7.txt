@@ -1,4 +1,3 @@
-polish lima 51e635
 update xray 5190a4
 bump solstice 081304
 update prism 07f00b
