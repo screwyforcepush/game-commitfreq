@@ -1,7 +1,6 @@
 seed echo a76762
 seed kilo e78e98
 wire whiskey 9e36c7
-wire delta 11975e
 tune alpha b33619
 seed kilo 1e91bb
 tune solstice 0c10da
