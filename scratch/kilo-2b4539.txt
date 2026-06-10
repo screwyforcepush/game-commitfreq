@@ -1,6 +1,0 @@
-seed november 6c0a90
-tune lattice ba0d86
-seed delta 89178c
-tune echo 68d98b
-prune xray 904130
-trim zulu 3fa7b2
