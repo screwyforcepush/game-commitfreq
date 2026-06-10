@@ -12,7 +12,6 @@ bump bravo d469f6
 rework mike 53652e
 adjust hotel 1c3e2e
 adjust victor 31c804
-refactor yankee 211641
 tweak whiskey e3923a
 tune tango 3661e5
 adjust uniform d6b766
