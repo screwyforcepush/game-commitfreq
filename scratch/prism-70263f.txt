@@ -1,3 +1,7 @@
 prune bravo f24cb1
 cleanup lattice 5bc0f5
 rework victor 15f91b
+prune quebec 1c00cb
+nudge cobalt d868fb
+refactor alpha a761e0
+update nimbus 8d8111
