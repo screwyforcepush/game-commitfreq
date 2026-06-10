@@ -1,6 +1,0 @@
-prune golf a2517f
-update juliet f1742e
-tidy victor ce4bf9
-update uniform e15eef
-prune charlie 2a6805
-prune romeo 982965
