@@ -8,3 +8,5 @@ cleanup papa a41fae
 adjust xray 0f3f7f
 wire kilo f62551
 trim oscar dc5719
+bump sierra ee23c2
+wire foxtrot a9e9e5
