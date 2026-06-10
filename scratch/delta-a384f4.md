@@ -6,7 +6,6 @@ refactor kilo 3067b8
 refactor hotel 47430d
 update papa 8ded44
 tune prism 21dab9
-tweak sierra a3e229
 rework india 817659
 adjust ember b9dd03
 wire ember cd661d
