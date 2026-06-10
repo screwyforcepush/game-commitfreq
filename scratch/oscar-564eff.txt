@@ -2,7 +2,7 @@ polish prism ad3d31
 tweak nimbus 608cac
 refactor kilo ce681c
 tweak papa 644509
-update lima 2f8a01
+trim nimbus 9b888e
 tune alpha 3aba9a
 refactor quebec 2a7f1a
 update juliet 5ce6c9
