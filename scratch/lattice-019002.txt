@@ -1,2 +1,5 @@
 polish lattice f5ff61
 nudge solstice ee4a31
+rework oscar 2f9a92
+seed november 846bb9
+tidy tango b78ae6
