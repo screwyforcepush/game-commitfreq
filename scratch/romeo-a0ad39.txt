@@ -5,7 +5,6 @@ wire lima aeddda
 nudge yankee 07d50f
 nudge quebec 61d5a1
 update juliet ebd2c7
-tidy juliet dc8aca
 tidy ember 5577a4
 update xray 510efb
 prune oscar 6aea13
