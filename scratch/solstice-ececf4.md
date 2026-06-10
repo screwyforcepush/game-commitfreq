@@ -1,4 +1,4 @@
-trim papa 7000ef
+wire yankee 3a6eb4
 cleanup solstice a86a4b
 wire romeo 0a17a2
 prune november 6baaa0
