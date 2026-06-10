@@ -17,7 +17,6 @@ polish lattice 4d9544
 wire whiskey 4318e3
 cleanup kilo 630c23
 tune kilo 379350
-cleanup lattice ed5809
 prune tango d9cca1
 cleanup solstice bd6186
 cleanup mike 0ba32c
