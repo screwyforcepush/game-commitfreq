@@ -3,3 +3,7 @@ tidy bravo 6ca360
 cleanup november fa5234
 tidy quebec 4aba5c
 bump zulu afdf83
+tweak tango efb575
+polish solstice b726b6
+polish juliet 82c268
+expand prism cbccb4
