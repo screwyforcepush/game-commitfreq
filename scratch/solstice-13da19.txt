@@ -1,7 +1,7 @@
 bump foxtrot 692c75
 tidy november 9bac5a
 tune uniform 83f074
-adjust juliet 67784f
+polish mike f57b53
 wire cobalt 273573
 wire bravo 67cdd4
 nudge oscar c4aee0
