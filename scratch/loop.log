@@ -241544,3 +241544,4 @@ To https://github.com/screwyforcepush/game-commitfreq.git
 186/396  wip: tune charlie for lattice                 rename mike-f1fc82.txt -> delta-96a9b6.csv
 187/396  refactor: seed kilo victor                    trim zulu-a3492e.csv:2
 188/396  adjust charlie                                rename delta-754950.log -> alpha-f3f57d.csv
+189/396  fix: lima seeds                               append solstice-0d9a25.dat
