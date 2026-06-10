@@ -1,6 +1,5 @@
 rework echo 248c89
 seed charlie 2ca9d8
-polish prism 856b47
 tune papa cef9bc
 bump sierra 442f91
 polish foxtrot be1a53
