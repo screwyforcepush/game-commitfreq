@@ -1,4 +1,3 @@
-tidy foxtrot 137bfe
 seed yankee 721dd0
 refactor whiskey 4263f5
 nudge xray 187fbf
