@@ -8,3 +8,7 @@ cleanup whiskey f4af4d
 prune cobalt a0a882
 update tango 2f8d5b
 update juliet b8d354
+trim delta a97c7b
+trim foxtrot 38b583
+wire alpha 2d2829
+rework nimbus 637d6d
