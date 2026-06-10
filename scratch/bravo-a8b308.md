@@ -5,7 +5,6 @@ tune yankee c222d0
 tidy zulu a2d4f0
 polish bravo 2dd68b
 cleanup papa a41fae
-cleanup charlie 7313d0
 adjust xray 0f3f7f
 wire kilo f62551
 trim oscar dc5719
