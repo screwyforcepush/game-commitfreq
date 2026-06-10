@@ -4,3 +4,5 @@ update india 2f7dad
 tune prism cc00e0
 tune november af57a4
 expand solstice 9ec9b8
+adjust victor 470592
+adjust victor 87f960
