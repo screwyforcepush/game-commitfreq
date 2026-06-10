@@ -3,5 +3,4 @@ tidy india d4d32d
 prune nimbus 8a8a6e
 prune november 4b5f67
 wire mike 7e8f7e
-adjust delta e719b3
 seed oscar 17bad9
