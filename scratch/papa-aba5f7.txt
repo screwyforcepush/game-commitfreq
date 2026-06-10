@@ -1,3 +1,7 @@
 update xray 5190a4
 bump solstice 081304
 update prism 07f00b
+trim alpha 9e5aac
+refactor kilo 3067b8
+refactor hotel 47430d
+update papa 8ded44
