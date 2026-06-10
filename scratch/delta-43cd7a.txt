@@ -12,3 +12,7 @@ rework alpha d616a8
 tune cobalt b95390
 tweak ember 819c11
 update golf a067b2
+tidy kilo 9712a3
+tune lattice aba4d3
+rework golf 23009a
+rework solstice bb7ea0
