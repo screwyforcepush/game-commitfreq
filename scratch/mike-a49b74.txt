@@ -10,3 +10,4 @@ trim cobalt 048f76
 seed nimbus ceebf5
 tune yankee cc17d7
 cleanup uniform 66c58a
+tidy cobalt 6024dc
