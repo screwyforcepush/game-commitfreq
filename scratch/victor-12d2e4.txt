@@ -8,7 +8,7 @@ tune zulu d15b57
 wire golf 66984a
 tune victor 1599de
 rework solstice 969c10
-cleanup quebec fbf799
+trim sierra ef0e2e
 tweak november 16b5b7
 adjust lima 5cdfa6
 adjust kilo 07ce50
