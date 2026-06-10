@@ -1,5 +1,4 @@
 tidy hotel c07a06
-adjust charlie a90244
 trim prism 438e71
 trim papa 499ef4
 wire lattice 531481
