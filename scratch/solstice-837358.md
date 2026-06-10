@@ -7,3 +7,6 @@ wire solstice 6020cb
 rework papa c3af9b
 tidy prism 877929
 refactor lima e747df
+adjust quebec 40aeb4
+tweak sierra 1015d7
+update charlie 1fcfa3
