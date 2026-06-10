@@ -4,3 +4,7 @@ expand harbor 7927a8
 trim bravo b57600
 adjust zulu 2b8f90
 tune india 32c1bf
+tweak delta 146098
+tweak yankee 39f83b
+tune mike fb35e5
+trim india b25e98
