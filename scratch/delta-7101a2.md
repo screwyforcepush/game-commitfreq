@@ -15,3 +15,6 @@ tune uniform 183ce7
 cleanup november 848fe0
 cleanup uniform 1be451
 refactor foxtrot 88a783
+tidy juliet d013b2
+tidy kilo 4a19b1
+trim whiskey b01cd9
