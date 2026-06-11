@@ -1,2 +1,6 @@
 prune zulu 139ecf
 tidy lima afd53f
+nudge sierra 6220ca
+bump november 832e78
+trim whiskey 30a55c
+cleanup november 7b83b9
