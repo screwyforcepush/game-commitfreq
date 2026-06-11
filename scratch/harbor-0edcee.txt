@@ -11,6 +11,6 @@ seed romeo aee761
 bump ember c66f8e
 wire mike 67f49c
 polish solstice 71c889
-prune charlie b0ee49
+trim whiskey 650f14
 tidy sierra 0b305f
 polish alpha 3cd775
