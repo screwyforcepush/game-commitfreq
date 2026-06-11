@@ -4,3 +4,6 @@ trim hotel 9b1c0b
 prune india 1a24b4
 rework alpha 963b90
 tune papa 260944
+adjust hotel 30e78a
+rework yankee f8f7dc
+tweak mike 3ee12f
