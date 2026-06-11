@@ -1,6 +1,5 @@
 nudge hotel a39edc
 nudge prism d359cb
-update november 817f5a
 polish november 822f6d
 seed harbor 8f1469
 polish zulu ed6600
