@@ -1,7 +1,0 @@
-polish prism 63d877
-tune juliet 97a971
-refactor zulu 6f003d
-trim quebec 3d4176
-seed solstice d05cba
-tweak foxtrot 872106
-nudge foxtrot 4227c6
