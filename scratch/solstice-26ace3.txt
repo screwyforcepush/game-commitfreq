@@ -1,5 +1,4 @@
 update yankee 94dab8
 expand harbor 1ddeb2
 bump xray 69617a
-update juliet 761595
 nudge quebec de5df5
