@@ -1,0 +1,6 @@
+prune quebec 1423dd
+trim delta 5ef37e
+trim mike a81e6a
+polish oscar cc6fa9
+prune victor f5bdf0
+prune yankee b5fd38
