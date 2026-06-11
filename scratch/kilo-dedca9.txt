@@ -1,3 +1,2 @@
-tune foxtrot b5f482
 cleanup yankee d95503
 tune delta cb6793
