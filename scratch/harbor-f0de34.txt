@@ -2,5 +2,5 @@ prune foxtrot 17ae74
 trim xray 674150
 bump lattice e2f03a
 tidy zulu babdea
-refactor juliet 239886
+trim november 932f66
 tweak november 0b8f7d
