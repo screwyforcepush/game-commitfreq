@@ -13,3 +13,5 @@ prune prism 88eef3
 seed kilo 2fabc2
 wire lima c4e678
 adjust solstice 1c822e
+prune golf 7986ea
+nudge india a3b8c8
