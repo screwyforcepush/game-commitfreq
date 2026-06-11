@@ -15,3 +15,7 @@ tune oscar f52492
 seed victor d53fac
 bump mike a88b87
 nudge kilo a8cc63
+tune harbor 35c35c
+cleanup lattice dcbb98
+adjust alpha 0381c1
+bump quebec c73b27
