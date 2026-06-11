@@ -6,3 +6,5 @@ seed kilo 1e91bb
 tune solstice 0c10da
 adjust kilo 629dd2
 prune foxtrot 2f6a3e
+nudge delta 8f6812
+bump cobalt 800c6b
