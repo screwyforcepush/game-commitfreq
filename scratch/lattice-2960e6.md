@@ -16,3 +16,7 @@ wire charlie 12737f
 rework victor 3b302c
 bump yankee 3571cf
 bump bravo 558f27
+tune sierra 6936f7
+nudge quebec bbd992
+prune echo 7d5b30
+wire prism c60dbf
