@@ -19,3 +19,5 @@ adjust lima 11319f
 cleanup romeo cd630c
 polish solstice 184f7d
 refactor quebec 99f392
+refactor whiskey 63e182
+wire prism 24c50d
