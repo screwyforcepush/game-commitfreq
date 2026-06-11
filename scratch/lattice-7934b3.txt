@@ -4,3 +4,6 @@ polish zulu a44b30
 trim echo 52bd75
 tidy mike 018651
 cleanup delta ac6c9f
+bump delta cc9000
+nudge oscar ae5f58
+bump harbor a039b2
