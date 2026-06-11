@@ -4,6 +4,6 @@ wire juliet 216e8e
 tweak cobalt 072df0
 adjust nimbus b6292e
 wire cobalt acec21
-adjust romeo 290962
+wire sierra 51b5c9
 tweak uniform 29710c
 refactor quebec 3d5627
