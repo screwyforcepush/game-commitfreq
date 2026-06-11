@@ -8,7 +8,7 @@ rework golf 0ddc3e
 refactor harbor c1f9a1
 wire echo 06975a
 prune romeo a9e530
-adjust quebec b81aea
+tidy charlie b1e537
 prune xray ddbdb5
 adjust tango 785486
 trim juliet 38cf5f
