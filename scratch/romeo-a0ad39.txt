@@ -6,7 +6,7 @@ nudge yankee 07d50f
 nudge quebec 61d5a1
 wire victor 8ffb9e
 tidy ember 5577a4
-update xray 510efb
+rework ember b14371
 prune oscar 6aea13
 update yankee d2ccd6
 tweak november 70d3fb
