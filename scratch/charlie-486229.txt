@@ -1,4 +1,4 @@
-bump bravo 7a74bf
+trim lattice 7ce593
 wire november 75fc69
 tune quebec 1ba8c1
 adjust lattice d8016d
