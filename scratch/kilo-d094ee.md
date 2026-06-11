@@ -14,3 +14,5 @@ cleanup lima f0ef60
 refactor quebec 3071eb
 refactor uniform 8ee585
 trim mike ed0f1c
+tune victor 0f3dcb
+polish lattice 10d925
