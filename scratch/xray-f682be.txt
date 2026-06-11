@@ -6,3 +6,6 @@ adjust prism 0af5c4
 adjust zulu bb4d14
 tune romeo 01aa57
 refactor lima 72125a
+refactor oscar d459d3
+tune cobalt 38eb67
+wire xray c5a6e8
