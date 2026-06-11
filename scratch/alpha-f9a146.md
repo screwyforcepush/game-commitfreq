@@ -4,3 +4,7 @@ update prism 6d65e8
 trim zulu 45a345
 tune november 6e3e9e
 bump zulu bb8c78
+prune mike 5affc3
+trim sierra d6146e
+adjust lima bf7811
+nudge romeo fde47f
