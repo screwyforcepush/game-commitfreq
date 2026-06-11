@@ -6,3 +6,6 @@ adjust yankee fc5a24
 tune cobalt 2bc936
 polish nimbus 82a1ca
 tune cobalt 1d164b
+tidy sierra fe6ff7
+trim echo 57bdef
+trim tango 72c147
