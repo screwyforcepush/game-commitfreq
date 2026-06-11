@@ -9,3 +9,6 @@ rework lattice 9143b9
 update oscar d336cd
 prune solstice 76f24d
 prune charlie 814fcf
+rework foxtrot 2cdc00
+nudge papa c240a8
+trim alpha e7b947
