@@ -3,7 +3,6 @@ cleanup nimbus c2d689
 expand oscar 9a3546
 wire charlie 52cecd
 tidy whiskey 903a69
-prune alpha 04c050
 prune charlie a59752
 tweak victor d4b731
 cleanup echo b09502
