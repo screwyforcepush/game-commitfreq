@@ -1,3 +1,7 @@
 tune quebec 45282a
 tweak nimbus b624ca
 tweak foxtrot 8e79dd
+rework charlie 6ef430
+cleanup solstice b4fc94
+wire foxtrot c35776
+cleanup india 1cca4a
