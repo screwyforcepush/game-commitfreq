@@ -1,0 +1,2 @@
+prune foxtrot 17ae74
+trim xray 674150
