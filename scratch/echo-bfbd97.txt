@@ -1,0 +1,6 @@
+tweak nimbus dae6f2
+expand solstice 9ebd2f
+bump nimbus 7ddd6a
+trim golf 49cebb
+rework foxtrot 2926fb
+trim sierra 69524f
