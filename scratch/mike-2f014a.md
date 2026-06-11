@@ -4,3 +4,6 @@ cleanup juliet 0f728d
 rework kilo 243cb9
 bump ember f8ca56
 update victor 003879
+adjust lattice f36d7d
+wire ember ca6106
+refactor papa 97e576
