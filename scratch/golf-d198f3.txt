@@ -6,3 +6,5 @@ seed hotel 103a7d
 nudge delta 584005
 tidy quebec cacc6c
 trim juliet 7867be
+update whiskey 16251d
+expand papa 5a84f1
