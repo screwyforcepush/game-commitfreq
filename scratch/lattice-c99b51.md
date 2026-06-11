@@ -7,7 +7,6 @@ wire lima cfbefc
 prune harbor 9359fc
 tweak whiskey 986908
 bump lima f1162d
-polish quebec d82616
 expand lattice 2b11a2
 trim hotel e49383
 tidy prism c91797
