@@ -4,3 +4,6 @@ prune romeo 66b43e
 trim cobalt 6739a4
 bump golf 4bed3a
 cleanup sierra e3663c
+adjust solstice fe7a44
+cleanup quebec 0cd787
+cleanup echo 27e485
