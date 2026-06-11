@@ -2,6 +2,6 @@ adjust cobalt 087f3a
 refactor lattice 539103
 nudge prism 16c0a6
 refactor tango 5483f4
-refactor hotel 89eee9
+update november 1b21e6
 rework papa fb1e45
 tune golf 696f89
