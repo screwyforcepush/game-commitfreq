@@ -1,3 +1,2 @@
 wire victor 3ef9ed
-tune romeo 141f16
 trim whiskey 460321
