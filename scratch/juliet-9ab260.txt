@@ -1,3 +1,0 @@
-wire alpha 7142b3
-wire charlie c9cb4d
-tidy delta e3a6cc
