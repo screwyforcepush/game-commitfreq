@@ -10,7 +10,6 @@ rework oscar fdf4c8
 wire oscar 596798
 tune nimbus 821f00
 expand bravo aab1f2
-cleanup hotel 6f1b05
 expand sierra 0d2610
 refactor golf 789b27
 wire oscar 27c36d
