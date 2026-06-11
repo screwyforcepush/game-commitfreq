@@ -13,3 +13,5 @@ adjust kilo 07ce50
 seed papa 07e3c5
 adjust kilo 4f13fb
 nudge whiskey ef0a5b
+seed oscar b3bdb6
+seed ember e47e6a
