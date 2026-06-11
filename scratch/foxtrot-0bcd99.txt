@@ -1,6 +1,0 @@
-update prism 71312f
-rework lima 6797c7
-cleanup quebec 6f62eb
-prune hotel 43c402
-prune papa 499724
-trim november d3bbc7
