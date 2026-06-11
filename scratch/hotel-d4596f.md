@@ -4,3 +4,6 @@ expand solstice daa23b
 tidy harbor cb8954
 tidy mike 9ff813
 adjust prism 9f630d
+trim lattice b38880
+wire oscar fd90f5
+tune whiskey 479dcc
