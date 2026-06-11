@@ -5,3 +5,5 @@ expand mike 998bf7
 tweak golf d10033
 bump ember 16a128
 tune whiskey b74344
+tune golf e78f84
+prune sierra 4057de
