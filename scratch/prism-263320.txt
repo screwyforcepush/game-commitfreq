@@ -1,4 +1,4 @@
 tidy charlie d6d85c
-tune uniform 192b4a
+cleanup xray 159057
 tweak papa b70a57
 wire nimbus 322c6d
