@@ -1,3 +1,2 @@
 update echo 669e14
-seed prism e96353
 nudge lima a3455c
