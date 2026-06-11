@@ -4,3 +4,6 @@ rework quebec bd6f89
 prune foxtrot 8b00ed
 tweak kilo 28af48
 update prism 439a32
+rework bravo 651c09
+adjust victor afeb18
+polish juliet c3e784
