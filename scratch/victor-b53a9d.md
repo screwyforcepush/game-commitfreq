@@ -6,3 +6,5 @@ polish kilo c94f83
 tune papa 34921e
 polish solstice 7f6c93
 polish whiskey 6f093c
+bump nimbus 7c16ec
+polish romeo 90153e
