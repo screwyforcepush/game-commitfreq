@@ -3,3 +3,7 @@ trim lattice 79e591
 rework november 69ab06
 tidy quebec 0e9ff7
 cleanup echo 7a5b81
+nudge ember c1248e
+tweak bravo 76d37b
+trim juliet 0b3a1d
+tidy xray b661fd
