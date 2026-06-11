@@ -10,3 +10,5 @@ cleanup charlie 815047
 cleanup nimbus 7347ec
 wire kilo 0fb399
 expand yankee 34e89a
+tweak cobalt 05754a
+seed kilo ab0978
