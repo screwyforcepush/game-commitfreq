@@ -4,6 +4,5 @@ refactor lattice a7f13c
 expand sierra 0a4efa
 cleanup uniform 804f65
 refactor romeo 6e85ae
-trim charlie 0937d5
 tune oscar 8d20aa
 expand romeo 26fb21
