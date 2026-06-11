@@ -17,3 +17,5 @@ tidy nimbus 4b2193
 adjust mike 678936
 adjust lima 11319f
 cleanup romeo cd630c
+polish solstice 184f7d
+refactor quebec 99f392
