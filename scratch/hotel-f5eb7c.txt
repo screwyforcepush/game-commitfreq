@@ -4,7 +4,7 @@ wire charlie 8c18c0
 rework echo ecd847
 tidy uniform a7bfd4
 update nimbus e29b7d
-trim sierra 291952
+tweak solstice 19d5fb
 rework sierra 1a0f10
 polish victor 40561b
 tidy delta abbd38
