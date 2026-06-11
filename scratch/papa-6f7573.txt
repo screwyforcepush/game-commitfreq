@@ -1,3 +1,5 @@
 trim golf e2d7f3
 tidy whiskey 49c5fb
 update uniform 27a905
+update solstice dbf2f1
+nudge quebec ca801b
