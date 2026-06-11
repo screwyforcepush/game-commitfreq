@@ -16,7 +16,6 @@ trim mike ed0f1c
 tune victor 0f3dcb
 polish lattice 10d925
 cleanup lima 8e5808
-update india 66bfb1
 nudge juliet 6aa10f
 adjust papa 85ccc5
 tune lima 30bd52
