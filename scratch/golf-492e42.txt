@@ -1,3 +1,0 @@
-wire uniform 404570
-update xray 098ca1
-wire hotel 00662b
