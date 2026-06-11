@@ -2,3 +2,7 @@ bump zulu 73938e
 cleanup yankee 3053b5
 cleanup nimbus d05598
 refactor delta f18c08
+cleanup papa 95ae3a
+adjust prism 32e1ae
+cleanup xray 3a5e34
+adjust november 1ba52a
