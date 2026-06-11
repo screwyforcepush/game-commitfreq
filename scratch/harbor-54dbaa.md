@@ -1,4 +1,3 @@
-bump kilo 027a35
 cleanup papa 42a3a2
 adjust nimbus 820408
 tweak prism a569ae
