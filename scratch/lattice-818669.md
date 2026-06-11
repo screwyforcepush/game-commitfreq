@@ -21,3 +21,5 @@ nudge cobalt f9cb05
 polish romeo 497435
 seed xray 0f1aa8
 polish cobalt 0cd2ca
+nudge golf 81c6b0
+rework oscar 415f42
