@@ -11,5 +11,4 @@ adjust quebec 40aeb4
 tweak sierra 1015d7
 update charlie 1fcfa3
 tidy hotel f8b303
-polish uniform 71907b
 tweak alpha e5a306
