@@ -1,6 +1,0 @@
-tweak alpha 4d94d6
-trim november 318447
-polish romeo a241df
-adjust juliet 1c96ad
-nudge nimbus 95e543
-polish alpha 508fe4
