@@ -1,2 +1,0 @@
-adjust echo 805b9e
-tidy solstice f5c730
