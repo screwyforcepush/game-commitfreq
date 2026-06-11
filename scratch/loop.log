@@ -248658,3 +248658,4 @@ To https://github.com/screwyforcepush/game-commitfreq.git
 482/621  update kilo (f67e9b)                          drop whiskey-81d1f7.csv
 483/621  polish zulu                                   drop lattice-5ee8aa.csv
 484/621  sierra nudges                                 rename zulu-f2e194.dat -> india-6376d4.csv
+485/621  build: cleanup hotel                          drop lima-066f74.txt
