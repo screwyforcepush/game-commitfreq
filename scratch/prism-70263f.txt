@@ -3,5 +3,4 @@ cleanup lattice 5bc0f5
 rework victor 15f91b
 rework sierra 24dab7
 refactor alpha a761e0
-update nimbus 8d8111
 wire charlie d3a134
