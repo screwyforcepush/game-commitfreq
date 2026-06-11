@@ -1,4 +1,0 @@
-polish tango e6f56e
-polish nimbus fc9291
-seed zulu b1d289
-cleanup xray 8c6322
