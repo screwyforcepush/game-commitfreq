@@ -2,7 +2,7 @@ trim echo a0e396
 adjust delta 24db7d
 update delta 9743ea
 bump ember 7ff401
-tune alpha e7222f
+adjust yankee 1ea7b7
 refactor bravo 3b68a7
 tidy juliet 49df2c
 adjust zulu 81a6da
