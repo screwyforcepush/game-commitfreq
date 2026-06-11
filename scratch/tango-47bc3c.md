@@ -7,7 +7,7 @@ wire golf 16790e
 tweak prism 37877f
 nudge golf a80335
 tidy quebec 5d766c
-seed mike 432397
+cleanup charlie 24a2b9
 seed quebec ba02c9
 expand solstice c84abc
 tweak tango ae2c77
