@@ -3,3 +3,5 @@ seed whiskey 20e02b
 trim yankee 3cba48
 nudge charlie 20f0fc
 adjust november ac25a0
+adjust whiskey 822651
+update quebec f8f8b8
