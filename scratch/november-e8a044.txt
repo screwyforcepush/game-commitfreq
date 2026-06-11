@@ -1,6 +1,0 @@
-polish lattice 11858a
-expand mike 6a4318
-wire sierra 1dda27
-update charlie 95ac81
-tune whiskey c73cac
-cleanup yankee 98f0cf
