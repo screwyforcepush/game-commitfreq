@@ -1,3 +1,0 @@
-wire solstice b2176b
-tweak romeo 249c24
-seed golf 165845
