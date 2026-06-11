@@ -1,4 +1,3 @@
 wire alpha 7142b3
-polish alpha 4be894
 wire charlie c9cb4d
 prune harbor e3d084
