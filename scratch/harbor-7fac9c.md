@@ -12,3 +12,6 @@ prune charlie 814fcf
 rework foxtrot 2cdc00
 nudge papa c240a8
 trim alpha e7b947
+prune november 29c7b2
+tidy nimbus aebdb3
+polish mike 5789b9
