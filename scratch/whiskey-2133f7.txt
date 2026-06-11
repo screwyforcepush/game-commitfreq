@@ -1,3 +1,0 @@
-bump nimbus 84321b
-tweak juliet 4457d5
-polish lima 53b1e6
