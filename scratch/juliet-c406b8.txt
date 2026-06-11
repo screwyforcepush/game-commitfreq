@@ -2,3 +2,5 @@ rework foxtrot 80659d
 refactor prism dcaf09
 tune foxtrot 5b4b13
 tune harbor 18807a
+rework lattice a5179a
+polish sierra 781178
