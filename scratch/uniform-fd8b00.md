@@ -2,3 +2,6 @@ trim charlie fee82d
 trim lattice 3f4946
 update papa 9c16d4
 wire romeo 7370c8
+tune zulu 060d79
+seed yankee 2cae0b
+rework oscar 112c54
