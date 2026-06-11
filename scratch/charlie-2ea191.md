@@ -11,3 +11,5 @@ tune echo cdfcb0
 prune ember f76f7e
 adjust romeo 8794bb
 tweak cobalt 437a32
+trim alpha 5e70bf
+trim victor 332130
