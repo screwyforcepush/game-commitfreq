@@ -14,3 +14,5 @@ trim foxtrot 93d02c
 bump xray 2c6141
 cleanup echo 4f4d8f
 adjust ember 66440f
+expand hotel 304067
+wire delta 5fbf28
