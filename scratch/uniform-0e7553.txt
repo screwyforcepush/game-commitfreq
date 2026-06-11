@@ -1,5 +1,4 @@
 nudge charlie e12cc6
-trim solstice 05986f
 nudge prism d359cb
 update november 817f5a
 polish november 822f6d
