@@ -8,3 +8,5 @@ trim juliet 0b3a1d
 tidy xray b661fd
 rework oscar fdf4c8
 wire oscar 596798
+tune nimbus 821f00
+expand bravo aab1f2
