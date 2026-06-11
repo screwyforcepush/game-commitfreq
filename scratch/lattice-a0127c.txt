@@ -15,4 +15,3 @@ rework charlie c62c57
 wire india 2cb1d5
 adjust tango 89358e
 wire foxtrot 35449a
-prune cobalt 49b76b
