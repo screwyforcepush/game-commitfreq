@@ -5,5 +5,5 @@ wire papa e4349f
 tune uniform 94fba8
 tweak yankee aca064
 update alpha b5577a
-tidy uniform d69434
+tweak lattice 9f86bb
 refactor solstice 219e25
