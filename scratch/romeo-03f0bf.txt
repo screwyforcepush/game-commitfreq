@@ -1,6 +1,5 @@
 prune whiskey 6eff44
 nudge uniform 013795
-polish cobalt aa1b35
 polish kilo dd96b8
 polish oscar c85f2c
 seed solstice 76393e
