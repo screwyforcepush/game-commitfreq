@@ -9,3 +9,7 @@ wire charlie 2cb14d
 adjust alpha d286db
 refactor echo 4cad73
 tweak quebec 6495d1
+expand sierra 00759a
+bump harbor 049555
+bump lattice 831676
+tweak solstice a755ea
