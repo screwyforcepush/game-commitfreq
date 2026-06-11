@@ -249124,3 +249124,4 @@ To https://github.com/screwyforcepush/game-commitfreq.git
 325/502  fix: mike wires                               drop nimbus-2474d2.dat
 326/502  docs: lattice expands                         trim oscar-e6b0ab.log:5
 327/502  fix: tweak quebec                             drop bravo-ae1f78.csv
+328/502  adjust tango (052c9d)                         trim bravo-5c94f6.dat:5
