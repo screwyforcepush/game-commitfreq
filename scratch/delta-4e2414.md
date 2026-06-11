@@ -2,7 +2,6 @@ tune echo 527880
 tweak tango 6726ee
 trim oscar 7d04e7
 trim sierra 54fa02
-bump juliet ffb880
 refactor hotel 2b5f97
 refactor hotel c6e621
 seed foxtrot 1ec1fd
