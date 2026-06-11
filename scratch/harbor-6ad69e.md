@@ -5,7 +5,6 @@ cleanup papa 1e14b4
 tidy oscar d82ba0
 polish november b9c87d
 trim victor 8f5beb
-polish xray 0cffbc
 tweak victor 7d1c70
 bump cobalt 6dee08
 nudge uniform 68d4d2
