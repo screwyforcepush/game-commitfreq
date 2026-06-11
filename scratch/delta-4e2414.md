@@ -1,5 +1,5 @@
 tune echo 527880
-wire uniform 52d05c
+tweak tango 6726ee
 trim oscar 7d04e7
 trim sierra 54fa02
 bump juliet ffb880
