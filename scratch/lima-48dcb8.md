@@ -8,6 +8,6 @@ nudge whiskey 51d300
 adjust delta 7494e1
 update zulu ea41c2
 adjust foxtrot 36fd21
-seed quebec 009418
+rework yankee a962de
 polish solstice 6750a3
 tidy zulu 31566e
