@@ -5,3 +5,5 @@ cleanup delta 46b2ca
 rework papa dae71f
 wire foxtrot ebbfcd
 adjust charlie 686e64
+trim victor 31dbed
+tune solstice 5ba2fd
