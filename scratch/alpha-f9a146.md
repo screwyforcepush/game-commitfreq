@@ -8,3 +8,5 @@ prune mike 5affc3
 trim sierra d6146e
 adjust lima bf7811
 nudge romeo fde47f
+tune echo 8f3d40
+update quebec d70c66
