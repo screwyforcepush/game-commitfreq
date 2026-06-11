@@ -246353,3 +246353,4 @@ To https://github.com/screwyforcepush/game-commitfreq.git
 217/603  oscar trims                                   rename hotel-0ad009.dat -> delta-412e97.dat
 218/603  chore: trim juliet (8c6e08)                   rename oscar-f7c0eb.txt -> india-05ca3f.csv
 219/603  tune oscar for prism                          modify kilo-cd1845.csv:5
+220/603  fix: papa reworks                             append hotel-f5eb7c.txt
