@@ -8,3 +8,5 @@ wire echo 0ce391
 cleanup cobalt c61642
 update india d712c0
 rework zulu 689fde
+tune yankee a13a84
+adjust nimbus 259db0
