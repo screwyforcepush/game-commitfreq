@@ -4,3 +4,5 @@ bump charlie 9688af
 adjust lima f16630
 polish delta 802241
 rework whiskey 49a545
+expand solstice 797466
+expand sierra 8f03ec
