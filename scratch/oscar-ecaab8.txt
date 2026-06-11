@@ -4,3 +4,6 @@ tidy kilo 18d191
 update xray 916690
 refactor whiskey 491480
 bump echo 9ca8b0
+refactor quebec ac8a46
+nudge charlie b1b5de
+nudge oscar df4bf2
