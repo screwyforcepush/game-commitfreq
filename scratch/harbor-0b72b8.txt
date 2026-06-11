@@ -2,7 +2,6 @@ wire romeo ba521c
 nudge uniform 27cc1c
 nudge echo bbd34c
 prune nimbus 28e7f4
-update echo f04eb0
 tweak bravo 95db39
 adjust victor 0adab1
 cleanup bravo a710b2
