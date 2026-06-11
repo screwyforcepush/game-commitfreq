@@ -4,4 +4,4 @@ trim cobalt c389c4
 tune xray a69479
 tidy bravo d350c5
 trim uniform b6b113
-wire kilo a64042
+update xray d7b351
