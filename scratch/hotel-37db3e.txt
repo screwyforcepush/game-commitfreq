@@ -6,3 +6,6 @@ cleanup november 7b83b9
 seed xray 5c0f92
 polish mike 1b08ff
 expand golf ebde77
+trim delta 7a585e
+tidy cobalt 226395
+adjust prism 013995
