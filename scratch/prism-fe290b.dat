@@ -10,3 +10,7 @@ wire romeo cc523b
 prune cobalt 07c373
 wire romeo a63a4a
 tune harbor 235e47
+wire quebec 7aa240
+tune quebec c4efd5
+tweak ember 455622
+cleanup nimbus 5c9666
