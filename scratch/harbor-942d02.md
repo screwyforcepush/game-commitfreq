@@ -2,6 +2,5 @@ prune xray d2e90b
 adjust lattice f3fc21
 expand cobalt 744036
 prune romeo 737134
-expand alpha 119e7e
 update zulu a83252
 polish sierra 980e08
