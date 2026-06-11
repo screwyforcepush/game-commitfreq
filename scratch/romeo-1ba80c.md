@@ -4,3 +4,7 @@ cleanup juliet c1de34
 adjust uniform 8ad767
 expand uniform 66b093
 prune kilo 747f62
+cleanup lattice 0ca80e
+trim tango 6fd8af
+tidy solstice 3f5e5a
+prune bravo 9c6d19
