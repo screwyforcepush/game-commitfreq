@@ -10,7 +10,6 @@ trim sierra ef0e2e
 tweak november 16b5b7
 adjust lima 5cdfa6
 adjust kilo 07ce50
-seed papa 07e3c5
 adjust kilo 4f13fb
 nudge whiskey ef0a5b
 seed oscar b3bdb6
