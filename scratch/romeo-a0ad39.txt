@@ -17,3 +17,4 @@ wire oscar cb9f32
 nudge quebec ead115
 adjust mike 396707
 nudge sierra ae6d2c
+trim hotel 44bc85
