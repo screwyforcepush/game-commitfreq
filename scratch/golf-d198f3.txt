@@ -8,3 +8,6 @@ tidy quebec cacc6c
 trim juliet 7867be
 update whiskey 16251d
 expand papa 5a84f1
+refactor alpha 3d230f
+cleanup uniform 0cf991
+tidy quebec 13f312
