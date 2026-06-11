@@ -250496,3 +250496,4 @@ To https://github.com/screwyforcepush/game-commitfreq.git
 299/485  cleanup victor (992c0e)                       drop hotel-850d19.log
 300/485  wip: polish november for yankee               rename quebec-290507.dat -> golf-d352c7.csv
 301/485  seed delta (efb105)                           drop mike-be84d1.dat
+302/485  trim mike for hotel                           modify quebec-6e286d.log:5
