@@ -4,7 +4,7 @@ update sierra 20e2ff
 nudge bravo 07ac44
 polish xray 49a8aa
 tweak victor 7a00e0
-trim november 77e906
+tidy golf d620e6
 refactor prism 24460b
 wire whiskey 81c54f
 polish harbor 9e054f
