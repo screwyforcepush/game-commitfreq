@@ -8,3 +8,5 @@ tune foxtrot f29dbd
 rework mike 7f2779
 prune mike d9296a
 rework tango 0c7c4e
+adjust mike 592756
+tidy victor ba1980
