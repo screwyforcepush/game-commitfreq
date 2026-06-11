@@ -5,7 +5,6 @@ cleanup zulu 71d6ef
 wire romeo d1fca2
 expand juliet 565dc4
 trim alpha b67a7e
-bump nimbus 8bed5e
 tweak tango d7b084
 update ember dd0981
 bump juliet ee51b1
