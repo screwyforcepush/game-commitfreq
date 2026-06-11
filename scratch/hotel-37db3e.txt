@@ -1,6 +1,5 @@
 prune zulu 139ecf
 tidy lima afd53f
-bump november 832e78
 trim whiskey 30a55c
 cleanup november 7b83b9
 seed xray 5c0f92
