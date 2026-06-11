@@ -7,3 +7,5 @@ wire cobalt acec21
 wire sierra 51b5c9
 tweak uniform 29710c
 refactor quebec 3d5627
+trim whiskey 85d6ea
+adjust golf 62b6af
