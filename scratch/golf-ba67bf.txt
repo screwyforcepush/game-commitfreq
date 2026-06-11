@@ -1,4 +1,3 @@
-tweak delta e8e204
 tidy alpha 4e7218
 adjust bravo 99306c
 polish foxtrot 9ba3e3
