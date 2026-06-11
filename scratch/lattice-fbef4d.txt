@@ -4,7 +4,7 @@ nudge golf 493ed0
 update solstice b6d318
 tweak juliet a98837
 tune tango 05684a
-polish cobalt 241282
+update yankee ed5b7a
 tweak november fdb19a
 polish cobalt e42141
 tune golf 435fff
