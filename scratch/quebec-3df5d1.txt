@@ -7,3 +7,5 @@ tweak papa 083b48
 wire golf a210df
 update papa 3a47f2
 prune nimbus e7ad53
+trim xray 0400f3
+trim oscar c36ee4
