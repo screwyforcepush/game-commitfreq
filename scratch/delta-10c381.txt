@@ -4,3 +4,5 @@ wire whiskey 9e36c7
 tune alpha b33619
 seed kilo 1e91bb
 tune solstice 0c10da
+adjust kilo 629dd2
+prune foxtrot 2f6a3e
