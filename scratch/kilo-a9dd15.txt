@@ -1,6 +1,5 @@
 wire xray a1e9f2
 prune echo bedfb9
 polish charlie 941b8d
-update xray 87b171
 cleanup zulu 71d6ef
 wire romeo d1fca2
