@@ -5,4 +5,3 @@ tweak sierra ae8560
 polish kilo df335a
 bump lattice ba194b
 tidy cobalt 1f50c5
-adjust uniform 1a3467
