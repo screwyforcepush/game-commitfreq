@@ -1,3 +1,0 @@
-adjust uniform 0fc43e
-expand romeo 0a1626
-expand xray 9be1a4
