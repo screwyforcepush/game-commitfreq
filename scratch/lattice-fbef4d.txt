@@ -7,3 +7,6 @@ update yankee ed5b7a
 tweak november fdb19a
 polish cobalt e42141
 tune golf 435fff
+prune foxtrot c01f9c
+seed delta 564ee6
+seed quebec 84b10b
