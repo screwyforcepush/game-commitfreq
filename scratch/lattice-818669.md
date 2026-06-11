@@ -1,7 +1,7 @@
 tune oscar f8836c
 tweak lima d06e3d
 tidy papa 7240b9
-trim quebec 0b04bc
+nudge yankee f5100b
 tidy sierra 0cf24b
 expand hotel 6cae51
 adjust alpha e1ad2e
