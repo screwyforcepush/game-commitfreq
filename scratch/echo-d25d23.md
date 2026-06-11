@@ -5,7 +5,6 @@ expand bravo ea2778
 nudge golf 5029a1
 wire oscar 7c0c22
 trim golf 3a0800
-tune juliet 3bcbfc
 expand foxtrot 33a39f
 adjust yankee b61620
 adjust lima 724445
