@@ -4,3 +4,7 @@ trim prism 4730bb
 adjust cobalt 5e5565
 tune harbor 3da9b9
 trim solstice 6c85db
+rework cobalt a81c06
+tune india ad7e71
+prune ember 66da60
+update oscar 57e351
