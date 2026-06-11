@@ -2,7 +2,7 @@ update solstice 640a57
 update lima 25f09d
 bump quebec b77353
 seed zulu f97ad2
-prune mike 44d08a
+update tango e6cbe6
 update harbor 17c8dc
 update uniform c6d249
 rework quebec 77bdc8
