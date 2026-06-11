@@ -8,3 +8,6 @@ wire alpha 6c3f56
 tweak lattice 9b943d
 trim cobalt bb6f0f
 refactor lattice 13a576
+update papa 4e7d92
+bump victor 3eb104
+rework solstice 27bb7a
