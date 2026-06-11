@@ -1,6 +1,0 @@
-update yankee 94dab8
-adjust sierra 81df1c
-bump xray 69617a
-nudge quebec de5df5
-tune yankee cc9a90
-cleanup quebec 502ca0
