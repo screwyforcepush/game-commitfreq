@@ -9,3 +9,7 @@ expand golf ebde77
 trim delta 7a585e
 tidy cobalt 226395
 adjust prism 013995
+cleanup whiskey 2cae0f
+tidy hotel 6c4e52
+expand sierra 9551b2
+refactor nimbus 3ecbe2
