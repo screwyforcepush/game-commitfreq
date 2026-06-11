@@ -22,6 +22,5 @@ cleanup quebec 53792b
 expand delta 5d6138
 rework oscar f98d13
 polish golf a397cd
-bump tango c18156
 tweak papa d36994
 tidy cobalt 71dcb7
