@@ -5,3 +5,5 @@ tune charlie 84c884
 tidy cobalt 4242d8
 prune november 857efa
 bump cobalt d9297e
+tidy oscar a2c109
+trim solstice 943203
