@@ -1,1 +1,1 @@
-expand kilo ccc250
+prune tango dc1a57
