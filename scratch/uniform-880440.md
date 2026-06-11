@@ -4,3 +4,6 @@ update lattice a1e515
 nudge yankee a39f0d
 cleanup quebec c10996
 expand sierra 5cf5d8
+update november 43ba38
+nudge whiskey 615de0
+tune zulu c0d8a6
