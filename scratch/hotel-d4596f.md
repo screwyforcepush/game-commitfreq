@@ -9,5 +9,5 @@ wire oscar fd90f5
 tune whiskey 479dcc
 update hotel 6cbde5
 cleanup harbor 6dcf77
-prune romeo ec5639
+rework foxtrot d1639a
 tidy sierra 01a26d
