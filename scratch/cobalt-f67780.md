@@ -6,3 +6,4 @@ adjust prism 6d7524
 adjust solstice 57a4ee
 wire xray 68e7f0
 trim november 7bd0aa
+wire foxtrot 8dcbd6
