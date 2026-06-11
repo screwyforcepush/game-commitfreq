@@ -4,3 +4,7 @@ cleanup echo a5a799
 tidy alpha 2e0882
 wire kilo a50d1c
 update alpha 51b905
+tidy whiskey 9428ec
+tune alpha 3f467a
+cleanup oscar 46427d
+nudge delta b86b11
