@@ -2,3 +2,5 @@ wire zulu e2183d
 wire india 6a37e3
 trim victor 2b96a4
 polish harbor a52924
+tune xray 4f0694
+polish whiskey 1b476a
