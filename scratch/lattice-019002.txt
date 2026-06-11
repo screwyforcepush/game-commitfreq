@@ -4,7 +4,6 @@ tidy tango b78ae6
 prune alpha 9d0300
 rework victor 46d9e2
 expand tango 8074b6
-adjust prism 1807c8
 rework november d80cb5
 nudge papa b814ca
 seed lima f90bd8
