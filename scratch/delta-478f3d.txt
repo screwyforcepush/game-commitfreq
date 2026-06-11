@@ -6,3 +6,5 @@ adjust november 0d4a61
 nudge quebec 4bf7bc
 tune papa a0b85b
 nudge uniform 01c2b0
+cleanup golf 4e0a5d
+bump solstice e63bd4
