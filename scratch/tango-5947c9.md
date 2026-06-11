@@ -6,3 +6,7 @@ wire ember 1a94fc
 tidy ember fb448d
 wire delta 14100b
 update uniform 7b338d
+nudge prism 1eb168
+tweak xray 4b72cc
+trim charlie d7b59b
+bump quebec 22db2b
