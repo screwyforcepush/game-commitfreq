@@ -1,7 +1,6 @@
 wire victor f61832
 bump uniform 2e528a
 expand sierra ddd9b9
-refactor mike 1f4f12
 cleanup oscar d5b727
 refactor yankee 9cf797
 prune cobalt 0eb49c
