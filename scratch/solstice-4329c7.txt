@@ -1,5 +1,4 @@
 adjust echo cc77d7
-prune echo f2e87c
 tweak charlie 3aa250
 adjust golf 1b5614
 tweak romeo f9624e
