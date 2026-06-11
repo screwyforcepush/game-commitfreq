@@ -24,3 +24,7 @@ tidy delta e0d4ec
 adjust charlie 1162c8
 rework xray 9d0ed5
 tidy golf 63602a
+tune quebec 7ba007
+polish prism f68fed
+tune bravo 73a32e
+nudge solstice 6f5700
