@@ -18,3 +18,6 @@ rework nimbus edf4e3
 tweak victor 1d7990
 tune lima facc23
 adjust romeo 65b73d
+trim whiskey 50103e
+adjust harbor f651a1
+adjust foxtrot b4a691
