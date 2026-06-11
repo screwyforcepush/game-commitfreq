@@ -1,7 +1,7 @@
 polish echo 69b215
 refactor quebec 4f0833
 polish delta e5d6e3
-expand lattice 309935
+rework november edd127
 tune november 50acf8
 nudge oscar 39e9b4
 nudge xray f8b44a
