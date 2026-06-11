@@ -6,3 +6,6 @@ refactor sierra 7090f0
 refactor cobalt 0558ec
 polish cobalt cafd51
 update cobalt c8c832
+seed quebec 170141
+nudge delta 689016
+nudge victor a8ab10
