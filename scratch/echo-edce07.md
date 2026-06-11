@@ -1,6 +1,5 @@
 adjust nimbus e1ffdc
 trim lattice 79e591
-tidy quebec 0e9ff7
 cleanup echo 7a5b81
 nudge ember c1248e
 tweak bravo 76d37b
