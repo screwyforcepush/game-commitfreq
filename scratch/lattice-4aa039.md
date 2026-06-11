@@ -5,3 +5,6 @@ nudge mike d735ec
 seed nimbus 4822b8
 cleanup nimbus 2369bc
 prune lima e68d33
+expand kilo cf7ed8
+wire oscar 80761a
+wire yankee 8ae891
