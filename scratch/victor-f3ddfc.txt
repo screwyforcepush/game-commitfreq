@@ -7,3 +7,7 @@ adjust juliet 1f11a5
 polish uniform b7e6f2
 polish nimbus ed564e
 prune lima bccb9e
+nudge golf 42b5e6
+tidy harbor 3a52af
+expand bravo a14293
+expand lima 1b7d58
