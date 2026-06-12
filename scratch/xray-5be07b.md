@@ -4,3 +4,6 @@ tidy xray f9082f
 seed xray 90e865
 refactor yankee 25de53
 tweak uniform 4bd567
+cleanup sierra 968e77
+cleanup lima 1bf36b
+adjust charlie 7cb4a5
