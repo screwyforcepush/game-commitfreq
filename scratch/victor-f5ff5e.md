@@ -4,7 +4,6 @@ polish november 8e4846
 refactor uniform ad6173
 nudge lima 64dba7
 nudge romeo 5b1f8d
-expand november 6cee5d
 refactor harbor 4807a8
 rework kilo 9b69a2
 nudge quebec c69af3
