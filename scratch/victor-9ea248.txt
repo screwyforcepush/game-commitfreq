@@ -1,5 +1,0 @@
-trim bravo 2dc042
-tweak mike cdf3fe
-wire yankee 7549dd
-adjust kilo 49d3d0
-nudge quebec 9058a5
