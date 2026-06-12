@@ -250917,3 +250917,4 @@ To https://github.com/screwyforcepush/game-commitfreq.git
 233/437  cleanup lattice for zulu                      create tango-5928c3.dat
 234/437  bump lima for lima                            append harbor-0edcee.txt
 235/437  tweak papa lattice                            modify uniform-e045ca.dat:2
+236/437  build: update lima for golf                   rename prism-08ec19.log -> prism-9a35ed.log
