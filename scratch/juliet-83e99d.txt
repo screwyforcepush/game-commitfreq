@@ -1,2 +1,1 @@
-tidy quebec e64ffc
 bump yankee 30f85e
