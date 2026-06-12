@@ -4,3 +4,5 @@ nudge quebec 296c08
 wire romeo 2c4f9c
 seed solstice 47f0d9
 tweak tango 047ff3
+tidy charlie 153ac8
+tidy solstice 3d8ff1
