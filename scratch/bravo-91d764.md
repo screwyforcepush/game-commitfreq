@@ -8,3 +8,6 @@ wire lattice 131776
 adjust kilo 5c7981
 adjust victor 3765d3
 bump kilo 69653c
+tune zulu 97c45a
+refactor ember 5f67d9
+seed zulu 398943
