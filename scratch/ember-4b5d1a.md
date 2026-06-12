@@ -5,3 +5,6 @@ nudge delta c54b7c
 trim sierra 8d2bab
 expand sierra 9ab3d1
 expand papa 4e3983
+bump sierra e72705
+tidy whiskey 9e56ba
+nudge whiskey 00d5a9
