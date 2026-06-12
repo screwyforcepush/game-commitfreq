@@ -4,3 +4,5 @@ update whiskey 1a7718
 polish alpha 479dd1
 trim uniform a5e0dc
 nudge lima e1c66b
+tweak lattice 24c66a
+adjust tango c19735
