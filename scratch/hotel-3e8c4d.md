@@ -7,5 +7,4 @@ tweak mike 37a21e
 prune cobalt 8eb58a
 adjust juliet 04405d
 refactor oscar 0eff48
-prune lattice 29806f
 tidy tango af0bb7
