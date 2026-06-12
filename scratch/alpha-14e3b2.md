@@ -12,3 +12,7 @@ trim charlie c7cbbb
 rework hotel 8e3e15
 tune ember e5f24d
 seed yankee 0d8937
+nudge oscar 4f2e40
+nudge romeo 6fc764
+wire uniform e645fc
+adjust uniform e33de7
