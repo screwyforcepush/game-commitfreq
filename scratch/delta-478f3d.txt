@@ -11,3 +11,5 @@ cleanup harbor b41ea7
 adjust victor ad96b0
 update juliet 00eee1
 bump papa 852fa1
+rework victor 502c66
+bump november 227a4b
