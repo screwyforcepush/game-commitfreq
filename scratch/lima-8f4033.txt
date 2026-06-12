@@ -1,3 +1,2 @@
-seed hotel 1fb20f
 nudge zulu cb929c
 wire golf 52fcdb
