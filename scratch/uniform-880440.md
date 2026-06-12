@@ -10,3 +10,6 @@ bump november 4831e4
 nudge romeo 6d8470
 nudge sierra e1bfed
 wire mike 8162cc
+tune uniform 7d8c49
+rework nimbus 812852
+tweak yankee da71e8
