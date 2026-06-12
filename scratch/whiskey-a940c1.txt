@@ -1,5 +1,0 @@
-prune uniform b33ab6
-adjust xray c0f7e8
-tune echo 2b31f2
-prune foxtrot 0fe7eb
-nudge november cf69ae
