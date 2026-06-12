@@ -3,5 +3,4 @@ bump november 1bc9fa
 update nimbus 96c796
 refactor juliet 9b0b93
 prune golf ef127e
-wire cobalt 2676b2
 polish foxtrot 0eb096
