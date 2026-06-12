@@ -1,3 +1,7 @@
 bump nimbus 0878c6
 bump lattice f8910e
 tweak whiskey a263c8
+tidy nimbus 667c32
+adjust golf df3ded
+tidy lima 248ec0
+nudge ember 0b70a7
