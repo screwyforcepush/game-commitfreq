@@ -1,4 +1,3 @@
-adjust oscar fa1599
 tune yankee 8e6171
 seed solstice 4f7c36
 bump oscar 5b8a48
