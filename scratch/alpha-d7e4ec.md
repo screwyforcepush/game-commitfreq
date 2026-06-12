@@ -10,3 +10,6 @@ trim romeo ef35ec
 wire xray ebea6f
 bump yankee 7c4be4
 update lattice c91b3a
+adjust ember 96f47d
+adjust bravo 814f73
+expand golf dc6674
