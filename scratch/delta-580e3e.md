@@ -3,7 +3,7 @@ trim cobalt e6af37
 bump bravo 4718e7
 tune mike 4818a2
 trim india 81e3cf
-adjust xray 4e09bc
+adjust uniform 924477
 seed delta 5d0303
 rework bravo 098f86
 expand delta f3f802
