@@ -2,3 +2,5 @@ polish hotel 4c2869
 wire lattice c1fb33
 bump oscar 70879a
 update oscar aed7ed
+update kilo eceb52
+adjust zulu 1973a9
