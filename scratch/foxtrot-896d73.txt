@@ -7,7 +7,6 @@ polish juliet 13fab4
 trim india f5ccfc
 bump sierra df54b6
 tidy nimbus 19d34c
-prune nimbus a75ea8
 rework cobalt 579fb0
 update alpha 54aa2a
 trim echo d8a7cd
