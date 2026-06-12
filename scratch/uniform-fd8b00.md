@@ -5,3 +5,5 @@ wire romeo 7370c8
 tune zulu 060d79
 seed yankee 2cae0b
 rework oscar 112c54
+nudge uniform d4f45b
+wire kilo 98047f
