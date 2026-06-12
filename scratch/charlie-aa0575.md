@@ -7,3 +7,7 @@ bump victor c78f4f
 tidy xray 21a0f1
 expand ember b7dac6
 prune quebec b2564c
+adjust xray c22144
+tweak november 3cac46
+adjust zulu 05eca9
+seed uniform 752ea3
