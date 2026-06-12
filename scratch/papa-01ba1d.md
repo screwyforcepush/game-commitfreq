@@ -3,7 +3,6 @@ cleanup papa 037996
 expand sierra 772ccc
 wire ember 71839b
 refactor bravo f58d03
-refactor papa 13eb6f
 adjust solstice fa7475
 adjust india e72b47
 wire delta fe99b7
