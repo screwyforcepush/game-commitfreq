@@ -19,7 +19,6 @@ prune echo a8f790
 nudge romeo 9b8c7a
 trim bravo e9deda
 bump foxtrot 7873b8
-wire sierra 93123b
 cleanup echo 3bc872
 refactor uniform e36b98
 wire victor 86aab8
