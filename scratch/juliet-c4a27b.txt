@@ -1,5 +1,0 @@
-trim yankee 7a65c9
-refactor mike 42e8eb
-tweak lima fe1622
-seed delta 7b7689
-cleanup foxtrot 9be7c8
