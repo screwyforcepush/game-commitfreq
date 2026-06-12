@@ -6,3 +6,5 @@ seed yankee 2cae0b
 rework oscar 112c54
 nudge uniform d4f45b
 wire kilo 98047f
+prune yankee 2021f0
+expand alpha f2922a
