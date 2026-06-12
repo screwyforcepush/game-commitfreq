@@ -13,3 +13,5 @@ wire mike 405b66
 prune victor 44d43a
 nudge foxtrot dc7c9f
 wire nimbus 3ef268
+trim quebec 279dd1
+wire bravo 3db653
