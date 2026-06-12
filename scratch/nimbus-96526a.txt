@@ -1,4 +1,3 @@
 polish charlie 1bbca6
-wire delta e4ce8c
 polish tango 7d1c83
 nudge sierra cd53ae
