@@ -4,3 +4,7 @@ cleanup solstice 59d80b
 nudge prism a898b1
 tweak oscar 1d0685
 cleanup bravo ac7151
+trim hotel da77b2
+tidy mike dffd64
+adjust alpha 48f11e
+tidy alpha 2a7dc7
