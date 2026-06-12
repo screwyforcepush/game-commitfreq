@@ -2,3 +2,5 @@ polish xray 393c92
 nudge victor c5203a
 adjust charlie b38a2d
 polish quebec 3ad404
+nudge tango 4824f2
+cleanup uniform 7b4342
