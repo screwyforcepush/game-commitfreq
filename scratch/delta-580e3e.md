@@ -4,7 +4,6 @@ bump bravo 4718e7
 tune mike 4818a2
 trim india 81e3cf
 adjust uniform 924477
-seed delta 5d0303
 rework bravo 098f86
 expand delta f3f802
 trim charlie b08f40
