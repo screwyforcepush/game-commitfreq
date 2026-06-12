@@ -1,4 +1,3 @@
 prune hotel 6137d5
-adjust foxtrot b4a8ce
 tidy yankee 4fb977
 nudge nimbus 56b185
