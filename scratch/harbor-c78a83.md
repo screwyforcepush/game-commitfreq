@@ -17,3 +17,7 @@ trim sierra 134956
 prune november 6b2deb
 nudge mike 18e005
 tidy zulu 5337da
+rework charlie 808b3d
+expand golf 29a472
+cleanup quebec a8362f
+tune quebec d8897d
