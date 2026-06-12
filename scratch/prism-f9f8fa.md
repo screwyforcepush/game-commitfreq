@@ -7,7 +7,6 @@ polish oscar ea5ece
 seed zulu 920f24
 seed uniform 99e770
 adjust sierra 2fe3c8
-tweak victor 3f06b4
 rework romeo ee22b6
 tidy cobalt 497ebf
 polish mike 523bd9
