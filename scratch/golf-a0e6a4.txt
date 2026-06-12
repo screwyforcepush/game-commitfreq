@@ -20,3 +20,6 @@ refactor lattice 869641
 tune tango 3586a4
 tune sierra a88b54
 tune november 012ed9
+trim delta d260ca
+adjust lima f4de89
+polish lima d2a967
