@@ -1,4 +1,4 @@
-cleanup hotel a718d0
+trim uniform fdc014
 polish lattice 37eb2a
 expand harbor 94e4ed
 tweak yankee 626321
