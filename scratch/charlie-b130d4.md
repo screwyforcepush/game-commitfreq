@@ -3,3 +3,7 @@ tune kilo a251e1
 rework foxtrot b8dcb8
 polish cobalt d191d4
 polish kilo dff96a
+tidy nimbus 93d3da
+adjust ember 0a557b
+tidy delta 580fda
+tidy juliet 71d170
