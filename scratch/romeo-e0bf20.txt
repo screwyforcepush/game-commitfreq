@@ -1,5 +1,4 @@
 expand echo 03d0ce
 expand golf 1c8b7f
 expand lima 582e18
-expand zulu 26463f
 tune nimbus 5e4ed3
