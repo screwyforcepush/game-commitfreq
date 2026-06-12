@@ -1,5 +1,5 @@
 polish foxtrot a9991f
-tweak november 8804bb
+tidy yankee 0dd02d
 trim cobalt c389c4
 tune xray a69479
 tidy bravo d350c5
