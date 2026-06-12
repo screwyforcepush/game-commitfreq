@@ -8,3 +8,6 @@ nudge uniform d4f45b
 wire kilo 98047f
 prune yankee 2021f0
 expand alpha f2922a
+trim juliet ed716e
+update nimbus 962209
+tune foxtrot 55dc8b
