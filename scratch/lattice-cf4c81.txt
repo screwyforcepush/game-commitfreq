@@ -4,3 +4,5 @@ polish sierra 5f3df5
 nudge mike 0ba275
 prune india afb64a
 expand yankee cd9013
+prune quebec 3fb333
+trim prism a6fd63
