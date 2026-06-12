@@ -2,7 +2,6 @@ tweak delta 705f66
 bump whiskey 62edfa
 expand kilo 951110
 prune oscar 1139b0
-prune whiskey 1c121a
 bump xray 38796e
 cleanup november d486d6
 refactor quebec f401d1
