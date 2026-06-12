@@ -1,4 +1,3 @@
-wire xray a1f630
 tune bravo 6fc9fb
 refactor quebec 201394
 wire charlie 6b9afb
