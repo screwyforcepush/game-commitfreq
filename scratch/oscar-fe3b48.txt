@@ -1,6 +1,0 @@
-bump mike 6bea0c
-nudge oscar 4d94e7
-nudge tango 6161dc
-tidy uniform 9517cf
-polish lattice 169033
-nudge mike 5b725d
