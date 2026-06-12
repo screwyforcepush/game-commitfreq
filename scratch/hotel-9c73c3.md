@@ -1,4 +1,3 @@
-wire foxtrot 7a8c2e
 bump tango 6bdf98
 wire quebec ff6f13
 polish juliet bca569
