@@ -1,1 +1,1 @@
-adjust solstice 721919
+wire kilo e258c4
