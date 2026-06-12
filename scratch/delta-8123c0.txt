@@ -1,2 +1,2 @@
 update yankee 8ad7a0
-prune foxtrot 924108
+tune foxtrot 0f45d7
