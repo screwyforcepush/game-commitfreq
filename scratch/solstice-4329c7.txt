@@ -1,5 +1,0 @@
-adjust echo cc77d7
-prune yankee c5be1e
-tweak romeo f9624e
-polish lattice c874de
-wire foxtrot 48749f
