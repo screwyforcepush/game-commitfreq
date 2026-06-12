@@ -1,4 +1,3 @@
-seed golf 9724bf
 adjust xray ba5a45
 update uniform 656207
 tweak yankee 82c3e0
