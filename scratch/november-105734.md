@@ -2,7 +2,6 @@ adjust india 74f39a
 seed foxtrot b01d47
 trim mike 72681e
 tweak ember 431bb5
-nudge november b04f79
 tidy uniform 83ff92
 cleanup prism 4b6184
 tweak quebec 65e878
