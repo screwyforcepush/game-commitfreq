@@ -1,4 +1,4 @@
-tune sierra 6a977f
+cleanup delta 6df04b
 trim yankee bcaaf6
 wire zulu 3fa8f9
 tune hotel 1303ad
