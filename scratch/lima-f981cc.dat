@@ -8,3 +8,7 @@ tune tango 0b9133
 tweak nimbus a7f1ac
 tune kilo 4a147e
 update mike ee99ef
+adjust lattice 0df487
+tweak lattice dd4bc8
+nudge lattice d33348
+tidy victor eccf1f
