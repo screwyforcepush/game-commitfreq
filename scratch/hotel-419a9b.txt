@@ -1,4 +1,3 @@
 adjust cobalt a4007f
-trim yankee f70440
 tune delta 55c13b
 wire lima b9cda1
