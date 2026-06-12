@@ -5,3 +5,5 @@ seed india a5b9e0
 rework solstice 45a4ba
 tweak mike 88f45c
 expand zulu 2ead53
+trim solstice cf2ff4
+rework alpha b14c53
