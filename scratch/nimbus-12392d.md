@@ -4,3 +4,6 @@ seed whiskey 62354a
 rework tango 97cadd
 expand november ca3be7
 polish quebec 8387d2
+prune solstice 55e58e
+seed charlie 44116b
+trim lattice 464df3
