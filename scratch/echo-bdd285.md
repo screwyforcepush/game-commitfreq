@@ -4,3 +4,7 @@ trim prism 087c2f
 nudge delta 91578c
 rework juliet 9e1465
 rework india 24cb1d
+adjust quebec 255b95
+polish zulu 44e7f7
+tune victor c26048
+rework mike 1d9bd3
