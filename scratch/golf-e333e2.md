@@ -11,3 +11,5 @@ prune lattice c15ac8
 nudge echo 474580
 seed lattice 9b75a1
 tidy lima 6fda06
+polish kilo 369161
+tidy november eba8d1
