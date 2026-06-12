@@ -9,3 +9,6 @@ wire lima 0b5208
 expand alpha 46f612
 refactor india d941fe
 expand victor 666c7f
+expand kilo a6da1e
+nudge kilo b39ef2
+tidy xray 8c0248
