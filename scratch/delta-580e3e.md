@@ -15,5 +15,4 @@ wire papa 937b5f
 polish foxtrot 4f20ac
 adjust xray 4ca5b3
 seed mike c3ff6b
-tune lima 789904
 tweak lattice 05e27d
