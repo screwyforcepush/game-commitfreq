@@ -12,7 +12,6 @@ tidy cobalt 497ebf
 polish mike 523bd9
 adjust xray 6d2e40
 refactor golf 1d9421
-prune ember 6b34bd
 expand india af0c80
 tweak tango 800d8e
 bump lattice 5f499e
