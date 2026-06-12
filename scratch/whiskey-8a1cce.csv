@@ -5,3 +5,6 @@ wire oscar c30dbf
 cleanup papa 7968e0
 trim xray bdc4a4
 prune papa e46104
+tune delta d1eed8
+prune solstice 597194
+bump romeo c7f905
