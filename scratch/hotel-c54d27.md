@@ -1,5 +1,5 @@
 adjust hotel cb830d
-tidy papa d73fe5
+trim quebec 1b3267
 tweak alpha 7b3b41
 adjust oscar 6119a8
 tune bravo b3cfec
