@@ -3,5 +3,5 @@ nudge xray cbb58d
 tidy november cba401
 trim november 45a494
 wire lima cc32bf
-wire xray 7ad370
+nudge solstice 7fb836
 tune yankee 17cef7
