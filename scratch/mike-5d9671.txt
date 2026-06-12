@@ -1,1 +1,2 @@
 cleanup prism bdbcdd
+tidy lattice bd0d84
