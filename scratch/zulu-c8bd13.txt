@@ -6,3 +6,6 @@ trim lattice 25c991
 wire papa 55cf4d
 bump solstice 524cb1
 adjust oscar 88fab2
+cleanup uniform f7935a
+tweak november 3a9640
+adjust uniform 9ea832
