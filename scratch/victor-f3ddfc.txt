@@ -1,6 +1,6 @@
 tune tango c40ef1
 adjust ember 28104c
-expand bravo 76f235
+wire juliet e235a5
 cleanup zulu f94f0e
 tweak kilo 74204c
 adjust juliet 1f11a5
