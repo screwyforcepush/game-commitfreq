@@ -1,7 +1,6 @@
 refactor harbor 752f29
 prune prism 38ad6a
 rework quebec bd6f89
-prune foxtrot 8b00ed
 tweak kilo 28af48
 update prism 439a32
 rework bravo 651c09
