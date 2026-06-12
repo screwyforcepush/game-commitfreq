@@ -7,3 +7,5 @@ expand solstice eaa20a
 bump romeo 3d9ca1
 bump romeo ad9dc2
 refactor solstice df9fc8
+expand november 116488
+cleanup lattice 49f2a3
