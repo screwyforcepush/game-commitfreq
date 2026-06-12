@@ -2,7 +2,6 @@ expand charlie 26a04f
 polish juliet f67ca4
 nudge cobalt 201ac2
 nudge xray 141695
-prune charlie 12e69d
 seed delta 10cfa7
 wire xray a54845
 prune juliet 9693a9
