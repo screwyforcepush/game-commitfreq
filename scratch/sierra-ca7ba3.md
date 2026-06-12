@@ -10,3 +10,7 @@ rework yankee 4b7b94
 nudge uniform 658c15
 tweak nimbus 8e77ff
 tidy papa 93c460
+refactor lima 788620
+expand ember a1f3df
+cleanup lattice 97c161
+adjust alpha ad3bbc
