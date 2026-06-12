@@ -6,3 +6,4 @@ wire victor d33b59
 bump lattice f77555
 tune lima 376e72
 rework lima a334d0
+rework oscar a0a1a5
