@@ -11,3 +11,6 @@ refactor lattice ad9375
 tune delta 4af2dc
 trim xray 253f60
 trim uniform 04e9c2
+tidy charlie ae5ada
+adjust foxtrot 8150dc
+refactor mike eeac0e
