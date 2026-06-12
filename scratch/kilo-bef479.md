@@ -11,3 +11,6 @@ trim prism 401c84
 polish delta e78c86
 prune papa 8e05a2
 adjust mike 2484b0
+polish kilo 7590b0
+update harbor 05b62d
+trim sierra 9fb2e4
