@@ -2,3 +2,6 @@ bump india 9661c0
 tune bravo 4bd536
 refactor alpha d9e058
 expand solstice d29916
+trim ember 1ab1de
+expand whiskey 060fd6
+expand sierra 169123
