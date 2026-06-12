@@ -1,7 +1,6 @@
 tweak lima b8130b
 prune quebec 5edb85
 nudge papa 6078e4
-bump bravo b8543d
 seed alpha ca02ee
 update lattice 538910
 tidy cobalt 262e91
