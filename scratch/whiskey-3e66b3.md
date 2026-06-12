@@ -8,6 +8,5 @@ trim whiskey 85d6ea
 adjust golf 62b6af
 polish echo b2bb81
 nudge solstice 65b408
-adjust november c53d38
 bump hotel 034ba8
 cleanup papa 91ffed
