@@ -3,3 +3,6 @@ wire victor fa5080
 prune uniform a6daaa
 seed alpha 4cc7b4
 trim lattice 25c991
+wire papa 55cf4d
+bump solstice 524cb1
+adjust oscar 88fab2
