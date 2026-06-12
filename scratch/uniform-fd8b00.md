@@ -1,5 +1,4 @@
 trim charlie fee82d
-adjust papa e3b126
 update papa 9c16d4
 wire romeo 7370c8
 tune zulu 060d79
