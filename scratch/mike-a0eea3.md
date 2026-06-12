@@ -5,3 +5,6 @@ prune zulu 0ab793
 tweak tango ce4057
 cleanup prism c81c59
 tidy golf 8e7437
+prune delta 8a3903
+prune quebec e09f25
+prune foxtrot ca5a1b
