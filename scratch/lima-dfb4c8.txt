@@ -2,3 +2,5 @@ prune hotel 6137d5
 tidy yankee 4fb977
 nudge nimbus 56b185
 trim nimbus 38f1a3
+polish quebec 656d30
+refactor mike 106c4f
