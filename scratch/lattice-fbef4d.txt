@@ -10,3 +10,6 @@ tune golf 435fff
 prune foxtrot c01f9c
 seed delta 564ee6
 seed quebec 84b10b
+tidy november e1ae67
+tidy sierra 9ef31f
+trim november 4a1bb0
