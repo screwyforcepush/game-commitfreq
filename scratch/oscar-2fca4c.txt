@@ -2,5 +2,5 @@ cleanup lima a0f087
 update charlie 8d232e
 refactor lattice 6adaef
 tweak delta 53ce13
-trim november 7f27e1
+bump alpha 051b8c
 adjust lima ba143c
