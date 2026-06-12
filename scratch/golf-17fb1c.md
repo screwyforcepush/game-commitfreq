@@ -9,3 +9,7 @@ tune alpha 3f467a
 cleanup oscar 46427d
 nudge delta b86b11
 polish mike d9fbba
+rework zulu 7ccafd
+tidy kilo 95599f
+tweak quebec 9ca2ef
+expand victor ce0943
