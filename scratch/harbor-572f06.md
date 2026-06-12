@@ -1,4 +1,3 @@
-adjust sierra 883066
 rework solstice 8d2856
 refactor lattice a7f13c
 expand sierra 0a4efa
