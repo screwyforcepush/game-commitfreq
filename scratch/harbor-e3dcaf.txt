@@ -1,2 +1,1 @@
-wire lattice 4819ac
 seed xray 68f28e
