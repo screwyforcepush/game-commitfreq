@@ -2,6 +2,6 @@ tune romeo e953db
 refactor solstice c44a55
 tidy uniform d075e8
 seed nimbus 586f0e
-update tango 6bf84e
+trim sierra e096df
 rework kilo de28d6
 refactor tango 25577b
