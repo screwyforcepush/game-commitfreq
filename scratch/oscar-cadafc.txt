@@ -3,3 +3,7 @@ adjust kilo e82681
 wire hotel c0dd84
 trim charlie 64ca35
 trim uniform 7dddf3
+tweak juliet 500a40
+cleanup prism bc45e9
+wire lattice 595dac
+cleanup yankee 92276c
