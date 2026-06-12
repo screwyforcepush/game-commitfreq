@@ -4,3 +4,6 @@ expand zulu 956b20
 tune golf 8c93e1
 tweak whiskey 33ff08
 rework quebec 8070c5
+cleanup charlie 4dbba2
+trim tango 4a8eaf
+expand ember c286e3
