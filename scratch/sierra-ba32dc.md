@@ -2,3 +2,5 @@ seed harbor 949fe3
 cleanup ember fb1229
 nudge whiskey bc1706
 bump yankee b0e210
+rework hotel 6e247c
+trim sierra c5c26e
