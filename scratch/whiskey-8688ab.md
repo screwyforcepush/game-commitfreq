@@ -4,3 +4,4 @@ update sierra abea31
 prune golf 3d6200
 refactor mike 603249
 refactor quebec 9403a4
+adjust hotel f7fc45
