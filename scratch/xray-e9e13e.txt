@@ -1,3 +1,2 @@
-update november 4a69b9
 bump november 65fac7
 refactor kilo a66dab
