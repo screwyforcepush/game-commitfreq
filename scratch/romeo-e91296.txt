@@ -1,3 +1,2 @@
 seed zulu 4dbfab
-refactor quebec ca016d
 nudge echo e42407
