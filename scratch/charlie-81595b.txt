@@ -7,3 +7,6 @@ tune ember 657bf4
 refactor lattice 20cd58
 seed uniform 03f6a5
 tweak quebec c7cc99
+update papa 6007fd
+prune tango 9aa628
+tune bravo 3afce7
