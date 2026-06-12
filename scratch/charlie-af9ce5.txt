@@ -1,3 +1,0 @@
-seed mike b3febc
-tune kilo 6fdc4e
-update lattice 8228e6
