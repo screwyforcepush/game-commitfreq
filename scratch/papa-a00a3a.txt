@@ -5,3 +5,5 @@ trim cobalt bfb804
 refactor prism 955850
 tidy xray b87fee
 wire alpha 1cd691
+wire nimbus a51eae
+trim whiskey 690f8e
