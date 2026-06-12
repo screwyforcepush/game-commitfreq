@@ -2,7 +2,6 @@ refactor harbor 752f29
 prune prism 38ad6a
 rework quebec bd6f89
 tweak kilo 28af48
-update prism 439a32
 rework bravo 651c09
 adjust victor afeb18
 polish juliet c3e784
