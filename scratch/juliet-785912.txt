@@ -2,3 +2,7 @@ cleanup papa bda0d6
 rework kilo 591b21
 bump tango a12950
 cleanup whiskey f7e3ed
+expand sierra 1e4e02
+tune uniform 6d1e52
+tweak juliet 6437c9
+expand lattice 859f34
