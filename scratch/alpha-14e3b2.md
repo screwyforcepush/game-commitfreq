@@ -16,3 +16,6 @@ nudge oscar 4f2e40
 nudge romeo 6fc764
 wire uniform e645fc
 adjust uniform e33de7
+expand harbor 364cf4
+prune quebec 893f24
+adjust papa 5f1616
