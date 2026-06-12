@@ -1,4 +1,3 @@
-rework kilo 175e3c
 trim delta 9a49f8
 wire romeo ead4a4
 trim charlie 0eab36
