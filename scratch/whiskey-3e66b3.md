@@ -1,7 +1,6 @@
 nudge hotel 952e4c
 tweak cobalt 072df0
 bump sierra f09a53
-wire sierra 51b5c9
 tweak uniform 29710c
 refactor quebec 3d5627
 trim whiskey 85d6ea
