@@ -4,3 +4,7 @@ rework victor b20a17
 update india 0f3db5
 wire papa 49e3a9
 polish prism 3a73ff
+rework quebec 2bb08d
+expand foxtrot 19fa18
+nudge nimbus bc9e63
+tweak nimbus 80db86
