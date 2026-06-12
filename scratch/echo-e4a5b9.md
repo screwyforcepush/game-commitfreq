@@ -7,7 +7,6 @@ adjust mike fd2b79
 wire juliet 6c71a2
 wire foxtrot 445456
 tune tango 90c18b
-adjust foxtrot eb9210
 update lattice 6d8782
 bump alpha 73ae28
 prune harbor dba7b3
