@@ -5,3 +5,6 @@ update quebec cfded8
 polish kilo 6c9cf6
 trim zulu 5ae562
 wire delta cd31c6
+tune golf 051fe1
+adjust nimbus 67d421
+nudge victor 0a1fc7
