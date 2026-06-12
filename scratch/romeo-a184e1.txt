@@ -6,3 +6,7 @@ tune quebec 7fa1aa
 tune november ead509
 expand alpha c38b9c
 bump foxtrot 1ccf15
+wire kilo 7fb340
+trim quebec af6d91
+prune juliet b26f4e
+expand lima 02b173
