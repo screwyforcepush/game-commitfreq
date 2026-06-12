@@ -11,3 +11,7 @@ update hotel 6cbde5
 cleanup harbor 6dcf77
 rework foxtrot d1639a
 tidy sierra 01a26d
+update india 3c3d38
+tweak whiskey 23ec86
+polish sierra 024787
+tidy golf d0fd2a
