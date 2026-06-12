@@ -3,7 +3,6 @@ nudge charlie fdb1b6
 rework kilo 3cede2
 nudge alpha edf50c
 refactor november f7be5b
-expand lattice 63d89a
 polish harbor 720a97
 refactor sierra 73ed03
 trim charlie 36e957
