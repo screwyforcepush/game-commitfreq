@@ -4,4 +4,3 @@ seed kilo ce548d
 expand nimbus 9922c0
 trim alpha e3ff39
 expand india 023ba9
-adjust delta f1d4e8
