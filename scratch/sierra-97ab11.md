@@ -1,4 +1,3 @@
-seed bravo 419663
 seed alpha 1a424a
 trim xray ac14da
 adjust golf 04d364
