@@ -1,5 +1,5 @@
 rework solstice 8d2856
-refactor lattice a7f13c
+trim papa 351e8e
 expand sierra 0a4efa
 tweak yankee d2344f
 seed bravo e69673
