@@ -1,7 +1,7 @@
 update echo 36520e
 bump prism 18ccc5
 rework delta 98cc04
-adjust quebec d08b95
+expand yankee 52046e
 bump romeo c3eded
 prune foxtrot 9a01cd
 update yankee dc546b
