@@ -8,3 +8,7 @@ update nimbus 351587
 prune kilo aae979
 expand whiskey 272426
 prune xray 7efc23
+tidy nimbus 9170bc
+nudge hotel 70dbcf
+prune quebec 0d301f
+trim kilo 9929d8
