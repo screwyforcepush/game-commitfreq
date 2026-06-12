@@ -3,7 +3,6 @@ trim xray ac14da
 adjust golf 04d364
 update sierra bcb43c
 adjust mike 1c5871
-wire cobalt edbe60
 adjust cobalt df050d
 nudge echo ab4e10
 tweak alpha 5b55fc
