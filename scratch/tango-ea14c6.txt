@@ -1,6 +1,5 @@
 rework echo 0e2266
 cleanup zulu 35973c
-prune sierra 335d9f
 refactor juliet 99a915
 wire victor d33b59
 bump lattice f77555
