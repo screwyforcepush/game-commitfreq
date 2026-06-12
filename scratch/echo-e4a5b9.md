@@ -11,3 +11,6 @@ bump alpha 73ae28
 prune harbor dba7b3
 wire mike 405b66
 prune victor 44d43a
+nudge foxtrot dc7c9f
+tidy nimbus 7ed13e
+wire nimbus 3ef268
