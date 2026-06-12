@@ -1,4 +1,0 @@
-prune charlie f89623
-polish lattice acb2e4
-tune juliet 920574
-adjust kilo 70c557
