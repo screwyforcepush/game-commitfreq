@@ -1,3 +1,0 @@
-wire prism d99dc1
-wire uniform 64635b
-tidy lattice 1e0ebb
