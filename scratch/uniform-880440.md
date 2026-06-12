@@ -1,4 +1,4 @@
-bump india 894773
+seed victor eec2fc
 update lattice a1e515
 nudge yankee a39f0d
 cleanup quebec c10996
