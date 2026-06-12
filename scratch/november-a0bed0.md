@@ -8,3 +8,5 @@ polish kilo 7e30f8
 bump romeo 52e997
 update harbor 366761
 tweak cobalt 3bb389
+adjust foxtrot 955901
+seed lattice 334bbe
