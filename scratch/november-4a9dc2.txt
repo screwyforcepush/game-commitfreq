@@ -1,5 +1,4 @@
 bump whiskey 6624a0
-bump solstice 7af58d
 tidy quebec 105a26
 expand india 7c876d
 expand solstice ec9c82
