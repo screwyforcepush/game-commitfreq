@@ -1,4 +1,3 @@
-bump delta 7c5184
 adjust cobalt a4007f
 tidy tango e833ce
 tune delta 55c13b
