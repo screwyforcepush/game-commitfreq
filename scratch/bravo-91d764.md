@@ -4,3 +4,7 @@ bump quebec 745204
 trim alpha 52e6bd
 update foxtrot 7065c4
 cleanup foxtrot 76fedc
+wire lattice 131776
+adjust kilo 5c7981
+adjust victor 3765d3
+bump kilo 69653c
