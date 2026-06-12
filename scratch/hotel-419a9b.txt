@@ -1,2 +1,2 @@
-tweak oscar 00584c
+bump delta 7c5184
 adjust cobalt a4007f
