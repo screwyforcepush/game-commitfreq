@@ -7,3 +7,5 @@ expand tango a8bec7
 prune alpha a41bf8
 tweak solstice e2a98d
 tidy delta b373c5
+trim nimbus c79b6a
+nudge echo 99335f
