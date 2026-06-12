@@ -1,3 +1,2 @@
 expand echo 03d0ce
-expand golf 1c8b7f
 tune nimbus 5e4ed3
