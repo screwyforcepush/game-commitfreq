@@ -1,4 +1,3 @@
 cleanup lima a0f087
 polish juliet f92508
-polish xray 7c7e9f
 update charlie 8d232e
