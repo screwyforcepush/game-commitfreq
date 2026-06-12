@@ -1,3 +1,7 @@
 cleanup lima a0f087
 polish juliet f92508
 update charlie 8d232e
+refactor lattice 6adaef
+tweak delta 53ce13
+trim november 7f27e1
+adjust lima ba143c
