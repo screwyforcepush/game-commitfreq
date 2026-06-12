@@ -1,3 +1,5 @@
 polish oscar 30cc4e
 bump delta 40c452
 adjust lima a809c4
+adjust quebec a4884d
+expand lima 8e3460
