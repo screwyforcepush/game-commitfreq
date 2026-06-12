@@ -6,7 +6,7 @@ bump tango 54a0e5
 update papa 1a9771
 seed delta d9fae5
 expand uniform a047ba
-trim ember 5115aa
+tidy quebec 84210e
 prune nimbus 406729
 cleanup harbor 9ceb2d
 expand quebec 1d6e50
