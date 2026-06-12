@@ -7,7 +7,7 @@ refactor cobalt 0558ec
 polish cobalt cafd51
 update cobalt c8c832
 seed quebec 170141
-nudge delta 689016
+polish lattice 639274
 nudge victor a8ab10
 nudge solstice 04ef75
 trim solstice 0dde5f
