@@ -1,4 +1,3 @@
-nudge foxtrot b374fa
 seed echo 727502
 nudge lima cba0f4
 nudge juliet e8d2f3
