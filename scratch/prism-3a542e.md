@@ -7,5 +7,5 @@ seed uniform 33f930
 tune romeo 07a593
 seed charlie 864788
 prune sierra 1dc257
-bump echo 55dcca
+prune charlie ade48c
 bump zulu 7de267
