@@ -12,3 +12,4 @@ trim echo d8a7cd
 tune xray 812120
 update cobalt 979e46
 bump echo 2b90a0
+tidy bravo 864b8e
