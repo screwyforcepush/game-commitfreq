@@ -7,3 +7,7 @@ refactor lima 3b30aa
 tidy juliet c3b2c7
 expand oscar 3c3d3f
 tweak harbor ca9bf0
+cleanup quebec edcc05
+rework ember 5027a0
+adjust tango 9707e3
+adjust cobalt 28a65a
