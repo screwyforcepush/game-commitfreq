@@ -7,5 +7,4 @@ update whiskey 1f3dd0
 cleanup solstice 4393dc
 tune mike 72eb04
 wire charlie 04358a
-update oscar 352e69
 prune harbor d2f462
