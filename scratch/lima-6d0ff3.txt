@@ -1,3 +1,4 @@
 wire lattice 0ec68f
 tidy alpha 173237
 cleanup foxtrot 164b8a
+prune delta adf88a
