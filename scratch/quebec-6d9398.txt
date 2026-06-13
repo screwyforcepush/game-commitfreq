@@ -2,5 +2,4 @@ tidy november 6a1eea
 prune lattice 0fdab5
 refactor yankee 0c2a88
 prune cobalt 66c227
-adjust bravo 4da2e9
 tidy cobalt 41a40d
