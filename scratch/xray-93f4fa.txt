@@ -1,7 +1,0 @@
-tune alpha 8d7d50
-nudge november 913258
-refactor golf 9a8e32
-adjust yankee ac2db7
-polish kilo 8bb1f9
-prune papa 83bdef
-prune nimbus 938a57
