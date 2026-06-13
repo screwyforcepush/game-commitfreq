@@ -1,1 +1,1 @@
-prune kilo f0cdef
+wire delta acbef4
