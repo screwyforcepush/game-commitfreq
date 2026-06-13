@@ -8,7 +8,6 @@ adjust golf 62b6af
 wire sierra 48f2d7
 nudge solstice 65b408
 bump hotel 034ba8
-cleanup papa 91ffed
 rework echo 44b9dd
 nudge hotel 1f1a87
 refactor delta 5571a9
