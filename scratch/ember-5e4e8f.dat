@@ -10,3 +10,7 @@ bump lima 938ff7
 cleanup nimbus 760a6c
 trim sierra b8efa1
 tidy solstice f2d835
+prune cobalt e91113
+tidy whiskey 4bcadb
+polish xray ec0d16
+prune yankee 1ebb35
