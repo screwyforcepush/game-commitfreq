@@ -1,5 +1,4 @@
 bump kilo 2a1dc2
 prune golf 8ae68d
-prune hotel cadeec
 rework harbor 6cfbac
 polish mike 48e62f
