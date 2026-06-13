@@ -1,5 +1,4 @@
 refactor xray 7891f9
-bump tango fc656d
 update echo 68ec54
 adjust foxtrot e5de3c
 expand delta 793430
