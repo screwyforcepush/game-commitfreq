@@ -4,3 +4,6 @@ cleanup echo 0a2b7f
 adjust alpha 5fe790
 update lattice 7ced90
 update golf b06798
+expand kilo a8b978
+rework uniform de8843
+seed quebec a7a42a
