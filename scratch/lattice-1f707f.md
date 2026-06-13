@@ -1,4 +1,3 @@
-prune victor f4dd0f
 wire whiskey 71125e
 rework nimbus 93d796
 trim lattice 0b3672
