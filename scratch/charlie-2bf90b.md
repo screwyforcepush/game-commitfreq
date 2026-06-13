@@ -2,7 +2,7 @@ trim golf 4afe98
 nudge lima 25d340
 cleanup harbor cb1434
 update xray 8dfae9
-wire zulu 911c39
+prune alpha 2868c0
 trim echo 2d3014
 bump juliet af4aaa
 polish lima e99ae1
