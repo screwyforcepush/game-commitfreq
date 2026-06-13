@@ -1,6 +1,0 @@
-tune foxtrot fd497d
-tweak golf 66ab6f
-seed sierra f0c86f
-update foxtrot c84111
-polish prism a46a3a
-nudge yankee c45681
