@@ -9,5 +9,4 @@ tune mike cdaeb0
 wire whiskey 68ea40
 trim quebec 2ca4c4
 refactor hotel 4d8fd3
-refactor sierra 9b1392
 tidy uniform d377f8
