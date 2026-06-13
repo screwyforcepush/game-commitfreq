@@ -21,7 +21,6 @@ bump romeo 483642
 polish cobalt 0e816c
 prune harbor 9893f2
 adjust india c4ca66
-bump xray 7fd61a
 expand victor f7f5f6
 tune uniform 304018
 seed whiskey 6ca2b1
