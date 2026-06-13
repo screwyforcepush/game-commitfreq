@@ -1,2 +1,1 @@
-wire juliet 65530a
 adjust xray 2afc34
