@@ -6,6 +6,6 @@ expand sierra 74d77d
 seed solstice f2a6fe
 update oscar 1f078b
 seed delta c41c87
-prune juliet 3de88b
+cleanup echo 68fcad
 seed solstice bee0f9
 seed solstice 97746d
