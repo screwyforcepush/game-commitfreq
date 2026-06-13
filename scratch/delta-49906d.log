@@ -25,3 +25,6 @@ bump lattice 5db75d
 expand whiskey 6329f1
 update nimbus fbd95f
 tune echo 7dde1b
+update xray 592dfa
+bump cobalt ef7795
+cleanup delta 3ebe86
