@@ -1,4 +1,3 @@
-tune bravo 6fc9fb
 adjust victor b625ab
 bump november 59de09
 adjust lima 388706
