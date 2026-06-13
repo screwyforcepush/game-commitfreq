@@ -3,3 +3,7 @@ trim bravo a587dc
 wire charlie 19e203
 rework xray 9e6df0
 polish bravo 6242f1
+polish xray 0d08f2
+tweak tango e3cc32
+tune victor fc51d8
+polish delta 4d5976
