@@ -259065,3 +259065,4 @@ To https://github.com/screwyforcepush/game-commitfreq.git
 448/464  wip: tune tango (847ddf)                      append yankee-771f34.dat
 449/464  fix: alpha nudges                             modify kilo-c29930.log:14
 450/464  tweak golf for charlie                        modify uniform-64b066.txt:1
+451/464  build: tidy alpha (edf32f)                    rename delta-1da58c.dat -> lattice-a6b2c5.dat
