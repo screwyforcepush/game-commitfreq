@@ -8,7 +8,6 @@ tweak echo a7583f
 nudge lima a55c6c
 wire kilo 124c38
 adjust hotel 2e97b9
-polish whiskey 1ce03e
 trim uniform 9bd2a3
 cleanup alpha 364fe9
 tidy harbor 18fb8e
