@@ -3,3 +3,6 @@ tidy mike 752128
 seed lattice f1296a
 cleanup november f2c70b
 trim xray 0663c1
+tweak papa 23e3f3
+seed prism 18cd93
+seed charlie 71c120
