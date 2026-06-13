@@ -1,7 +1,7 @@
 seed bravo 67ab58
 cleanup delta dceb32
 cleanup echo 0a2b7f
-adjust alpha 5fe790
+polish prism 6e59ec
 update lattice 7ced90
 update golf b06798
 expand kilo a8b978
