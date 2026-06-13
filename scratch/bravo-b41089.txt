@@ -16,7 +16,7 @@ update charlie 16b11c
 cleanup lima 42aaec
 seed hotel 6bbc97
 rework kilo 2f5fe4
-seed alpha eb16ca
+bump nimbus 85214e
 bump romeo 483642
 polish cobalt 0e816c
 prune harbor 9893f2
