@@ -8,6 +8,6 @@ trim juliet 1403e8
 tidy foxtrot 019bff
 nudge xray f240ed
 expand november 0e6834
-bump hotel 7ff2b3
+adjust charlie 08c533
 tidy sierra 6561e7
 adjust kilo 971042
