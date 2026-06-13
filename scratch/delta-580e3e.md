@@ -19,6 +19,5 @@ trim whiskey 51c1f4
 tweak zulu b014db
 rework india fc3310
 expand mike a150c8
-polish golf ac3d09
 adjust golf 2dcd62
 polish hotel 9a33cb
