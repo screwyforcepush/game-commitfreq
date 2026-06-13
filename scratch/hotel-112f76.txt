@@ -2,5 +2,4 @@ bump kilo 2a1dc2
 prune golf 8ae68d
 rework harbor 6cfbac
 polish mike 48e62f
-polish nimbus 1c6a8f
 tweak delta 82276e
