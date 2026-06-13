@@ -6,3 +6,5 @@ refactor tango 2044fd
 prune solstice e5a2ab
 rework echo d332f9
 expand delta 407cec
+cleanup quebec d723d9
+trim golf 3105dd
