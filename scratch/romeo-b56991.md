@@ -14,7 +14,7 @@ wire sierra 7a1222
 update mike 163694
 nudge whiskey ad3424
 wire xray 6dc63d
-nudge golf 19f3d3
+prune papa f61071
 update uniform f48199
 cleanup lattice 532199
 prune ember e13622
