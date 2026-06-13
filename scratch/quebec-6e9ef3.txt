@@ -4,3 +4,5 @@ tidy mike 0d2dd1
 tweak lattice cc11bd
 cleanup victor b84e1d
 refactor lima b0d912
+trim solstice cb6025
+rework tango 0b7b19
