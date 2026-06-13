@@ -1,3 +1,6 @@
 update november 00f2aa
 polish lattice e66624
 rework kilo bb40f9
+bump quebec 0ca49d
+cleanup echo 2bae5c
+cleanup yankee 60f56e
