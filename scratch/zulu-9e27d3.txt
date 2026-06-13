@@ -9,3 +9,7 @@ seed oscar 7bd982
 tidy hotel b9d124
 refactor delta 6f28ab
 seed victor fcdd59
+seed delta f93a03
+refactor lattice b02516
+polish lattice 326b1e
+cleanup oscar 98eee5
