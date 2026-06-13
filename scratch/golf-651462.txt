@@ -4,7 +4,6 @@ trim oscar 2b2c1b
 wire whiskey 6c4d58
 adjust harbor 5af049
 adjust papa 618b00
-nudge lattice f283c5
 expand juliet c533e9
 wire whiskey 8ff88b
 trim cobalt 59953d
