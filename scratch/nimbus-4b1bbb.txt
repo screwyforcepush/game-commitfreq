@@ -2,7 +2,6 @@ polish kilo 36113d
 seed yankee 37ff05
 seed bravo 7ea162
 cleanup hotel 969720
-tidy yankee 19ed15
 wire harbor 593921
 nudge cobalt a0d2dd
 bump lima 312ca0
