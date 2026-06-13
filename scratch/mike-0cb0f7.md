@@ -6,3 +6,5 @@ polish victor 7023d7
 expand sierra 1325c8
 trim xray 20c1aa
 rework hotel bb398e
+polish sierra 2914e8
+expand yankee e88d49
