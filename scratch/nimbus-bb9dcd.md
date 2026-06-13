@@ -10,3 +10,6 @@ tweak nimbus 55704b
 tweak alpha e8e530
 tune mike a3903f
 cleanup charlie 94df19
+tidy november 986aab
+nudge kilo 430a50
+rework india 0a47bc
