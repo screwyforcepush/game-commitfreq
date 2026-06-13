@@ -15,3 +15,4 @@ prune uniform 8bf7be
 update uniform aa6d06
 rework sierra 9054b3
 rework cobalt a6a842
+trim hotel d4abb8
