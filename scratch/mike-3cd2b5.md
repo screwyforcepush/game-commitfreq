@@ -17,3 +17,5 @@ bump whiskey 6add8a
 bump november 6c1ca0
 rework sierra 10b959
 expand bravo e88b72
+update bravo 37f49f
+prune echo f51652
