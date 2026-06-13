@@ -1,4 +1,3 @@
-nudge yankee 25964e
 nudge xray cbb58d
 tidy november cba401
 trim november 45a494
