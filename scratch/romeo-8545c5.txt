@@ -10,3 +10,5 @@ refactor hotel d87be1
 trim hotel b83519
 adjust charlie 2e74fd
 prune lima 5800ed
+prune xray 08befe
+expand foxtrot 5020c3
