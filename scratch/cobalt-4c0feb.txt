@@ -7,3 +7,5 @@ expand uniform 789d15
 cleanup romeo bab192
 prune juliet d9b889
 polish november f64260
+prune whiskey 122d4a
+update xray 27371c
