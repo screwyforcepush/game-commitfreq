@@ -4,3 +4,7 @@ bump yankee a0a43c
 cleanup bravo 41c73b
 seed juliet 783cf6
 polish nimbus 47f39b
+nudge quebec ac7d78
+polish lattice ae6270
+prune alpha 0da46a
+expand golf 2f4177
