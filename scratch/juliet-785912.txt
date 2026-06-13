@@ -9,7 +9,6 @@ update oscar 65bab3
 polish whiskey 28e318
 prune oscar 527093
 tweak mike e72e63
-wire quebec 1f51d2
 refactor cobalt 1e4537
 polish delta 1c8f77
 refactor quebec 0a9eb3
