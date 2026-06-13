@@ -5,7 +5,6 @@ tweak oscar c2a797
 seed prism fcda4b
 bump sierra a10082
 tune kilo 0217b9
-seed prism b0bb65
 prune lattice 8c3b7c
 polish delta 4d2bd4
 tweak oscar 68ef33
