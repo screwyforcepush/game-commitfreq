@@ -6,6 +6,6 @@ bump prism 5409f5
 expand quebec 251cbe
 rework alpha fbcc2d
 update victor ffd41e
-adjust bravo 7579e4
+adjust foxtrot 82bf3d
 refactor cobalt 509ae8
 tweak romeo d5b3a5
