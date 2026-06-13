@@ -1,6 +1,0 @@
-prune xray b63476
-prune oscar 994593
-prune quebec d5797f
-expand charlie 9fc9b6
-update solstice 3b2342
-cleanup sierra 769915
