@@ -1,3 +1,2 @@
-trim hotel 1db4dd
 tune lattice 7f9016
 adjust solstice 1f76ae
