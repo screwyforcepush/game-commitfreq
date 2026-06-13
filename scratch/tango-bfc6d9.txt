@@ -1,4 +1,3 @@
-cleanup echo c804f3
 tidy bravo 31a58b
 cleanup foxtrot 3a7044
 tidy tango 02872e
