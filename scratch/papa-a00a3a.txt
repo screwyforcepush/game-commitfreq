@@ -9,5 +9,4 @@ wire nimbus a51eae
 trim whiskey 690f8e
 prune charlie c6ed92
 tune november 72ae9b
-bump tango acdf21
 seed bravo cdf2d6
