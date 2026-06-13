@@ -4,7 +4,6 @@ nudge foxtrot ff93b1
 tweak lattice 9a1b9c
 seed hotel 5a461a
 bump whiskey a0a127
-tune nimbus 9e0331
 refactor india 4d01a5
 bump yankee 470391
 cleanup quebec 73e2c5
