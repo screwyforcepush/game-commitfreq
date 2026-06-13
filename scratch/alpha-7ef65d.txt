@@ -10,3 +10,6 @@ tweak lattice e29a96
 adjust mike 268acb
 seed india bd4925
 polish lattice a42a80
+nudge oscar 22c912
+prune hotel e380a4
+nudge juliet d3287e
