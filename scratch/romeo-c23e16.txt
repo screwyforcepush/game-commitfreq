@@ -1,3 +1,0 @@
-bump yankee 1b145c
-wire charlie 7f200d
-update romeo dc2897
