@@ -8,6 +8,6 @@ bump delta 553d95
 nudge solstice 200055
 tidy lima db2ca5
 bump hotel 1faf70
-cleanup quebec c815d4
+seed foxtrot b3b163
 cleanup ember 3b5d90
 trim bravo e88bc6
