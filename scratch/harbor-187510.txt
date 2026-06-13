@@ -3,7 +3,6 @@ bump sierra e0e1a3
 prune foxtrot 40bdc0
 update zulu f1ac4b
 seed mike a97eed
-expand quebec b9506d
 cleanup bravo f07229
 tune tango 894cc4
 update harbor 851609
