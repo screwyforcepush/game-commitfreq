@@ -2,7 +2,7 @@ polish juliet 2bdfa7
 tune prism 829e4e
 update nimbus c1af9c
 tidy sierra c80441
-trim golf 6da0f4
+tune yankee ebf8b2
 expand uniform f8f6e2
 tune victor 388848
 rework lattice c68e66
