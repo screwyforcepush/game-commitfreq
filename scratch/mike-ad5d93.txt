@@ -2,7 +2,6 @@ tune quebec 15e95f
 bump echo 9be6ea
 tweak whiskey 566a6b
 nudge lattice 1a54d8
-nudge oscar 8abe70
 trim juliet ecf933
 wire yankee f31a76
 expand oscar 1ca9a9
