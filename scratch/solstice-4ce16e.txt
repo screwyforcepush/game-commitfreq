@@ -1,5 +1,4 @@
 expand quebec 9c1d51
-expand hotel d159da
 prune kilo b00f89
 nudge yankee fdb601
 trim romeo 3862a4
