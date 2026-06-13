@@ -1,3 +1,3 @@
 adjust foxtrot 232873
 trim tango bbd7b4
-trim quebec 9923da
+wire oscar 28e553
