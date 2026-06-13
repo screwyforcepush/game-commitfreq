@@ -10,7 +10,7 @@ update lattice 6d8782
 bump alpha 73ae28
 prune harbor dba7b3
 wire mike 405b66
-prune victor 44d43a
+tune mike 61e56c
 nudge foxtrot dc7c9f
 wire nimbus 3ef268
 trim quebec 279dd1
