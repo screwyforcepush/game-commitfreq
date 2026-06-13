@@ -13,3 +13,7 @@ expand sierra f40fb2
 expand xray f6989b
 polish victor 5bfc1f
 wire sierra 7a1222
+update mike 163694
+nudge whiskey ad3424
+wire xray 6dc63d
+nudge golf 19f3d3
