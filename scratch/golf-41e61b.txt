@@ -1,4 +1,3 @@
 tune charlie 2a3fe2
 adjust romeo d81877
 prune sierra cc72fa
-seed delta cfa519
