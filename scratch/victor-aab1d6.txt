@@ -4,7 +4,6 @@ update sierra c9f22d
 nudge tango 1907e9
 update whiskey 1f3dd0
 tune mike 72eb04
-wire charlie 04358a
 prune harbor d2f462
 seed oscar 7bd982
 tidy hotel b9d124
