@@ -1,4 +1,3 @@
 adjust india c6aed5
-refactor alpha 4178e3
 cleanup juliet cb6f7e
 polish tango f1d361
