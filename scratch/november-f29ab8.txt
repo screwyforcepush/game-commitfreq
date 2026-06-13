@@ -2,7 +2,6 @@ refactor alpha cf0fb1
 expand ember d26fd3
 polish oscar d9d72c
 bump harbor 862d1e
-wire foxtrot 4b30fa
 trim charlie e027c3
 tweak solstice 0ada8b
 prune solstice 2375a6
