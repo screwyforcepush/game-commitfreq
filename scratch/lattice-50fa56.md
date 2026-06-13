@@ -8,3 +8,4 @@ prune echo 6c8ed7
 nudge charlie 135c1a
 nudge hotel bdb95e
 polish prism 4936c9
+tidy solstice 2eb2e5
