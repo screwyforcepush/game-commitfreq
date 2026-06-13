@@ -4,6 +4,6 @@ nudge alpha bc499c
 nudge november 20440a
 polish lima 0a6a92
 trim tango e83267
-adjust juliet ac2de8
+rework solstice 6a65bd
 wire victor 1f609b
 tidy xray e80d72
