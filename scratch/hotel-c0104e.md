@@ -1,4 +1,3 @@
-bump victor 2c562a
 adjust delta ad4fef
 tune kilo d1ccea
 expand india a02d24
