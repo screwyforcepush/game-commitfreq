@@ -6,3 +6,7 @@ trim uniform a5e0dc
 nudge lima e1c66b
 tweak lattice 24c66a
 adjust tango c19735
+update kilo be72f7
+bump delta b8059b
+tidy xray 2c9767
+cleanup ember 744755
