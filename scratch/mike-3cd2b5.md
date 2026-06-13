@@ -14,3 +14,6 @@ update golf e257e0
 tune charlie 9c2186
 rework charlie 1f7b8a
 bump whiskey 6add8a
+bump november 6c1ca0
+rework sierra 10b959
+expand bravo e88b72
