@@ -1,4 +1,3 @@
 trim prism 45b3ff
-bump kilo 152ed7
 trim juliet 07de6e
 polish yankee 701f25
