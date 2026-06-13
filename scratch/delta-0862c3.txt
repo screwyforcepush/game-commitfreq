@@ -1,1 +1,5 @@
 rework lattice 3fde11
+adjust quebec 93b5e3
+tune oscar 3aaeeb
+update tango e0a761
+tune whiskey ac4b22
