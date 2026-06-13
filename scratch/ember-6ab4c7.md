@@ -6,5 +6,4 @@ seed yankee 4a0678
 polish hotel c3fb41
 tweak nimbus 3074e7
 tweak sierra 41d1a4
-bump ember 54c387
 seed yankee c1f4f1
