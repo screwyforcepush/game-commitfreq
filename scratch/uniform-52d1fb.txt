@@ -1,5 +1,4 @@
 update whiskey 4ea80e
-prune whiskey 1d9026
 wire sierra dc1aa7
 nudge xray ba7fcf
 refactor nimbus 1bd826
