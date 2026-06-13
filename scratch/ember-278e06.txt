@@ -8,3 +8,5 @@ bump charlie bb2b62
 trim yankee e42c03
 seed cobalt b6bd79
 tidy nimbus 27fa4d
+tidy papa 1a9ff4
+rework delta 7cd54b
