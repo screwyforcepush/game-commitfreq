@@ -1,2 +1,2 @@
 wire lattice a87e48
-prune yankee c8f769
+tidy bravo c32948
