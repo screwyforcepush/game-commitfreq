@@ -4,7 +4,6 @@ tweak papa cae805
 update sierra c9f22d
 update hotel 300dbf
 update whiskey 1f3dd0
-cleanup solstice 4393dc
 tune mike 72eb04
 wire charlie 04358a
 prune harbor d2f462
