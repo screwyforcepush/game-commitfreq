@@ -1,7 +1,6 @@
 wire lattice 0ec68f
 tidy alpha 173237
 cleanup foxtrot 164b8a
-prune delta adf88a
 polish cobalt a5b25a
 bump whiskey 4d2ff6
 refactor foxtrot 62110c
