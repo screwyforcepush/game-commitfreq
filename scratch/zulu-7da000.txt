@@ -7,3 +7,6 @@ bump golf c650ba
 tidy xray 3b0156
 update cobalt 46c9e1
 bump alpha 011b92
+prune sierra 592c5a
+seed oscar ec55c4
+tidy lattice 27ca6c
