@@ -9,7 +9,6 @@ refactor ember a6c80a
 refactor delta c86ef3
 polish kilo 34d6bd
 bump tango c059fe
-polish uniform 45a718
 rework kilo c45ddb
 prune papa 1fc301
 adjust tango e8d004
