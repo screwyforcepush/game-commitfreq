@@ -1,4 +1,4 @@
 expand hotel 4f5fb0
 refactor tango ddf66c
-bump cobalt 60c808
+bump hotel 6b32a8
 prune november 8b3f62
