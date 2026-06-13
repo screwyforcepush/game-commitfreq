@@ -9,3 +9,7 @@ trim hotel beddc6
 rework hotel f9f5af
 tweak november ae30d7
 wire oscar 8f1bfa
+cleanup ember 028f5c
+trim sierra 9b7975
+refactor xray b0fbc6
+prune yankee 62c7a0
