@@ -5,3 +5,5 @@ tweak xray 47d6f8
 update quebec 05f337
 tidy solstice 1f7405
 tune cobalt ebe482
+polish solstice de290f
+seed nimbus afa9ec
