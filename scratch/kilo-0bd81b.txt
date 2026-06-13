@@ -1,3 +1,2 @@
 adjust foxtrot 232873
 trim tango bbd7b4
-wire oscar 28e553
