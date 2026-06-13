@@ -7,7 +7,7 @@ prune prism 6b2b0b
 nudge charlie 4ab837
 cleanup nimbus ea58e0
 refactor echo 2591a9
-cleanup lima 3ba834
+adjust golf 66fabd
 tune sierra 8b54e5
 tidy tango c0e96d
 tidy yankee 695c54
