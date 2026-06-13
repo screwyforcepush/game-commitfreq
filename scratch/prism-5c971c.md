@@ -7,3 +7,5 @@ update alpha 8444da
 nudge oscar ed603e
 seed ember e9ea35
 wire alpha c50944
+tune delta 111f0c
+trim quebec 32417a
