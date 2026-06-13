@@ -1,3 +1,0 @@
-seed papa c42f45
-tune lattice 214277
-tidy kilo d9a16d
