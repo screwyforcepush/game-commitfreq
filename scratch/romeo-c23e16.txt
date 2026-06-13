@@ -1,3 +1,2 @@
 bump yankee 1b145c
 wire charlie 7f200d
-prune delta e2a07d
