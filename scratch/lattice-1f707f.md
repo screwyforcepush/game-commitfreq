@@ -4,3 +4,6 @@ trim lattice 0b3672
 wire lattice abac7c
 seed golf 944a42
 adjust delta d1155f
+nudge golf d44645
+tidy ember 4ac484
+bump yankee 70bf66
