@@ -10,7 +10,7 @@ wire india b4a934
 adjust nimbus b704ab
 seed zulu 44ed66
 wire foxtrot c40820
-seed november 96f73d
+tune kilo 81fe49
 trim alpha 39ee0d
 seed lima 5241ed
 tweak papa 66397f
