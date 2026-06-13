@@ -258328,3 +258328,4 @@ To https://github.com/screwyforcepush/game-commitfreq.git
 336/623  prune oscar echo                              append delta-8f53ca.dat
 337/623  wire november prism                           append mike-6d45ed.txt
 338/623  fix: tweak india (697e3e)                     append foxtrot-cdb60e.csv
+339/623  lattice trims                                 trim echo-879f62.csv:2
