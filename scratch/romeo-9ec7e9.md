@@ -3,3 +3,7 @@ trim ember cfc73a
 trim echo 8c0ead
 tweak papa 5bbf81
 tune tango 14a381
+expand lattice a18580
+tweak quebec d1be10
+expand echo 1f46d3
+update prism ab6eea
