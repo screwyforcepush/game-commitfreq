@@ -9,3 +9,4 @@ trim oscar f1b0b0
 polish lima 9a8109
 tidy nimbus 848061
 cleanup lattice 6cbc5c
+wire nimbus 3afc17
