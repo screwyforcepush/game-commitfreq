@@ -7,3 +7,6 @@ expand juliet c533e9
 wire whiskey 8ff88b
 trim cobalt 59953d
 bump lima 938ff7
+cleanup nimbus 760a6c
+trim sierra b8efa1
+tidy solstice f2d835
