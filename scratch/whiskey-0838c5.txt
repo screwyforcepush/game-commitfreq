@@ -1,7 +1,6 @@
 nudge golf 751e6b
 wire oscar 56eaf6
 prune quebec d8579f
-update quebec cfded8
 polish kilo 6c9cf6
 nudge sierra dd1215
 wire delta cd31c6
