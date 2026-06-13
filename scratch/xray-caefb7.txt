@@ -10,7 +10,7 @@ cleanup yankee 040eaf
 rework ember c3118e
 update mike 73d352
 trim hotel 720469
-nudge cobalt bc8434
+rework solstice 7ba960
 tune charlie c53232
 polish victor 1951bb
 tune hotel 49a184
