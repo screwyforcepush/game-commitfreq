@@ -3,7 +3,7 @@ tune mike fd5b1f
 nudge alpha 792724
 tweak oscar c2a797
 seed prism fcda4b
-bump sierra a10082
+update quebec b63b9a
 tune kilo 0217b9
 prune lattice 8c3b7c
 tune kilo 9c1515
