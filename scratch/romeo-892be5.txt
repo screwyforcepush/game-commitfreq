@@ -1,3 +1,0 @@
-tune sierra 9bb412
-bump juliet 96954f
-prune mike 54d1ac
