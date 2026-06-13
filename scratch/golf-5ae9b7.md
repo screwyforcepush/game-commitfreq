@@ -11,3 +11,5 @@ expand november 0e6834
 adjust charlie 08c533
 tidy sierra 6561e7
 adjust kilo 971042
+refactor lattice 41c340
+adjust november 4edf50
