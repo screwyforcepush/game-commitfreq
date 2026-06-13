@@ -1,2 +1,2 @@
-seed bravo c76cce
+wire foxtrot a1bfab
 adjust charlie af228c
