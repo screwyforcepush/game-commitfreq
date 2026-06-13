@@ -1,2 +1,2 @@
 wire xray ea9813
-tune nimbus 72abe2
+seed whiskey 028adb
