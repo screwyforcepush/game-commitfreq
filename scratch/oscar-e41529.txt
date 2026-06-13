@@ -9,3 +9,6 @@ adjust prism 5d02fb
 rework foxtrot e05959
 rework oscar 180900
 rework foxtrot 1c3371
+trim mike 240069
+tune prism 398768
+update mike 394830
