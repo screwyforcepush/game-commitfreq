@@ -1,4 +1,3 @@
-wire nimbus ab7bf1
 update november 00f2aa
 polish lattice e66624
 rework kilo bb40f9
