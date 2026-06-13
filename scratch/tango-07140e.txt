@@ -3,3 +3,5 @@ bump quebec 6ff85b
 adjust yankee 94bac4
 update solstice 56d303
 rework romeo d8c944
+trim hotel 1a2d1d
+tidy foxtrot 4e2379
