@@ -1,4 +1,3 @@
-nudge delta d6b2ab
 wire harbor 9fa99a
 polish zulu 188185
 trim whiskey e45265
