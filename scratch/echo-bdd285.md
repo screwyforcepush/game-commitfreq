@@ -5,7 +5,7 @@ nudge delta 91578c
 rework juliet 9e1465
 rework india 24cb1d
 adjust quebec 255b95
-polish zulu 44e7f7
+adjust sierra 566fef
 tune victor c26048
 tidy zulu 8696e6
 nudge golf e65169
