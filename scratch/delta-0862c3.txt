@@ -1,2 +1,2 @@
-tune xray e62013
+tidy alpha dc8475
 rework lattice 3fde11
