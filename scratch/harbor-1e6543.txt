@@ -6,3 +6,5 @@ cleanup yankee 4c889a
 rework echo 2eadfb
 tweak papa 671564
 rework kilo 554764
+adjust papa 669477
+update lattice 8248e3
