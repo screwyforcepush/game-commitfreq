@@ -1,5 +1,5 @@
 cleanup ember 3d6533
 refactor solstice c931c7
-prune yankee fe43fd
+trim november 4c0587
 seed zulu 5568bf
 polish whiskey 82fccd
