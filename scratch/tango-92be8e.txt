@@ -1,0 +1,4 @@
+tune xray 0043c1
+nudge kilo 5f20b5
+polish zulu f95171
+adjust foxtrot 4ca86e
