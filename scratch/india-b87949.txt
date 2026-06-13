@@ -1,4 +1,3 @@
-polish nimbus fb7c64
 expand foxtrot 8d4012
 adjust victor 8d6c94
 tune uniform d79130
