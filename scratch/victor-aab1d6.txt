@@ -1,4 +1,3 @@
-bump prism 9972b9
 tune india d3321c
 tweak papa cae805
 update sierra c9f22d
