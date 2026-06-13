@@ -2,7 +2,7 @@ tweak xray e2b008
 expand harbor 25b687
 polish bravo f6e133
 tweak nimbus d352c6
-cleanup quebec ea5adf
+adjust lattice 53746a
 wire delta 69f4b6
 polish xray 11dc0a
 tidy quebec be93cd
