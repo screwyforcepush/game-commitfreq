@@ -7,3 +7,5 @@ bump whiskey ce1b21
 polish charlie f0f937
 rework solstice cbac2e
 tidy lattice b9cbf8
+expand juliet 9f7ee3
+polish foxtrot 72881e
