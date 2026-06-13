@@ -1,3 +1,0 @@
-polish hotel 0d0b66
-adjust xray d9aaba
-refactor quebec a4db5d
