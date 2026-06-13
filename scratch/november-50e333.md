@@ -9,3 +9,5 @@ cleanup prism 64cee2
 cleanup quebec c01735
 tidy harbor 7980a4
 wire lima 042724
+bump lattice 3148ad
+nudge quebec de625c
