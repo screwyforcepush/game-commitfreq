@@ -9,5 +9,4 @@ cleanup uniform 077f70
 wire xray 701dc1
 seed juliet d48530
 nudge prism 266247
-nudge solstice 6aa5de
 update november a919e1
