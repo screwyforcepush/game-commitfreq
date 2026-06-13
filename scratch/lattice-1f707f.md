@@ -1,6 +1,5 @@
 wire whiskey 71125e
 rework nimbus 93d796
-trim lattice 0b3672
 wire alpha 471762
 seed golf 944a42
 adjust delta d1155f
