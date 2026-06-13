@@ -7,3 +7,7 @@ tweak prism 32df1b
 nudge sierra 61edbe
 refactor zulu 87e8bc
 expand quebec 84f09c
+rework oscar ef2dab
+trim golf 6cb5ed
+tune lima 30b667
+trim sierra 6c1eb4
