@@ -5,4 +5,4 @@ adjust solstice 35b6bb
 cleanup quebec ea5adf
 trim solstice 8e0822
 polish xray 11dc0a
-cleanup alpha b24ee5
+tidy quebec be93cd
