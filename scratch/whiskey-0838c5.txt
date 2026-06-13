@@ -6,3 +6,6 @@ wire delta cd31c6
 tune golf 051fe1
 adjust nimbus 67d421
 nudge victor 0a1fc7
+refactor cobalt dc6ad0
+tune oscar 01a7d7
+wire mike 2de7b1
