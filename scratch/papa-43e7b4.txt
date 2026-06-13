@@ -1,4 +1,4 @@
 trim delta 40b76d
-polish xray 9f0398
+seed papa 378536
 adjust alpha 1b1b03
 tune oscar e9c289
