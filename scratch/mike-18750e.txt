@@ -4,3 +4,5 @@ trim papa ecc0c1
 prune quebec 6b9383
 trim yankee efb268
 adjust golf d2c8f0
+tidy charlie da5d84
+polish zulu 89cc65
