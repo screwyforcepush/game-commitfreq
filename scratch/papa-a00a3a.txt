@@ -9,3 +9,5 @@ trim whiskey 690f8e
 prune charlie c6ed92
 tune november 72ae9b
 seed bravo cdf2d6
+wire lattice d9ee5b
+update solstice c434ac
