@@ -5,7 +5,6 @@ seed golf 0271e5
 tidy hotel 8cd60e
 tune lattice bc59e0
 cleanup cobalt 4267bc
-tune lima 616609
 tweak lima 02d5ec
 seed mike 494b91
 tune whiskey dbae7e
