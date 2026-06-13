@@ -8,5 +8,4 @@ tune kilo 0217b9
 prune lattice 8c3b7c
 polish delta 4d2bd4
 tweak oscar 68ef33
-seed prism 5c69a9
 bump whiskey c631ba
