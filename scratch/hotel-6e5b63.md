@@ -6,3 +6,5 @@ trim ember 1ab1de
 expand whiskey 060fd6
 expand sierra 169123
 polish nimbus b5d24e
+seed kilo 6367ff
+wire yankee 3e0257
