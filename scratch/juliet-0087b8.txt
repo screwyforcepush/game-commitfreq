@@ -5,7 +5,7 @@ tweak uniform 29710c
 refactor quebec 3d5627
 trim whiskey 85d6ea
 adjust golf 62b6af
-polish echo b2bb81
+wire sierra 48f2d7
 nudge solstice 65b408
 bump hotel 034ba8
 cleanup papa 91ffed
