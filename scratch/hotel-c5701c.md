@@ -1,9 +1,0 @@
-prune papa 10dd43
-rework uniform 6dd2fb
-tweak charlie b6ded9
-tune juliet cad146
-seed delta 81e0e9
-trim oscar 32c69c
-trim victor d383cd
-nudge bravo 255ae6
-prune papa 856374
