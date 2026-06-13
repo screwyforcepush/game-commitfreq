@@ -4,7 +4,6 @@ wire whiskey fb9f8d
 adjust papa df2960
 cleanup golf 82e6c6
 refactor alpha 858558
-update sierra 2e334d
 adjust lima 165316
 trim prism 478470
 seed romeo aee761
