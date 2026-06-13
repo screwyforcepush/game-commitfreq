@@ -3,6 +3,5 @@ refactor tango 7b3370
 cleanup foxtrot df5b91
 tidy echo b9c8b7
 trim tango e8cf57
-polish romeo f3f58d
 tidy bravo fc6a1f
 prune bravo 1cdc11
