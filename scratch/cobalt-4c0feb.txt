@@ -5,7 +5,6 @@ refactor tango 60d62f
 tune zulu 0c641a
 expand uniform 789d15
 cleanup romeo bab192
-prune juliet d9b889
 polish november f64260
 prune whiskey 122d4a
 update xray 27371c
