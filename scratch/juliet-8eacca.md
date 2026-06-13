@@ -7,3 +7,7 @@ prune prism c52d0b
 tweak prism 91c5fc
 adjust whiskey 82c9d6
 nudge yankee 26c8fa
+prune prism 4210a6
+expand zulu 3fca63
+update prism 490289
+nudge charlie 282160
