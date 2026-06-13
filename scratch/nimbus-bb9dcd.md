@@ -15,3 +15,6 @@ tune echo 912e9d
 update cobalt fe8904
 adjust ember e0ff47
 tweak zulu d73578
+tune delta 2fdbcc
+tidy romeo 397c91
+tidy tango 787ce4
