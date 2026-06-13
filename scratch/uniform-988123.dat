@@ -5,3 +5,5 @@ cleanup echo e70db8
 update victor ca1b2a
 trim cobalt 47f614
 update tango 88629b
+prune xray 0aa45e
+cleanup delta c8330c
