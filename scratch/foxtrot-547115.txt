@@ -1,4 +1,0 @@
-wire quebec 03cde4
-tweak charlie 9cd4b2
-bump alpha eaff0b
-seed foxtrot 3e10d5
