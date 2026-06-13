@@ -6,7 +6,7 @@ adjust mike 2c2216
 bump lima d12f12
 tidy xray 3b0156
 update cobalt 46c9e1
-bump alpha 011b92
+refactor hotel 8703cd
 prune sierra 592c5a
 seed oscar ec55c4
 tidy lattice 27ca6c
