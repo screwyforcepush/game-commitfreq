@@ -18,3 +18,5 @@ polish uniform 7d492e
 rework tango d3ef15
 tune xray 653743
 expand november ee7aa6
+adjust november f96188
+adjust foxtrot 56169d
