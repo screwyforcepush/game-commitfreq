@@ -1,8 +1,0 @@
-prune tango f09c3d
-polish yankee 8af9a3
-tune charlie 1d3bc3
-prune papa 513386
-wire bravo bef595
-prune kilo 8a5c52
-wire harbor 3141aa
-tune harbor 84a027
