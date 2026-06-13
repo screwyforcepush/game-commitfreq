@@ -1,5 +1,5 @@
 trim hotel 0ef2aa
-tidy victor 0341b4
+cleanup solstice a9e3e8
 tweak nimbus a34a6f
 tune papa ce2bb4
 bump golf e32211
