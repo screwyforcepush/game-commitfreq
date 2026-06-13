@@ -5,7 +5,6 @@ update hotel f6f95a
 polish mike f8f08e
 prune mike 57336b
 trim delta 320162
-trim lima 5e25a7
 tune mike cdaeb0
 wire whiskey 68ea40
 trim quebec 2ca4c4
