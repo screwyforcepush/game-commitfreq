@@ -19,3 +19,4 @@ update quebec 5541d7
 wire prism 13a74e
 trim bravo d22f36
 cleanup lattice bc1256
+prune xray 42e5bb
