@@ -1,2 +1,6 @@
 expand sierra c73bcc
 tune solstice 305c76
+expand kilo bc5460
+cleanup xray 13a228
+tune golf ef5020
+tune quebec fc510e
