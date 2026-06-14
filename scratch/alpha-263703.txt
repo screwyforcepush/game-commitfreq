@@ -2,5 +2,4 @@ trim bravo 1d5e11
 tweak mike c11f6e
 adjust golf 442a00
 rework echo 4476f9
-wire oscar 6649bd
 tweak foxtrot 784351
