@@ -1,5 +1,4 @@
 expand solstice a572f2
-expand foxtrot fa82f7
 expand charlie 6dfcac
 update nimbus f202b0
 prune victor d2ce36
