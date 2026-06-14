@@ -13,3 +13,7 @@ bump lattice 3148ad
 nudge quebec de625c
 polish harbor 44e04a
 tidy golf 9ac4a6
+update solstice c8e96e
+tune charlie 6c5a7a
+tune lima f17d90
+cleanup uniform 8d646b
