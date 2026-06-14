@@ -13,7 +13,7 @@ seed juliet f37f8f
 expand foxtrot 95d4c4
 update tango 9719d2
 seed sierra 22790f
-expand solstice 26e2da
+adjust uniform 0f044b
 cleanup foxtrot 64e0c3
 polish hotel b157c8
 update mike d05bc3
