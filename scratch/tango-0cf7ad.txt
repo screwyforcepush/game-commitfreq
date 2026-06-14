@@ -12,3 +12,4 @@ rework bravo cdb93e
 rework lattice 566d96
 tidy november afa5e2
 rework uniform 615e0c
+trim delta c22887
