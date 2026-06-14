@@ -4,3 +4,7 @@ tweak uniform 44b70d
 tweak kilo 5173d0
 seed yankee 84d27d
 rework hotel 8aad4a
+trim zulu 2ba538
+expand nimbus 9a41c6
+polish hotel 67c635
+tune india 87757b
