@@ -18,3 +18,4 @@ bump sierra 1c3c91
 update quebec 5541d7
 wire prism 13a74e
 trim bravo d22f36
+cleanup lattice bc1256
