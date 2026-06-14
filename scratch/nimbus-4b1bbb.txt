@@ -14,3 +14,5 @@ tweak kilo e69be7
 tweak juliet 6ec40b
 wire yankee 9de0dd
 tidy harbor 88aaa7
+expand tango e6e631
+prune hotel 1ad706
