@@ -1,3 +1,2 @@
 adjust india c6aed5
-tune delta 215da1
 polish tango f1d361
