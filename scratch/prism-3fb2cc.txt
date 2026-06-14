@@ -1,1 +1,1 @@
-prune harbor 469c96
+trim echo 8dc30b
