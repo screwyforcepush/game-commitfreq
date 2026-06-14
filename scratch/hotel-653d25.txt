@@ -5,7 +5,6 @@ tune nimbus a41f8c
 wire zulu 411b07
 rework papa e8e14f
 adjust uniform b7981e
-tidy solstice 731bf0
 tune prism deab50
 expand romeo 8c5ba3
 rework lattice c2a2e6
