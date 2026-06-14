@@ -1,4 +1,3 @@
-prune foxtrot 74d3e4
 cleanup foxtrot 51486c
 tweak xray 9cedac
 wire mike b97398
