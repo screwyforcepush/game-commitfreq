@@ -20,7 +20,7 @@ bump nimbus 85214e
 bump romeo 483642
 polish cobalt 0e816c
 prune harbor 9893f2
-adjust india c4ca66
+bump echo bb0b96
 expand victor f7f5f6
 tune uniform 304018
 seed whiskey 6ca2b1
