@@ -2,3 +2,7 @@ prune papa 701ed3
 rework uniform 4ef7cc
 refactor juliet d11bf2
 tweak nimbus f7f66c
+trim hotel a04c9f
+nudge romeo 4faf91
+nudge sierra 9bb16d
+wire charlie f263fb
