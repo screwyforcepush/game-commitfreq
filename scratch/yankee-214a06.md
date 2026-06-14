@@ -3,4 +3,4 @@ adjust xray 00134f
 adjust echo 300ef7
 polish prism 06d074
 bump november 8fad1f
-trim echo ffbc12
+prune victor fdd678
