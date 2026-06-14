@@ -1,0 +1,6 @@
+wire lattice f259aa
+update nimbus 46272e
+tune harbor 508508
+polish lattice 846b16
+adjust xray 983a04
+seed juliet 7880e2
