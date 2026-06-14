@@ -1,5 +1,4 @@
 nudge papa 5fa5a2
 wire delta 5ff107
-nudge whiskey d5e7cb
 wire yankee 242628
 seed cobalt fa4095
