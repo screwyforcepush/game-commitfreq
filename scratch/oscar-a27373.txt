@@ -1,6 +1,6 @@
 adjust juliet 505a7f
 prune lima d068e8
-tidy echo 2377ee
+prune juliet 33c59f
 cleanup tango 018f03
 prune lattice 012c21
 polish lattice 2bd512
