@@ -11,3 +11,5 @@ prune lima a71c31
 rework kilo 0ade7b
 cleanup lattice c1e949
 update mike c75fe0
+tidy juliet 573185
+rework lattice 3914dd
