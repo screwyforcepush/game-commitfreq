@@ -1,6 +1,5 @@
 bump uniform 6ef870
 tidy harbor 0f98c5
-tidy yankee 20eba4
 prune lima c49e6b
 bump hotel 2359f0
 prune cobalt edbf8c
