@@ -2,7 +2,6 @@ expand solstice a572f2
 expand charlie 6dfcac
 update nimbus f202b0
 prune victor d2ce36
-seed quebec 580bfc
 nudge juliet 0b1be7
 bump ember 98005e
 update golf 5b69e0
