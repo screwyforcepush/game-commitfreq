@@ -1,4 +1,3 @@
-wire solstice 4c8fe9
 tidy zulu 7d2e3d
 prune delta e0a71d
 cleanup alpha fb2a87
