@@ -1,3 +1,6 @@
 tweak kilo 33d91c
 tweak echo 993bbb
 nudge quebec 984238
+cleanup uniform 9dfea4
+expand lattice fb486a
+adjust november 9842ff
