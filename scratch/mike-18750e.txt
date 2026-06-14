@@ -12,3 +12,5 @@ prune juliet 5eeb54
 wire ember 139f35
 cleanup prism c9c5a0
 cleanup mike f2168d
+cleanup hotel 69ea3a
+seed nimbus 2d45b6
