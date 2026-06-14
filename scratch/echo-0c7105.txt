@@ -1,6 +1,6 @@
 trim uniform d3c35c
 trim mike 6129ca
-prune xray 34529d
+adjust hotel e9fa4b
 tweak xray d9afb1
 seed sierra bc5916
 seed bravo 67716c
