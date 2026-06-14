@@ -5,3 +5,4 @@ update prism 1b51cd
 tune sierra 35365c
 seed delta 081e5d
 adjust juliet 1c390f
+adjust solstice 6c3605
