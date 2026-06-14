@@ -1,5 +1,4 @@
 prune echo 9184be
 expand yankee 300157
-nudge sierra b779fa
 polish oscar 6dd506
 nudge foxtrot 5f5315
