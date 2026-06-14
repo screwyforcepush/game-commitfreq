@@ -7,3 +7,6 @@ trim prism c64dca
 expand yankee 91793d
 rework golf bcf24b
 rework zulu 9d798f
+update charlie f1fe77
+bump lattice 99f21d
+rework xray 1c3433
