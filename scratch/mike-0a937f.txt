@@ -1,4 +1,3 @@
-seed sierra 29b74e
 tune sierra 5120b6
 update uniform 9979e0
 bump echo bc22ea
