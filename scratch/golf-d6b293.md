@@ -4,3 +4,7 @@ rework alpha aa6f11
 wire charlie 68123f
 tweak charlie 909a58
 update delta ff3f55
+tune uniform ca0f74
+trim whiskey 5dd2ff
+tune juliet fc9ffe
+tweak zulu 0ec5c2
