@@ -2,7 +2,6 @@ trim delta fc5d8b
 tweak papa 9d0f1c
 seed kilo 208a46
 prune mike 2bf04f
-cleanup november 71e609
 adjust golf 7bce74
 trim prism a4789c
 bump oscar 1796dd
