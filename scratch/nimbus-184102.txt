@@ -11,7 +11,6 @@ refactor ember 4f9f4a
 update quebec 769e29
 nudge juliet 212b75
 tidy foxtrot 0d5940
-prune quebec ec5bc2
 nudge ember 741e10
 prune golf ecff4d
 seed tango 8f4a50
