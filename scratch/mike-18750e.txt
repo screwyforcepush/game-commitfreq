@@ -5,7 +5,7 @@ prune quebec 6b9383
 trim yankee efb268
 tune india 41bb57
 tidy charlie da5d84
-polish zulu 89cc65
+trim ember 059736
 seed india 335514
 adjust mike bce225
 update delta af7287
