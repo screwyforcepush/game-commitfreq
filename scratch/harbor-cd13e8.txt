@@ -7,3 +7,7 @@ adjust romeo 12683c
 polish delta e0fa0c
 seed lima 5ee76a
 tweak cobalt f1b2b1
+update quebec e2765e
+tidy kilo 1f9754
+update lattice 1be041
+expand lattice 3a6ca8
