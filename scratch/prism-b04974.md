@@ -8,3 +8,5 @@ nudge kilo 373797
 nudge nimbus b077b2
 wire ember 0e67d7
 cleanup uniform d0b1b0
+bump lattice e7167a
+polish tango 2073a9
