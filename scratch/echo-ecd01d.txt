@@ -1,5 +1,4 @@
 prune oscar dc5bb4
-prune november 49dcfe
 expand echo 86c7a1
 bump echo 863ecd
 bump hotel 789c8e
