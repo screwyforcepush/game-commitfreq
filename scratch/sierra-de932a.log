@@ -2,7 +2,7 @@ tune tango d0b6ba
 wire golf 10b116
 rework alpha e2dc92
 polish echo d075f0
-cleanup delta 8e1b95
+refactor golf bd7945
 seed golf dab7fd
 prune foxtrot f9a784
 tidy cobalt 5bf2ec
