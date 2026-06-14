@@ -1,4 +1,3 @@
-wire whiskey 3a813f
 polish sierra ab83b7
 tidy cobalt 75a185
 tidy cobalt 06e930
