@@ -6,3 +6,7 @@ update quebec 05f337
 tune cobalt ebe482
 polish solstice de290f
 seed nimbus afa9ec
+trim charlie 13b111
+rework zulu b0bc77
+bump lattice 02e5d6
+trim quebec fdf2c0
