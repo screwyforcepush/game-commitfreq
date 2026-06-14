@@ -1,3 +1,6 @@
 polish uniform 8e9e6b
 expand lattice f1c7f9
 rework sierra c14faa
+expand mike e0ad6a
+expand oscar 389c0b
+prune foxtrot e93c0c
