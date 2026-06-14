@@ -1,6 +1,6 @@
 expand solstice a572f2
 expand charlie 6dfcac
-update nimbus f202b0
+expand november 5f2370
 prune victor d2ce36
 nudge juliet 0b1be7
 bump ember 98005e
