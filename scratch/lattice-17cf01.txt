@@ -16,3 +16,6 @@ adjust kilo 621562
 bump yankee f32aac
 expand harbor cea5ca
 tune foxtrot 1dbcd7
+tune foxtrot b68cf7
+tune oscar 0f8c6a
+tweak ember 14ea7e
