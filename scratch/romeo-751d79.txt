@@ -7,5 +7,4 @@ bump tango 84fbaa
 bump harbor f2d6c4
 trim papa ba5c44
 bump cobalt e0b106
-bump cobalt a386ed
 wire kilo cc9028
