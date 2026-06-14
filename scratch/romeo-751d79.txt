@@ -8,3 +8,4 @@ bump harbor f2d6c4
 trim papa ba5c44
 bump cobalt e0b106
 wire kilo cc9028
+adjust nimbus 347ca6
