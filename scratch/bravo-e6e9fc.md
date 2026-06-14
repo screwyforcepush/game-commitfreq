@@ -1,4 +1,3 @@
-adjust sierra de820c
 tweak solstice 69d635
 bump india 1554dd
 update whiskey 610ce9
