@@ -6,7 +6,6 @@ bump echo 3c13a3
 bump juliet 311a5d
 trim november ac1a8f
 polish echo 5d9ea4
-tweak oscar 130b51
 adjust xray 4e6cde
 tidy prism da3832
 rework bravo cdb93e
