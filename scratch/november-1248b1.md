@@ -3,7 +3,7 @@ prune lima 0624d8
 trim ember ed00a8
 cleanup prism 7f1508
 polish lima b131a2
-expand golf 7187d9
+adjust yankee 9ced9a
 update ember bcc008
 refactor cobalt 3a1e42
 tidy cobalt f4701d
