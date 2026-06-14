@@ -8,3 +8,6 @@ wire bravo 5e9c10
 prune yankee d68b1d
 cleanup cobalt 5980c6
 polish quebec 7117a2
+update delta 2cf26e
+trim prism ad667e
+seed ember 8565da
