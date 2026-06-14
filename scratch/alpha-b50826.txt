@@ -1,5 +1,4 @@
 tune quebec 79ee85
-bump quebec b3fa8c
 adjust kilo c42084
 wire harbor 6ce5cd
 polish echo b3c006
