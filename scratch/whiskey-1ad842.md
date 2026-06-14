@@ -7,3 +7,7 @@ seed bravo 49d244
 prune yankee 85518a
 seed lima 43f19b
 rework lattice c50315
+bump alpha 1746c8
+expand bravo d67c3d
+adjust tango 1559a6
+expand delta 5758d6
