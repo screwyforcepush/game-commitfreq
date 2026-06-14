@@ -9,3 +9,7 @@ seed lattice d2f39c
 cleanup alpha 753d33
 wire bravo 8c8c2c
 tune kilo 6eee0d
+expand yankee aa7334
+tune bravo bd90f4
+expand kilo 7918d4
+polish charlie b0282b
