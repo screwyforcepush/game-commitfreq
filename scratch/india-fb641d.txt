@@ -1,5 +1,4 @@
 tweak whiskey 0115d1
-update prism c9b34f
 wire sierra 9b9b1b
 update golf 14a35a
 seed golf 2de22b
