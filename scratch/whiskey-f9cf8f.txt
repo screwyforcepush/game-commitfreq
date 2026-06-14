@@ -4,7 +4,7 @@ adjust solstice 5903d9
 trim echo e4faae
 expand harbor 7c9c6e
 adjust mike 886dda
-polish sierra 75f176
+tidy golf ae2abc
 cleanup whiskey 5e294a
 wire zulu 1b82d3
 adjust oscar a8670f
