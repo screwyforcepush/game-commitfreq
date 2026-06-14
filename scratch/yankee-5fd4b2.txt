@@ -1,6 +1,5 @@
 adjust juliet 5b2bba
 tune cobalt 1cf99e
-tune zulu bd825d
 adjust mike 7b7556
 rework prism ee39bb
 trim bravo 47e9d9
