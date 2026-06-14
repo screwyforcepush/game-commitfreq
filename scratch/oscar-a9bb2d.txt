@@ -2,7 +2,6 @@ tweak xray 337972
 seed victor 618b20
 nudge charlie df6124
 bump foxtrot 76149c
-tweak kilo 7aaf3c
 tidy november f64c2f
 polish xray 80d346
 seed xray 1c5c11
