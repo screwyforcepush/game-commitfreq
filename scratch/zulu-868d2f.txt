@@ -1,1 +1,3 @@
 update bravo c7211b
+adjust tango c5611a
+seed uniform 6ffcd6
