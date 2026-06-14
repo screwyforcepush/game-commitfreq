@@ -1,4 +1,3 @@
-prune echo 2dae5d
 tweak delta eba0eb
 update india 04bdf1
 prune xray f76d27
