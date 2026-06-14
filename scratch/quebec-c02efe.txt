@@ -1,3 +1,0 @@
-prune foxtrot 0304eb
-cleanup uniform 03b97a
-seed whiskey 429036
