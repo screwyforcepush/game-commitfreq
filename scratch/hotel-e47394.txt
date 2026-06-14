@@ -1,1 +1,2 @@
 cleanup echo 6e915a
+bump solstice 1d7644
