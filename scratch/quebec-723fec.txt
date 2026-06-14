@@ -1,2 +1,0 @@
-wire oscar 7afe1a
-seed tango 77f491
