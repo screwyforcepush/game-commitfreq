@@ -1,4 +1,3 @@
-update xray adc6f5
 prune victor fe1b87
 refactor yankee 6d9f74
 cleanup delta 4c2bf5
