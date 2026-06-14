@@ -6,7 +6,7 @@ tidy echo 03b9bf
 nudge charlie 4ab837
 cleanup nimbus ea58e0
 refactor echo 2591a9
-adjust golf 66fabd
+wire quebec c54611
 tune sierra 8b54e5
 tidy tango c0e96d
 tidy yankee 695c54
