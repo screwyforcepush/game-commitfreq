@@ -1,2 +1,2 @@
-cleanup echo 6e915a
+prune india 521a5c
 bump solstice 1d7644
