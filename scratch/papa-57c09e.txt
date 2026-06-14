@@ -1,4 +1,3 @@
-update yankee 389df0
 prune yankee a3d59f
 trim papa a32536
 cleanup cobalt 116a09
