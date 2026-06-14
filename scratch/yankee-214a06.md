@@ -1,4 +1,4 @@
-update whiskey f25878
+wire hotel 44ea50
 adjust xray 00134f
 adjust echo 300ef7
 polish prism 06d074
