@@ -4,7 +4,6 @@ polish nimbus 8dc809
 tune kilo 826e29
 tidy alpha 7a42b1
 trim golf 330fc2
-adjust romeo b35d29
 refactor lima c1712f
 prune hotel c01cf8
 nudge zulu c8107d
