@@ -6,4 +6,3 @@ adjust alpha a502f7
 seed ember d6e38f
 nudge oscar eeedfd
 trim uniform f76c75
-polish delta 751467
