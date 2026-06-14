@@ -2,3 +2,6 @@ refactor ember 277c73
 polish bravo e1e600
 tweak nimbus 6ddb1c
 prune charlie b34965
+trim solstice 3e2104
+nudge oscar d1ef45
+wire zulu 382c00
