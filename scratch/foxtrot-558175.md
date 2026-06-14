@@ -11,3 +11,4 @@ prune lima 40160a
 update kilo 91c03d
 seed nimbus 19c877
 prune lattice cde3d5
+seed alpha ce2d11
