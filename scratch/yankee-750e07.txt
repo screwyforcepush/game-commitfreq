@@ -1,5 +1,0 @@
-tweak foxtrot 68ce4f
-tidy papa 96c61e
-polish hotel 36cad3
-cleanup golf bf99ec
-tune juliet e60aa7
