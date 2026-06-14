@@ -11,3 +11,5 @@ wire quebec c6d54c
 seed xray 95f432
 tidy echo a3e5b6
 cleanup romeo 2f4a4a
+tune papa 6c48f0
+nudge uniform c6255e
