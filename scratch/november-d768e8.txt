@@ -1,6 +1,0 @@
-prune sierra 61c91f
-tidy bravo d46e27
-tweak solstice 5e74b9
-trim tango f1062e
-prune nimbus 04d327
-update whiskey ed053e
