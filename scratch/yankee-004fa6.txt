@@ -4,3 +4,5 @@ tune harbor 508508
 polish lattice 846b16
 adjust xray 983a04
 seed juliet 7880e2
+nudge uniform 938a04
+bump xray 65f881
