@@ -9,6 +9,6 @@ tidy lima e602dc
 bump nimbus 005c40
 prune lima 40160a
 update kilo 91c03d
-seed nimbus 19c877
+nudge foxtrot 5cf25d
 prune lattice cde3d5
 seed alpha ce2d11
