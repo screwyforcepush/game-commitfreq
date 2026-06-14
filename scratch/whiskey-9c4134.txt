@@ -8,3 +8,4 @@ tune prism 753034
 polish cobalt c5939a
 update papa b68b5c
 wire charlie f94759
+trim sierra bf6f4e
