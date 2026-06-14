@@ -5,3 +5,6 @@ tune cobalt e9281c
 tweak kilo af1fa3
 bump alpha 6b1e30
 nudge kilo 4651ac
+wire harbor bf9471
+wire delta 3788c0
+nudge charlie b990ec
