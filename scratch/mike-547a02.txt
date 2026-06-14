@@ -3,3 +3,6 @@ expand papa eeed03
 prune cobalt 842c0f
 update juliet b89708
 update quebec 226375
+tidy xray 75f914
+adjust ember 9aaf90
+tweak cobalt c9e13f
