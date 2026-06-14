@@ -5,7 +5,6 @@ prune kilo 21b05a
 rework lattice 707965
 adjust kilo 797d38
 prune kilo 188558
-bump golf 072a10
 tune solstice f76d37
 wire charlie 5d7ae6
 bump echo 8c2b9d
