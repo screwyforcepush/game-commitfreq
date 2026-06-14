@@ -1,4 +1,3 @@
-bump romeo 121c85
 tweak xray 337972
 polish delta 427b5f
 seed india 001b97
