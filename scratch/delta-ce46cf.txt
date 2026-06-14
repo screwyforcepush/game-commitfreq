@@ -11,3 +11,6 @@ prune charlie 2081c9
 seed nimbus 91e613
 bump quebec ca8d19
 rework yankee 3a1a13
+tune kilo c96742
+polish tango 063bc9
+nudge mike 41ae2e
