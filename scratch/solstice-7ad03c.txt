@@ -11,3 +11,6 @@ polish uniform 6c1444
 prune lima bb5dc4
 bump zulu 42b0be
 tweak india 14a6d2
+adjust india b0bb32
+trim bravo f03e76
+trim golf 78412b
