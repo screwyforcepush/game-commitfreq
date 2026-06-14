@@ -1,4 +1,0 @@
-trim echo ee1a4c
-expand alpha 057ed9
-seed lima 93de6f
-seed juliet 3a3fc4
