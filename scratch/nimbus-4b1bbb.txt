@@ -7,7 +7,7 @@ nudge cobalt a0d2dd
 adjust hotel f8b4bc
 expand cobalt aaa4ce
 tweak mike eab4a0
-trim charlie 48dba1
+bump quebec 3b7506
 refactor lattice 41d953
 tweak echo e44a29
 tweak kilo e69be7
