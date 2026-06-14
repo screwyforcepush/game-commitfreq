@@ -11,3 +11,5 @@ bump alpha 1746c8
 expand bravo d67c3d
 adjust tango 1559a6
 expand delta 5758d6
+adjust cobalt b6d435
+tidy nimbus 4c1f20
