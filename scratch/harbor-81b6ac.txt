@@ -5,3 +5,6 @@ polish hotel 64b787
 bump alpha a5b062
 wire lattice 9b8077
 polish tango f72d93
+trim alpha 26bff4
+rework juliet de81d1
+nudge nimbus d07b76
