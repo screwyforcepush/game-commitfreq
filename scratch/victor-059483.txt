@@ -2,3 +2,7 @@ adjust kilo 42f24a
 seed lattice 271583
 bump india 32b272
 prune nimbus 870e9f
+prune zulu 4174ba
+adjust nimbus a9a911
+adjust juliet 842ee0
+rework kilo a46e4d
