@@ -5,7 +5,7 @@ cleanup hotel 7a8f0d
 nudge lattice 5df650
 trim hotel 5b4b07
 tidy bravo 02daaf
-refactor uniform 778c5f
+tidy november db801a
 adjust cobalt efc664
 tune tango 5db759
 refactor mike 13e1ec
