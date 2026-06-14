@@ -8,7 +8,6 @@ update mike db757e
 wire lima 8225aa
 prune lattice bd4662
 refactor ember 4f9f4a
-seed echo ee5912
 update quebec 769e29
 nudge juliet 212b75
 tidy foxtrot 0d5940
