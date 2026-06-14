@@ -16,3 +16,7 @@ refactor uniform d88c53
 bump yankee b16d4b
 update ember a480d1
 trim victor 8ed62c
+update november af3df9
+prune lattice 72c209
+tune victor 8b2f30
+cleanup ember 91656f
