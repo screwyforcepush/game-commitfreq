@@ -3,3 +3,7 @@ expand alpha 8be43d
 expand nimbus b19f01
 cleanup zulu 59bc75
 bump ember 940289
+adjust november 4ccb3e
+tidy tango 6a14aa
+prune tango 3431d3
+nudge whiskey 11b4b5
