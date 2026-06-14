@@ -2,6 +2,5 @@ refactor juliet b28a0c
 bump alpha e9b94d
 expand foxtrot b7a8a9
 wire quebec 554d4c
-expand delta c87eaf
 adjust uniform f23a55
 trim alpha 6f430c
