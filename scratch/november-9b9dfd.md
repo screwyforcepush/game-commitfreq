@@ -1,7 +1,6 @@
 prune sierra 5b74ff
 polish bravo 445ac1
 trim uniform c76517
-wire foxtrot 5b2f42
 tune lima 300c3c
 tune alpha 84105e
 seed bravo 09be53
