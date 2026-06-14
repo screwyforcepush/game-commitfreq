@@ -7,3 +7,7 @@ adjust solstice a77083
 expand whiskey a7c998
 polish hotel 29fc8d
 nudge solstice 07abb6
+nudge mike 915c07
+expand india 711152
+expand quebec b7b64b
+tune delta 392b46
