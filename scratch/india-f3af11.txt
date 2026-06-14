@@ -6,3 +6,7 @@ update tango 52f151
 trim bravo aeedc4
 adjust juliet 6aae06
 tweak yankee 36c486
+tidy mike ddfcb7
+trim india 636a64
+wire alpha d147c2
+wire lima 9f9962
