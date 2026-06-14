@@ -18,3 +18,7 @@ tune zulu 9fb13b
 expand delta 66c5b9
 polish delta 91af77
 trim golf 4ec13d
+expand harbor c161b4
+tweak yankee cf46bc
+adjust oscar c0a0a5
+tidy cobalt f17170
