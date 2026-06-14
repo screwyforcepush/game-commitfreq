@@ -16,3 +16,6 @@ prune delta 7b78bf
 rework juliet 55aafd
 update xray 31287c
 trim xray 2faf3e
+wire charlie a0d67e
+wire prism d54c74
+trim nimbus c9872b
