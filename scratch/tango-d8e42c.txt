@@ -1,5 +1,0 @@
-prune romeo 8e5e7c
-tidy tango 3d080b
-trim papa 6993c7
-cleanup golf f1229c
-prune kilo b5b663
