@@ -12,3 +12,7 @@ nudge golf 3f7825
 trim oscar 9b089f
 polish sierra ec7974
 prune prism acc60e
+bump prism ef8444
+tidy delta 168940
+tweak cobalt 1fd173
+adjust ember ecd0ce
