@@ -1,4 +1,4 @@
-wire lattice 081ac4
+prune november 501c7c
 adjust alpha e18feb
 trim alpha 35b953
 expand cobalt 1e32d0
