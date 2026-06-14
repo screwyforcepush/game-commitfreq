@@ -3,3 +3,5 @@ tune charlie 7b9477
 wire papa dd221c
 polish hotel 64b787
 bump alpha a5b062
+wire lattice 9b8077
+polish tango f72d93
