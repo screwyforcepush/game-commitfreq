@@ -10,3 +10,7 @@ expand uniform 7fef3f
 rework lattice c2a2e6
 seed india 79414d
 seed juliet f37f8f
+expand foxtrot 95d4c4
+update tango 9719d2
+seed sierra 22790f
+expand solstice 26e2da
