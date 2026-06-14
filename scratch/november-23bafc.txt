@@ -4,7 +4,6 @@ refactor charlie d70d7e
 expand uniform 9729f3
 bump sierra 9c31cd
 tidy juliet 860776
-update tango f651c6
 polish lattice f973a2
 seed yankee 40d648
 refactor tango bd07ae
