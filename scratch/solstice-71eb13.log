@@ -2,3 +2,7 @@ cleanup alpha d5549d
 bump nimbus 288a13
 tune lima 6e887c
 nudge nimbus f71475
+wire tango 8a7462
+trim tango 93097b
+nudge november 6b8b35
+prune charlie 9a7003
