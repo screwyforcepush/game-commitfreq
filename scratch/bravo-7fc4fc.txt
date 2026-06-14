@@ -4,3 +4,6 @@ update charlie 99ee64
 trim juliet 2efd43
 tidy mike cb0c78
 tune bravo ad5518
+rework november 7e6535
+nudge papa 5f6a48
+bump delta 76a29f
