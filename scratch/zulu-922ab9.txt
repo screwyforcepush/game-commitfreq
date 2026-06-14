@@ -1,5 +1,4 @@
 rework lima 86ea32
-trim bravo a587dc
 wire charlie 19e203
 rework xray 9e6df0
 polish bravo 6242f1
