@@ -1,5 +1,4 @@
 bump foxtrot 7bacb5
-nudge delta 3cdc31
 expand november 00cb4b
 polish cobalt 3aa464
 rework charlie cb584b
