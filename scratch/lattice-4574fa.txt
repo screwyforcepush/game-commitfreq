@@ -4,3 +4,6 @@ expand kilo bc5460
 cleanup xray 13a228
 tune golf ef5020
 tune quebec fc510e
+prune november 9b8cae
+tune cobalt 5d83e2
+refactor delta 4d6787
