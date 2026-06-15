@@ -2,7 +2,7 @@ nudge charlie dad76a
 nudge uniform e66069
 bump yankee 15cad8
 tidy romeo cf778d
-update hotel 46c932
+adjust xray c78067
 rework victor d82292
 polish delta e0fa0c
 seed lima 5ee76a
