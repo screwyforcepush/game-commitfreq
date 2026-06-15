@@ -4,7 +4,6 @@ polish solstice 6e2a0b
 tweak romeo f811b1
 cleanup india 9d5631
 wire november 95c3a9
-wire victor 213ddc
 adjust tango 7e2a00
 tune foxtrot 7f426a
 tweak cobalt 8afa22
