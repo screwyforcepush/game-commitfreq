@@ -12,3 +12,6 @@ tidy charlie 552d70
 tidy whiskey 47a985
 refactor papa 7c231a
 tweak hotel fee797
+prune november e05af9
+tidy golf 100018
+polish yankee 02180f
