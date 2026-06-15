@@ -5,3 +5,5 @@ trim xray 1b1d57
 tidy solstice 318a7a
 polish november d9eaf0
 trim echo 96a482
+nudge cobalt 9c66e1
+update quebec 394da6
