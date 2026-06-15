@@ -1,5 +1,4 @@
 tidy xray bb716d
-tidy sierra d45f08
 polish charlie 137a1b
 wire nimbus bf0279
 expand cobalt b4c9dd
