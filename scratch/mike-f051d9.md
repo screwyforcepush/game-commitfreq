@@ -3,5 +3,5 @@ bump echo a01d36
 seed uniform f0a4b9
 rework nimbus 33626c
 tweak uniform f53949
-refactor nimbus 56bd96
+adjust solstice d9bf72
 cleanup charlie 671929
