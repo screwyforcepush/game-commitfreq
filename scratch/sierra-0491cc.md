@@ -11,3 +11,6 @@ expand bravo efe76b
 cleanup bravo 74ec73
 rework oscar 1be653
 refactor harbor 55346d
+adjust yankee 438d81
+tidy harbor da83ec
+tidy bravo 5b47a4
