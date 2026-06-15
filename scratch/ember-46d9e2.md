@@ -10,3 +10,6 @@ wire harbor 10efa5
 refactor lima 98db9d
 update oscar 76ef9d
 rework lattice a710d0
+tune ember 1bb2f6
+wire mike ba8dee
+trim kilo fe8230
