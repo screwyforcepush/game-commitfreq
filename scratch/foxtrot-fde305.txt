@@ -1,5 +1,0 @@
-trim alpha 25df9c
-seed nimbus 47daed
-trim cobalt 80c033
-tweak zulu 35aad7
-adjust mike ef0aec
