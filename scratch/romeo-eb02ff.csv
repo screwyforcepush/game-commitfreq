@@ -9,7 +9,7 @@ tune xray 35947f
 nudge uniform f86123
 tidy xray cf9885
 nudge sierra 5345bb
-seed india 1d6311
+expand alpha a05a0c
 expand solstice 55dfa4
 rework juliet c13a03
 seed echo 31c86c
