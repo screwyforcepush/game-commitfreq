@@ -6,7 +6,6 @@ seed charlie 59969c
 trim delta c5995d
 prune foxtrot 30389e
 refactor hotel 80be07
-tune golf d22167
 adjust juliet ed4c78
 cleanup juliet 338395
 rework india 3b95c2
