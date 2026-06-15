@@ -9,3 +9,6 @@ tune mike 6538c6
 seed quebec 7bb6a6
 bump kilo 4a9248
 adjust papa 93ce42
+bump sierra db13e7
+seed delta f89c67
+tune oscar 95e936
