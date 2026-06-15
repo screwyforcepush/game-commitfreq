@@ -3,4 +3,4 @@ prune echo d08db2
 adjust solstice c9daad
 tweak harbor e90932
 update quebec 36845b
-tweak yankee 52edb4
+tidy charlie 247a6b
