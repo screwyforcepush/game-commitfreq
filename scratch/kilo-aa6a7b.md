@@ -9,3 +9,6 @@ bump uniform 9a3d17
 cleanup victor 4a6e24
 nudge india 1aea22
 nudge foxtrot 482534
+wire hotel ac2eef
+tweak yankee 154bbf
+bump delta 4d406e
