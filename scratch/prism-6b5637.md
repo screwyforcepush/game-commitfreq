@@ -15,3 +15,6 @@ adjust oscar 3b83db
 trim bravo b87a6b
 tune tango c2c129
 bump november aefde2
+adjust bravo 8ff46f
+trim alpha dfcc56
+nudge ember 55001e
