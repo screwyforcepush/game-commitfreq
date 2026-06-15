@@ -1,6 +1,5 @@
 polish echo b3c92d
 trim sierra 4002fe
-cleanup solstice a26202
 cleanup echo 3908bc
 update harbor 7b1582
 prune nimbus 9a2eec
