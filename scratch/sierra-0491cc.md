@@ -8,7 +8,6 @@ bump juliet 82d35f
 rework yankee 7cd150
 expand delta 52baf6
 expand bravo efe76b
-tidy india 275030
 cleanup bravo 74ec73
 rework oscar 1be653
 refactor harbor 55346d
