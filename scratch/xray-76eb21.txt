@@ -1,5 +1,0 @@
-tune alpha c40ac4
-expand yankee b55285
-tidy zulu 0c2f4a
-nudge harbor b6170c
-expand victor 1e88a9
