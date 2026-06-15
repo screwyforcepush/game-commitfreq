@@ -1,4 +1,4 @@
-tune solstice 4a129b
+bump lattice 842aa9
 refactor victor 931082
 update quebec 9e2529
 expand charlie b22a69
