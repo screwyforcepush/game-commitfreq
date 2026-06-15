@@ -1,2 +1,1 @@
-prune papa 9b5173
 adjust golf fa8574
