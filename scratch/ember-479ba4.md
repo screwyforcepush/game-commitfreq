@@ -9,3 +9,6 @@ nudge yankee eedd62
 prune nimbus 8a046c
 adjust golf 6c2941
 tweak whiskey ddf418
+prune solstice d80d87
+nudge juliet bfa43d
+update harbor d3215f
