@@ -23,3 +23,6 @@ seed alpha 3f446d
 tidy india ac139f
 adjust solstice 1a051a
 polish mike f9393d
+tidy sierra 262951
+tidy yankee 6c1795
+bump xray dd7122
