@@ -6,3 +6,7 @@ bump lima 66decc
 cleanup nimbus 4a945b
 update harbor 1c5276
 trim xray d17b10
+expand quebec fbc4ca
+tidy xray 10f95c
+refactor solstice c7613c
+refactor sierra e56d69
