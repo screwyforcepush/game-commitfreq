@@ -2,7 +2,6 @@ refactor november 9d80bf
 refactor lattice 3509d6
 trim lattice 96f717
 seed juliet 67a6e6
-prune prism 09cf15
 refactor foxtrot 70d2d4
 bump echo eabb06
 expand harbor a18198
