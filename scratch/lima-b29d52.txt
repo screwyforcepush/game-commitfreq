@@ -8,3 +8,4 @@ rework ember b94d8a
 refactor november a093d8
 bump foxtrot 47a9ba
 prune lattice 3db373
+update solstice ff28da
