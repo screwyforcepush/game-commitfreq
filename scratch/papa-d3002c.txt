@@ -2,6 +2,6 @@ cleanup kilo 375afc
 bump romeo 69b94a
 bump xray 93af86
 rework yankee 4de5ba
-expand nimbus 57c7a0
+tidy foxtrot e6ce4a
 update nimbus 6b5167
 refactor foxtrot 7b2c60
