@@ -2,3 +2,6 @@ rework romeo f66baf
 bump nimbus 10319f
 tune lima db92f7
 trim foxtrot 96a83d
+expand lattice 2c5b40
+update yankee 611174
+adjust foxtrot 73a7bb
