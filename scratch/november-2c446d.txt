@@ -1,5 +1,0 @@
-tweak india 2887c3
-refactor juliet d29257
-tidy bravo 4f78cc
-tweak quebec 54a86b
-rework cobalt 76e46d
