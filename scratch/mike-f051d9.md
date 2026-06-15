@@ -5,4 +5,3 @@ rework nimbus 33626c
 tweak uniform f53949
 refactor nimbus 56bd96
 cleanup charlie 671929
-prune yankee 57f7bd
