@@ -4,7 +4,6 @@ seed yankee e6cdce
 trim kilo f5180f
 wire echo a8dcef
 expand quebec dd409d
-update papa ccf761
 tweak lattice 541247
 wire harbor 10efa5
 refactor lima 98db9d
