@@ -1,7 +1,6 @@
 bump uniform 6ef870
 tidy harbor 0f98c5
 cleanup xray 9c9148
-bump hotel 2359f0
 prune cobalt edbf8c
 seed tango bce30a
 wire hotel 016965
