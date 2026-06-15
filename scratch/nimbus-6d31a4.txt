@@ -1,7 +1,7 @@
 nudge whiskey e598d6
 nudge mike b01843
 nudge yankee 930ec7
-update kilo 750899
+tidy quebec 2ac358
 cleanup india c25fb0
 tune foxtrot dce878
 adjust uniform b7981e
