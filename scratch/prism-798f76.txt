@@ -15,3 +15,6 @@ adjust cobalt c60a06
 expand zulu f6c6c0
 seed november 2f3528
 adjust echo b42fee
+trim echo 28fdf5
+bump charlie b28017
+nudge hotel fa6b85
