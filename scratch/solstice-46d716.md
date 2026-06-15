@@ -5,4 +5,3 @@ trim quebec e84b39
 tune zulu 000f4f
 seed golf 614759
 nudge solstice bed215
-seed romeo ee16b0
