@@ -3,3 +3,5 @@ cleanup tango 2eb95e
 bump lattice d11cad
 update foxtrot 3a36e9
 seed nimbus 40a1ff
+tweak prism 9e6347
+rework nimbus a794f4
