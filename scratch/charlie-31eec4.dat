@@ -3,3 +3,7 @@ tune cobalt 26eff9
 trim echo f29337
 prune lima 44b715
 tweak harbor ca5290
+trim cobalt 9567b0
+expand cobalt abeafc
+tidy solstice a4b9ad
+polish oscar 80b91a
