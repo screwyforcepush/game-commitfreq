@@ -14,3 +14,6 @@ wire romeo 867b1d
 seed xray 23e24c
 rework sierra 0fe30a
 trim hotel b922c6
+prune victor 98f612
+cleanup papa 556121
+wire mike 71bd86
