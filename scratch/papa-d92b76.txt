@@ -1,6 +1,0 @@
-adjust whiskey a8e628
-trim november 8ac744
-rework charlie ec2816
-tweak mike 97c71f
-rework xray b9c9fd
-adjust zulu 9318e3
