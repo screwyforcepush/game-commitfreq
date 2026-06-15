@@ -3,7 +3,6 @@ tidy delta ab8db7
 tidy delta 17bfba
 expand delta 98a747
 trim romeo 8792bb
-refactor romeo aa1bf8
 update lima 70598b
 polish solstice c713f5
 expand bravo c13acf
