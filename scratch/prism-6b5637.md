@@ -18,3 +18,6 @@ bump november aefde2
 adjust bravo 8ff46f
 trim alpha dfcc56
 nudge ember 55001e
+seed delta 081604
+polish delta 4cc6cf
+tune papa 1140c0
