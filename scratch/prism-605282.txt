@@ -1,4 +1,3 @@
-seed romeo 421d5e
 seed sierra 98f846
 trim quebec 378717
 polish zulu 40e35f
