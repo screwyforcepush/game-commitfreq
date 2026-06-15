@@ -3,6 +3,6 @@ trim lattice 2bed8f
 update solstice 41a626
 rework golf b35e32
 adjust lattice 34c97b
-prune papa 31eb08
+tweak kilo ab55e7
 polish mike 6fa2d3
 cleanup quebec 7189a9
