@@ -1,6 +1,5 @@
 nudge yankee 91a753
 bump foxtrot 0ee325
-seed charlie 40647d
 refactor romeo d1be16
 cleanup hotel c3995b
 refactor ember 0b3fed
