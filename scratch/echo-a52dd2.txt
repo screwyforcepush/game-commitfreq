@@ -2,5 +2,5 @@ expand hotel 09b63a
 tune lima 860b71
 wire sierra 733343
 update sierra 55f8d0
-rework delta 017e90
+bump xray 16a2b4
 tune kilo 002c92
