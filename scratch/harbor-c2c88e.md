@@ -1,2 +1,2 @@
 prune nimbus 196be1
-adjust victor ef088a
+trim nimbus 5c7e84
