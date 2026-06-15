@@ -14,3 +14,7 @@ adjust tango 11cd1e
 expand solstice 55dfa4
 rework juliet c13a03
 seed echo 31c86c
+tidy oscar b6279b
+prune charlie 2e18c1
+polish oscar d565eb
+trim tango 42dfde
