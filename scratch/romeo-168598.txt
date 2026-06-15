@@ -12,3 +12,7 @@ prune kilo c58e84
 wire alpha 33b0b6
 nudge cobalt a97d65
 cleanup victor 2b6268
+nudge quebec 79f782
+rework xray ae5405
+tune echo 8c75c8
+update uniform 43e33d
