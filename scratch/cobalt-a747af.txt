@@ -5,3 +5,6 @@ tune delta 554d64
 rework ember ece8fd
 adjust lattice 67c49f
 update tango f7791c
+wire bravo 2aecc7
+bump romeo d4460d
+tweak romeo 5afe4b
