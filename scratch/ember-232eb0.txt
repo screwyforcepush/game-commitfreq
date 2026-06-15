@@ -1,4 +1,3 @@
 update uniform c2fdd6
 wire lattice 356f30
-tidy lima c05da4
 tidy alpha 6a5f44
