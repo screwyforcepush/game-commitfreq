@@ -1,7 +1,6 @@
 cleanup foxtrot 51486c
 tweak xray 9cedac
 trim whiskey 6979a1
-tweak lattice fe503a
 expand romeo 321012
 cleanup november 1352b6
 bump quebec b23a72
