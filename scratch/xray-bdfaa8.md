@@ -1,4 +1,3 @@
-expand echo 2546c8
 expand romeo a7cfdb
 bump harbor 7c78a4
 refactor juliet 04e1be
