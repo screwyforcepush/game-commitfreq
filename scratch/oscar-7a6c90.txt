@@ -4,3 +4,5 @@ tune quebec 2fd9c9
 prune charlie 02985f
 tweak kilo d6bcfe
 nudge whiskey 37d722
+tidy november 696c45
+expand nimbus 000eb1
