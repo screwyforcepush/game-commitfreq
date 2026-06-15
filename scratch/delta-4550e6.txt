@@ -1,4 +1,0 @@
-seed nimbus 4eb69c
-tune quebec ae6eec
-prune harbor 8c9c94
-wire whiskey b3b49a
