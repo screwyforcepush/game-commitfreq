@@ -4,7 +4,6 @@ seed quebec fdb570
 polish lima ef1511
 polish papa e223a9
 tweak uniform dfabe6
-wire november 16975a
 rework solstice 5a7e46
 adjust yankee 09d1c1
 wire yankee 108bc7
