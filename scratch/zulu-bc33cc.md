@@ -8,3 +8,7 @@ trim charlie d10f95
 tune ember 60aaa0
 polish lattice 80331e
 bump prism a76152
+cleanup sierra 4208e3
+adjust nimbus e7e094
+update hotel f7c611
+bump mike 20c469
