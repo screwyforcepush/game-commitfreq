@@ -9,3 +9,6 @@ cleanup quebec d8d03d
 refactor sierra ec6d3d
 rework lima 4e41c2
 adjust delta 470093
+refactor mike 0249d9
+refactor november f1b3d8
+cleanup quebec 5d832b
