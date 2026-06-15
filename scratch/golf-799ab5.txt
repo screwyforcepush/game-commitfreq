@@ -3,3 +3,6 @@ refactor sierra a628e9
 adjust juliet f43f03
 refactor solstice 627fce
 cleanup hotel 7a81da
+wire bravo 2501b9
+tune whiskey e29598
+refactor quebec 0a43f5
