@@ -3,7 +3,6 @@ tidy prism c05505
 expand oscar 5b8d90
 seed mike 22d8c2
 expand juliet d1146c
-bump hotel 9d715f
 tune ember 78af08
 tune bravo ae91fa
 prune golf 6b498a
