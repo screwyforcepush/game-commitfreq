@@ -7,3 +7,6 @@ expand romeo 321012
 cleanup november 1352b6
 adjust foxtrot 087721
 cleanup quebec d8d03d
+refactor sierra ec6d3d
+rework lima 4e41c2
+adjust delta 470093
