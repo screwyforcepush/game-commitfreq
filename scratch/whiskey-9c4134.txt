@@ -8,3 +8,5 @@ polish cobalt c5939a
 update papa b68b5c
 wire charlie f94759
 trim sierra bf6f4e
+rework xray 1767a0
+trim kilo 0c61d3
