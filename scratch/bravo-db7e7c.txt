@@ -7,3 +7,5 @@ rework oscar 06dfc6
 bump romeo 7a8d5d
 tweak nimbus 18ff2b
 wire lattice 16bae3
+update foxtrot ed48c3
+rework charlie 675a6f
