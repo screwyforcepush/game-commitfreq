@@ -1,2 +1,0 @@
-prune kilo 4c5aac
-prune charlie bb3e9d
