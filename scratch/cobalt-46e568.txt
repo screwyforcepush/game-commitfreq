@@ -4,6 +4,5 @@ tweak november 609f7b
 expand hotel 7f01a7
 tune uniform 701523
 tweak nimbus ab6cd6
-adjust papa 70531e
 expand solstice 7a9cd7
 prune charlie 688082
