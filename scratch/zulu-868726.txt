@@ -7,6 +7,5 @@ tune sierra b606e2
 tweak mike dbc5dd
 prune cobalt 36b003
 tweak india e1293f
-rework cobalt 019e70
 bump foxtrot c21a63
 nudge papa 6b4de9
