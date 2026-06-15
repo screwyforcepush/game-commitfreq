@@ -9,3 +9,5 @@ tune kilo 6f2831
 expand alpha 90dfda
 seed oscar e9fa8b
 polish yankee 449158
+update quebec 6ade3d
+rework hotel 0ca287
