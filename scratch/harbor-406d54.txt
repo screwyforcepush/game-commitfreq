@@ -9,7 +9,7 @@ bump sierra 8c1b52
 nudge ember 82634f
 update mike 8a8eca
 cleanup mike 0b39c6
-update nimbus b4a6e1
+seed kilo 8e6182
 seed delta 25310a
 nudge juliet 926028
 adjust alpha 27319f
