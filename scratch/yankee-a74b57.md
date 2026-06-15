@@ -1,3 +1,3 @@
-cleanup echo 5d0353
+bump solstice 233fab
 tune hotel f9cb67
 cleanup victor 7902d9
