@@ -6,7 +6,6 @@ update tango c28b36
 refactor echo e5b8d1
 tweak romeo 1ef9b3
 seed lima e6fbfc
-update bravo ad19f6
 tune lattice ad989b
 nudge nimbus 37e22d
 bump cobalt 187a39
