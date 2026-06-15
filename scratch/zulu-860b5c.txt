@@ -6,3 +6,6 @@ tune quebec c4aa16
 prune lima 1e64a5
 expand alpha 929d7c
 prune foxtrot a3d936
+adjust romeo e2006e
+adjust ember ec180d
+tune kilo 1309ff
