@@ -1,2 +1,1 @@
-wire oscar 730e0d
 tune xray f183c2
