@@ -5,3 +5,7 @@ tidy india bacd22
 refactor sierra ce27f5
 rework yankee e1ec50
 wire zulu 289fb2
+expand lattice 697006
+trim prism 480344
+trim nimbus 335aa6
+cleanup prism 138e33
