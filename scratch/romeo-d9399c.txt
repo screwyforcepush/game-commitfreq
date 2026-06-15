@@ -5,3 +5,7 @@ tune xray 27ab49
 expand foxtrot 83c901
 prune juliet 23b8b5
 rework lattice fb941b
+rework foxtrot 7f717b
+polish cobalt b73e0e
+trim bravo 363060
+tweak november cbab52
