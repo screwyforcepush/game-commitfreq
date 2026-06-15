@@ -1,2 +1,0 @@
-bump harbor 65bf25
-seed solstice 12d781
