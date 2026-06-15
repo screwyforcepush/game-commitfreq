@@ -9,5 +9,5 @@ trim alpha 4e58fd
 seed mike 792247
 trim xray 16cfed
 seed oscar 0c3f37
-tune mike f264be
+tidy yankee 79be99
 cleanup november 501528
