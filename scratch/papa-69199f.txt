@@ -1,5 +1,4 @@
 prune uniform 71aa9c
-tidy papa 7773ec
 nudge quebec 04933c
 update prism 76769d
 trim whiskey d31432
