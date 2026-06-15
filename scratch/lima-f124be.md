@@ -6,3 +6,7 @@ nudge tango 6950f9
 tweak bravo ae2b2a
 tweak golf 33af76
 tidy kilo f4f865
+polish yankee 000d5d
+cleanup hotel 32ca25
+tune nimbus 95e3cd
+prune prism 59fc1c
