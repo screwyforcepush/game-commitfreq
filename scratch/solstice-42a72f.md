@@ -4,6 +4,5 @@ tidy india 2d903c
 rework zulu 0d0ed7
 refactor lima 77e768
 adjust prism 8de0e1
-tidy oscar af9621
 expand hotel ba61f1
 seed alpha 01c20e
