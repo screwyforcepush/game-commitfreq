@@ -5,7 +5,7 @@ trim hotel 136c4c
 tune zulu 96d7a7
 rework kilo 87bb62
 cleanup romeo 7711ef
-tune oscar 79c7d3
+refactor oscar 2dc5f1
 update xray a17398
 bump delta 18f199
 prune golf a174ef
