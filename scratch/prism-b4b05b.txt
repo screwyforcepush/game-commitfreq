@@ -5,7 +5,7 @@ rework xray 30b6d2
 prune romeo 916a5a
 rework sierra abe45d
 rework yankee c6384e
-tune tango 22b041
+cleanup whiskey b16e6e
 refactor victor aeaf1a
 polish victor 755ac4
 prune lattice 361a46
