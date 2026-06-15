@@ -1,2 +1,0 @@
-bump romeo 11e857
-prune delta 925405
