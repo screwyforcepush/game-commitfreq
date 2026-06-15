@@ -3,3 +3,7 @@ polish yankee 6bce3b
 rework victor badd36
 rework charlie 7ddf1a
 adjust lattice 281f64
+trim yankee fb7de8
+polish november 99503a
+nudge whiskey 85dd91
+tweak mike c0048d
