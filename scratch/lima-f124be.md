@@ -10,3 +10,7 @@ polish yankee 000d5d
 cleanup hotel 32ca25
 tune nimbus 95e3cd
 prune prism 59fc1c
+tune yankee e86625
+adjust foxtrot a74c3c
+nudge quebec 30fea0
+bump kilo 11ebd1
