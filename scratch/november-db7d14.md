@@ -16,5 +16,4 @@ prune yankee 75548c
 update delta 74e66e
 cleanup foxtrot dba6de
 polish romeo c67e98
-nudge papa aab9c1
 tidy cobalt 89128e
