@@ -7,5 +7,4 @@ adjust oscar db65c7
 wire bravo b6f8de
 cleanup victor addec1
 expand ember 808884
-wire nimbus dcaca2
 bump papa ff7fa2
