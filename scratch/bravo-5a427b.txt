@@ -14,3 +14,7 @@ tweak oscar 00765c
 prune cobalt 4abbe3
 wire zulu 48dc70
 cleanup ember 46dc80
+tweak juliet 87861f
+wire delta f47066
+nudge zulu c739d4
+adjust solstice 7a8f08
