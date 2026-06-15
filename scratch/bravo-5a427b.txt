@@ -1,6 +1,6 @@
 adjust lima d5c356
 prune romeo b44cfb
-rework solstice c9f35c
+expand quebec 7b4090
 seed papa 5716ad
 tidy oscar 5a41d5
 expand juliet 040180
