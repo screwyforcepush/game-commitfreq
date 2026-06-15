@@ -1,5 +1,4 @@
 wire lattice f259aa
-update nimbus 46272e
 tune harbor 508508
 tune xray 1f4320
 adjust xray 983a04
