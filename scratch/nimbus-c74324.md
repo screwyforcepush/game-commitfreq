@@ -13,3 +13,5 @@ update lattice 1be041
 expand lattice 3a6ca8
 seed lattice c68393
 cleanup india 3a0715
+seed yankee 261bd6
+cleanup foxtrot 621b91
