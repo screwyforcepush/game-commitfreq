@@ -1,7 +1,6 @@
 polish alpha 145724
 refactor solstice 67cfb5
 refactor tango e8982b
-cleanup yankee 47eeb3
 refactor yankee e73d6f
 adjust foxtrot 60c51b
 expand cobalt 66c9e5
