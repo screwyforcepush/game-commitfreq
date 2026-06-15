@@ -2,6 +2,6 @@ update victor 21b456
 cleanup tango 2eb95e
 bump lattice d11cad
 update foxtrot 3a36e9
-seed nimbus 40a1ff
+cleanup lattice ccf8aa
 tweak prism 9e6347
 rework nimbus a794f4
