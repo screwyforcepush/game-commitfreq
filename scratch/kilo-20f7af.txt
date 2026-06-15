@@ -1,4 +1,0 @@
-cleanup romeo 101696
-tune bravo 3cb10d
-prune uniform 594c1f
-prune charlie 3a6734
