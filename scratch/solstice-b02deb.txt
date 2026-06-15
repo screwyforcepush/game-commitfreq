@@ -1,4 +1,3 @@
-wire nimbus 8bdc3b
 nudge nimbus 405649
 tweak uniform 28de73
 update whiskey fc5de7
