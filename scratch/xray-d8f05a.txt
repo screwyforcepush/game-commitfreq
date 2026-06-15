@@ -3,7 +3,6 @@ adjust solstice c9daad
 update quebec 36845b
 tidy charlie 247a6b
 expand echo 291a0d
-wire cobalt 1fd948
 bump delta c96a1a
 bump india 451880
 wire india baff1c
