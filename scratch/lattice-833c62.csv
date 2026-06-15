@@ -4,3 +4,7 @@ wire echo e265ef
 update lattice b1ef7c
 bump foxtrot 1c3fb4
 nudge charlie 6c2661
+wire cobalt 17ab9a
+prune cobalt db1465
+prune sierra cb6067
+cleanup cobalt 583483
