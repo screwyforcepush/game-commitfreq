@@ -1,2 +1,0 @@
-tune xray f183c2
-tune whiskey bff156
