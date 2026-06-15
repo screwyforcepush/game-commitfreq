@@ -1,7 +1,7 @@
 adjust uniform 4d79f5
 tune victor b8a226
 adjust uniform f54b79
-nudge charlie 2c347d
+seed hotel d2a3da
 tweak kilo 3a662d
 bump alpha d3b823
 tune hotel dc534b
