@@ -1,3 +1,2 @@
 tune whiskey 70764b
-trim yankee ded6f9
 update bravo 69fd34
