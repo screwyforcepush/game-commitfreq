@@ -8,3 +8,6 @@ wire victor 213ddc
 adjust tango 7e2a00
 tune foxtrot 7f426a
 tweak cobalt 8afa22
+expand lima 36b515
+nudge papa d83cb4
+adjust prism c8e151
