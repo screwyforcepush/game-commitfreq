@@ -1,5 +1,5 @@
 tweak juliet a6dad1
-wire delta 892390
+trim solstice 6c5a11
 seed nimbus a7a167
 prune victor 6dd464
 update golf eb4f61
