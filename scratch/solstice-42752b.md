@@ -4,3 +4,7 @@ wire ember 4f00cd
 expand solstice 0698a8
 rework bravo 993ba5
 tidy foxtrot b32426
+tweak lattice 1b4dd9
+tidy prism e3ef3a
+nudge uniform ed44f6
+tweak kilo a0932e
