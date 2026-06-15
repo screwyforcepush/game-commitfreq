@@ -1,5 +1,0 @@
-trim quebec 787ce2
-tune november 7ea707
-expand nimbus 23b563
-adjust xray c65b63
-bump delta a14425
