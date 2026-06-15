@@ -3,3 +3,6 @@ tidy ember a45be1
 nudge bravo d3b2e5
 trim charlie 4f0206
 expand romeo 04d350
+trim kilo b471b3
+cleanup prism 39ebdf
+bump delta 95ec85
