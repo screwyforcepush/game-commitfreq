@@ -4,3 +4,7 @@ cleanup india 1e155a
 refactor hotel 7028db
 bump hotel 50e657
 tune zulu acf8f7
+bump foxtrot fd0d40
+tune foxtrot 16f721
+wire charlie 2db990
+wire india e18ffc
