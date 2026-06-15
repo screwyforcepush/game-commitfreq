@@ -10,3 +10,7 @@ adjust lima af7601
 expand mike 215db5
 adjust harbor b079f8
 refactor yankee eec7b4
+expand quebec 202aeb
+rework golf 5c5c7c
+nudge delta 62a09f
+trim sierra 466159
