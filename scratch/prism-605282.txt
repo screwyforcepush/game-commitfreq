@@ -1,6 +1,5 @@
 seed sierra 98f846
 trim quebec 378717
-polish zulu 40e35f
 cleanup echo 609d88
 tweak cobalt 379dfe
 tweak foxtrot ebcc59
