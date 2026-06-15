@@ -1,6 +1,5 @@
 cleanup foxtrot 51486c
 tweak xray 9cedac
-wire mike b97398
 trim whiskey 6979a1
 tweak lattice fe503a
 expand romeo 321012
