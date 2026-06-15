@@ -4,7 +4,7 @@ tune cobalt e9281c
 tweak kilo af1fa3
 bump alpha 6b1e30
 tweak victor 3bc0a5
-tidy whiskey c7c581
+update delta fd1681
 wire delta 3788c0
 nudge charlie b990ec
 polish romeo bf4769
