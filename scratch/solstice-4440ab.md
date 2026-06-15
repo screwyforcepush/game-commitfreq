@@ -7,7 +7,6 @@ refactor papa 9be18e
 wire yankee 2ea1a4
 expand quebec 513250
 trim uniform be3d9a
-refactor lattice 01a065
 refactor lima 0ae6f4
 polish zulu e75a9f
 polish sierra 043624
