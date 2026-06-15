@@ -1,5 +1,4 @@
 adjust delta 491af9
-tune tango ab852a
 rework quebec 5fcdad
 bump oscar a0984c
 cleanup zulu 651a87
