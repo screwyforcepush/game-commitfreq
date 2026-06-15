@@ -6,3 +6,7 @@ adjust lattice 34c97b
 tweak kilo ab55e7
 polish mike 6fa2d3
 cleanup quebec 7189a9
+trim echo 5d651a
+cleanup delta 382055
+tidy hotel 60f694
+wire foxtrot 7122fa
