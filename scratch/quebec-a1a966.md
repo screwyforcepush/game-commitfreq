@@ -1,4 +1,3 @@
-polish yankee 543011
 trim mike 77fb29
 rework tango 764cc4
 bump lima eb7513
