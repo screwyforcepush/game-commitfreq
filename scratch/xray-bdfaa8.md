@@ -10,7 +10,7 @@ tune xray 35947f
 nudge uniform f86123
 tidy xray cf9885
 nudge sierra 5345bb
-adjust tango 11cd1e
+tidy whiskey 8bf356
 expand solstice 55dfa4
 rework juliet c13a03
 seed echo 31c86c
