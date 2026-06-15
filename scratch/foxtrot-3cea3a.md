@@ -20,3 +20,6 @@ expand oscar 2ece7e
 tweak harbor 3dddfe
 expand charlie e3506d
 update zulu 17e1bc
+tweak solstice 9ece4c
+polish mike 131faa
+cleanup harbor 2cbc9b
