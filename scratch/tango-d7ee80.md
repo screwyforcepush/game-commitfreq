@@ -6,3 +6,5 @@ expand charlie 24122d
 tidy mike b32871
 polish lattice e6c82b
 nudge oscar 405f0e
+trim prism 46c56f
+bump november 53e56f
