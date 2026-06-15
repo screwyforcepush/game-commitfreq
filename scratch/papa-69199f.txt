@@ -1,4 +1,0 @@
-prune uniform 71aa9c
-nudge quebec 04933c
-update prism 76769d
-trim whiskey d31432
