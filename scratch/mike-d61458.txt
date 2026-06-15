@@ -8,3 +8,5 @@ polish november c8c4fc
 update quebec 54f6b7
 expand bravo aefecb
 bump whiskey 40cbfc
+adjust bravo 732ba4
+seed papa 147b33
