@@ -1,5 +1,4 @@
 prune foxtrot bb7e1c
 trim charlie c604cf
 refactor nimbus 02e844
-polish prism ac9630
 seed juliet 378123
