@@ -3,7 +3,6 @@ refactor lattice 5a4d33
 prune ember 6b45ea
 expand xray aea6cc
 tidy cobalt 13c152
-update mike de8baa
 adjust lattice 095519
 polish uniform 560e69
 bump india 44df27
