@@ -6,6 +6,6 @@ trim mike 5d7fdb
 nudge victor 4eef46
 trim golf d04561
 prune oscar 018a31
-polish juliet 91d789
+prune foxtrot 845af6
 seed lima 2eb30f
 tidy zulu a03e87
