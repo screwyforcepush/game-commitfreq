@@ -11,7 +11,7 @@ seed quebec 18423d
 nudge echo 388943
 seed sierra 260841
 expand tango 4916f9
-prune tango b2d514
+polish uniform 9d4c71
 tidy victor 10621a
 polish juliet 503174
 expand zulu 7e822b
