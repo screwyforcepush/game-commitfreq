@@ -6,3 +6,6 @@ polish victor e2db24
 polish whiskey a9e8ad
 wire november 5a790b
 update quebec cee91e
+trim solstice e480c7
+nudge quebec 233cbe
+expand prism 4e416a
