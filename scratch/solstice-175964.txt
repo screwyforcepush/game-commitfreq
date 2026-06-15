@@ -20,3 +20,6 @@ tune victor ea16ce
 tweak whiskey 2ec751
 trim mike 21aa06
 seed alpha 3f446d
+tidy india ac139f
+adjust solstice 1a051a
+polish mike f9393d
