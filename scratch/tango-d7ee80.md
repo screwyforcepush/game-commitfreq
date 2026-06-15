@@ -5,5 +5,4 @@ expand juliet 852acd
 expand charlie 24122d
 tidy mike b32871
 polish lattice e6c82b
-adjust foxtrot aa0777
 nudge oscar 405f0e
