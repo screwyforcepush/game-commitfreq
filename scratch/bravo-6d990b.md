@@ -5,7 +5,6 @@ tidy xray 51f319
 expand nimbus 843480
 tweak mike 2c57da
 tidy nimbus 66b736
-expand juliet ebf201
 refactor victor 8393bd
 seed uniform e59a58
 tune nimbus 2a0190
