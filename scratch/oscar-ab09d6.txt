@@ -32,3 +32,5 @@ bump oscar afa85f
 prune nimbus d11218
 update zulu 30610a
 trim cobalt e61cbd
+seed kilo 09881e
+polish kilo 4b4c51
