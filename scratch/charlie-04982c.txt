@@ -5,5 +5,4 @@ seed alpha 91e535
 refactor mike 3ad081
 expand harbor 1e475e
 polish sierra 69d817
-expand prism 6056ef
 bump lattice 865e02
