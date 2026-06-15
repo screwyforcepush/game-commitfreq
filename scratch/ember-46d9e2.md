@@ -13,3 +13,6 @@ rework lattice a710d0
 tune ember 1bb2f6
 update prism 5fb040
 trim kilo fe8230
+refactor papa b1c5ea
+cleanup prism e840e8
+bump oscar a41528
