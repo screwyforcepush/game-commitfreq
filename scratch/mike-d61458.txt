@@ -10,3 +10,6 @@ expand bravo aefecb
 bump whiskey 40cbfc
 adjust bravo 732ba4
 seed papa 147b33
+rework whiskey 8d1454
+tune tango e9719f
+seed delta a1d753
