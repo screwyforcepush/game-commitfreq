@@ -4,3 +4,5 @@ update hotel 7deb95
 refactor delta 686bda
 polish victor e2db24
 polish whiskey a9e8ad
+wire november 5a790b
+update quebec cee91e
