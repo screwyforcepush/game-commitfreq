@@ -17,3 +17,6 @@ adjust echo b42fee
 trim echo 28fdf5
 bump charlie b28017
 nudge hotel fa6b85
+nudge charlie c24353
+trim lima a4c644
+bump xray ec55a5
