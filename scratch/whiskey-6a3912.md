@@ -4,3 +4,7 @@ seed echo 992a8c
 tidy india 96c172
 nudge lattice 7856db
 expand echo a89712
+tune alpha 779e95
+wire nimbus dc5e19
+polish quebec afccb3
+nudge nimbus bd985a
