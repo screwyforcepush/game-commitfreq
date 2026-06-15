@@ -5,6 +5,5 @@ tune ember aa73a8
 adjust prism c3632b
 adjust solstice fc2f05
 refactor mike 636bfa
-update delta ac7586
 tune uniform a40df5
 adjust delta 2a607a
