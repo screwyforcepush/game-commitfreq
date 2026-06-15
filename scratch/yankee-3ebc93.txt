@@ -1,1 +1,3 @@
 wire xray 61eb3b
+wire oscar 68b96b
+tidy charlie 9d2a6d
