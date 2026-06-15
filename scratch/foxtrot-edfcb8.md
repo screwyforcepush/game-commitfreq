@@ -7,3 +7,5 @@ polish november d9eaf0
 trim echo 96a482
 nudge cobalt 9c66e1
 update quebec 394da6
+refactor cobalt a5a393
+tidy hotel b2e12d
