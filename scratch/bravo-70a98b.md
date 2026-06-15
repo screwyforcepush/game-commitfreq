@@ -6,3 +6,5 @@ tune whiskey f501da
 polish golf 8ecdb1
 bump alpha cdd63d
 tweak november a11fe6
+refactor solstice 4088f5
+rework quebec 0ac9d7
