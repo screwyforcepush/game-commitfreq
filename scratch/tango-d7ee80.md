@@ -1,7 +1,7 @@
 refactor solstice f93532
 tweak india f4f6a8
 cleanup foxtrot cbdf33
-expand juliet 852acd
+prune delta 9d6a94
 expand charlie 24122d
 tidy mike b32871
 polish lattice e6c82b
