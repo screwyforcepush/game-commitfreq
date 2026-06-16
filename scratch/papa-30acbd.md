@@ -8,3 +8,5 @@ nudge november a532de
 trim uniform 44086c
 prune lima 0e496c
 polish mike fb955a
+wire hotel db3df3
+polish oscar 7d5852
