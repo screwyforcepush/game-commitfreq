@@ -8,3 +8,5 @@ wire lattice 77256a
 wire quebec 5e7404
 seed victor df85ef
 tune quebec 4a4685
+adjust alpha 995e5f
+tune lattice 812987
