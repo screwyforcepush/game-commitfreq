@@ -5,3 +5,6 @@ seed oscar 4b875a
 prune alpha eeaf91
 prune oscar 8efd2a
 adjust nimbus 0bdfb1
+tune uniform 537358
+trim india 5c031b
+cleanup bravo 21dc30
