@@ -1,5 +1,4 @@
 prune quebec 768b32
-nudge xray 03ac23
 tidy tango 32c31c
 adjust charlie 668d0f
 tune echo 306713
