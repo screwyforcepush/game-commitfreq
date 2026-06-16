@@ -5,5 +5,4 @@ expand nimbus ee3ac4
 refactor hotel 85a54d
 trim victor 771b1b
 rework november 282714
-nudge yankee 996d6e
 cleanup sierra 4e4b1b
