@@ -1,4 +1,3 @@
 seed whiskey b5555a
-expand hotel bf8a4d
 prune cobalt cadb1e
 update juliet 382909
