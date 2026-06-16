@@ -2,7 +2,6 @@ tidy delta e53cee
 wire india a71824
 cleanup zulu cec8f8
 rework solstice 825858
-polish kilo f8c095
 bump oscar 5fe2f9
 prune bravo 45361a
 nudge charlie 1b4099
