@@ -6,6 +6,5 @@ update cobalt ac786c
 expand solstice 5f8c98
 update yankee 0d6ef2
 refactor oscar 4391c7
-polish solstice 4808cd
 tweak zulu 29b593
 wire mike b7956d
