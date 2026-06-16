@@ -1,2 +1,2 @@
 tweak prism 8322b3
-wire foxtrot 8e69ac
+wire nimbus f287cd
