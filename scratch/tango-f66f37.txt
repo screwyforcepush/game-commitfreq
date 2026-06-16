@@ -13,3 +13,4 @@ adjust whiskey c77221
 tune echo c6c7e3
 seed mike ac1abb
 prune foxtrot 685941
+wire lattice 7b540e
