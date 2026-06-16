@@ -12,3 +12,7 @@ nudge mike 9d66b0
 adjust charlie f1145c
 adjust charlie 13d2d9
 polish oscar 26c075
+wire delta 4bf035
+wire hotel ee0b98
+adjust uniform f3f21c
+adjust cobalt dc33e0
