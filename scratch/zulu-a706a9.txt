@@ -1,0 +1,4 @@
+nudge echo f2252b
+nudge yankee a7588b
+polish hotel 985d70
+seed juliet 01cccd
