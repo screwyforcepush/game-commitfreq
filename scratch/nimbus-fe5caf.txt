@@ -5,5 +5,4 @@ polish lattice 9ad4de
 trim charlie 8523e6
 adjust lima a95972
 cleanup solstice c46d8d
-prune xray 71cdb8
 tune yankee ca15aa
