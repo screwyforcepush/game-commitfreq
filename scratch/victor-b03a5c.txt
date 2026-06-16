@@ -6,7 +6,6 @@ tweak november 420613
 bump juliet 41a97b
 update quebec 30cb64
 bump india 22022f
-seed mike 06e85f
 wire quebec 5e7404
 seed victor df85ef
 trim alpha 04584e
