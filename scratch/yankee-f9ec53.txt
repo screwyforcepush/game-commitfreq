@@ -13,3 +13,5 @@ polish delta 4d083a
 nudge prism 23fec8
 update solstice 2e2c73
 tune oscar 1f02e5
+tidy lattice b03734
+seed mike aeb759
