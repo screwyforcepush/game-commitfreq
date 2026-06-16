@@ -12,5 +12,5 @@ cleanup kilo e6d284
 adjust whiskey c77221
 tune echo c6c7e3
 seed mike ac1abb
-prune foxtrot 685941
+tune nimbus 99176d
 wire lattice 7b540e
