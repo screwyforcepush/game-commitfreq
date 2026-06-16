@@ -1,5 +1,4 @@
 expand cobalt 0827cb
 trim solstice 111cc6
-expand yankee 83aeef
 tweak ember 1ad794
 polish quebec 623f34
