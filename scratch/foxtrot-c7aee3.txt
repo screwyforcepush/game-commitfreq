@@ -17,3 +17,7 @@ adjust delta e56e6f
 tidy cobalt 32e0aa
 adjust kilo 87eaa8
 nudge nimbus d2818f
+nudge bravo 8be086
+cleanup hotel b2975e
+rework ember 384a7c
+tune ember 0568d8
