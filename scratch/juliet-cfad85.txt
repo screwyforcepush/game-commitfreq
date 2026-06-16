@@ -3,3 +3,7 @@ tune golf 158916
 wire golf cab1e4
 tweak mike 429287
 rework uniform cdb666
+prune tango a288b0
+expand delta cde5fe
+trim victor a88270
+trim nimbus 9648a3
