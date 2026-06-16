@@ -8,7 +8,7 @@ polish lattice c77eb3
 nudge sierra 1e6457
 nudge whiskey f248ab
 adjust yankee a48b4e
-cleanup kilo e6d284
+tweak sierra 15666d
 adjust whiskey c77221
 tune echo c6c7e3
 seed mike ac1abb
