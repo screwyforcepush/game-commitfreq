@@ -24,3 +24,5 @@ wire sierra 37217b
 wire echo 333dce
 tweak quebec 6d9a76
 trim ember db2463
+rework nimbus f18ee6
+refactor harbor f27d05
