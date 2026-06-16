@@ -7,3 +7,7 @@ rework lima 71105c
 cleanup oscar e392ed
 trim delta 562560
 rework victor b857a4
+rework alpha de52b5
+trim prism e1add4
+polish nimbus 0dfc9e
+rework lima e5de2b
