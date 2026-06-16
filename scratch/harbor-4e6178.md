@@ -7,3 +7,6 @@ adjust sierra af11b1
 wire ember 62b03d
 nudge cobalt 9dd19b
 prune tango 6e8875
+update quebec 259b64
+bump xray 0488ba
+adjust romeo 9b2e8c
