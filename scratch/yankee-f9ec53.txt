@@ -7,3 +7,6 @@ seed golf a9f4d0
 tune foxtrot f42780
 tune oscar bc8d5a
 tweak papa a25ba9
+trim oscar 7cac60
+seed lattice 2711d7
+nudge victor 77db91
