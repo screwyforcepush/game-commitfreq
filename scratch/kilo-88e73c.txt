@@ -1,0 +1,6 @@
+expand quebec 4eda6d
+tidy nimbus 65f5d0
+seed foxtrot defa4e
+seed cobalt 6cf1a0
+bump nimbus e74a06
+adjust charlie 37d56a
