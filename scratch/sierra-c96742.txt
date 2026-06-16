@@ -8,3 +8,7 @@ tweak lattice 1b4dd9
 tidy prism e3ef3a
 nudge uniform ed44f6
 tweak kilo a0932e
+cleanup golf 98b594
+update lattice 16849f
+cleanup harbor 39e674
+adjust whiskey cbd48e
