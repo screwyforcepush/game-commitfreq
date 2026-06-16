@@ -1,2 +1,4 @@
 polish yankee 89be9c
 polish hotel 985d70
+nudge zulu 257d34
+wire delta 2ca30c
