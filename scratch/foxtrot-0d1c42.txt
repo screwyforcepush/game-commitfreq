@@ -7,7 +7,6 @@ nudge sierra d0c2c4
 seed echo a1d0a8
 seed lattice 212383
 wire mike f5c0ef
-tweak hotel 53b5ca
 trim yankee f83dcc
 polish alpha 67ec08
 prune sierra f17610
