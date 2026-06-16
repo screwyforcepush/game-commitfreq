@@ -1,5 +1,0 @@
-cleanup oscar a65ef7
-trim alpha 4b45fe
-adjust india b0ea84
-seed oscar e070cf
-tweak foxtrot 4b31a8
