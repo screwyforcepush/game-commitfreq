@@ -5,3 +5,7 @@ tune lattice de4db7
 trim nimbus 7f3d50
 adjust kilo 3d0442
 prune echo 5d626e
+cleanup lattice aa6ed1
+seed zulu cc817c
+tidy echo 7e5fbd
+cleanup lima f438fd
