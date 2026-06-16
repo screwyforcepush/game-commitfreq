@@ -1,3 +1,0 @@
-bump hotel 109ebc
-expand yankee a7f009
-adjust ember 70d57e
