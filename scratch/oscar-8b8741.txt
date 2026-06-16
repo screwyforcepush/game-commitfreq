@@ -1,3 +1,0 @@
-update tango b02a82
-seed kilo 018d9d
-seed zulu d8cf34
