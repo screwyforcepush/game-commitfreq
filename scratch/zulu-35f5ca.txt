@@ -2,7 +2,6 @@ tune kilo 8ba9df
 trim november d52bdd
 wire papa 30b875
 nudge golf 60dc4b
-seed mike 2fec23
 cleanup yankee 22778f
 tune golf f5e12e
 tidy oscar cc144e
