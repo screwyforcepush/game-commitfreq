@@ -1,0 +1,4 @@
+tune bravo 794872
+polish uniform 8a2f47
+nudge oscar 6488b5
+seed india 566016
