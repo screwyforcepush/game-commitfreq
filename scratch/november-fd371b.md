@@ -1,4 +1,3 @@
-adjust nimbus 69f633
 prune mike 40e39c
 expand victor 49f415
 expand charlie b03c8c
