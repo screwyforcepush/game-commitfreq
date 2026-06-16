@@ -6,4 +6,3 @@ tidy foxtrot 4f28ac
 bump whiskey d6f5be
 nudge romeo fbaf16
 nudge papa 7be6d6
-adjust cobalt eaf110
