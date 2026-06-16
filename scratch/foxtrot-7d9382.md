@@ -5,3 +5,7 @@ tidy prism e6fe7c
 adjust ember bb41c3
 cleanup oscar 7cb398
 polish solstice f827a7
+refactor november 5cf3de
+trim zulu 9ebe24
+bump yankee 7d5570
+nudge juliet 2ee09e
