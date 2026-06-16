@@ -1,3 +1,0 @@
-wire hotel 2e3d2a
-trim mike f2a699
-wire quebec 304b1a
