@@ -4,7 +4,7 @@ cleanup papa 5b1b7a
 tune lattice de4db7
 trim nimbus 7f3d50
 adjust kilo 3d0442
-prune echo 5d626e
+adjust juliet 59f2da
 cleanup lattice aa6ed1
 seed zulu cc817c
 tidy echo 7e5fbd
