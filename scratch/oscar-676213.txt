@@ -10,7 +10,7 @@ bump uniform 1d2d29
 refactor mike bd688d
 bump delta a66416
 bump kilo 39280d
-prune india ec2ad4
+expand lattice c4512a
 wire oscar d64adb
 polish yankee 051f11
 tune harbor 6297f6
