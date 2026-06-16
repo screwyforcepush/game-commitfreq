@@ -3,3 +3,7 @@ update romeo 335c52
 update delta 69267a
 rework quebec d31d01
 tune foxtrot 0a0a7f
+tweak tango 19ad80
+tweak whiskey 913132
+bump solstice c0403e
+refactor lima 1fc7f5
