@@ -10,3 +10,7 @@ wire foxtrot cb74ca
 cleanup golf f115c2
 wire lattice 2111bd
 tweak india adef5d
+trim harbor 4e5d1e
+update golf 83223e
+expand mike 830a0b
+seed quebec 2c6d24
