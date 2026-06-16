@@ -5,7 +5,6 @@ nudge romeo 3a65fb
 tweak papa c079ec
 update oscar 3518ca
 bump delta 55fdf6
-tune tango 9fe902
 tune romeo 4137a8
 prune whiskey fdb963
 tidy prism 271ea3
