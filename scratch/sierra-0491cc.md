@@ -2,7 +2,6 @@ tweak mike c11f6e
 adjust golf 442a00
 rework echo 4476f9
 prune delta 93edb1
-seed ember 9962a4
 cleanup uniform 97c196
 bump juliet 82d35f
 tweak mike cdb3f0
