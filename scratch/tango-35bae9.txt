@@ -7,3 +7,6 @@ bump alpha fafc7c
 nudge uniform f50de9
 prune oscar e3fdec
 tune uniform 1117ed
+tweak golf 1ddb6a
+rework yankee e4ef6c
+tidy kilo 94b51a
