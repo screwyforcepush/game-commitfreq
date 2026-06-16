@@ -1,2 +1,2 @@
-tune victor 141526
+wire alpha 23a56e
 trim kilo 95ba2f
