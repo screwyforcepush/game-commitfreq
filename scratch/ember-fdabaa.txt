@@ -16,3 +16,6 @@ wire delta 4bf035
 trim hotel 22128d
 adjust uniform f3f21c
 adjust cobalt dc33e0
+nudge mike 58f51b
+polish tango 45a590
+tune prism 8fda41
