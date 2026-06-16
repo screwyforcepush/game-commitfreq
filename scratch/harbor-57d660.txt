@@ -9,3 +9,6 @@ cleanup solstice a671da
 refactor prism e70486
 trim tango 408e88
 bump yankee e66b07
+expand papa a7618a
+tweak yankee ef7816
+refactor kilo 996737
