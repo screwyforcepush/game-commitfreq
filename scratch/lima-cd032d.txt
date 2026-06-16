@@ -1,5 +1,4 @@
 rework hotel b4d186
 update zulu 2ac163
-prune quebec 57ab4a
 tweak zulu 591f10
 prune lattice c7575f
