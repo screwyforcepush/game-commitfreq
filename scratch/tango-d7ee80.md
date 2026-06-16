@@ -8,3 +8,6 @@ polish lattice e6c82b
 nudge oscar 405f0e
 trim prism 46c56f
 bump november 53e56f
+refactor alpha a9881b
+adjust yankee 1a744e
+tidy kilo 11f945
