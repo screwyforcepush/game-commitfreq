@@ -5,7 +5,7 @@ refactor alpha 834b5b
 tweak november 420613
 bump juliet 41a97b
 update quebec 30cb64
-bump india 22022f
+wire lattice 77256a
 wire quebec 5e7404
 seed victor df85ef
 tune quebec 4a4685
