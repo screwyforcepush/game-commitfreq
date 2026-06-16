@@ -3,3 +3,7 @@ wire papa 495e7d
 refactor juliet 27f6ca
 prune solstice f49b39
 trim charlie 874f08
+update ember a1a33e
+wire golf 1cd43e
+rework xray c1f24d
+trim foxtrot d13b33
