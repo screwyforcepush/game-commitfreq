@@ -1,2 +1,0 @@
-seed whiskey db693d
-prune yankee 9c44ab
