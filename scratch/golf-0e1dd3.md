@@ -1,6 +1,5 @@
 wire bravo 6c491c
 bump golf ef9995
-cleanup sierra 0eefbe
 wire xray 6328d7
 expand bravo fb228f
 expand solstice 5003b6
