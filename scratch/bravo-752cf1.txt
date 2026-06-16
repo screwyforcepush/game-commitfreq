@@ -3,5 +3,4 @@ trim victor 8a2e59
 tweak xray 2c6eae
 prune yankee 910019
 bump tango 7f4d73
-rework november 7966ab
 tweak alpha c15405
