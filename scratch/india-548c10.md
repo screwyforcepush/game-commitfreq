@@ -5,3 +5,6 @@ wire hotel b6d4cb
 bump delta 750678
 polish romeo bcbf6c
 trim romeo 218632
+tweak papa 6149f7
+tweak yankee 688c5b
+polish yankee f46c72
