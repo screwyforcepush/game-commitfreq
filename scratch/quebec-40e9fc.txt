@@ -1,3 +1,6 @@
 nudge uniform 5947d9
 nudge whiskey 3339cd
 rework kilo a456cb
+nudge delta f2b3f0
+adjust victor 0d3131
+trim hotel e2b069
