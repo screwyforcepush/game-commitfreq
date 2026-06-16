@@ -1,3 +1,7 @@
 wire zulu f55194
 tweak zulu 803c02
 wire juliet ac1b7d
+trim bravo cd570b
+nudge juliet ee459d
+tune sierra 4a929a
+update tango 535dfb
