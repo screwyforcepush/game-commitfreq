@@ -1,2 +1,2 @@
 bump lattice a1ffff
-rework tango 9b51f0
+adjust nimbus efd80a
