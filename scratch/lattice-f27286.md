@@ -1,9 +1,0 @@
-rework charlie d8c5a0
-update charlie 27d8cf
-cleanup hotel 318f7e
-trim harbor 40eed9
-update tango 40e5e8
-tidy kilo b47198
-cleanup zulu d47015
-nudge quebec f595b1
-bump golf 095744
