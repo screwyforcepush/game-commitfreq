@@ -5,4 +5,4 @@ expand sierra f31d8c
 adjust lattice fea7b1
 prune echo 1d68cf
 prune tango e1e3ae
-seed nimbus eae553
+seed xray ad0817
