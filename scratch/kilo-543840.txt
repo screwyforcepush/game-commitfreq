@@ -1,3 +1,2 @@
-prune victor c8b0cc
 nudge nimbus cc57bb
 bump india 85b3f7
