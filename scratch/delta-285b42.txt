@@ -4,7 +4,7 @@ rework november 6d506a
 tune prism 837dd2
 bump golf d7c747
 tweak victor 82fc99
-update foxtrot 718863
+tune sierra cdbd41
 adjust echo 965e13
 prune alpha 5cbd7d
 seed alpha 04f1e8
