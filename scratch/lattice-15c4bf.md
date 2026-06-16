@@ -10,3 +10,4 @@ tweak lattice 3818b5
 wire sierra fadf29
 adjust oscar a30ce2
 expand bravo bb32b7
+tune delta dcfe10
