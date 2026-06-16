@@ -1,4 +1,0 @@
-trim zulu 7b0a32
-tidy whiskey 8bd4b0
-prune solstice aca1e4
-polish delta 9c6ee4
