@@ -2,6 +2,5 @@ update zulu f6da1f
 tweak hotel 73dd2a
 prune victor 602c4d
 rework uniform d0c475
-bump uniform 564910
 prune delta 93bbb3
 cleanup juliet 6b86ac
