@@ -1,5 +1,0 @@
-expand sierra d4fd63
-tune golf f0834c
-adjust delta 437a30
-adjust lattice 4636d3
-nudge alpha 87140c
