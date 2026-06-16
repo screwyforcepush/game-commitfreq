@@ -5,7 +5,7 @@ cleanup sierra ae8017
 expand india dd8f2a
 prune juliet 79b725
 nudge bravo e26a16
-cleanup charlie 332455
+tidy lattice 4fb927
 cleanup victor a8af35
 prune juliet a17f9a
 seed tango a7894f
