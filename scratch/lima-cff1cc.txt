@@ -1,7 +1,7 @@
 expand cobalt d57534
 polish nimbus c845d3
 trim papa 706368
-trim hotel de86bc
+wire solstice d01ab3
 polish lattice 01e5e4
 tidy nimbus 74c5c5
 tweak victor 7ab40d
