@@ -13,3 +13,5 @@ refactor harbor 55346d
 adjust yankee 438d81
 tidy harbor da83ec
 tidy bravo 5b47a4
+tidy prism e884c8
+expand lattice fb0c2d
