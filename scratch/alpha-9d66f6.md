@@ -4,3 +4,6 @@ refactor xray f9da44
 cleanup echo 0877d5
 nudge kilo 9b5535
 wire kilo fd3c78
+seed charlie 8c1926
+adjust delta 0cddb3
+adjust nimbus c05d46
