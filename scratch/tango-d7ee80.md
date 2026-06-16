@@ -10,3 +10,6 @@ bump november 53e56f
 refactor alpha a9881b
 adjust yankee 1a744e
 tidy kilo 11f945
+rework cobalt 275c37
+nudge uniform a4c65c
+trim november fc107d
