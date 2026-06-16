@@ -1,4 +1,3 @@
-tidy juliet 22f856
 refactor golf 34fb58
 nudge yankee 61491c
 rework november 6d506a
