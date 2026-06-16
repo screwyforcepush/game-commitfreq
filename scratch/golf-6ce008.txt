@@ -1,4 +1,0 @@
-update romeo 0a85c5
-seed november 73d3e6
-adjust yankee d3076a
-seed victor af48da
