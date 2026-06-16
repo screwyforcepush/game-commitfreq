@@ -1,2 +1,2 @@
 bump lattice a1ffff
-seed lattice 22dad4
+rework tango 9b51f0
