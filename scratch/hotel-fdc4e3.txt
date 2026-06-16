@@ -1,6 +1,0 @@
-trim echo df5d98
-nudge whiskey 2ce7eb
-bump solstice 533da3
-nudge oscar 22f5f3
-polish november a620f4
-seed hotel 34a51f
