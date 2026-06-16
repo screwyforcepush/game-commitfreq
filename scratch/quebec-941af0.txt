@@ -1,3 +1,6 @@
 wire cobalt aae8ef
 tidy juliet 6945a4
 update quebec bbf9c8
+cleanup lattice ac42c9
+polish uniform a76c7b
+refactor juliet bc09b1
