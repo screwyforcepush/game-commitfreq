@@ -6,3 +6,5 @@ refactor lima 1a9507
 adjust kilo 33ac35
 bump hotel fd3caa
 expand ember 34adf5
+trim whiskey 713fcc
+rework foxtrot 3ba270
