@@ -6,5 +6,4 @@ adjust tango 70a66c
 nudge sierra d0c2c4
 seed echo a1d0a8
 seed lattice 212383
-update bravo 22d896
 wire mike f5c0ef
