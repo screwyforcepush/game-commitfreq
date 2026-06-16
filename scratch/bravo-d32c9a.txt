@@ -1,2 +1,0 @@
-prune hotel fc6f33
-update uniform e8ddc3
