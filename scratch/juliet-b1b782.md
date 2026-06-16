@@ -6,7 +6,6 @@ rework solstice 9f2e99
 polish sierra a33984
 adjust quebec 0b9b26
 cleanup tango c0d939
-polish hotel f2f779
 tidy sierra 85fd30
 seed cobalt d71894
 expand foxtrot 8830b4
