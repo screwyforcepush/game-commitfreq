@@ -2,7 +2,6 @@ prune echo d08db2
 adjust solstice c9daad
 update quebec 36845b
 expand echo 291a0d
-bump delta c96a1a
 bump india 451880
 cleanup charlie cb651d
 wire mike c6d37e
