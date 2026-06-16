@@ -3,3 +3,6 @@ tune lattice 502cb3
 prune lattice 006384
 wire sierra feb343
 prune tango a424ed
+cleanup cobalt aab2df
+tidy mike 749aa9
+rework quebec 6286e1
