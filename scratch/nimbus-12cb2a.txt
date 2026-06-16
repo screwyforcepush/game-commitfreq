@@ -1,5 +1,0 @@
-tweak uniform a12b77
-trim foxtrot c51fb9
-seed bravo 98a393
-trim kilo efbbe5
-tune uniform 2abfc5
