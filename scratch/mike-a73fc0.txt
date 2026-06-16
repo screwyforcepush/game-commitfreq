@@ -2,7 +2,7 @@ cleanup xray 35770e
 tidy golf 62f864
 bump juliet bcddb6
 nudge tango 1c647b
-adjust bravo a04cbd
+rework delta 3a0b77
 rework bravo 745e02
 bump alpha fafc7c
 nudge uniform f50de9
