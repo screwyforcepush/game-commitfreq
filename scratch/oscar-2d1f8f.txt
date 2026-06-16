@@ -5,7 +5,7 @@ seed bravo 0ad427
 refactor alpha 3010fc
 expand kilo 98153d
 adjust papa e5eb91
-adjust mike 0ad7cf
+bump sierra e67e38
 update lattice 0c297a
 expand cobalt 6e6a31
 refactor sierra 869a85
