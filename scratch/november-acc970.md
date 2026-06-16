@@ -3,3 +3,6 @@ nudge charlie 28190c
 prune nimbus 705f95
 bump cobalt ba472f
 cleanup india 630fd4
+tweak bravo c68e79
+tidy sierra d625b6
+tweak lattice cc11aa
