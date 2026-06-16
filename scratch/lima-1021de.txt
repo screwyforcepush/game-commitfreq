@@ -12,3 +12,7 @@ tweak uniform c4a3f5
 nudge lima 7823f0
 update cobalt 8d7152
 nudge alpha 769f0b
+update hotel 2dd2d8
+rework prism b2c9ef
+bump whiskey 8a0b9d
+tidy yankee bb59ed
