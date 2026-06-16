@@ -1,3 +1,2 @@
 nudge echo f2252b
-nudge charlie 917f19
 polish hotel 985d70
