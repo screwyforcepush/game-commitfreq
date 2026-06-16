@@ -4,3 +4,5 @@ expand mike 7b3093
 expand nimbus 781b8e
 cleanup ember 533a9a
 cleanup victor dae759
+adjust november 670973
+trim uniform a6c5fb
