@@ -12,3 +12,4 @@ seed nimbus 69c618
 update tango 60484f
 tune xray e3ef12
 adjust lattice 502a29
+rework kilo 8d04c4
