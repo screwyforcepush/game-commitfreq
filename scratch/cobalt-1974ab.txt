@@ -1,4 +1,3 @@
 tidy tango ac0852
-expand whiskey 93c121
 expand lima 29a5dc
 tidy cobalt a100ee
