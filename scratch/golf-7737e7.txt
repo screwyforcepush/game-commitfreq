@@ -12,3 +12,7 @@ polish bravo 055442
 rework prism cfb835
 cleanup golf d36404
 nudge kilo 412363
+adjust quebec bf8dee
+prune xray e45d32
+adjust prism a8ef03
+nudge yankee 8dc7aa
