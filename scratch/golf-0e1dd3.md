@@ -12,7 +12,6 @@ bump mike 5849ef
 nudge hotel f1eb87
 rework lattice 51b82c
 refactor prism a9d6dc
-refactor echo d9f357
 rework juliet 4e0db2
 seed zulu 9bb57f
 bump golf 55e3ad
