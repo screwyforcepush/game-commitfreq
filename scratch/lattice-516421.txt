@@ -5,3 +5,6 @@ prune nimbus b999f1
 cleanup solstice 191a51
 seed victor 32ea55
 adjust romeo ddb8cf
+adjust uniform 7071bd
+refactor foxtrot 11716b
+refactor juliet a7ea0e
