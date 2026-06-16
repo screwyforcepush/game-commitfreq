@@ -5,6 +5,5 @@ rework xray 474d32
 polish prism 2b180f
 polish whiskey 0d9505
 refactor solstice 61f64d
-adjust juliet 21aaa5
 update bravo f67e2f
 update oscar e9075d
