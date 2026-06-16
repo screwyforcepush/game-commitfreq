@@ -15,3 +15,4 @@ update solstice 2e2c73
 tune oscar 1f02e5
 tidy lattice b03734
 seed mike aeb759
+tidy lattice 50e623
