@@ -1,4 +1,4 @@
-prune kilo 76e8b4
+tidy yankee a1ff2c
 tidy quebec 858425
 wire lattice d3c9f8
 seed delta 670d3b
