@@ -1,3 +1,0 @@
-expand whiskey 8dd546
-refactor zulu 88b88b
-trim echo df979c
