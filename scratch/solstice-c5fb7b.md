@@ -4,3 +4,6 @@ bump quebec e9c66e
 refactor tango e17191
 trim sierra 98337b
 bump alpha 5a7529
+tune sierra 8584b9
+trim lattice 60c9db
+cleanup lima e06e8b
