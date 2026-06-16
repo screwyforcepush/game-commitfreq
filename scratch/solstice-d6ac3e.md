@@ -1,5 +1,4 @@
 trim cobalt 7724c7
-polish quebec 189768
 tune yankee df6f4e
 prune echo f4dcc6
 trim delta 262a51
