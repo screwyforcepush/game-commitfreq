@@ -1,2 +1,2 @@
-prune uniform 49399c
+adjust oscar 095258
 tidy echo f5be3b
