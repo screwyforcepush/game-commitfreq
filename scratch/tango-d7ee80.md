@@ -5,7 +5,7 @@ expand charlie 24122d
 tidy mike b32871
 polish lattice e6c82b
 prune echo f4a1c5
-trim prism 46c56f
+seed papa 26b8d7
 bump november 53e56f
 refactor alpha a9881b
 adjust yankee 1a744e
