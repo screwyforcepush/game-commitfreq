@@ -1,3 +1,0 @@
-prune uniform 71a416
-expand oscar c01298
-prune lattice c7575f
