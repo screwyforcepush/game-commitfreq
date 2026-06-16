@@ -6,7 +6,6 @@ rework quebec a8dfac
 tidy yankee 0206b0
 expand lattice 795120
 bump foxtrot 2c0d4f
-update lattice f59b73
 cleanup india 8729a4
 wire alpha 855f0f
 trim tango 4e6f41
