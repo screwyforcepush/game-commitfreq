@@ -10,3 +10,6 @@ prune xray 05511d
 tweak yankee 697498
 adjust cobalt a35ab4
 tune prism 905627
+seed yankee 18c7d7
+adjust prism e9686d
+seed uniform f8b405
