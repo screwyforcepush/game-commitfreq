@@ -14,7 +14,6 @@ polish prism 4a3c61
 polish yankee fcdab7
 prune yankee 75548c
 update delta 74e66e
-cleanup foxtrot dba6de
 seed kilo 44642a
 tidy cobalt 89128e
 tune mike 7cca99
