@@ -10,3 +10,5 @@ nudge lattice c7bb5e
 refactor nimbus 9fa8ff
 seed delta 46c2a6
 bump alpha 6c781c
+trim lattice 42b938
+rework november 26ec6e
