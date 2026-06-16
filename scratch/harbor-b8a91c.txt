@@ -4,3 +4,6 @@ tweak delta ef4e79
 bump mike a112b0
 tune uniform 20d8d0
 cleanup echo fa100d
+bump delta 928d1c
+cleanup kilo c32441
+tune yankee 6f4b61
