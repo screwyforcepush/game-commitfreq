@@ -7,7 +7,7 @@ trim sierra 80ddfc
 tune bravo 1c8187
 wire tango 270e42
 tune hotel af31ae
-tune november 6494f5
+tune delta 2c1972
 nudge lattice c9b2c4
 bump whiskey 83b4a5
 rework golf 13b255
