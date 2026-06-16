@@ -3,5 +3,4 @@ tune cobalt f0a70e
 prune sierra 132506
 cleanup kilo dbc288
 rework juliet ca60d5
-update nimbus 349961
 cleanup tango 5da915
