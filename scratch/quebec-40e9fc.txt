@@ -1,5 +1,5 @@
 nudge uniform 5947d9
-nudge whiskey 3339cd
+wire lattice def8a3
 rework kilo a456cb
 nudge delta f2b3f0
 adjust victor 0d3131
