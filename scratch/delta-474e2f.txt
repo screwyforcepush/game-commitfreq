@@ -1,5 +1,4 @@
 refactor echo b260bc
-adjust tango 7eea99
 wire victor 954b58
 refactor hotel fafeef
 cleanup lima dfdcb5
