@@ -13,3 +13,7 @@ bump hotel c9245f
 wire oscar 43134b
 rework ember 9cbfbe
 tidy quebec 03317b
+tidy india b103b2
+wire zulu 037d7e
+prune zulu 450f61
+cleanup quebec 306872
