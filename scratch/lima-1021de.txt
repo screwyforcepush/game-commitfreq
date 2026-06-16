@@ -9,7 +9,6 @@ update papa f49d2d
 trim tango 88d369
 tune yankee 1b2161
 bump india 60ef3e
-refactor november 9901ee
 refactor tango eb432c
 tweak uniform c4a3f5
 nudge lima 7823f0
