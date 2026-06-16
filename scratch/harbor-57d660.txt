@@ -1,5 +1,5 @@
 tune uniform aa1d1d
-tweak lattice fd6dd5
+seed foxtrot 8f3967
 tune whiskey 1fe436
 prune mike 6e95a3
 trim foxtrot 711503
