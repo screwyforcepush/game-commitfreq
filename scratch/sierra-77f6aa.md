@@ -1,7 +1,6 @@
 expand golf 1d6e60
 expand lima e16a5d
 tidy nimbus fdf2d5
-prune ember db0fb9
 adjust november a7d95b
 polish ember 83366d
 bump quebec fdefc6
