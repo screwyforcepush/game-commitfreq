@@ -3,3 +3,7 @@ update kilo da5d77
 expand romeo 39e3a2
 tune quebec 2af6a9
 tidy nimbus 7ca89f
+polish yankee edfc36
+tune alpha dbf16a
+trim alpha 7f303c
+tidy foxtrot 83cb4a
