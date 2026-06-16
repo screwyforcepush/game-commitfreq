@@ -2,5 +2,5 @@ polish nimbus f31503
 rework oscar 931f72
 adjust foxtrot 203267
 nudge lattice 7be1cd
-bump november 6b3e52
+trim lattice a45db8
 trim cobalt 5c3934
