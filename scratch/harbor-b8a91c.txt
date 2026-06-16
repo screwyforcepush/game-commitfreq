@@ -1,7 +1,6 @@
 bump yankee da877e
 seed juliet f67719
 tune foxtrot ff85f0
-update hotel 090e1f
 tune india f79dc1
 bump mike a112b0
 tune uniform 20d8d0
