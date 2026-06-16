@@ -3,3 +3,6 @@ expand oscar c4d309
 nudge nimbus 2d67ec
 bump xray 16b741
 prune hotel ff5563
+wire foxtrot ff75d3
+expand quebec 7a1895
+tweak golf fbd346
