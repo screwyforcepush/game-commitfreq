@@ -4,3 +4,6 @@ nudge november 23f675
 rework whiskey dd1e65
 cleanup victor 6c021d
 update sierra 926eb7
+adjust cobalt 3ab8a0
+tidy delta 3565c2
+adjust zulu 690b69
