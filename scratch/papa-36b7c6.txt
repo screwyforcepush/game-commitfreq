@@ -1,3 +1,0 @@
-seed papa 367f0a
-seed xray 46c194
-tune alpha c036f8
