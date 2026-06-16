@@ -10,3 +10,6 @@ wire romeo dd3b93
 expand golf c182d9
 tune solstice c72a49
 expand charlie 26c026
+update oscar 591a72
+polish kilo 471f6d
+adjust quebec dcd5dc
