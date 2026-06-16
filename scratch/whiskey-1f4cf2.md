@@ -1,1 +1,1 @@
-tune lattice acf4d0
+seed november 640a6a
