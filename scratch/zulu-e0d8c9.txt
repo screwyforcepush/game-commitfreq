@@ -1,5 +1,4 @@
 tune sierra 6e025d
 seed uniform 8afb3b
-seed echo 344fa0
 bump tango 422aa8
 trim whiskey 5b14b8
