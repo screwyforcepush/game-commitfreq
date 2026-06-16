@@ -1,4 +1,3 @@
 tune sierra 88faef
-trim delta 728b1c
 trim charlie d22cee
 rework india 7462b8
