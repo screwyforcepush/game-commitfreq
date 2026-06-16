@@ -4,3 +4,5 @@ bump juliet 76d221
 tweak bravo c87153
 rework xray dbf2b9
 expand cobalt d7e38e
+nudge november a532de
+trim uniform 44086c
