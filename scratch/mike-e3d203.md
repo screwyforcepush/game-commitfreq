@@ -3,7 +3,7 @@ update romeo 335c52
 update delta 69267a
 rework quebec d31d01
 cleanup delta 529685
-tweak tango 19ad80
+polish whiskey 08ffad
 bump solstice c0403e
 refactor lima 1fc7f5
 wire tango 4e4362
