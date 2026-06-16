@@ -6,3 +6,7 @@ bump alpha 5a7529
 tune sierra 8584b9
 trim lattice 60c9db
 cleanup lima e06e8b
+tune yankee d3db39
+tidy mike cecd38
+nudge nimbus cba22a
+seed charlie c44681
