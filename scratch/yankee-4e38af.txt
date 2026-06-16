@@ -3,5 +3,4 @@ expand prism 86c4b2
 refactor tango 2251ee
 expand victor f00bfc
 update solstice 83a281
-tidy kilo 6d9e75
 wire prism a972f6
