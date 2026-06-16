@@ -6,3 +6,6 @@ bump oscar 5fe2f9
 prune bravo 45361a
 nudge charlie 1b4099
 bump mike 2b9664
+bump delta 41e65a
+nudge mike 53884b
+polish papa 96a869
