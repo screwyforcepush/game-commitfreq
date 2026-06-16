@@ -1,2 +1,0 @@
-adjust alpha 2c89bb
-wire uniform 5f66bc
