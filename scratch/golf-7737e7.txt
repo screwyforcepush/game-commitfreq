@@ -16,3 +16,5 @@ adjust quebec bf8dee
 prune xray e45d32
 adjust prism a8ef03
 nudge yankee 8dc7aa
+bump ember 62b6a6
+prune hotel d07ea9
