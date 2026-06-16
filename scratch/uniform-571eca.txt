@@ -1,2 +1,0 @@
-cleanup lattice c87005
-wire quebec 3905e6
