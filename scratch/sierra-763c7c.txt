@@ -13,3 +13,5 @@ expand whiskey f3f375
 seed delta 41dd1b
 tweak juliet ee33ea
 rework nimbus a3e70b
+wire charlie e9ac02
+expand solstice 00c2a0
