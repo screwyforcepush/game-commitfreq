@@ -21,3 +21,6 @@ tune mike 7cca99
 refactor oscar a90a07
 seed victor 947d7a
 wire sierra 37217b
+wire echo 333dce
+tweak quebec 6d9a76
+trim ember db2463
