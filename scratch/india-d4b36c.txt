@@ -1,4 +1,3 @@
-prune uniform ce2204
 refactor bravo b0e3fe
 expand delta e2009b
 adjust lattice c73bad
