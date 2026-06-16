@@ -6,3 +6,6 @@ wire echo 682c23
 expand xray f38902
 seed zulu c05628
 cleanup xray c937a6
+update zulu 75e570
+bump victor 1151fa
+rework tango 4c51c7
