@@ -5,3 +5,6 @@ trim hotel de86bc
 polish lattice 01e5e4
 tidy nimbus 74c5c5
 tweak victor 7ab40d
+refactor nimbus 744e45
+refactor oscar 9bda83
+wire xray 4b696e
