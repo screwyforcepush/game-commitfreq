@@ -5,3 +5,6 @@ seed foxtrot 47820f
 wire nimbus 80bff4
 adjust cobalt ac5d81
 rework lattice 0fa6a0
+tweak uniform 1a647a
+tune delta b0a784
+tune lima 96859e
