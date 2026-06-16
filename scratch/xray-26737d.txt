@@ -4,3 +4,7 @@ bump delta bb42b2
 trim hotel e4436c
 polish charlie e7a3f7
 seed prism b8e8eb
+tweak delta 10586e
+cleanup nimbus 6ba98b
+polish juliet b8731b
+tune quebec 95a836
