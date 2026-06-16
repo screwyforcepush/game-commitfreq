@@ -7,3 +7,4 @@ prune yankee 8f8a13
 nudge charlie a81dc1
 polish oscar c3e064
 tweak cobalt 9e7a84
+trim xray 60c85b
