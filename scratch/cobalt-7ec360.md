@@ -5,3 +5,6 @@ update alpha 87ec5e
 tune november e72f5f
 refactor tango 77c701
 update foxtrot cb89eb
+nudge zulu 7ccc82
+prune quebec 2ccefe
+adjust alpha 0a7fb0
