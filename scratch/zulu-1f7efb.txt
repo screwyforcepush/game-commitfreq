@@ -4,3 +4,4 @@ refactor tango deb733
 update victor a61ea8
 bump echo 119e1e
 tidy sierra 264cb5
+update solstice 77880d
