@@ -4,7 +4,6 @@ tune xray 8e1189
 bump whiskey 6dde58
 trim echo 9844cb
 tune harbor fe8e29
-tune kilo e1932b
 tune india f7a41a
 tweak alpha 3d0507
 bump alpha f43865
