@@ -5,7 +5,7 @@ prune delta 93edb1
 seed ember 9962a4
 cleanup uniform 97c196
 bump juliet 82d35f
-rework yankee 7cd150
+tweak mike cdb3f0
 expand delta 52baf6
 expand bravo efe76b
 cleanup bravo 74ec73
