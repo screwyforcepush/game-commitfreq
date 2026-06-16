@@ -11,6 +11,5 @@ adjust yankee a48b4e
 tweak sierra 15666d
 adjust whiskey c77221
 tune echo c6c7e3
-seed mike ac1abb
 tune nimbus 99176d
 wire lattice 7b540e
