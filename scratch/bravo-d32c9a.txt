@@ -1,4 +1,4 @@
 nudge prism 2f06da
-seed prism 8024f6
+prune hotel fc6f33
 cleanup oscar 1dc9b8
 update uniform e8ddc3
