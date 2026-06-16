@@ -12,3 +12,4 @@ bump mike 5849ef
 nudge hotel f1eb87
 rework lattice 51b82c
 refactor prism a9d6dc
+refactor echo d9f357
