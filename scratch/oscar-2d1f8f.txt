@@ -9,6 +9,5 @@ bump sierra e67e38
 update lattice 0c297a
 expand cobalt 6e6a31
 refactor sierra 869a85
-bump india 673cb9
 wire ember 122647
 adjust harbor 8c9008
