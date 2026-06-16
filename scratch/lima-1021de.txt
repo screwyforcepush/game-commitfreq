@@ -2,7 +2,6 @@ nudge kilo ef922a
 tweak cobalt 736fb2
 tidy juliet b31940
 adjust ember 69c928
-adjust tango 341e39
 seed sierra 4da1d8
 update papa f49d2d
 trim tango 88d369
