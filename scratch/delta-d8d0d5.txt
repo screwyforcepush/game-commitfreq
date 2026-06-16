@@ -2,7 +2,6 @@ tune bravo d26db4
 trim cobalt 71261c
 update golf 5a9ec3
 tidy quebec 1021a1
-update sierra 13b0d6
 tidy papa 42018d
 prune tango 201c42
 update golf 60cb26
