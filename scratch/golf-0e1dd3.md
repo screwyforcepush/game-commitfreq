@@ -6,4 +6,4 @@ expand bravo fb228f
 expand solstice 5003b6
 tune lima 6f95c0
 wire sierra 97335b
-expand yankee 18b296
+update lattice daafb9
