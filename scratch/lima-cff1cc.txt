@@ -1,4 +1,4 @@
-expand cobalt d57534
+seed november 58a18d
 polish nimbus c845d3
 trim papa 706368
 wire solstice d01ab3
