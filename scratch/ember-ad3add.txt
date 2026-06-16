@@ -8,3 +8,5 @@ tune tango b47436
 tweak mike deca0a
 adjust cobalt 96713d
 wire harbor 870535
+adjust whiskey f39942
+adjust kilo cebfd4
