@@ -6,3 +6,7 @@ tweak india d255d7
 trim india 15b100
 expand uniform 9ab34f
 trim lattice 61acc8
+trim charlie 775d5f
+tune quebec a5f663
+adjust harbor e56297
+polish papa 351ced
