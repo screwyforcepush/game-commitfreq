@@ -3,7 +3,6 @@ rework zulu 33c070
 cleanup victor 541499
 tweak romeo 016128
 bump whiskey 229f98
-refactor juliet 2957c3
 rework hotel 74425c
 trim sierra 1f2fd3
 cleanup juliet bbba00
