@@ -11,7 +11,7 @@ seed charlie 485832
 tune lima 256794
 polish lattice 7b958e
 nudge whiskey ac6c62
-expand delta 30a731
+prune uniform fa76a6
 update quebec 779273
 refactor romeo e3dbb0
 tune hotel 22426f
