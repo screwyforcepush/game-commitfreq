@@ -10,7 +10,6 @@ tune lattice ad989b
 nudge nimbus 37e22d
 bump cobalt 187a39
 adjust lima c45be6
-adjust harbor e4fdc9
 adjust oscar 3b83db
 trim bravo b87a6b
 tune tango c2c129
