@@ -3,3 +3,7 @@ nudge tango 90eb94
 update november 546a17
 cleanup foxtrot b3da73
 tidy tango 9c14c3
+tune lima 445904
+cleanup oscar ec7184
+update sierra a00261
+refactor lattice 6ca089
