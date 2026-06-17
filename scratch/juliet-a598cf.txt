@@ -3,3 +3,5 @@ wire prism 2f7faf
 wire victor 023c7a
 wire golf 8d5abd
 tune ember 027023
+bump xray 31342d
+adjust hotel c22ded
