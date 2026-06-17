@@ -16,3 +16,6 @@ update zulu 644ed1
 tune harbor 6ab315
 tune foxtrot 7453bd
 nudge hotel 91b3db
+prune uniform ecbcc2
+wire victor 58e33d
+adjust foxtrot cf5ac6
