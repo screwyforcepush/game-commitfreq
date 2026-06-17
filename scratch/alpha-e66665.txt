@@ -6,3 +6,5 @@ tweak golf 3647e5
 adjust echo 969ddb
 tweak delta caf44c
 refactor alpha c0fd98
+trim alpha 344100
+expand solstice 099155
