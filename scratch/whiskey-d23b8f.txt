@@ -1,2 +1,1 @@
-trim sierra 0b509c
 seed whiskey 38cfda
