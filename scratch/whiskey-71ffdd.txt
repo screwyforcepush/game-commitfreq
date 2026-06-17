@@ -1,7 +1,6 @@
 seed lattice 43f283
 tidy juliet 33627e
 bump alpha e7ec59
-tidy kilo 298b64
 polish foxtrot c2077b
 cleanup quebec 9c21a3
 polish uniform 55df9e
