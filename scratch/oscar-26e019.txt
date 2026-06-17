@@ -2,3 +2,7 @@ expand alpha 7eba1d
 nudge uniform 83ca0e
 trim whiskey 29b69d
 seed charlie 8cc32c
+expand uniform 7f8ac9
+tidy papa fbe64b
+tweak lima f1bfbb
+trim xray 7f79b6
