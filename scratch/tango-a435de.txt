@@ -2,5 +2,4 @@ polish delta 408822
 update prism 91fa31
 prune golf 68b7a3
 update xray 2d3e06
-tweak solstice a13caa
 polish kilo 94036b
