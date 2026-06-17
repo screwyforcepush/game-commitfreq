@@ -7,3 +7,6 @@ tune cobalt f01f90
 tidy xray 5f0b0f
 tweak solstice 02ff53
 seed cobalt dbe98c
+update lattice cd8189
+update echo 7634c4
+seed delta 2fedf5
