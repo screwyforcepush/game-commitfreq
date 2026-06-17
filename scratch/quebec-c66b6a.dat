@@ -14,3 +14,7 @@ tune alpha 81eefa
 adjust lima d4d0ae
 update xray 82df71
 prune victor 1378d6
+tune juliet 3a8199
+tweak juliet 72af6e
+wire echo 57932d
+nudge romeo 3c192e
