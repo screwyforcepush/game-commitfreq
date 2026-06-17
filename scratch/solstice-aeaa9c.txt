@@ -2,7 +2,7 @@ adjust hotel e54403
 seed november 9ebc17
 trim bravo f9f272
 cleanup zulu 8188e2
-seed delta 5e5907
+update lattice 5e1544
 adjust ember e5ef64
 tune mike b12a2a
 tidy golf 8babc2
