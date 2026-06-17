@@ -5,3 +5,5 @@ cleanup charlie 99a693
 adjust cobalt c80612
 tidy cobalt b43529
 cleanup sierra be4a5e
+trim papa abdb3a
+tweak cobalt 05b062
