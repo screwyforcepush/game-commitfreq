@@ -3,3 +3,7 @@ adjust india b39d00
 tune lima a80f72
 rework mike 0457ce
 cleanup lima c7065d
+update victor 4cdfa9
+adjust delta e13d48
+polish tango 0b2271
+tweak romeo 8595ac
