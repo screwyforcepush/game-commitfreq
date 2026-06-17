@@ -11,3 +11,4 @@ polish harbor ecd369
 rework india 96195a
 trim echo 2fb0e5
 nudge cobalt e674a3
+bump solstice 857b0c
