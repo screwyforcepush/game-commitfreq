@@ -8,3 +8,7 @@ tweak quebec a5b959
 trim nimbus 7b832b
 prune ember 38d39e
 rework hotel ea145d
+prune yankee 58edbe
+prune november a82015
+polish oscar 018ba0
+bump ember eef730
