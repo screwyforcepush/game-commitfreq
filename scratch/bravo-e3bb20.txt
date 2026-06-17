@@ -6,4 +6,3 @@ tune harbor c1549f
 bump tango d826d0
 refactor oscar 3c11b5
 expand kilo 5c72e8
-tune delta eb0a61
