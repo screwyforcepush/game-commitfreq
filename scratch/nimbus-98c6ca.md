@@ -8,3 +8,7 @@ bump harbor 8933f4
 rework nimbus 4b1a54
 expand oscar f230c2
 prune kilo 3ecec3
+cleanup india da3cdc
+wire solstice 91f25d
+prune sierra f1c3d2
+prune tango 6ed892
