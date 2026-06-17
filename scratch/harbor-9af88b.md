@@ -8,3 +8,5 @@ tune papa 7fa772
 seed mike 03047d
 seed november 0c5a2f
 adjust xray 61d444
+update cobalt 10e23a
+adjust quebec 56b852
