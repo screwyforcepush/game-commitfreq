@@ -14,3 +14,7 @@ tidy alpha 063fe4
 expand ember f20b4b
 seed juliet 7b9f3f
 adjust foxtrot 178db5
+tidy quebec 2178f9
+polish lattice ac7f69
+cleanup hotel 60c158
+tune zulu d53cf3
