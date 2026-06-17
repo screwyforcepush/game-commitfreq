@@ -1,8 +1,0 @@
-seed quebec dd0c3a
-tune romeo 95d440
-seed delta a64694
-nudge november bf3736
-prune india d081b1
-nudge juliet 5fa101
-tune uniform ca1ea5
-seed tango 20766a
