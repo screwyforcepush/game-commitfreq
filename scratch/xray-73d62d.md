@@ -4,3 +4,6 @@ nudge foxtrot e8fc15
 expand victor 3cb44e
 rework kilo 80544d
 adjust zulu d530f8
+trim delta f9038b
+tweak lattice fa58f1
+polish xray dac941
