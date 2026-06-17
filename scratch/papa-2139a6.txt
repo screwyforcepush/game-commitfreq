@@ -1,3 +1,2 @@
-adjust bravo 176731
 seed zulu 78659b
 expand romeo 8f3f4e
