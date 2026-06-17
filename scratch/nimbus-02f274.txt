@@ -1,5 +1,4 @@
 expand lattice f32dde
-wire tango d454ba
 rework xray 11bce3
 adjust bravo d04e72
 expand solstice 9bb5fb
