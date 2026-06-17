@@ -1,4 +1,3 @@
 seed tango 65ff40
-polish cobalt a8d2a0
 bump zulu 629e3f
 tidy juliet df7262
