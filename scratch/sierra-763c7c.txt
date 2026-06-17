@@ -21,3 +21,5 @@ adjust alpha 144f02
 adjust india 66b7e0
 adjust harbor 9f5a40
 wire xray e51646
+seed uniform 8fc374
+polish sierra 4e448b
