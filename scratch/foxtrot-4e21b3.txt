@@ -1,3 +1,0 @@
-tune alpha 0dab94
-update papa a5bc1b
-seed juliet 49d949
