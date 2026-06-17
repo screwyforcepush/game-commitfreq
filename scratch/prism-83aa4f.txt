@@ -6,3 +6,6 @@ wire mike 314bed
 wire quebec 63df84
 nudge cobalt b1c4f8
 rework ember 8b8a18
+adjust zulu 898274
+nudge kilo 54840a
+adjust bravo c6f4f3
