@@ -9,3 +9,6 @@ update foxtrot 003c0e
 polish xray 851f66
 trim kilo 0a5f51
 tweak xray 13b509
+trim whiskey 42a02b
+update foxtrot 603cd8
+tweak golf fa5a0a
