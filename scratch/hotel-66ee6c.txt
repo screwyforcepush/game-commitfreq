@@ -14,3 +14,6 @@ adjust uniform e8ef32
 tidy golf 342f02
 expand zulu 01ab90
 adjust solstice 049193
+expand lattice 702aff
+bump papa 57e2b8
+adjust november 48581a
