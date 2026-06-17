@@ -1,2 +1,2 @@
-wire oscar b4b7ff
+prune zulu bfc410
 seed papa 942cff
