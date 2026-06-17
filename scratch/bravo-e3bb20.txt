@@ -14,3 +14,5 @@ seed oscar b7f0a1
 tweak sierra 828b54
 bump golf d78209
 tidy lattice 24a13e
+tweak ember 208edb
+tweak charlie a12055
