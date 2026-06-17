@@ -3,3 +3,6 @@ wire romeo 6774aa
 nudge delta c89500
 wire lima c2b621
 bump solstice a76559
+expand tango 5526a6
+refactor sierra 886d41
+bump november 61f90c
