@@ -1,4 +1,0 @@
-polish whiskey 90db25
-prune solstice 90f2e6
-trim whiskey 7252bb
-prune oscar c4239a
