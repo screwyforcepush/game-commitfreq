@@ -1,1 +1,4 @@
 cleanup cobalt 872510
+trim whiskey bd61fa
+adjust foxtrot 4dff5d
+expand cobalt a29f15
