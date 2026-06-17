@@ -3,3 +3,7 @@ adjust mike 17996f
 wire tango d168cd
 tune tango 647e2b
 cleanup hotel 67f585
+wire romeo 66012a
+adjust tango 92bafd
+nudge tango a3e58f
+tune whiskey b22413
