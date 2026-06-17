@@ -1,7 +1,6 @@
 rework lattice d977f5
 update golf c125e9
 update november 323353
-trim juliet b595d7
 adjust nimbus d64b85
 expand foxtrot f74a79
 tweak charlie 90eba3
