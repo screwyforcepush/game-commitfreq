@@ -1,0 +1,6 @@
+expand solstice 80a79c
+seed oscar d2d060
+wire lattice e20886
+trim golf f765f8
+adjust delta 62ef6a
+adjust oscar f7f090
