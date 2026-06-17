@@ -16,3 +16,5 @@ wire india 37a8d2
 wire whiskey 14c666
 nudge harbor b12838
 adjust kilo d3fa86
+wire ember 68b595
+rework charlie 1c2c71
