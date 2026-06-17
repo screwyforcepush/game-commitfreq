@@ -5,3 +5,5 @@ wire charlie bb6284
 adjust hotel 8aae75
 polish yankee f3f59b
 tune victor 924142
+tweak delta 2eb6e2
+bump mike de80f3
