@@ -11,3 +11,5 @@ seed xray 60764f
 bump kilo 57e9d1
 trim zulu 60c7ca
 trim november 0a95fa
+tune cobalt d0bdc3
+adjust hotel 4ce416
