@@ -2,7 +2,6 @@ prune xray b402a0
 polish ember 0d21ca
 cleanup xray b26a5f
 adjust echo 32386f
-refactor charlie d18942
 rework hotel 4264b8
 wire quebec 16821f
 tune harbor 1ead3d
