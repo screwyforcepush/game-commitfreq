@@ -1,6 +1,6 @@
 prune lattice f6ddc1
 seed xray 4b2931
-bump delta 10d8b0
+rework november 88ea81
 wire victor c11727
 tune november 5cfc9c
 update solstice c825f8
