@@ -2,3 +2,5 @@ tweak charlie bc1bb2
 seed nimbus 1c3007
 rework hotel e27ad3
 rework hotel 7d1cb5
+tidy yankee 45b55b
+polish quebec c691cb
