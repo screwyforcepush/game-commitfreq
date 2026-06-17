@@ -1,6 +1,5 @@
 tune victor 1281b5
 tidy lima c62523
 refactor whiskey 934354
-wire yankee 6a1e15
 wire echo b9a4e1
 cleanup kilo 97a454
