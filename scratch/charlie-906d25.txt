@@ -5,7 +5,6 @@ adjust solstice b9e3c2
 tune harbor ae4a23
 adjust prism bbfc06
 tune prism b3cedd
-prune hotel c51f14
 update november 690adc
 seed lattice 2be5ba
 tidy prism eaddb6
