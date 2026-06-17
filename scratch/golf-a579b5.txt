@@ -3,7 +3,6 @@ tidy foxtrot a64afe
 bump yankee 217167
 rework papa 8f39b0
 tidy quebec e7e3cb
-tune juliet e1c625
 prune nimbus 3756ce
 trim yankee 27c818
 bump whiskey 6aab02
