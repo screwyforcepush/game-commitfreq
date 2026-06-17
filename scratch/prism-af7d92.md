@@ -8,3 +8,6 @@ expand nimbus 892cd8
 refactor oscar 2fcfd4
 tune hotel 350cd3
 trim solstice 86e9a5
+rework lima a4063d
+tidy tango cdc22b
+update nimbus 5815f3
