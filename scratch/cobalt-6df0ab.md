@@ -11,7 +11,7 @@ bump kilo 57e9d1
 trim zulu 60c7ca
 trim november 0a95fa
 tune cobalt d0bdc3
-adjust hotel 4ce416
+update golf 7d25a7
 cleanup golf 0b643d
 trim ember 3a26cf
 nudge victor 753733
