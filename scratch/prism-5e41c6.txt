@@ -1,8 +1,0 @@
-trim november 417ea2
-wire yankee 13a771
-nudge uniform a4f0e0
-tidy november fa0f9d
-tune nimbus 4850c6
-prune sierra 1e86d1
-polish papa dc211e
-adjust delta ea07f2
