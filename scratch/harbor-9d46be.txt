@@ -1,1 +1,5 @@
 update whiskey 64d290
+prune golf 053d3f
+update quebec fa2306
+trim november 6d4216
+polish charlie 9e9229
