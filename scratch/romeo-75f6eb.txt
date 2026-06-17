@@ -1,4 +1,3 @@
-cleanup india ba547c
 wire echo ab7504
 adjust delta 4fa919
 wire zulu 1e3ad4
