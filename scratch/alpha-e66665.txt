@@ -3,7 +3,7 @@ tweak kilo 5b7e86
 wire echo 240d0b
 wire solstice bfd3f4
 tweak golf 3647e5
-adjust echo 969ddb
+nudge november a324a8
 tweak delta caf44c
 refactor alpha c0fd98
 trim alpha 344100
