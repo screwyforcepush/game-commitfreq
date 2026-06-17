@@ -1,4 +1,3 @@
-prune delta 9f59da
 adjust solstice 9e3215
 adjust quebec 1ab18c
 update oscar 741f27
