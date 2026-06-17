@@ -1,0 +1,5 @@
+tune mike 1fb4a6
+wire papa 574ed6
+trim cobalt 7eeca4
+tune mike 8b53bd
+wire mike 314bed
