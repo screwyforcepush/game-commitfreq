@@ -1,4 +1,3 @@
-cleanup lattice ba07bc
 cleanup india ba547c
 wire echo ab7504
 adjust delta 4fa919
