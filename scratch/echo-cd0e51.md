@@ -4,3 +4,6 @@ trim uniform 228ad1
 seed kilo ca0b2e
 polish sierra aaed0a
 nudge mike 6f7f36
+nudge kilo 4a0506
+seed uniform 99e011
+adjust sierra f049c7
