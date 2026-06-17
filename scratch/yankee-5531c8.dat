@@ -7,3 +7,4 @@ wire echo 16f74a
 tune romeo 48339d
 tune lattice 9c2852
 tidy sierra 183703
+tidy echo 7d7c6a
