@@ -3,7 +3,7 @@ update zulu 7035b2
 seed xray ac4e70
 refactor sierra 466325
 cleanup lattice b04209
-seed oscar fb86c5
+seed lima f2bcf7
 tune november aedc60
 update alpha ec20f5
 adjust golf 6a038d
