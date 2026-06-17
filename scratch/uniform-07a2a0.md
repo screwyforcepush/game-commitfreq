@@ -7,3 +7,4 @@ seed cobalt 772bf1
 cleanup hotel a9cfdb
 prune oscar 5f128e
 rework bravo b219c5
+wire cobalt 5a8a67
