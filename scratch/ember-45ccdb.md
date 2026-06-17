@@ -9,3 +9,5 @@ rework alpha de52b5
 trim prism e1add4
 polish nimbus 0dfc9e
 update juliet db6790
+prune oscar 86223e
+trim kilo c59234
