@@ -10,3 +10,6 @@ tweak nimbus 9189e3
 adjust charlie e19e47
 refactor quebec 10be00
 rework juliet 706941
+polish cobalt 4d6f78
+polish hotel ee1b40
+update uniform e67ffb
