@@ -9,3 +9,5 @@ nudge tango a3e58f
 tune whiskey b22413
 polish sierra b69a03
 adjust november 94b4f7
+tweak harbor 51fd53
+tweak foxtrot a37d94
