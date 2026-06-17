@@ -5,3 +5,6 @@ polish papa 6a9797
 prune uniform 3594e5
 adjust prism 7a1ed2
 tweak sierra c1ca72
+adjust charlie efac22
+polish echo ee9447
+trim bravo 8b0eee
