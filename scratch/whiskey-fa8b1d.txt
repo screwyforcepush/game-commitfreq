@@ -6,7 +6,6 @@ rework mike 41cce6
 refactor juliet 68b17c
 trim charlie 83997a
 bump whiskey 83324c
-update india b6dbf8
 rework echo ab41b0
 nudge ember 7052af
 expand romeo 0a2287
