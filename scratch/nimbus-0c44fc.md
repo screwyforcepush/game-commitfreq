@@ -7,3 +7,7 @@ polish yankee f3f59b
 tune victor 924142
 tweak delta 2eb6e2
 bump mike de80f3
+bump hotel 69138c
+bump mike d6ca93
+trim mike 16984b
+expand kilo 530469
