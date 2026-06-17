@@ -8,5 +8,4 @@ polish sierra dcdb8c
 rework whiskey 5a4fd3
 prune prism b1f300
 tweak alpha c53a60
-prune foxtrot 7487c2
 rework lima b359f3
