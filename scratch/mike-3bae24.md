@@ -7,3 +7,6 @@ polish yankee edfc36
 tune alpha dbf16a
 trim alpha 7f303c
 tidy foxtrot 83cb4a
+expand ember acbbb1
+tune delta 371af8
+expand tango 34ed2d
