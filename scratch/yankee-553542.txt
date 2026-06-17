@@ -1,5 +1,4 @@
 adjust papa 0b733b
-trim papa 8c536b
 update hotel 39b30e
 adjust lima 747ca4
 polish yankee d8e326
