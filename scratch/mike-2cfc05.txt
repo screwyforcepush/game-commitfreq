@@ -7,3 +7,6 @@ cleanup harbor 95ea0b
 rework oscar 5e6657
 update echo 432902
 tweak nimbus 9189e3
+adjust charlie e19e47
+refactor quebec 10be00
+rework juliet 706941
