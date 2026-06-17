@@ -3,5 +3,5 @@ trim nimbus fe2a6e
 polish golf 635996
 prune xray 29ef20
 refactor prism f3da81
-trim juliet 972d86
+tidy prism f39d70
 wire golf b0b94d
