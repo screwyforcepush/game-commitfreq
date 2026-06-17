@@ -1,5 +1,4 @@
 polish whiskey 90db25
-seed ember ec2d68
 prune solstice 90f2e6
 trim whiskey 7252bb
 nudge zulu 55a6e0
