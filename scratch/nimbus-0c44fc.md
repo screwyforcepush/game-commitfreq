@@ -3,7 +3,6 @@ wire nimbus 957459
 tweak charlie e00408
 tune nimbus 773ace
 wire charlie bb6284
-adjust golf bbc1ec
 adjust hotel 8aae75
 polish yankee f3f59b
 tune victor 924142
