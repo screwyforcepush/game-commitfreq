@@ -6,3 +6,6 @@ adjust nimbus d64b85
 expand foxtrot f74a79
 tweak charlie 90eba3
 expand romeo 82005f
+cleanup romeo bb879a
+cleanup papa abd29a
+tidy india 0bb854
