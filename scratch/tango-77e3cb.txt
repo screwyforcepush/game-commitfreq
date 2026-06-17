@@ -9,3 +9,6 @@ tweak nimbus 94be94
 seed india 8c360d
 cleanup whiskey 6fbe90
 cleanup mike 1d473a
+wire victor 8a4bad
+adjust nimbus d2e537
+tidy juliet be5901
