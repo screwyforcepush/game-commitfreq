@@ -9,3 +9,5 @@ tune romeo 21f353
 wire kilo e4a5d6
 nudge echo 1d3425
 trim zulu 0cb9a7
+expand sierra f184e2
+trim foxtrot 5583bc
