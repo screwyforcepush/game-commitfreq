@@ -1,4 +1,3 @@
-adjust sierra bbc3ff
 polish kilo 19777e
 adjust kilo 3b694d
 wire mike 25e154
