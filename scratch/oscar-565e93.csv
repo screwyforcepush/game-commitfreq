@@ -6,3 +6,7 @@ wire lattice 5273d8
 update nimbus 86e521
 expand hotel cb1837
 tune harbor 654f2a
+update xray 36ebae
+trim uniform d35ac8
+tune alpha 88fef2
+polish kilo a87ba0
