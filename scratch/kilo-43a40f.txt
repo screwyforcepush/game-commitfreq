@@ -6,3 +6,7 @@ rework echo 440c01
 trim bravo fb745e
 expand november da3850
 tune echo c44324
+tune lattice af795c
+nudge prism a93436
+tweak ember 05600e
+trim zulu 106961
