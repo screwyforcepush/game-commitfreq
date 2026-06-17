@@ -1,3 +1,0 @@
-trim echo e18ef9
-refactor juliet 045083
-trim whiskey 7f85f1
