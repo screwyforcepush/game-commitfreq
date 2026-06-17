@@ -1,2 +1,6 @@
 adjust mike 5bed5c
 polish nimbus fdc4db
+tidy sierra a83cef
+wire kilo cd782c
+tune romeo 9c51db
+tidy yankee e1341c
