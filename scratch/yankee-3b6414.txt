@@ -16,3 +16,6 @@ wire kilo ec57be
 trim papa 9487b1
 rework mike 83b751
 tune november 383b5f
+tidy victor c60100
+adjust delta 4b4ed7
+adjust ember 25c09d
