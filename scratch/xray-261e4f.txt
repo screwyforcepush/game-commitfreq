@@ -4,7 +4,7 @@ nudge harbor 8721f2
 wire mike 200d06
 cleanup uniform a241af
 update uniform 95f69e
-polish alpha c13dc0
+tune solstice 0ac773
 nudge november 2bbe4e
 wire india 7b38c2
 tune solstice 081307
