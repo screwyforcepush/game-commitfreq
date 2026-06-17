@@ -14,3 +14,7 @@ tune cobalt d0bdc3
 adjust hotel 4ce416
 cleanup golf 0b643d
 trim ember 3a26cf
+nudge victor 753733
+bump papa 78ae4c
+bump echo 408550
+bump oscar 29bca5
