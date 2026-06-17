@@ -14,3 +14,6 @@ seed lattice 19cfd4
 rework foxtrot 0f3897
 wire lima 5e1ecf
 refactor bravo 20878c
+adjust solstice c608b1
+polish tango 0e6490
+tweak charlie 520ff2
