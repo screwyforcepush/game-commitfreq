@@ -1,3 +1,0 @@
-prune mike 0d6c10
-trim oscar 2925d6
-polish solstice aa2d02
