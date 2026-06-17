@@ -7,7 +7,7 @@ cleanup victor 2c4d18
 prune zulu a3ce48
 wire quebec 64cc93
 expand mike 087710
-rework delta f112b6
+tune nimbus e2fb79
 rework lima 3424d2
 update xray 3331b4
 cleanup ember b2f374
