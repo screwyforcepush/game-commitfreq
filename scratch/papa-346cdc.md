@@ -1,7 +1,6 @@
 trim echo ab6686
 seed november 9ebc17
 trim bravo f9f272
-cleanup sierra 8a68e5
 cleanup zulu 8188e2
 seed delta 5e5907
 adjust ember e5ef64
