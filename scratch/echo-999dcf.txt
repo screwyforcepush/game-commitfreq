@@ -3,7 +3,6 @@ prune oscar 7ecedb
 tidy quebec 396ed6
 tidy ember 185d65
 expand romeo 3d8892
-prune bravo e27d11
 update harbor e6dc36
 seed victor 384a49
 trim tango 34d96e
