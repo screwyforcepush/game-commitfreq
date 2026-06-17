@@ -1,4 +1,4 @@
-prune delta 5e24db
+seed kilo 247475
 expand kilo b558a1
 trim nimbus a02c9d
 rework echo f8959f
