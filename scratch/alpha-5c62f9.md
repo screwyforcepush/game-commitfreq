@@ -4,7 +4,6 @@ trim victor ed413d
 nudge golf f0115b
 wire zulu 75134d
 cleanup victor 2c4d18
-prune zulu a3ce48
 wire quebec 64cc93
 expand mike 087710
 tune nimbus e2fb79
