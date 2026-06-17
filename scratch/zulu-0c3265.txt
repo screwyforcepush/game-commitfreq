@@ -1,7 +1,7 @@
 tidy tango 79867d
 adjust delta 5f4b05
 seed nimbus aa5a2e
-nudge november 3957fb
+bump solstice 58dd39
 adjust lima 136a28
 polish prism 13a8b4
 tune india 7f19d2
