@@ -5,3 +5,7 @@ tweak whiskey 26a157
 polish prism 1c879e
 cleanup victor 2c4d18
 prune zulu a3ce48
+wire quebec 64cc93
+expand mike 087710
+rework delta f112b6
+rework lima 3424d2
