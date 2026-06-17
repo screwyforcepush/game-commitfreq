@@ -5,6 +5,5 @@ wire alpha bc14c2
 tweak victor c96e26
 polish nimbus 2f064e
 tune tango 47580b
-seed nimbus 972153
 adjust india 085cc7
 update ember c1e2f5
