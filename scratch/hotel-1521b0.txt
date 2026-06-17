@@ -3,7 +3,7 @@ prune november 6e3d27
 trim charlie 6ac430
 adjust lattice 7af4ff
 expand golf ccf0fd
-seed golf 657c3a
+nudge lattice c8c018
 prune ember c3629a
 tune romeo 51eeb8
 nudge lima 81dc32
