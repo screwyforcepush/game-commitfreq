@@ -7,7 +7,7 @@ bump tango d826d0
 refactor oscar 3c11b5
 tidy november bc8544
 rework solstice 2a495b
-nudge nimbus d409e7
+bump harbor 552ab6
 adjust zulu 4d618c
 nudge harbor c4d730
 seed oscar b7f0a1
