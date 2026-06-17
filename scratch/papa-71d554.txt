@@ -7,3 +7,6 @@ prune golf 1f50b1
 tweak kilo 31e731
 update quebec 35636b
 refactor bravo e06b8a
+tune mike 202d4c
+tidy whiskey 62be3b
+expand oscar e3951e
