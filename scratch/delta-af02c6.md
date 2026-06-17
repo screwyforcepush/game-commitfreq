@@ -4,7 +4,6 @@ tidy victor c0fd0c
 seed lattice dd070b
 tidy xray 5b5a0d
 polish sierra dcdb8c
-rework whiskey 5a4fd3
 prune prism b1f300
 tweak alpha c53a60
 rework lima b359f3
