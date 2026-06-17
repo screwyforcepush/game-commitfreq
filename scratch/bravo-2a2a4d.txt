@@ -5,7 +5,7 @@ expand harbor 9c6507
 tune hotel c09d4c
 tweak delta c9d3c1
 tweak quebec a5b959
-trim nimbus 7b832b
+update charlie bac815
 prune ember 38d39e
 rework hotel ea145d
 prune yankee 58edbe
