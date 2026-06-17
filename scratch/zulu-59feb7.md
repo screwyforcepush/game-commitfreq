@@ -16,3 +16,5 @@ trim tango accc52
 nudge lima 5f7c5f
 wire tango 64892c
 seed yankee b08364
+polish papa 131731
+polish alpha d62be1
