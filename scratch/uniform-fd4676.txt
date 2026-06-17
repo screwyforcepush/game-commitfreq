@@ -5,3 +5,5 @@ wire juliet 78c97f
 prune nimbus 582169
 cleanup quebec 5518fe
 tidy zulu bb79ce
+polish oscar e3fb51
+update lattice 68fbab
