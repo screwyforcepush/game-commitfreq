@@ -3,7 +3,6 @@ wire kilo 4309eb
 tidy victor c0fd0c
 seed lattice dd070b
 tidy xray 5b5a0d
-update cobalt 7c2185
 polish sierra dcdb8c
 rework whiskey 5a4fd3
 prune prism b1f300
