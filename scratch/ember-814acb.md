@@ -5,3 +5,7 @@ tidy quebec 0a839e
 prune quebec 48771c
 rework ember 1744b7
 tweak delta 6cc03d
+tidy oscar 78f185
+rework charlie 5a55f2
+wire mike a279e7
+update prism a82189
