@@ -8,3 +8,6 @@ tune papa b84def
 nudge bravo fbc5c0
 seed lima 5c7c5c
 prune sierra 385bf9
+nudge papa c2c721
+bump mike db728e
+expand lattice 97e644
