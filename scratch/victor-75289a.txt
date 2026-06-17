@@ -3,3 +3,6 @@ update victor 601e17
 prune delta f57ea5
 tune kilo 3bfac4
 nudge november a94121
+update uniform fb6ab0
+seed lattice bb483e
+tweak november 3af005
