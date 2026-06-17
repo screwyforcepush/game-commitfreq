@@ -7,3 +7,7 @@ rework hotel 4264b8
 wire quebec 16821f
 tune harbor 1ead3d
 expand uniform aa307f
+update yankee cc0a5c
+adjust charlie 1ae4da
+bump tango 53180f
+prune oscar 24286a
