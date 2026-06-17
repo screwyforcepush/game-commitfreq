@@ -10,5 +10,4 @@ tidy kilo 7fabe8
 wire sierra 6b18ac
 nudge quebec 64cc34
 wire juliet ce3078
-update solstice f51018
 prune november ca539d
