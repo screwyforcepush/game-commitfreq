@@ -1,1 +1,1 @@
-seed sierra db0119
+prune uniform 4586fb
