@@ -7,3 +7,5 @@ polish victor c15966
 bump uniform f3f150
 rework uniform 6d3681
 tweak prism 76261b
+cleanup solstice 19e2a6
+expand november a95769
