@@ -3,3 +3,4 @@ seed echo f0683b
 prune echo 20fb57
 cleanup nimbus 14c171
 prune mike 595188
+adjust prism 5c1435
