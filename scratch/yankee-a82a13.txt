@@ -1,5 +1,4 @@
 cleanup sierra ddd5f9
-wire romeo 33819a
 nudge romeo 910cc8
 wire india c7f86f
 polish prism 9a1e85
