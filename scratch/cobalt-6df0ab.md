@@ -18,3 +18,7 @@ nudge victor 753733
 bump papa 78ae4c
 bump echo 408550
 bump oscar 29bca5
+tweak kilo b927e0
+rework charlie 7fc4b4
+seed charlie 9d5c47
+nudge lattice 958156
