@@ -1,5 +1,4 @@
 update victor c1bf5c
-trim papa 87a146
 tidy quebec 7c10e3
 prune lattice 2b4f30
 adjust delta 0a23ad
