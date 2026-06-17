@@ -5,3 +5,7 @@ bump mike a924bf
 polish tango 70c546
 expand mike 3fbf20
 tune nimbus 072f14
+polish romeo 02e7f6
+trim echo 0f2236
+rework mike d3f4f6
+expand delta 431ade
