@@ -8,3 +8,7 @@ tweak uniform 064c63
 seed prism 72af65
 rework cobalt fa31c0
 polish harbor 367e66
+tweak solstice 894c9b
+bump india eb4413
+polish solstice 3d1288
+trim kilo 8e192d
