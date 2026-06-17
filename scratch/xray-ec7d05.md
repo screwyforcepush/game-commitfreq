@@ -4,3 +4,7 @@ tweak mike 302bd8
 tweak delta 98bd2f
 refactor juliet e08497
 trim delta 0e998b
+tweak cobalt 03e4aa
+update quebec de7005
+tune hotel b3e493
+tune yankee 1f946d
