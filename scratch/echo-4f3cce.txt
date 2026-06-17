@@ -4,3 +4,6 @@ bump xray 5a2746
 nudge quebec cc31c8
 nudge lattice 464b01
 adjust hotel 9a4173
+trim india 2de5f1
+polish juliet 0c0887
+polish tango a5cca3
