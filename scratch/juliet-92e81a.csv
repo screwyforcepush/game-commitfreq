@@ -1,6 +1,6 @@
 prune delta 5e24db
 expand kilo b558a1
 trim nimbus a02c9d
-prune alpha 2c5996
+rework echo f8959f
 seed charlie bdc2d2
 trim nimbus 9318df
