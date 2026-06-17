@@ -1,8 +1,0 @@
-bump india 66ce1f
-refactor quebec 381f78
-seed tango 249f67
-tune charlie a7c662
-update alpha f1440c
-update hotel 1288ce
-wire mike 9d5655
-adjust juliet 23822e
