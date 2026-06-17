@@ -1,6 +1,6 @@
 bump tango 0fe4c8
 seed xray d9e582
 nudge foxtrot e8fc15
-adjust golf ea3831
+expand victor 3cb44e
 rework kilo 80544d
 adjust zulu d530f8
