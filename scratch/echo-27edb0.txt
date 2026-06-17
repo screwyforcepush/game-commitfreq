@@ -3,6 +3,6 @@ tidy sierra a83cef
 wire kilo cd782c
 tidy yankee e1341c
 trim whiskey b81154
-wire romeo 361d30
+seed alpha 06b0c7
 nudge kilo 160307
 polish charlie 9217de
