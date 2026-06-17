@@ -5,3 +5,6 @@ update lattice 86764d
 trim uniform 0fa1ea
 tune delta c6194c
 tidy foxtrot 69b6ac
+trim whiskey 1f6aea
+nudge delta 317539
+bump lattice ed3d16
