@@ -4,3 +4,4 @@ wire oscar 9618a7
 update lattice 0d1ab6
 tune bravo 7ca556
 prune harbor d84591
+seed ember 808923
