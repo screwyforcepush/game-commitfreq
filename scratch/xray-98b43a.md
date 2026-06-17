@@ -8,6 +8,6 @@ expand delta 369394
 bump quebec 9878b7
 bump sierra fb56cf
 polish harbor ecd369
-bump yankee 45fb8d
+rework india 96195a
 trim echo 2fb0e5
 nudge cobalt e674a3
