@@ -2,7 +2,7 @@ update november 576f84
 adjust mike 17996f
 wire tango d168cd
 tune tango 647e2b
-cleanup hotel 67f585
+rework solstice a9d84e
 wire romeo 66012a
 adjust tango 92bafd
 nudge tango a3e58f
