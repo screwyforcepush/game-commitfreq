@@ -17,3 +17,6 @@ tidy quebec 2178f9
 polish lattice ac7f69
 cleanup hotel 60c158
 tune zulu d53cf3
+nudge juliet 67f925
+expand papa d87fc7
+refactor yankee d2b5b6
