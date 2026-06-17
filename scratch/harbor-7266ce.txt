@@ -13,3 +13,5 @@ expand romeo 12426b
 trim victor fcefbd
 expand romeo 7a66a3
 tweak whiskey 1ec112
+nudge november 498250
+nudge nimbus 420ae0
