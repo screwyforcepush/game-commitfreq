@@ -9,3 +9,4 @@ cleanup quebec 7b0737
 cleanup sierra f0ff95
 rework juliet 98511f
 prune bravo aad25e
+cleanup solstice 1389c3
