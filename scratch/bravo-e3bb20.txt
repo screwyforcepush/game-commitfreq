@@ -6,3 +6,5 @@ tune harbor c1549f
 bump tango d826d0
 refactor oscar 3c11b5
 tidy november bc8544
+rework solstice 2a495b
+nudge nimbus d409e7
