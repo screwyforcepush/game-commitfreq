@@ -7,3 +7,6 @@ polish charlie b69229
 wire golf c8fda3
 nudge lattice 06b254
 update alpha 28f9c7
+polish november 2c1f74
+tidy uniform d14bdb
+bump uniform 4eb616
