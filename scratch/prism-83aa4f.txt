@@ -1,7 +1,7 @@
 tune mike 1fb4a6
 wire papa 574ed6
 trim cobalt 7eeca4
-tune mike 8b53bd
+update solstice 884d29
 wire mike 314bed
 wire quebec 63df84
 nudge cobalt b1c4f8
