@@ -5,3 +5,7 @@ wire juliet a834e8
 polish echo 3c81d6
 tune alpha ed52c5
 wire oscar c58e7c
+trim solstice e85300
+nudge romeo d35536
+nudge zulu b70ab0
+polish whiskey 053796
