@@ -17,3 +17,6 @@ cleanup november 56a517
 prune yankee 33a456
 polish delta 12fe5d
 seed mike e3915f
+cleanup yankee 9ca200
+prune sierra 0e8d70
+cleanup cobalt a77a21
