@@ -2,7 +2,6 @@ wire romeo ee46e5
 update mike 9b942f
 tune delta dec2f0
 tune sierra ed7de8
-nudge cobalt d2a4a5
 tweak ember b4fe98
 bump bravo 5c1b93
 tidy alpha 675805
