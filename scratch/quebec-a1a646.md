@@ -5,3 +5,6 @@ nudge alpha 85bc9c
 polish juliet f0835b
 bump sierra a7915f
 trim lima 4e5f94
+polish prism 63870c
+nudge hotel 0508bd
+expand yankee 528ee7
