@@ -2,3 +2,6 @@ cleanup juliet e52b39
 rework charlie e4e1c3
 expand india c73f99
 bump whiskey 2ebd0e
+tweak hotel e8a520
+wire juliet 1b288a
+refactor india 3062ea
