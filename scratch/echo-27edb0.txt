@@ -3,3 +3,6 @@ tidy sierra a83cef
 wire kilo cd782c
 wire yankee b0c3d7
 tidy yankee e1341c
+trim whiskey b81154
+wire romeo 361d30
+nudge kilo 160307
