@@ -1,2 +1,2 @@
 tune delta eb4407
-prune lattice 692437
+bump xray 623ad6
