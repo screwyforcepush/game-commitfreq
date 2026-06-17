@@ -1,7 +1,6 @@
 tidy prism a1efc2
 nudge harbor f19464
 polish nimbus 5cfd97
-prune sierra 30c7ee
 update kilo 744e90
 trim lima 99be09
 seed nimbus 3c1c1b
