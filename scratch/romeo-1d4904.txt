@@ -1,4 +1,3 @@
-tidy november bad0cf
 tidy quebec facc41
 cleanup hotel e6ddce
 adjust lima 21724f
