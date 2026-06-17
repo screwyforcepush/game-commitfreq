@@ -1,5 +1,4 @@
 wire sierra 604bef
-expand kilo b6ca5c
 wire alpha 20c43c
 rework lattice 044885
 refactor cobalt 2bc5ad
