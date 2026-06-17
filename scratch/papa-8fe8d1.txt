@@ -1,7 +1,6 @@
 refactor prism 5f5901
 update romeo 0b64dc
 refactor uniform d8a716
-polish solstice 29908e
 cleanup papa 83dfe9
 tweak lattice 35e8b5
 prune bravo 0ec035
