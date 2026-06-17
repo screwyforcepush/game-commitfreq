@@ -3,3 +3,5 @@ prune oscar 140d40
 expand yankee ea3da9
 cleanup echo 3bdcd2
 trim hotel 12b7f4
+wire yankee cbc253
+wire romeo e13d12
