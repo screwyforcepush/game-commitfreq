@@ -2,6 +2,5 @@ refactor nimbus 4f8cc3
 wire delta faca32
 wire nimbus 21702d
 nudge solstice 675600
-trim golf 341ca0
 nudge zulu 92ecb8
 cleanup yankee 6b83bd
