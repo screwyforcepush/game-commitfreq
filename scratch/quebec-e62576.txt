@@ -1,4 +1,4 @@
-bump juliet 12532c
+prune alpha 3e1251
 prune solstice 26ecf5
 tune foxtrot f9b900
 polish tango bb2ebc
