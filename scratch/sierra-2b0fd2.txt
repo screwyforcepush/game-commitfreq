@@ -4,3 +4,7 @@ wire kilo 784aa1
 wire yankee da16e2
 tune solstice 297398
 polish delta 42b2ef
+tidy oscar d07086
+tweak sierra da055c
+bump tango 79284f
+tweak victor 3f8eb0
