@@ -1,6 +1,0 @@
-trim mike 3b9a40
-cleanup zulu 59cfe9
-refactor charlie 4ad2ef
-polish quebec 03c1ca
-tune foxtrot b884d2
-cleanup delta be30f5
