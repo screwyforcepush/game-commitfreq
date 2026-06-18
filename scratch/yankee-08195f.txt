@@ -1,6 +1,5 @@
 polish echo 487a94
 tidy lima ce0252
-polish yankee 12a146
 cleanup echo fc629a
 trim alpha d97a92
 expand sierra edd266
