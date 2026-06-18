@@ -7,3 +7,6 @@ expand kilo 8b8893
 prune xray 2a73be
 cleanup romeo 0f0b74
 wire solstice 98b23c
+tweak hotel 299c4b
+nudge nimbus 3e2fb6
+tune papa ec4b34
