@@ -5,7 +5,6 @@ nudge echo 64a40e
 adjust tango 5716fa
 tune sierra cbc154
 tweak kilo 58d215
-bump mike a7927e
 trim foxtrot f8a156
 adjust echo 221921
 cleanup sierra 2880a8
