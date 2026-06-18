@@ -4,6 +4,6 @@ adjust golf cea90d
 tune mike 17c5a0
 seed lattice 2af480
 wire alpha 6ec1d8
-tidy quebec aadede
+wire sierra e34d56
 tidy oscar f57c3c
 seed golf 049c3f
