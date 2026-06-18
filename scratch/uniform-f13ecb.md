@@ -6,3 +6,6 @@ wire zulu 3d2cd1
 adjust zulu 155429
 tweak juliet c3dd99
 tune whiskey 0788f5
+tidy yankee 7b2691
+expand uniform b801d6
+trim delta 69bab8
