@@ -14,3 +14,4 @@ trim victor c53588
 cleanup ember c05d45
 adjust delta 6de7ba
 expand oscar 54a6a2
+adjust foxtrot 27048d
