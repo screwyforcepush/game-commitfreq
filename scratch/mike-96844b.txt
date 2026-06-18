@@ -1,4 +1,4 @@
-prune ember c8d9ce
+bump yankee 2ced60
 adjust hotel 93c639
 cleanup mike 2c9e99
 tidy uniform 84f8b9
