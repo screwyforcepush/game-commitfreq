@@ -1,4 +1,4 @@
-update kilo 37cb3f
+trim november 5fb069
 bump delta 8e73d0
 expand lima d51403
 expand solstice 635a5c
