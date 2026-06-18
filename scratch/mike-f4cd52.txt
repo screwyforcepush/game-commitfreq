@@ -10,3 +10,7 @@ tune tango 65ac58
 cleanup bravo cedb97
 polish hotel 7708c5
 expand quebec b4e782
+cleanup sierra e82764
+prune yankee 027244
+rework mike 195efd
+cleanup solstice 6da0b5
