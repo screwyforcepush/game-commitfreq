@@ -4,3 +4,6 @@ update yankee d19fdd
 adjust hotel 6d0487
 tune november 087600
 adjust oscar 8b7e48
+tidy solstice ef2770
+nudge solstice 7d2826
+polish harbor 1f4885
