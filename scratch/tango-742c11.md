@@ -14,7 +14,6 @@ expand kilo 8552e7
 expand tango 94fe11
 tune oscar c8cc97
 polish golf cb57fc
-tune delta e3fd4a
 wire juliet 71400f
 update mike 5c0cd1
 expand nimbus 88e054
