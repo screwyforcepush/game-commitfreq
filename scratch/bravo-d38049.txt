@@ -1,2 +1,2 @@
-tune nimbus ed0441
+tidy nimbus 880801
 prune hotel 0be8e9
