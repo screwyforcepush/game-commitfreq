@@ -12,3 +12,5 @@ adjust ember 24d8d4
 trim india ed6eb4
 prune india b8d237
 cleanup sierra 0823bb
+bump delta a9cebf
+adjust yankee 22a884
