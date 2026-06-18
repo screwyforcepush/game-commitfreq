@@ -4,3 +4,4 @@ expand kilo 48fd9c
 expand nimbus fba0e2
 tune victor c89a3b
 tune oscar 910e18
+tidy xray 31c82a
