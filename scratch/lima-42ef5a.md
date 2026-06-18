@@ -6,7 +6,6 @@ rework tango f48206
 adjust india 5c48ac
 update quebec d5a549
 seed papa d086ee
-nudge sierra 35078f
 tweak cobalt c1dda8
 wire hotel f474aa
 cleanup golf e0103f
