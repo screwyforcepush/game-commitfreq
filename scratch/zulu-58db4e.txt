@@ -1,6 +1,5 @@
 wire solstice eeecae
 prune papa 805246
-polish romeo b24002
 wire papa cd8d1f
 polish tango d0cd0c
 adjust uniform ca7361
