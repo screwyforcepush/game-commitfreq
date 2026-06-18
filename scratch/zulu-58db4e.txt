@@ -1,4 +1,4 @@
-wire solstice eeecae
+prune foxtrot 1043e2
 prune papa 805246
 wire papa cd8d1f
 polish tango d0cd0c
