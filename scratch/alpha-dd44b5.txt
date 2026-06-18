@@ -1,4 +1,3 @@
-wire golf fb6ec1
 polish lattice 6e3e26
 wire harbor f8ad44
 tune november 1a95bc
