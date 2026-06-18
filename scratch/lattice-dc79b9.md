@@ -7,3 +7,5 @@ prune xray 978e94
 tidy solstice ef2770
 nudge solstice 7d2826
 polish harbor 1f4885
+bump sierra 55a925
+adjust tango a8160c
