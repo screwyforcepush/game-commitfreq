@@ -1,3 +1,6 @@
 seed oscar d2d060
 wire lattice e20886
 rework oscar f7099c
+wire uniform c1b61f
+bump zulu 84c57f
+update ember f73262
