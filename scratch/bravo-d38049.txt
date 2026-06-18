@@ -1,2 +1,2 @@
-prune uniform 4c0449
+tune nimbus ed0441
 prune hotel 0be8e9
