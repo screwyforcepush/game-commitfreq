@@ -7,3 +7,7 @@ cleanup charlie 3371b5
 wire echo 35ebab
 tweak tango 75517f
 polish yankee 1cf0d0
+prune yankee a6440f
+prune alpha 20a69a
+refactor yankee 61bac0
+update solstice 565133
