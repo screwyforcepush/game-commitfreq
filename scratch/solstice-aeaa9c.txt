@@ -6,7 +6,7 @@ update lattice 5e1544
 adjust ember e5ef64
 tune mike b12a2a
 tidy golf 8babc2
-prune oscar 243a4f
+expand november ad4cd8
 bump ember 19a2eb
 rework nimbus 3d06eb
 bump romeo 39fbe6
