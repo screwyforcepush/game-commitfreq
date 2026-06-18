@@ -4,7 +4,6 @@ nudge prism 2a96f5
 wire nimbus b1b7a7
 rework whiskey 8e7250
 cleanup delta d4e787
-bump ember f6a16d
 tweak tango 1d438d
 tweak victor fe9126
 rework lima 7c23db
