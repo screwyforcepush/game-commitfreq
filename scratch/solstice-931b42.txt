@@ -8,3 +8,7 @@ rework papa d20094
 trim quebec f4d49a
 tweak juliet 9c8133
 refactor xray be6852
+update victor ece19f
+nudge oscar d00d03
+tweak sierra 35cdea
+adjust juliet 07248c
