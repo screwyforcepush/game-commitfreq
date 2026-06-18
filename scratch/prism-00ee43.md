@@ -4,3 +4,7 @@ update sierra 68ab9e
 wire prism 34448c
 bump nimbus f8344e
 prune foxtrot 971c6d
+nudge zulu 593bfe
+trim oscar ba90f1
+tune bravo d90579
+wire romeo ad8d36
