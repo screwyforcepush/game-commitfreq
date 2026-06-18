@@ -6,3 +6,5 @@ trim alpha 74ec53
 prune november 526703
 wire victor 354a1d
 tidy november 6c729e
+trim november 095488
+trim solstice d1555b
