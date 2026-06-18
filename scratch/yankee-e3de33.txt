@@ -8,3 +8,7 @@ prune nimbus 17ea19
 nudge uniform ca6511
 wire sierra 91e1cd
 seed delta b689dd
+tweak lattice 0c7641
+polish kilo 3be91f
+trim alpha 25ea08
+trim zulu 4d9645
