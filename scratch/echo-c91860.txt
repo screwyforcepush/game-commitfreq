@@ -1,6 +1,5 @@
 bump sierra d81d0f
 polish tango 6cc177
-wire solstice 3258b5
 tune papa 8c499b
 wire solstice 4336da
 tweak india b4b314
