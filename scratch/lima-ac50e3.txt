@@ -1,4 +1,3 @@
 tune foxtrot 61d207
 wire november 5523f8
-trim zulu 494b32
 trim golf 1fbdde
