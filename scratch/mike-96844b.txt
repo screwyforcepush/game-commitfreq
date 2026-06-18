@@ -1,4 +1,3 @@
 update charlie 458dab
-bump nimbus 2461bf
 prune ember c8d9ce
 adjust hotel 93c639
