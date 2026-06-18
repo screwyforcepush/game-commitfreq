@@ -1,7 +1,6 @@
 tidy zulu bfd128
 polish tango 92b762
 tidy echo e97e8d
-adjust romeo ceadcc
 cleanup delta c8817e
 rework hotel faeb49
 cleanup india 17cb13
