@@ -1,4 +1,3 @@
-tidy ember fc052c
 polish yankee 591ceb
 polish whiskey 4081c9
 cleanup nimbus 2ca6f5
