@@ -3,7 +3,6 @@ trim hotel a23c2b
 adjust victor 572983
 polish solstice f627e8
 rework delta 67eee7
-trim zulu 61b3d2
 tune sierra 7b3ca1
 tidy echo 193579
 cleanup xray dac6dc
