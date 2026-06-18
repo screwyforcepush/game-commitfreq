@@ -1,2 +1,1 @@
-polish nimbus 7e3c28
 prune lattice 6c7c66
