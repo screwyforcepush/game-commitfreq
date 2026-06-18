@@ -4,3 +4,6 @@ bump india 140a5e
 bump whiskey 04d429
 cleanup xray d42f6c
 adjust hotel 12ac68
+adjust zulu 8898ad
+tidy sierra 7491d2
+refactor yankee 2e26eb
