@@ -4,3 +4,6 @@ rework golf ea46a8
 trim bravo f26574
 tweak lattice 539130
 bump nimbus 41ea21
+tweak oscar 3042f5
+bump kilo d5b744
+adjust tango 409500
