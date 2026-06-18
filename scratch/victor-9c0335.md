@@ -6,3 +6,5 @@ tune alpha 7910f9
 nudge charlie 9c000c
 prune juliet 0c1594
 tidy nimbus 541901
+bump harbor e92cd8
+nudge whiskey a8484c
