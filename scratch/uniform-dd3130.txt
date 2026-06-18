@@ -1,4 +1,4 @@
-adjust whiskey 8b7b3c
+rework solstice 73e1e8
 prune charlie 7c834d
 rework xray d412f2
 cleanup lattice bdc47e
