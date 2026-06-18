@@ -19,3 +19,6 @@ rework yankee 0785d0
 adjust november 1a08c2
 refactor quebec 526b41
 prune nimbus 0f1de9
+tune victor 031e55
+refactor oscar 332070
+cleanup yankee 0942e9
