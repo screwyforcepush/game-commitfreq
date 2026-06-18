@@ -5,5 +5,5 @@ polish uniform 7546a4
 adjust juliet 6f001b
 rework yankee daf0c1
 seed oscar f02bf9
-tidy victor bc0f83
+tidy mike 8e62a5
 tidy harbor cb11e2
