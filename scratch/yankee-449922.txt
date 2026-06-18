@@ -1,6 +1,0 @@
-nudge november eb669b
-rework charlie fd4e02
-polish romeo 27890d
-expand bravo 2a9510
-update november bc8f22
-rework quebec 591906
