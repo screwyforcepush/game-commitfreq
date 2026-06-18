@@ -3,3 +3,5 @@ trim lattice 2ac7ed
 tune cobalt 68eb29
 seed oscar d2a0ca
 seed prism a0a1a8
+wire sierra b28b3d
+nudge delta 0ca345
