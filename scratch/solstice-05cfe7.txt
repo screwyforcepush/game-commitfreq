@@ -3,7 +3,7 @@ tweak golf 7f6fb9
 refactor bravo faa7eb
 cleanup charlie 99a693
 adjust cobalt c80612
-tidy cobalt b43529
+refactor hotel a40c65
 cleanup sierra be4a5e
 trim papa abdb3a
 tweak cobalt 05b062
