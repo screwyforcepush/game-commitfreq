@@ -3,3 +3,7 @@ cleanup november cb0f4e
 tweak quebec bd7624
 tune alpha e92ef2
 tweak nimbus d293f5
+seed xray 02df6d
+nudge sierra e29dae
+nudge tango ebe989
+refactor november 65932c
