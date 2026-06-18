@@ -1,6 +1,5 @@
 seed lattice 4acc0d
 nudge kilo 019a2b
-trim yankee 6e61f2
 seed uniform 733afd
 adjust harbor 5f963b
 nudge whiskey 639011
