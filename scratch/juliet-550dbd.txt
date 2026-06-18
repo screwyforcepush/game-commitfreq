@@ -1,4 +1,4 @@
-refactor uniform bc8044
+adjust solstice e0c51b
 cleanup sierra 7d4762
 prune uniform 7169d4
 expand hotel 8dc54a
