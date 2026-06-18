@@ -5,7 +5,6 @@ seed juliet cd6814
 seed hotel 7a67e6
 nudge bravo badcf9
 refactor prism e7ffc4
-bump sierra af1bc4
 nudge mike 616bee
 tweak foxtrot a59b9e
 prune november 68c2d8
