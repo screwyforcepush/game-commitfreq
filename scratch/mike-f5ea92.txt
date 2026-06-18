@@ -5,4 +5,3 @@ tune yankee 2ba3e7
 wire november 4c6747
 adjust solstice 82c930
 prune harbor bfabc8
-wire oscar b530f6
