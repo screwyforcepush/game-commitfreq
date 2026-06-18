@@ -1,2 +1,5 @@
 update mike 0988ee
 adjust delta 4f878a
+nudge echo 81c347
+tidy echo 94cdde
+trim yankee 7ba5b0
