@@ -1,8 +1,0 @@
-polish yankee 591ceb
-polish whiskey 4081c9
-cleanup nimbus 2ca6f5
-tidy india 8388d2
-trim quebec ee7080
-prune mike 8c3f5e
-expand yankee 72357e
-tidy lattice aeb7bd
