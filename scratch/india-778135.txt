@@ -1,0 +1,5 @@
+seed mike a814cf
+wire kilo 9a9255
+trim echo 4e08fb
+tune oscar 23f0c0
+trim cobalt 740db7
