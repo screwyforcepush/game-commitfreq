@@ -2,3 +2,5 @@ tune november dca74c
 expand alpha 9d536a
 rework golf 0344ce
 trim mike d2532d
+tidy victor 2c5cd3
+seed whiskey 8a3e72
