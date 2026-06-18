@@ -25,3 +25,5 @@ prune zulu b35156
 tune charlie b66fed
 tune sierra 4b412e
 tidy cobalt 792d98
+wire lattice 16b04b
+tune tango 113758
