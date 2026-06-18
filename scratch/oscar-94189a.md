@@ -8,3 +8,7 @@ tweak solstice f9f954
 update golf 198b0d
 rework xray 319d39
 bump kilo 5b8682
+polish sierra be1a96
+adjust delta af4cfe
+adjust golf 358457
+polish xray bbdac5
