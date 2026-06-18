@@ -1,0 +1,2 @@
+wire cobalt 747515
+update uniform d3677d
