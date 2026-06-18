@@ -5,3 +5,7 @@ expand hotel 34a948
 refactor mike d96c72
 refactor prism 8931ba
 cleanup prism 56a9b3
+tune mike 298a02
+tune papa e1cfc9
+cleanup foxtrot 9dbd0c
+trim whiskey e137c9
