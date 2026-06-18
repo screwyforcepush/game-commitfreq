@@ -3,7 +3,7 @@ polish whiskey 5fc68b
 cleanup delta afe10d
 expand romeo a57164
 trim mike c7d7c3
-bump solstice 6f9e19
+adjust oscar 8f4ba6
 update tango 7ee98c
 wire nimbus bc16d8
 bump ember 2e8c11
