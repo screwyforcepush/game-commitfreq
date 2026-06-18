@@ -1,4 +1,3 @@
-adjust solstice c90995
 wire juliet 9b2e21
 prune ember 675bc1
 tweak tango 437851
