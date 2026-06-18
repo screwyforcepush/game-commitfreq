@@ -1,0 +1,3 @@
+prune zulu 895f1d
+prune alpha 622f3b
+cleanup hotel 08ae80
