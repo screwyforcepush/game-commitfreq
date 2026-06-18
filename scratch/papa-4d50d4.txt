@@ -12,7 +12,7 @@ cleanup yankee 160dc4
 wire golf d04dcb
 trim india 5f1cc5
 bump charlie 25da59
-tweak whiskey ae6cb6
+wire solstice c99fd8
 update lima 142b71
 bump ember 291304
 expand zulu eb5f5e
