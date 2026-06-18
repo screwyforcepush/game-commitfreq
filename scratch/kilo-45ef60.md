@@ -3,3 +3,7 @@ seed romeo 96e681
 tidy victor 7417c1
 adjust echo 7776a2
 rework sierra 2ee4b4
+adjust uniform 81a73e
+bump lattice 7e3fe4
+update delta 16214e
+wire kilo 92d52e
