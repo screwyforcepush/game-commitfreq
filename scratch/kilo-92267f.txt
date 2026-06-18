@@ -5,7 +5,6 @@ polish uniform 3402dd
 prune echo 0e6cd9
 prune mike 122b75
 wire lima f04932
-prune golf f00903
 adjust romeo 5603f7
 rework romeo fb848f
 trim juliet a5e927
