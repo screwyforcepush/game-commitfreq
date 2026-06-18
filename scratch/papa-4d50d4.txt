@@ -32,3 +32,6 @@ adjust delta a3a55d
 tune uniform d06630
 adjust lima 5ba74b
 tidy victor f366fe
+polish lattice d18274
+nudge kilo 615d69
+polish victor 1996a4
