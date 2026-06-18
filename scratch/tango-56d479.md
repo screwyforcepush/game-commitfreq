@@ -5,3 +5,7 @@ refactor alpha 51c264
 refactor romeo 39982a
 tidy sierra 5b12ad
 nudge kilo 04d3c6
+prune lima 440c6a
+trim charlie 960ea9
+tidy tango 1036ae
+update november ef0f83
