@@ -2,7 +2,6 @@ tweak echo 5404b2
 tidy bravo 2247da
 refactor alpha 5bca39
 nudge hotel a0be19
-seed whiskey ff00fb
 seed mike 6004ed
 cleanup echo b9220d
 seed prism 675b68
