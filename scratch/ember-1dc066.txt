@@ -8,3 +8,6 @@ wire lima ae2929
 prune bravo 04dbe6
 update oscar 3f4d1f
 expand xray 8ca3ac
+tune solstice a77151
+adjust echo 397fb7
+nudge xray 4c772f
