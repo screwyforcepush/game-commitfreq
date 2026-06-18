@@ -8,3 +8,5 @@ cleanup yankee f04790
 prune yankee 7c2378
 tweak oscar cf0d11
 wire juliet f06c19
+adjust mike 5c48dc
+prune lima eacf17
