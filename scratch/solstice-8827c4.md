@@ -4,6 +4,5 @@ rework alpha 3a5146
 tune mike 0fd15c
 update tango c0ce5f
 prune delta ff6e44
-prune echo f763ec
 rework sierra 3b3601
 bump tango 643a03
