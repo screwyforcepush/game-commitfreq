@@ -13,3 +13,5 @@ nudge charlie e59be2
 tune mike 36f273
 seed solstice 6e47d0
 polish yankee 82349c
+nudge lattice 1d1e17
+cleanup mike be1532
