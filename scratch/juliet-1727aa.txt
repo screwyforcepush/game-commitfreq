@@ -1,5 +1,4 @@
 tune kilo f626b0
-seed foxtrot 602157
 adjust papa 239b38
 trim sierra 8b8fd9
 bump zulu 506b4d
