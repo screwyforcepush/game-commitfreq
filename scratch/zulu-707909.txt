@@ -21,3 +21,7 @@ cleanup hotel 311c9f
 polish victor 1fb846
 rework bravo c8ed79
 tweak uniform bb329a
+prune lattice 5486e3
+rework delta 3f3da5
+tweak zulu 81f313
+cleanup juliet ce0329
