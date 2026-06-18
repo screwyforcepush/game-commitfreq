@@ -3,6 +3,5 @@ adjust harbor 69a93f
 wire kilo ae00ea
 tidy tango 73f1cd
 trim whiskey c342ad
-nudge foxtrot 645c22
 tune delta 552130
 seed alpha feb87c
