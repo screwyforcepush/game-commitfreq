@@ -1,2 +1,2 @@
 seed lattice 4acc0d
-trim whiskey c74584
+nudge kilo 019a2b
