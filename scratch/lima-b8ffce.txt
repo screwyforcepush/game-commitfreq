@@ -7,7 +7,7 @@ tweak quebec d15c06
 cleanup cobalt 0f5bd2
 update charlie 14a4ec
 wire yankee e085b5
-update november f44bdb
+trim prism fe3f08
 adjust ember 24d8d4
 trim india ed6eb4
 prune india b8d237
