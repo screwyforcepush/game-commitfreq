@@ -5,7 +5,6 @@ tidy victor f503ec
 trim xray 2a11d9
 trim delta 8d5f19
 tweak delta 817aa8
-tidy hotel 6d0f3b
 expand charlie 84100a
 rework cobalt ed4338
 refactor mike 23de31
