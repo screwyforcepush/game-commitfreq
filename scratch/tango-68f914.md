@@ -7,3 +7,7 @@ expand xray 2ef576
 rework hotel f29475
 cleanup kilo b859ba
 tweak solstice 0531b8
+trim nimbus 748327
+prune quebec c08d29
+expand lima 8d444e
+adjust quebec d249e8
