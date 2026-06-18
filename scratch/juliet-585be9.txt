@@ -3,3 +3,7 @@ tune nimbus 4b5e09
 adjust alpha 91b8d5
 bump xray 05ced8
 tidy cobalt 3afd31
+trim sierra 92a17b
+bump november bb2fb4
+adjust solstice f4ba17
+tune oscar b2b40e
