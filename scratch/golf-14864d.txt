@@ -1,5 +1,0 @@
-polish sierra a0fed2
-refactor whiskey e68c54
-update solstice 1787bc
-seed yankee b9e7ad
-cleanup ember 46bdca
