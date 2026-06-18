@@ -1,3 +1,2 @@
-bump alpha d96206
 adjust bravo 8e105b
 prune papa 49f98a
