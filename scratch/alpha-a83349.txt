@@ -9,5 +9,4 @@ wire alpha 1f1e05
 adjust oscar ca4b01
 trim echo cdc670
 prune golf 250de8
-cleanup tango c94f52
 wire golf 5de266
