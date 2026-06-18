@@ -16,6 +16,6 @@ polish golf cb57fc
 expand hotel 21192b
 nudge nimbus 021d9b
 expand nimbus 88e054
-prune delta 53bd64
+tidy golf 8f1256
 cleanup tango 9f57e5
 tune lattice f096ea
