@@ -10,3 +10,6 @@ tweak oscar cf0d11
 wire juliet f06c19
 adjust mike 5c48dc
 prune lima eacf17
+polish oscar e9ce2d
+tidy papa c10de1
+refactor charlie 2275b0
