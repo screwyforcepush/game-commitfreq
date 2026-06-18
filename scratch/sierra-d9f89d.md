@@ -14,3 +14,6 @@ wire sierra c2c13f
 adjust lattice 06ddb4
 tweak delta 3460ea
 update kilo 8cdc9d
+tidy kilo d67854
+tidy oscar 4b28fb
+polish mike 75f267
