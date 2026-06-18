@@ -13,3 +13,6 @@ trim juliet bca577
 expand sierra 4a4636
 expand echo ffc0a7
 nudge victor fcc314
+tidy tango 7b4040
+cleanup papa 0fdfcc
+adjust romeo bbd8c5
