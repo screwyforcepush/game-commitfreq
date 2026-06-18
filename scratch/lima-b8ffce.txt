@@ -4,7 +4,7 @@ tweak whiskey c2b2e0
 tweak hotel 0cc860
 prune golf 18f9bd
 tweak quebec d15c06
-adjust hotel 798f2a
+cleanup cobalt 0f5bd2
 update charlie 14a4ec
 wire yankee e085b5
 update november f44bdb
