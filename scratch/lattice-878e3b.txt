@@ -3,7 +3,7 @@ prune cobalt 38cb78
 update solstice aaeca8
 cleanup oscar 2c1ba9
 cleanup yankee 5c9962
-seed zulu 25c7e1
+adjust oscar ae304b
 seed lima 2bdd3d
 expand sierra 176cc1
 nudge yankee 78ea37
