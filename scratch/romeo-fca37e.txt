@@ -20,3 +20,6 @@ prune lattice 5c51dc
 cleanup delta 74f589
 tune ember 513903
 trim echo 6e5077
+tidy quebec 2b1a61
+rework quebec 25b0f2
+wire golf d07f9b
