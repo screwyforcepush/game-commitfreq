@@ -5,7 +5,6 @@ cleanup echo dcb0ad
 tidy ember adb54d
 expand juliet 084268
 wire foxtrot 28899a
-cleanup foxtrot 2ad6e9
 rework charlie 113617
 rework solstice 0ba55e
 tidy tango 1e650e
