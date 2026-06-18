@@ -13,4 +13,3 @@ adjust zulu 13cad5
 seed quebec e0b399
 bump delta 7f90eb
 seed golf 1eba2b
-rework papa e25680
