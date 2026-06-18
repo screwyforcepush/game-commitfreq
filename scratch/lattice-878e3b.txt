@@ -4,6 +4,6 @@ update solstice aaeca8
 cleanup oscar 2c1ba9
 cleanup yankee 5c9962
 adjust oscar ae304b
-seed lima 2bdd3d
+rework delta 373104
 expand sierra 176cc1
 adjust hotel 0fda9e
