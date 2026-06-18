@@ -1,7 +1,6 @@
 tune kilo f626b0
 adjust papa 239b38
 trim sierra 8b8fd9
-bump zulu 506b4d
 tweak harbor b5ac8d
 rework ember f45886
 refactor nimbus 9d4623
