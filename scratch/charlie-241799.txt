@@ -1,3 +1,5 @@
 polish kilo 19777e
 adjust kilo 3b694d
 wire mike 25e154
+tidy golf 8cbd3c
+polish victor 0d1311
