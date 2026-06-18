@@ -7,3 +7,6 @@ bump lattice 46f306
 nudge victor df8c1b
 tune prism aebb41
 adjust xray 5607fd
+adjust india 2f6961
+refactor hotel a1c552
+update yankee 9e6def
