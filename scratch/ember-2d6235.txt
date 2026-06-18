@@ -1,7 +1,6 @@
 tidy zulu bfd128
 prune india e68d4f
 polish tango 92b762
-polish sierra a50a40
 tidy echo e97e8d
 adjust romeo ceadcc
 cleanup delta c8817e
