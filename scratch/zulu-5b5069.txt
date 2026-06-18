@@ -4,3 +4,7 @@ expand xray 2fc726
 expand cobalt 614169
 adjust sierra d252be
 bump alpha dc132f
+tune juliet 37bb95
+prune zulu d4ef73
+seed mike 6df95a
+tidy prism 7ffa20
