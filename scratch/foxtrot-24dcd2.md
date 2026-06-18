@@ -11,3 +11,7 @@ update golf ce80a2
 seed quebec e2ed67
 adjust ember 7b8427
 tune romeo dbf065
+trim victor c53588
+cleanup ember c05d45
+adjust delta 6de7ba
+expand oscar 54a6a2
