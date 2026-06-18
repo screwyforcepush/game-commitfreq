@@ -7,3 +7,6 @@ nudge mike 6f7f36
 nudge kilo 4a0506
 seed uniform 99e011
 adjust sierra f049c7
+wire harbor 6a81d9
+tune papa 9af7ad
+adjust solstice 34f456
