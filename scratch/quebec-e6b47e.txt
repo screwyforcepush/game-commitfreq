@@ -1,4 +1,3 @@
-adjust solstice 994029
 expand hotel 57f46b
 update foxtrot 70e68c
 seed whiskey c1cef2
