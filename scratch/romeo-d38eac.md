@@ -4,5 +4,4 @@ bump uniform 6b3fb3
 expand charlie d9aa51
 seed foxtrot e0a028
 polish delta 31055a
-tune tango 188002
 trim delta 78707e
