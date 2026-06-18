@@ -4,3 +4,5 @@ seed prism 96e1a6
 refactor echo 3af839
 adjust xray 86e62b
 tidy whiskey 0ed32e
+prune quebec 54fcb5
+rework juliet 1fb24d
