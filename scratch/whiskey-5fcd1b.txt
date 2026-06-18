@@ -4,7 +4,7 @@ bump lattice df8908
 cleanup november 8b92e3
 expand hotel 93926d
 tune solstice 14f6ce
-nudge quebec 8620c7
+trim kilo 339b49
 update cobalt 2ed694
 polish india 03c95c
 trim tango b3c1bd
