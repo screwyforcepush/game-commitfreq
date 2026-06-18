@@ -11,6 +11,5 @@ trim cobalt 39e67f
 refactor juliet 85a3c5
 trim juliet bca577
 expand sierra 4a4636
-wire papa 9f4e4e
 expand echo ffc0a7
 nudge victor fcc314
