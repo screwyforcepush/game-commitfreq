@@ -1,6 +1,0 @@
-polish india 0e72a6
-tidy papa 7aa095
-refactor nimbus b838e6
-prune xray d9ddc1
-tweak bravo 8f49ff
-tune romeo 9f65ed
