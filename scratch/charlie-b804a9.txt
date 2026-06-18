@@ -1,8 +1,0 @@
-nudge hotel 61db78
-refactor tango 50ef83
-expand ember 02383d
-adjust foxtrot abf8de
-tune xray c19c13
-cleanup whiskey cbfedf
-trim xray 3dc401
-tidy november c47b3c
