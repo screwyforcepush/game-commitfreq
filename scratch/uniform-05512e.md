@@ -4,7 +4,6 @@ update india 803f4d
 wire lattice 6def29
 update whiskey 5dabd0
 tidy juliet b8bae6
-rework mike dc7709
 prune november 2d4438
 trim lima 078f77
 trim hotel e8711c
