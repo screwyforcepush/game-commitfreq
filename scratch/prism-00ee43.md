@@ -8,3 +8,4 @@ nudge zulu 593bfe
 trim oscar ba90f1
 tune bravo d90579
 wire romeo ad8d36
+seed oscar 826c4a
