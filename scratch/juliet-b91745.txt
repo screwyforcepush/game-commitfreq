@@ -1,2 +1,2 @@
 seed solstice 95a47c
-bump whiskey aa16d0
+update nimbus ecc359
