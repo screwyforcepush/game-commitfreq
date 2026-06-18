@@ -11,3 +11,7 @@ tweak zulu 52ccc2
 rework oscar f63268
 adjust india f8c27c
 cleanup foxtrot 01a805
+wire sierra c2c13f
+adjust lattice 06ddb4
+tweak delta 3460ea
+update kilo 8cdc9d
