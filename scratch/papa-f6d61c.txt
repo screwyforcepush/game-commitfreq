@@ -1,3 +1,2 @@
-prune echo 95f8cb
 seed lattice 4acc0d
 trim whiskey c74584
