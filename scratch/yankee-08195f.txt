@@ -1,4 +1,0 @@
-polish echo 487a94
-tidy lima ce0252
-trim alpha d97a92
-cleanup tango 97c2cb
