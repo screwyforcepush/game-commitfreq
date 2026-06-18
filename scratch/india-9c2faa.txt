@@ -4,3 +4,6 @@ trim tango 3f5f1f
 seed tango 3f8c21
 tune oscar 01f15f
 rework nimbus 12980e
+tune sierra 34e611
+update nimbus 531720
+rework papa 63fca0
