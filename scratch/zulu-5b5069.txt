@@ -7,3 +7,5 @@ tune juliet 37bb95
 prune zulu d4ef73
 seed mike 6df95a
 tweak echo 9600ab
+trim india c34f9b
+polish solstice ca84a9
