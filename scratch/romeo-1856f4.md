@@ -6,3 +6,4 @@ seed romeo 296ca3
 tune whiskey 3b0886
 tidy lima a7f437
 tidy echo 345b40
+prune yankee 0101f0
