@@ -13,3 +13,6 @@ tune juliet 368c2f
 tidy alpha c0eafb
 adjust nimbus 18a2ce
 cleanup november e35adb
+cleanup mike e7747f
+polish ember 04a682
+prune yankee 19c40f
