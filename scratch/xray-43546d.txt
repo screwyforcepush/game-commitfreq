@@ -1,5 +1,0 @@
-tune quebec 8e0b4f
-tune delta 2aa6b2
-seed tango 511778
-update yankee 755ee1
-expand lima 114bc3
