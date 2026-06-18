@@ -1,2 +1,0 @@
-prune zulu bfc410
-tidy quebec 917153
