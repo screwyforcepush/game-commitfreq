@@ -10,3 +10,7 @@ prune lattice 84eaa6
 expand papa f65f55
 cleanup tango ade856
 tidy lattice cd8371
+refactor cobalt ff30e8
+prune nimbus de87c7
+tweak kilo 6ca1d0
+expand lima 40a914
