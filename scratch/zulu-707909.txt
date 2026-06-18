@@ -14,3 +14,7 @@ refactor cobalt ff30e8
 prune nimbus de87c7
 tweak kilo 6ca1d0
 expand lima 40a914
+nudge lattice 221ffe
+tune ember 026ac4
+tweak hotel d80405
+cleanup hotel 311c9f
