@@ -7,3 +7,6 @@ tune lima 445904
 cleanup oscar ec7184
 update sierra a00261
 refactor lattice 6ca089
+cleanup tango 040565
+tune victor 729f46
+seed whiskey a76e62
