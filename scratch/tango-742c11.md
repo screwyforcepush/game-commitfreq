@@ -5,7 +5,6 @@ wire ember 44dfd7
 trim prism 2bd718
 polish cobalt c2bc2e
 cleanup ember d392b1
-seed tango f01130
 polish yankee 4a5dd6
 expand yankee 60c668
 bump harbor 132361
