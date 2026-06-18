@@ -9,3 +9,5 @@ prune solstice 9f3dea
 tweak india 817341
 tweak zulu 52ccc2
 rework oscar f63268
+adjust india f8c27c
+cleanup foxtrot 01a805
