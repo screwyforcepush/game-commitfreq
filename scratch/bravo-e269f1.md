@@ -1,4 +1,4 @@
 wire zulu bd9add
 wire lattice 5eb0a6
-trim sierra d4b5d6
+tune november b92993
 nudge romeo f25ddd
