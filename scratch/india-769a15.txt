@@ -1,3 +1,2 @@
-prune cobalt c85bc7
 refactor delta 114379
 trim xray 24f1f0
