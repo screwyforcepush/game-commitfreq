@@ -1,4 +1,4 @@
-trim zulu 042089
+nudge kilo b1736f
 trim charlie 3c1cb4
 adjust kilo 3e90e3
 seed kilo e31baf
