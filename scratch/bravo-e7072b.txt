@@ -1,3 +1,0 @@
-trim foxtrot 99d65c
-trim alpha fdbf72
-wire mike 120ce9
