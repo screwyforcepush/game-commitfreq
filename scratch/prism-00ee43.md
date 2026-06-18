@@ -22,3 +22,5 @@ prune nimbus 0f1de9
 tune victor 031e55
 refactor oscar 332070
 cleanup yankee 0942e9
+tidy solstice e9340e
+polish whiskey 218b5b
