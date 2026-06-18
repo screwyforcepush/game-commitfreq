@@ -1,6 +1,5 @@
 tidy charlie 898808
 tune nimbus 4b5e09
-adjust alpha 91b8d5
 tidy cobalt 3afd31
 trim sierra 92a17b
 bump november bb2fb4
