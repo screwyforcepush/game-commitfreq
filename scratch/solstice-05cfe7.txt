@@ -7,3 +7,4 @@ refactor hotel a40c65
 cleanup sierra be4a5e
 trim papa abdb3a
 tweak cobalt 05b062
+wire hotel 95fde7
