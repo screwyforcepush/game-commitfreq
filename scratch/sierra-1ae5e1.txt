@@ -1,4 +1,4 @@
-expand lattice 2eec21
+trim lima 58c3d8
 rework whiskey 5f4aa0
 prune charlie 85d3ed
 nudge golf 4d46d4
