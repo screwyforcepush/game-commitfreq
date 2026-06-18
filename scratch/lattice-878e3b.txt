@@ -7,3 +7,5 @@ adjust oscar ae304b
 rework delta 373104
 expand sierra 176cc1
 adjust hotel 0fda9e
+trim quebec 8e70b9
+update bravo 20fee5
