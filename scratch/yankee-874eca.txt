@@ -4,3 +4,6 @@ trim victor 5ace37
 tidy ember 3baf1a
 tweak papa 583aa0
 tweak mike 81987a
+update hotel 70a6d4
+refactor zulu a1c1e6
+expand juliet 49f692
