@@ -1,5 +1,0 @@
-nudge sierra 49dd77
-tune nimbus 5b9276
-tidy victor c436e7
-cleanup hotel a5c022
-polish kilo b25a7f
