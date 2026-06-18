@@ -1,5 +1,4 @@
 bump juliet cc1c49
-adjust alpha b35bc8
 tidy quebec ecdfe5
 polish foxtrot 34dd20
 update romeo e4867f
