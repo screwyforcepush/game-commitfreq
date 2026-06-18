@@ -4,3 +4,5 @@ expand lima d51403
 expand solstice 635a5c
 nudge juliet 2bdc7f
 prune cobalt 7a5658
+prune alpha a005bb
+seed oscar 3ed6eb
