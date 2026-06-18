@@ -3,3 +3,6 @@ refactor victor ad8340
 cleanup nimbus ad8c75
 prune victor e09506
 prune oscar cc6b7d
+adjust lima 232e7c
+tune quebec 8146ec
+wire oscar 906b85
