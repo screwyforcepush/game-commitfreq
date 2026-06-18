@@ -1,6 +1,0 @@
-trim xray 803884
-nudge golf 3df241
-polish hotel 4af750
-wire yankee e5267b
-tune victor a4735b
-tweak mike 572974
