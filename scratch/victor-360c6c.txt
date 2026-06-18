@@ -1,6 +1,5 @@
 tune prism 7c3d3b
 trim alpha 039800
-tidy hotel ffdbd2
 seed oscar 8cea98
 polish echo babbdb
 polish november 151a90
