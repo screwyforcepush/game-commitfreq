@@ -5,3 +5,7 @@ wire yankee 84d2ab
 trim victor fccee3
 tweak foxtrot 1a2692
 wire lima ae2929
+wire oscar 87357f
+prune bravo 04dbe6
+update oscar 3f4d1f
+expand xray 8ca3ac
