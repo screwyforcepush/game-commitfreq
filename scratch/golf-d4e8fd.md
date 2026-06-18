@@ -19,3 +19,5 @@ adjust charlie 5b9db2
 rework harbor acc697
 wire ember b40b06
 rework india 621091
+wire hotel 8d2dd5
+prune hotel be4f5d
