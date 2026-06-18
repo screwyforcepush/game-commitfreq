@@ -8,7 +8,6 @@ update zulu 9d9920
 prune quebec b1756d
 polish delta 959260
 prune alpha 722525
-tidy november 33ac45
 adjust foxtrot dd17dc
 tweak kilo 5cefaf
 wire tango dec644
