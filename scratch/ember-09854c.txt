@@ -9,3 +9,5 @@ update papa e8e705
 rework lattice 7e3534
 adjust victor 63a7ff
 seed cobalt d982d3
+tweak juliet 3104b8
+nudge oscar 18375d
