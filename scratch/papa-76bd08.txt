@@ -3,7 +3,6 @@ update tango d24310
 wire nimbus bc5ab5
 rework prism 8b9703
 expand nimbus 5d9217
-bump oscar a75457
 expand victor 0470b8
 prune quebec 8c0aeb
 bump nimbus 871789
