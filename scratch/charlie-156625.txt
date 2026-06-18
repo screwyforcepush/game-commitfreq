@@ -1,4 +1,3 @@
 wire xray c8a12f
 bump romeo 5e03a3
-expand alpha d5aac1
 wire solstice b2a223
