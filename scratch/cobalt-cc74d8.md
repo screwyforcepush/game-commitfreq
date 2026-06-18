@@ -4,3 +4,7 @@ tweak golf a6c992
 wire tango a2780c
 seed mike e0df81
 tidy foxtrot 14d233
+tune uniform 71ae68
+nudge echo db63cc
+tidy lima 2d6a86
+wire zulu 3a6806
