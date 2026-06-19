@@ -5,3 +5,6 @@ seed prism ad1598
 adjust quebec f2fe76
 rework whiskey 2325a0
 seed prism 795a47
+seed tango d71602
+prune yankee 58a0d0
+adjust uniform 4e59cc
