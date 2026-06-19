@@ -9,7 +9,6 @@ update foxtrot 6fc55c
 bump foxtrot 0a08c0
 tweak charlie b9e746
 expand xray 7d0446
-prune foxtrot 8c2e7f
 refactor india 6bb32c
 cleanup uniform 359cc7
 nudge ember e829ae
