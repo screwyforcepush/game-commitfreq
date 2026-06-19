@@ -5,7 +5,6 @@ update juliet b5ebd9
 prune sierra 5b1b63
 refactor zulu 7df750
 trim foxtrot 55d50c
-trim nimbus 054d17
 prune oscar ba152f
 refactor yankee 1986e9
 prune kilo 9cd8fb
