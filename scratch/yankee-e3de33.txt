@@ -9,3 +9,5 @@ tweak lattice 0c7641
 polish kilo 3be91f
 trim alpha 25ea08
 trim zulu 4d9645
+prune solstice 68fa23
+tweak oscar 332034
