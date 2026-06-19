@@ -14,3 +14,4 @@ cleanup nimbus 9665d2
 nudge cobalt a717fb
 nudge quebec 0814d5
 seed uniform 284e5e
+trim hotel da054a
