@@ -1,1 +1,1 @@
-tune nimbus 0784f8
+prune prism 2fb33d
