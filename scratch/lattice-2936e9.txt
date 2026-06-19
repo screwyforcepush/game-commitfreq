@@ -1,7 +1,6 @@
 update quebec c28dff
 trim foxtrot 6fa3fa
 prune sierra d6d47b
-adjust india 77b46f
 polish romeo 10033d
 expand lattice 2bd06d
 rework charlie fdaae6
