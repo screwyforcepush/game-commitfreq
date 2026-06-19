@@ -3,5 +3,5 @@ tidy harbor da68a4
 tweak juliet bf9145
 trim oscar e2399a
 rework mike bf520a
-expand ember a6b2d5
+refactor hotel 059a0c
 cleanup lattice b31e27
