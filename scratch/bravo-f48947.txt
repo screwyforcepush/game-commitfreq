@@ -1,7 +1,0 @@
-polish romeo a2b524
-adjust solstice 9d20a7
-wire mike 22e938
-adjust juliet 04457d
-wire whiskey da6d8d
-trim golf af8be2
-adjust golf e29d30
