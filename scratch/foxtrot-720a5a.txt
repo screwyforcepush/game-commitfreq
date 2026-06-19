@@ -4,3 +4,5 @@ cleanup november bc009b
 bump sierra 629c27
 tidy yankee a4873b
 nudge romeo aa753e
+nudge golf 64a7ad
+cleanup kilo 38160c
