@@ -1,3 +1,3 @@
 wire kilo eda705
-cleanup papa 5eb903
+prune foxtrot bbcaae
 tune victor 2fadae
