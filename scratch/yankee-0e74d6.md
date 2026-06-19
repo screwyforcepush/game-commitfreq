@@ -5,7 +5,6 @@ cleanup prism 566e63
 update yankee 22877f
 wire solstice aa980e
 update golf 163e69
-seed uniform cac682
 nudge oscar fe8df2
 bump prism 093317
 rework charlie eb08ed
