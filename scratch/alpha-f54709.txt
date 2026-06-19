@@ -4,3 +4,6 @@ expand india cfc8b4
 refactor nimbus 240075
 wire xray d26a5b
 cleanup victor c7ea70
+wire nimbus 429faf
+expand kilo a092c7
+tidy yankee a4c83a
