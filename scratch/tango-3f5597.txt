@@ -4,7 +4,6 @@ update solstice b730ba
 wire xray 3aa849
 seed india 144918
 polish cobalt 021039
-nudge quebec f19a63
 bump bravo f03b30
 polish november 6681e1
 refactor tango 0e33f7
