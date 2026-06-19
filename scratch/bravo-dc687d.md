@@ -7,3 +7,6 @@ expand prism be85bb
 bump hotel 1e7901
 wire mike 5ede0e
 tweak delta 404e97
+expand whiskey c60e15
+update mike ef41e1
+tweak hotel a9101c
