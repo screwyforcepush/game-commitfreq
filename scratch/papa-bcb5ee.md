@@ -1,7 +1,7 @@
 tune lattice 165749
 tune lattice a451a9
 update november c3f8e4
-trim yankee 80818d
+adjust oscar 79480f
 tweak alpha 1590ee
 update foxtrot b21313
 tidy harbor 92f2cd
