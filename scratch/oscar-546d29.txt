@@ -4,3 +4,6 @@ tweak quebec 3cd9e3
 bump lattice ba4552
 cleanup kilo 5a3b62
 bump papa 693bcb
+cleanup solstice 77ad4d
+refactor yankee f1c52f
+expand prism 692e06
