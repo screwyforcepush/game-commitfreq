@@ -12,3 +12,7 @@ nudge foxtrot 3780f5
 adjust alpha 8ee3c7
 tweak xray 7b965d
 tidy papa c3e88f
+tweak hotel d42e91
+prune alpha db29f8
+tidy alpha a57f39
+trim juliet f509b5
