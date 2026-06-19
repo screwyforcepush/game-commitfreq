@@ -7,3 +7,7 @@ expand papa d702d7
 trim solstice 9ce933
 bump lima c78087
 prune mike a64336
+nudge tango 242815
+tidy prism b615e7
+cleanup zulu b382cb
+adjust nimbus 0b8562
