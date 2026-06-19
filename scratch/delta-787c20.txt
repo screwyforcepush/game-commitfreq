@@ -8,7 +8,7 @@ rework harbor 345c15
 expand yankee 60c668
 bump harbor 132361
 update quebec 23404e
-expand kilo 8552e7
+trim oscar d0a8d4
 cleanup lattice 6b6bb4
 tune oscar c8cc97
 polish golf cb57fc
