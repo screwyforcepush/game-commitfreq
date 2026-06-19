@@ -1,5 +1,4 @@
 bump victor 1e4004
-tidy quebec e65c39
 trim romeo c6f0e3
 polish november dc6420
 seed solstice 3105a1
