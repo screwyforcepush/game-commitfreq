@@ -15,3 +15,7 @@ cleanup november e0ada0
 bump delta a9cebf
 trim solstice 678b67
 update charlie 0f7125
+rework sierra 34f956
+nudge foxtrot 389cb4
+polish mike 62e119
+wire uniform 8764a3
