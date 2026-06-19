@@ -12,3 +12,5 @@ cleanup delta 1da69c
 nudge mike 6e9196
 tweak charlie f02edd
 polish xray d4f70d
+tune xray 62f37f
+tweak foxtrot 52ddde
