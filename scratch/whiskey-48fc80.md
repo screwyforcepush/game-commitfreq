@@ -14,3 +14,5 @@ tweak uniform 5ebaaf
 tidy zulu 7b25fd
 trim yankee fbe803
 tweak romeo 2dff08
+adjust yankee 397968
+tidy yankee a61e79
