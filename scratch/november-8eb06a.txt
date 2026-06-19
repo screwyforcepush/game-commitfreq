@@ -1,5 +1,5 @@
 polish uniform 93e420
-polish yankee 884c3a
+prune solstice 787eb2
 update ember 9f32d7
 refactor zulu ca56a7
 rework kilo 2aba06
