@@ -1,3 +1,0 @@
-tune mike ef1d72
-seed yankee 0eb5e3
-wire sierra 906adc
