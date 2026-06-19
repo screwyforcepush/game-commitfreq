@@ -2,6 +2,5 @@ adjust juliet 58b2b1
 rework alpha 7a149e
 cleanup golf ac19a0
 update xray e4bbda
-cleanup hotel 42f2fa
 rework november 61c2d9
 prune quebec 641348
