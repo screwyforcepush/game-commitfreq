@@ -2,3 +2,6 @@ bump ember 2a300d
 rework lattice 4fc860
 tune quebec 636be1
 expand nimbus bce88a
+update cobalt 1fb2cb
+tidy nimbus 495db2
+trim harbor edc3ea
