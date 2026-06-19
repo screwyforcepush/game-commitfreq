@@ -1,5 +1,5 @@
 expand foxtrot 12b10e
-seed kilo 30d079
+adjust hotel 4778ca
 seed lima ffbeef
 adjust lattice fa24e3
 tidy zulu bb9283
