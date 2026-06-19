@@ -6,3 +6,5 @@ wire zulu a26b62
 tweak xray 15410e
 expand juliet a914d9
 seed oscar a036e8
+trim romeo 33d198
+tidy kilo 4556f4
