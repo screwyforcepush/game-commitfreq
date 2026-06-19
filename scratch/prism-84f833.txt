@@ -1,4 +1,3 @@
-update tango cf9990
 seed kilo b6def4
 seed bravo 719115
 tweak oscar fd5056
