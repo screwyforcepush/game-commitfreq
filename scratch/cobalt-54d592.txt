@@ -1,3 +1,0 @@
-tweak delta 97d53f
-seed nimbus eedc18
-adjust romeo ca454a
