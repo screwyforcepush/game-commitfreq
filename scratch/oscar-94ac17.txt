@@ -8,7 +8,7 @@ rework lattice e0ed71
 adjust solstice dcef4d
 wire bravo ad9156
 rework november e4e0b8
-refactor sierra c3ca45
+rework alpha cd14e5
 seed zulu e60fa8
 rework sierra 1a0c4d
 cleanup foxtrot c26025
