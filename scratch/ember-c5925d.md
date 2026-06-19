@@ -3,7 +3,7 @@ bump nimbus 750dc2
 wire uniform ccd880
 adjust yankee 062103
 trim quebec c78d98
-seed juliet 7699d1
+seed solstice aa67b3
 nudge juliet 748c1a
 bump romeo 91b472
 seed prism 29b8dd
