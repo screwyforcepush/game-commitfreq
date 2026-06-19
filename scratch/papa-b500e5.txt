@@ -11,3 +11,7 @@ wire solstice 255692
 tweak xray 799fda
 nudge oscar ffacb4
 wire november 457e24
+tidy quebec 105bda
+adjust prism c90e1c
+cleanup juliet e73d52
+prune yankee 5e31ad
