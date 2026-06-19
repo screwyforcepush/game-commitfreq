@@ -1,0 +1,6 @@
+tune cobalt e82296
+trim delta 1d883f
+refactor foxtrot 3b9f3e
+adjust bravo 8a98c6
+adjust lattice 48419c
+tweak zulu c59c33
