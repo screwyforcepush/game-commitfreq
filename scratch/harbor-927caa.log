@@ -11,3 +11,7 @@ wire tango bb1452
 tidy ember 6fd7c4
 tune lattice ff5bea
 rework lattice cd4d3f
+update prism 04e1e4
+cleanup tango c1e1d5
+wire quebec e4f220
+prune mike 3de910
