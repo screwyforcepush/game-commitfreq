@@ -15,7 +15,6 @@ expand cobalt ba0d14
 trim zulu 9fc4d3
 expand romeo 476dc1
 cleanup juliet 6b3e28
-cleanup solstice 091f8c
 prune lattice 5c51dc
 cleanup delta 74f589
 tune ember 513903
