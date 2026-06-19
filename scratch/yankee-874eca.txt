@@ -13,3 +13,6 @@ tune oscar e3892c
 prune india fb87eb
 trim foxtrot 99f31f
 bump november 3bf342
+seed cobalt b29475
+adjust xray 03a9b9
+nudge kilo a19c86
