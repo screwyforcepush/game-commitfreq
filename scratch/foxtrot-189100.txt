@@ -9,3 +9,7 @@ polish oscar 290d76
 tune echo ae04c2
 polish foxtrot 455e7f
 bump charlie e05474
+tidy foxtrot 90a9ea
+bump alpha fe26ea
+tidy tango 4d39d3
+polish mike 4844da
