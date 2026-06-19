@@ -11,3 +11,6 @@ nudge quebec 359f6a
 tidy november b7f69d
 prune foxtrot c52255
 polish foxtrot b9d3e6
+trim lattice 47868d
+rework hotel 74e9f1
+bump kilo d8cb83
