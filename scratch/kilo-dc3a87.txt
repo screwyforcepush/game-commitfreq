@@ -1,3 +1,4 @@
 wire kilo eda705
 prune foxtrot bbcaae
 tune victor 2fadae
+adjust uniform 31bb03
