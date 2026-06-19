@@ -1,3 +1,7 @@
 bump papa 9b8556
 rework xray 3f3ca4
 bump solstice 17dac0
+tune prism 47e814
+expand nimbus a6e939
+tweak tango abd157
+seed delta a83c6d
