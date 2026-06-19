@@ -1,6 +1,5 @@
 nudge yankee 7aca28
 trim mike 76392c
-expand november 0a12d2
 tweak papa 583aa0
 tweak mike 81987a
 update hotel 70a6d4
