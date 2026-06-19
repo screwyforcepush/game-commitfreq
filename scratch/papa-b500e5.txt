@@ -15,3 +15,5 @@ tidy quebec 105bda
 adjust prism c90e1c
 cleanup juliet e73d52
 prune yankee 5e31ad
+tweak charlie eade13
+rework golf 50f531
