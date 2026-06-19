@@ -3,7 +3,6 @@ adjust hotel 4778ca
 seed lima ffbeef
 adjust lattice fa24e3
 tidy zulu bb9283
-tune echo 2018d2
 refactor nimbus b3829e
 prune ember 31977c
 rework lattice 3f5197
