@@ -7,3 +7,6 @@ prune romeo 2b2fb1
 polish tango 6a7cee
 seed uniform 1cbe04
 nudge oscar d05853
+prune november adadc3
+bump delta 9923cc
+tweak lattice 88ba17
