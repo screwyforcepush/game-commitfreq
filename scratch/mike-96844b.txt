@@ -1,5 +1,0 @@
-bump yankee 2ced60
-cleanup mike 2c9e99
-tidy uniform 84f8b9
-tweak bravo 55523e
-update papa 48d74a
