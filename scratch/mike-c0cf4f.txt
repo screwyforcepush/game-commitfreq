@@ -1,4 +1,3 @@
-seed tango 64e737
 tune lattice a3db84
 tidy lima 3882dd
 bump lattice a8f642
