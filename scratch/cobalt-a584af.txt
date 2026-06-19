@@ -1,3 +1,6 @@
 rework ember eaaeb6
 tune ember 9c0713
 tweak lattice 4d4461
+adjust solstice 7d1718
+nudge uniform d1caf4
+tweak oscar 77f6f2
