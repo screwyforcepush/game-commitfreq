@@ -9,3 +9,6 @@ tune bravo 60be98
 expand xray ce8806
 refactor zulu 0f53d3
 cleanup oscar 3a9a11
+refactor oscar 645c8c
+wire solstice 21ae1a
+tidy sierra 553213
