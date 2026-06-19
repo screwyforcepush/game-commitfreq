@@ -1,7 +1,6 @@
 trim xray 992ad2
 bump echo 1854df
 rework foxtrot 238382
-tidy november 5c48dd
 bump delta 402fd7
 refactor prism ea9680
 tidy charlie aeffcf
