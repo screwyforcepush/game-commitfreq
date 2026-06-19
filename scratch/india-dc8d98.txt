@@ -7,3 +7,5 @@ refactor kilo a88ba2
 refactor papa da3ad5
 bump sierra 095f3e
 prune whiskey 7ba54a
+trim tango e48942
+adjust tango 43434b
