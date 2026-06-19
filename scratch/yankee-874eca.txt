@@ -11,3 +11,6 @@ prune victor 6844d9
 cleanup nimbus 84c61e
 seed charlie 609b22
 tune oscar e3892c
+prune india fb87eb
+trim foxtrot 99f31f
+bump november 3bf342
