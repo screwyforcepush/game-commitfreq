@@ -1,4 +1,3 @@
 tweak delta 97d53f
-adjust papa 81f3ac
 seed nimbus eedc18
 adjust romeo ca454a
