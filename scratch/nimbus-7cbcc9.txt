@@ -3,7 +3,7 @@ refactor xray 2b70a1
 wire india 1596a0
 nudge echo 64a40e
 adjust tango 5716fa
-tune sierra cbc154
+wire echo ddba4a
 tweak kilo 58d215
 trim foxtrot f8a156
 adjust echo 221921
