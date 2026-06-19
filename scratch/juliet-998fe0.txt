@@ -1,4 +1,0 @@
-tune mike ace6df
-seed quebec 311285
-wire nimbus 7bc4d2
-cleanup alpha 7865ea
