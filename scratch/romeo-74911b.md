@@ -4,3 +4,6 @@ cleanup quebec da62a6
 update xray 34bd49
 refactor november 4497d6
 update papa c8eb5f
+adjust victor 8eb9bb
+cleanup prism 264a28
+tidy charlie 2d4bcb
