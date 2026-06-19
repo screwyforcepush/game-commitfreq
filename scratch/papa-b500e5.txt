@@ -2,3 +2,7 @@ prune prism 85e244
 wire victor b6b3d1
 wire ember fd0544
 adjust tango 537dd2
+rework oscar 86db49
+cleanup india 010e31
+tweak sierra 0257c5
+trim sierra 6d656e
