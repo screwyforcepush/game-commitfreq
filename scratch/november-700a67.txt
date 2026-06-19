@@ -1,6 +1,0 @@
-polish juliet bf5dbe
-trim cobalt b5309f
-seed zulu 74b794
-rework quebec dab592
-refactor tango b8bd44
-tweak yankee 383648
