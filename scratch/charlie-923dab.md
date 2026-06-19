@@ -1,5 +1,5 @@
 nudge uniform f45547
-tune sierra e4e405
+seed november 0e6e24
 update oscar 3a96e2
 update yankee 673fdd
 seed solstice 630272
