@@ -1,7 +1,0 @@
-prune india 5a466e
-tune sierra f94661
-tune alpha 86acfd
-tune yankee 2ba3e7
-prune romeo fe4fc0
-adjust solstice 82c930
-prune harbor bfabc8
