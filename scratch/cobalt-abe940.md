@@ -1,5 +1,5 @@
 expand foxtrot 12b10e
-prune delta b035b6
+seed kilo 30d079
 seed lima ffbeef
 adjust lattice fa24e3
 tidy zulu bb9283
