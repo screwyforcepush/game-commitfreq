@@ -3,3 +3,6 @@ tidy november 59ccf1
 expand charlie eb1e68
 prune quebec 88db24
 nudge tango bbc372
+update mike c99e0b
+update foxtrot 2a07fc
+trim uniform 1f2526
