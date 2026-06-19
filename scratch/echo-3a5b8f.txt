@@ -7,3 +7,4 @@ tune nimbus e45ea1
 cleanup victor 318d2d
 wire nimbus b54437
 wire november 07ad45
+trim victor 113fcf
