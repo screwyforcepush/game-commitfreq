@@ -8,3 +8,5 @@ tweak charlie 5a06d3
 update november b02f2d
 bump papa c1e9e7
 update lima ce4ff0
+wire lattice 313804
+tweak india 6b381d
