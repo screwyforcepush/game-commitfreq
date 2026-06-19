@@ -2,3 +2,5 @@ wire victor 3c07d3
 rework lattice c0ed23
 bump juliet 929f22
 prune nimbus 769ce2
+trim ember bce865
+trim bravo bff664
