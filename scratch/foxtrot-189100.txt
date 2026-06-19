@@ -3,7 +3,6 @@ nudge lima 7868cc
 tidy papa dcf524
 tidy india cdd59f
 tidy solstice a834df
-prune lattice 8011ee
 cleanup uniform 318a29
 polish oscar 290d76
 tune echo ae04c2
