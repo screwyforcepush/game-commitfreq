@@ -5,3 +5,7 @@ tune victor 5589b7
 expand xray 0f623a
 tune alpha 7b83c8
 rework quebec 33f714
+adjust mike eaefff
+prune xray 14b928
+rework nimbus b17e5d
+tweak papa 1620fd
