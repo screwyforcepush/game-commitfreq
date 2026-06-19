@@ -4,3 +4,6 @@ expand yankee 9c48f4
 seed uniform 68cef7
 prune sierra 5b1b63
 refactor zulu 7df750
+trim foxtrot 55d50c
+trim nimbus 054d17
+prune oscar ba152f
