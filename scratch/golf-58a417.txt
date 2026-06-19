@@ -1,0 +1,2 @@
+seed nimbus 0203c1
+prune foxtrot c3e4e9
