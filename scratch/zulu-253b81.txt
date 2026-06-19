@@ -1,5 +1,4 @@
 polish juliet bf5dbe
-tidy whiskey d6123f
 trim cobalt b5309f
 seed zulu 74b794
 rework quebec dab592
