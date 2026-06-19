@@ -1,0 +1,5 @@
+expand tango 675724
+trim papa 93c968
+expand alpha a87e88
+nudge xray 4b6fb3
+wire whiskey 3e8244
