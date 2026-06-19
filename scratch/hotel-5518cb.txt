@@ -4,3 +4,7 @@ tune yankee b8e3f0
 nudge oscar 6f9c1b
 tweak tango fa1e0a
 nudge uniform 4a9d3f
+rework kilo f67796
+prune oscar 6f5b7b
+seed victor c706e0
+tune victor 8f39b4
