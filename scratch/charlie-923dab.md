@@ -5,6 +5,6 @@ update yankee 673fdd
 seed solstice 630272
 wire romeo 03e618
 adjust romeo 60890e
-nudge uniform d89375
+trim cobalt 50a4d2
 trim lima 8e935b
 tidy zulu e510f4
