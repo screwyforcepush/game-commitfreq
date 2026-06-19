@@ -4,3 +4,5 @@ polish uniform 8c46d1
 tune echo 3e655b
 cleanup sierra a4d959
 bump whiskey a80813
+bump echo 78ec44
+bump juliet 6abe82
