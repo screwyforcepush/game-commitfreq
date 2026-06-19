@@ -10,7 +10,6 @@ tune delta 418f07
 seed papa f99072
 adjust juliet 931704
 cleanup foxtrot b7b406
-cleanup kilo 9c574d
 polish oscar ead9c3
 seed sierra 96ee82
 rework uniform ade2a9
