@@ -5,6 +5,6 @@ trim golf db8c3d
 nudge alpha 11d527
 nudge nimbus 7cb0f8
 nudge golf 3bbbe0
-adjust hotel a87ece
+update papa 4ecdaa
 bump november 47d1e2
 refactor quebec 00d188
