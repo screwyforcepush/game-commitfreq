@@ -18,7 +18,6 @@ expand nimbus 88e054
 tidy golf 8f1256
 cleanup tango 9f57e5
 trim hotel a454c7
-tidy echo 214fd4
 refactor romeo cd0f67
 nudge echo 5f4244
 trim mike 1a35ab
