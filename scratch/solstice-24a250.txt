@@ -1,6 +1,5 @@
 rework yankee cade1d
 expand golf 586f05
-prune echo f433d4
 trim zulu 016049
 seed india a5d390
 trim zulu 0824e6
