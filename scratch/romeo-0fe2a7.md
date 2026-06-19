@@ -2,7 +2,7 @@ tidy victor e7f451
 expand victor 75f12c
 tune oscar 44108c
 adjust victor 0f1a62
-adjust zulu 0073dd
+wire november 32a139
 tune ember 1fd2e5
 tweak mike 312bd2
 wire uniform 73a9fe
