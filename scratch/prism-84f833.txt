@@ -7,3 +7,7 @@ refactor lima 488d42
 tweak ember e11fb8
 tweak charlie 5e44b4
 tidy hotel 1af7d9
+nudge lima a9ba0e
+nudge whiskey 96eebe
+tune charlie 2db7d0
+nudge juliet 6b51dd
