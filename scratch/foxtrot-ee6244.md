@@ -10,3 +10,4 @@ bump november 47d1e2
 refactor quebec 00d188
 trim harbor 0231db
 refactor delta 4cfb3a
+trim quebec eab470
