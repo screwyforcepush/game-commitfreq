@@ -4,3 +4,7 @@ update oscar 3a96e2
 update yankee 673fdd
 seed solstice 630272
 wire romeo 03e618
+adjust romeo 60890e
+nudge uniform d89375
+trim lima 8e935b
+tidy zulu e510f4
