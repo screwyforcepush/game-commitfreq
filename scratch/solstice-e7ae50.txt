@@ -1,6 +1,6 @@
 adjust delta 4f878a
 nudge echo 81c347
-tidy echo 94cdde
+cleanup echo 5a6d8b
 trim yankee 7ba5b0
 trim solstice d2bc15
 refactor tango a003c4
