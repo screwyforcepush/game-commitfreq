@@ -9,7 +9,7 @@ expand yankee 60c668
 bump harbor 132361
 update quebec 23404e
 expand kilo 8552e7
-expand tango 94fe11
+cleanup lattice 6b6bb4
 tune oscar c8cc97
 polish golf cb57fc
 expand hotel 21192b
