@@ -1,2 +1,5 @@
 refactor quebec 9fc6ec
 cleanup lima 86a869
+rework solstice 7568cf
+expand nimbus 668e9a
+prune papa e63b96
