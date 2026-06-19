@@ -1,5 +1,4 @@
 update quebec c28dff
-trim foxtrot 6fa3fa
 prune sierra d6d47b
 expand lattice 2bd06d
 rework charlie fdaae6
