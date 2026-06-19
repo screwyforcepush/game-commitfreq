@@ -23,3 +23,5 @@ adjust juliet 2ddb32
 tidy romeo 760c42
 seed xray a1eb2b
 wire whiskey 204b84
+tidy kilo 478cee
+tidy nimbus 669827
