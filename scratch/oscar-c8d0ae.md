@@ -26,3 +26,4 @@ bump lima c5d28a
 nudge nimbus 648376
 cleanup echo af71e7
 update harbor 471b59
+prune nimbus 597721
