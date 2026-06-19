@@ -4,6 +4,6 @@ prune mike 3011a0
 seed lima 9bb8a5
 bump juliet a9d2ca
 refactor kilo a88ba2
-tidy delta 0462d0
+refactor papa da3ad5
 bump sierra 095f3e
 prune whiskey 7ba54a
