@@ -1,4 +1,3 @@
-wire prism 8a4806
 rework echo 6aa075
 seed whiskey 828218
 adjust romeo 828172
