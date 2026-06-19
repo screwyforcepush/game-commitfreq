@@ -7,5 +7,5 @@ expand cobalt 55d4ed
 seed charlie 8e1810
 tune tango 106fc0
 seed mike c0cc64
-cleanup quebec 046114
+trim nimbus a937cf
 adjust lattice f86f3b
