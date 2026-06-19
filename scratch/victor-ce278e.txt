@@ -6,7 +6,7 @@ tidy quebec 991544
 adjust juliet b410f6
 bump quebec b2e2ed
 rework charlie ecfef7
-update november a56c06
+rework hotel 61275f
 rework papa 2327fa
 tidy solstice 75e53e
 bump juliet eb7bde
