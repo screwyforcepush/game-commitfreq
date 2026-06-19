@@ -1,4 +1,0 @@
-rework charlie 426b54
-prune sierra 5ce417
-tidy yankee 5674db
-tweak cobalt 3a9632
