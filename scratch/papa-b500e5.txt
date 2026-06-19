@@ -10,3 +10,5 @@ seed solstice 702573
 bump cobalt 64f336
 wire solstice 255692
 tweak xray 799fda
+nudge oscar ffacb4
+wire november 457e24
