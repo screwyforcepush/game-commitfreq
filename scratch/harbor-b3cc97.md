@@ -3,3 +3,6 @@ wire oscar 494c56
 nudge delta 20e6ec
 seed quebec 2d5132
 adjust foxtrot c691f2
+polish alpha 91dc3a
+bump romeo 79efa3
+tidy golf 4bb8d0
