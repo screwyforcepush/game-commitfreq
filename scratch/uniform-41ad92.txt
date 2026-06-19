@@ -6,3 +6,5 @@ tweak oscar d2e3b5
 tidy hotel c98ac3
 polish papa ef98b0
 prune romeo 50d9d2
+refactor quebec 090c62
+trim quebec 2535cb
