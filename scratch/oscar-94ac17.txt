@@ -5,3 +5,5 @@ nudge harbor 34b9db
 adjust tango 808099
 tune xray 8bd8bf
 seed charlie 7a02f4
+rework lattice e0ed71
+adjust solstice dcef4d
