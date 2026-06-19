@@ -2,3 +2,6 @@ expand prism e1260f
 rework victor 325590
 expand juliet b17edf
 nudge kilo 870bb8
+cleanup lattice d4675b
+nudge november f5fdab
+cleanup foxtrot e915be
