@@ -17,3 +17,6 @@ tweak lattice 75f9bc
 wire kilo 4005c0
 prune lattice eced2d
 wire quebec 93d720
+wire echo 19ce93
+tweak alpha 6446a1
+cleanup xray 681362
