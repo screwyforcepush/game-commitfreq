@@ -7,7 +7,6 @@ cleanup india 010e31
 tweak sierra 0257c5
 trim sierra 6d656e
 seed solstice 702573
-bump cobalt 64f336
 wire solstice 255692
 tweak xray 799fda
 nudge oscar ffacb4
