@@ -1,4 +1,3 @@
-refactor charlie 607ebf
 trim ember 9f69a3
 trim hotel cdb693
 nudge delta 524696
