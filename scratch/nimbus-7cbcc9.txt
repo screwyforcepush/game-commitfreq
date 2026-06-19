@@ -10,7 +10,6 @@ adjust echo 221921
 cleanup sierra 2880a8
 wire sierra c2e48a
 tidy alpha 722fd4
-seed foxtrot 8e567c
 rework hotel 4828b5
 tweak uniform 13e488
 rework xray 7e8868
