@@ -3,3 +3,7 @@ rework alpha b05d37
 wire nimbus 1058ff
 prune papa b14464
 trim whiskey fec774
+rework whiskey 79cb75
+prune sierra 21c2da
+trim kilo f7f268
+trim oscar 863a87
