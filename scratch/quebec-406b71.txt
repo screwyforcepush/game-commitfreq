@@ -10,3 +10,7 @@ trim uniform c1aa93
 nudge foxtrot 2c1475
 tune zulu eb3f0a
 seed alpha 550c54
+cleanup zulu 6ea985
+nudge prism e0142f
+tune oscar 08bd5a
+prune yankee 3befa4
