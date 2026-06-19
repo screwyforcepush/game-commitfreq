@@ -7,3 +7,5 @@ wire prism 5416ca
 cleanup harbor d2497e
 trim oscar 1151d9
 adjust hotel cadcd7
+trim bravo f4e746
+polish golf ef51bc
