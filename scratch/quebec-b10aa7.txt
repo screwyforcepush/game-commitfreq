@@ -1,3 +1,2 @@
 rework delta b32505
-adjust solstice 49694e
 adjust nimbus 4e1157
