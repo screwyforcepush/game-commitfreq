@@ -1,4 +1,3 @@
-refactor juliet 0ffc0b
 bump hotel 917726
 trim foxtrot 881a55
 bump whiskey 72d999
