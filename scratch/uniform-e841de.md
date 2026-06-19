@@ -8,3 +8,7 @@ wire alpha 8e794a
 bump charlie ac5a66
 update uniform e3875a
 wire sierra f96b2f
+tidy xray 47c695
+update quebec f2e443
+expand solstice d57d86
+tweak hotel f36754
