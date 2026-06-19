@@ -1,6 +1,0 @@
-rework foxtrot 0cd800
-trim whiskey 4edd68
-trim prism 687da2
-cleanup lima 8fa848
-tidy kilo 81b286
-cleanup quebec a9785d
