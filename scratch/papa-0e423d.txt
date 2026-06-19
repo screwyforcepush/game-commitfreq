@@ -3,3 +3,5 @@ cleanup lattice d22b39
 wire foxtrot be5621
 tune whiskey 899aa4
 tune mike c1ab6b
+cleanup victor 33d12c
+wire lima 9ba4ae
