@@ -1,3 +1,0 @@
-polish lima b861f3
-prune uniform 607235
-cleanup charlie bf7526
