@@ -1,1 +1,1 @@
-wire yankee a5c4fc
+tidy lattice cbcbdb
