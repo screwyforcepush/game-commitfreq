@@ -2,3 +2,6 @@ rework golf ca0779
 refactor juliet 968c95
 tune lima 90b257
 expand charlie dcc777
+tidy nimbus ed7497
+trim hotel 568f44
+tweak oscar d2bba9
