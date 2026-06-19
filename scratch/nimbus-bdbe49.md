@@ -6,4 +6,4 @@ seed lattice ecce40
 nudge bravo 1f6f5e
 update xray af9407
 polish tango 6c41e5
-nudge solstice 8602af
+polish quebec 7593e5
