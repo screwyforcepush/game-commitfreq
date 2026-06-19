@@ -1,5 +1,5 @@
 cleanup zulu b5fb2e
-tweak alpha bb3009
+cleanup lattice d22b39
 wire foxtrot be5621
 tune whiskey 899aa4
 tune mike c1ab6b
