@@ -14,3 +14,6 @@ rework cobalt 7c184a
 trim lattice 406acf
 rework zulu 56884e
 tune juliet 152452
+adjust november be3881
+rework golf d35a61
+trim papa 212abd
