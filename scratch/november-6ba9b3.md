@@ -5,5 +5,4 @@ tweak oscar 511a27
 tune echo 7ffdfb
 update quebec 620560
 tweak charlie ef01ce
-expand zulu 3ce3b4
 prune sierra 1c2203
