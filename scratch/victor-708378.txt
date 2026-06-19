@@ -2,5 +2,4 @@ cleanup kilo a64795
 rework xray d8a738
 seed zulu d9634e
 wire mike 44407e
-update quebec ccde23
 polish india ff365d
