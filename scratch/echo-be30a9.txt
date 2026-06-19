@@ -3,3 +3,6 @@ wire lima db2d1d
 adjust november 6c4baa
 polish alpha 3e6781
 polish solstice 5c897f
+expand tango 00d27f
+tweak hotel 2b23d7
+wire charlie bed363
