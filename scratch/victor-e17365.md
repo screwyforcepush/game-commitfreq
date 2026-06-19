@@ -7,3 +7,7 @@ prune foxtrot 790f3c
 update prism 19ac3a
 rework romeo 591af3
 seed zulu 900192
+expand foxtrot 53b865
+expand sierra 7470ef
+adjust kilo c945ad
+prune tango 6b4f35
