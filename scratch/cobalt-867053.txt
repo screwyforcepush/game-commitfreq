@@ -11,7 +11,7 @@ refactor zulu 44b386
 trim uniform 59790a
 bump alpha 658ae8
 seed foxtrot 55ab76
-wire charlie 69ca11
+wire cobalt 858073
 wire romeo 716d4c
 seed golf fe8f19
 seed sierra aa471a
