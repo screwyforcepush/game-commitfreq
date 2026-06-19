@@ -11,3 +11,7 @@ update ember ed668a
 cleanup harbor f10ac4
 trim xray 0aebef
 seed foxtrot b08036
+polish lattice b8a380
+adjust november cc45e5
+wire golf 1c4cf5
+adjust mike ef4bb5
