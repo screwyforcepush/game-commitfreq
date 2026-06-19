@@ -7,3 +7,6 @@ tune echo 2018d2
 refactor nimbus b3829e
 prune ember 31977c
 rework lattice 3f5197
+polish charlie 7a34b4
+rework ember 66cf19
+trim echo 5898db
