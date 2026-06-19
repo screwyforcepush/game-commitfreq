@@ -14,7 +14,6 @@ tidy sierra b96652
 polish quebec 1a393a
 expand quebec 601451
 bump xray 50078c
-tidy lattice ca85ac
 tidy victor f93801
 prune romeo c6c001
 tweak ember a7e2a0
