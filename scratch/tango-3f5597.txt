@@ -1,7 +1,6 @@
 nudge alpha 5f1cbc
 tweak lima 4a8894
 update solstice b730ba
-wire xray 3aa849
 seed india 144918
 polish cobalt 021039
 bump bravo f03b30
