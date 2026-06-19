@@ -9,3 +9,6 @@ rework golf 7c6976
 cleanup victor 3963d1
 refactor nimbus a7655a
 nudge romeo ccf47f
+cleanup xray c39716
+expand papa 032fea
+nudge quebec 21575c
