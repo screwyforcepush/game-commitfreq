@@ -13,7 +13,7 @@ bump alpha 658ae8
 seed foxtrot 55ab76
 wire cobalt 858073
 wire romeo 716d4c
-seed golf fe8f19
+trim whiskey 55e46b
 seed sierra aa471a
 tweak kilo 095f1d
 expand echo abfb37
