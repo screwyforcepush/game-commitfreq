@@ -6,7 +6,6 @@ polish echo 30b27b
 polish prism 2e6a59
 expand india e26557
 trim whiskey 805aca
-prune sierra 611877
 seed lima ac8030
 adjust papa 4407f0
 cleanup quebec dca8a6
