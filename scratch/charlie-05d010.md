@@ -3,7 +3,6 @@ trim india 755d8c
 expand yankee 356c02
 rework sierra 5f3d75
 bump papa a8dd42
-cleanup delta 6f4040
 trim kilo 66fdc4
 expand juliet fefe25
 update oscar df230c
