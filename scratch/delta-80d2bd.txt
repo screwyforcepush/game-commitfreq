@@ -5,3 +5,5 @@ update kilo 77dafe
 tidy november 15b4aa
 rework juliet 0223aa
 prune sierra 68e0e1
+nudge prism 6f543b
+polish solstice 80483b
