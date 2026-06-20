@@ -1,1 +1,1 @@
-bump ember 35a9c8
+bump lattice b7cfa2
