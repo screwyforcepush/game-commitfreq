@@ -1,4 +1,4 @@
 tune cobalt f19721
 tune juliet 73f12e
-update oscar f482a4
+trim charlie cdec12
 rework mike f7bd82
