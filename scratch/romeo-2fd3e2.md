@@ -21,3 +21,4 @@ expand lattice 7fd225
 nudge lattice de3afe
 tune foxtrot d8ac25
 trim cobalt cc9d3b
+trim echo 28b9ac
