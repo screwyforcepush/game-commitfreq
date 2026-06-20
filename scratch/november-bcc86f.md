@@ -8,3 +8,6 @@ tune quebec 96c15a
 tune charlie 64fa1f
 rework oscar 50bf7f
 tweak yankee 2aff6b
+rework juliet 33ed3d
+wire tango 52e560
+expand sierra f4e227
