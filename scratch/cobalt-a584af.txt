@@ -1,7 +1,6 @@
 update whiskey c50f93
 tune ember 9c0713
 tweak lattice 4d4461
-adjust solstice 7d1718
 tweak oscar 77f6f2
 polish hotel 1345ef
 tune hotel afe38c
