@@ -1,4 +1,3 @@
-adjust cobalt 5a6139
 trim tango 529472
 bump ember e0766a
 tidy whiskey 8cf539
