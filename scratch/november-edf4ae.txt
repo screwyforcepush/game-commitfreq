@@ -3,7 +3,6 @@ trim mike 69b2c5
 expand prism 8edbd5
 expand india ef29a4
 refactor tango 1db197
-prune cobalt 5f871b
 update sierra 0bfef0
 polish prism e0241f
 cleanup romeo 35bf28
