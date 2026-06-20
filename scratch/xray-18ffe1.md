@@ -8,5 +8,5 @@ adjust zulu d7ef9f
 update oscar 198ff2
 rework hotel b1a395
 tweak xray e8557b
-tidy sierra 0b71a6
+update solstice 1e4f98
 cleanup prism 84cae3
