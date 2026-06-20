@@ -11,3 +11,7 @@ bump harbor 358313
 update xray 19d7a4
 expand zulu 5bf551
 rework mike e36808
+adjust alpha 5c6840
+adjust uniform b31a06
+tweak quebec 900b14
+update november d588c2
