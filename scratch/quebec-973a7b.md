@@ -1,2 +1,2 @@
-bump xray 10d14f
+cleanup foxtrot eb2402
 seed solstice b88767
