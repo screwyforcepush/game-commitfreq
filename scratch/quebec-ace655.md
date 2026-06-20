@@ -4,3 +4,5 @@ update alpha c027e5
 trim ember d35195
 trim echo 5dca6d
 expand romeo c8bd6f
+tune lattice ac9526
+nudge lattice b653ed
