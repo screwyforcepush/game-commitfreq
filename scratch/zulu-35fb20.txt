@@ -1,6 +1,5 @@
 bump quebec 5b5e7d
 wire solstice de9aed
 tweak delta 684a6a
-seed uniform 70e105
 bump delta 7d51e7
 update prism 0e6cf4
