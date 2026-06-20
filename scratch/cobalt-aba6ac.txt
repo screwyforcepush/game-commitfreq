@@ -2,7 +2,6 @@ tune hotel cfe74a
 wire nimbus ff9811
 polish cobalt 450de9
 trim golf 80dbf0
-update lima bc113a
 cleanup kilo b39d8f
 bump bravo 916309
 seed uniform 8c80af
