@@ -5,3 +5,6 @@ wire kilo eacb84
 seed yankee 910840
 seed alpha afa0fb
 rework lima 423b8c
+update nimbus 081d0c
+tidy nimbus 13d970
+seed oscar eef97a
