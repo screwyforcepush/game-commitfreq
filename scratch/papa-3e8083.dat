@@ -10,7 +10,6 @@ expand delta 93afb6
 cleanup lattice eb47df
 expand whiskey f56b27
 polish sierra 4d04a0
-prune lattice 038b15
 expand sierra bcb7d7
 tweak echo 42ee51
 rework echo 635390
