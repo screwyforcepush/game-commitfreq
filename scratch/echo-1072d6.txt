@@ -8,3 +8,6 @@ update delta 701dea
 prune november fc7ec5
 adjust harbor 96f639
 bump solstice e6bbcd
+adjust alpha 413341
+update tango 3e5af3
+tidy sierra e8bf88
