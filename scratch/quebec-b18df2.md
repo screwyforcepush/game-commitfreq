@@ -1,4 +1,4 @@
-bump oscar ee783e
+cleanup solstice 15d5dc
 adjust mike 388765
 adjust harbor a29f24
 wire whiskey f6078c
