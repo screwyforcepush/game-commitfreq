@@ -3,4 +3,4 @@ update yankee 039c7e
 adjust oscar f646d0
 wire juliet fc0642
 adjust cobalt 976495
-update juliet d1e98d
+tune lattice 7ba31b
