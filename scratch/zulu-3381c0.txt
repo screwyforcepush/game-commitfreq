@@ -1,4 +1,3 @@
-adjust sierra 89164e
 refactor delta 7bb56c
 polish golf b5ace9
 tweak bravo ba9c53
