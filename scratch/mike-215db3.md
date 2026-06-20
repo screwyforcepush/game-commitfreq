@@ -7,3 +7,6 @@ update yankee b341ca
 tweak prism b855a3
 cleanup quebec 6be9c4
 tidy yankee 3bbe1d
+tweak cobalt 7689fd
+expand zulu fe7576
+expand uniform e8dcaf
