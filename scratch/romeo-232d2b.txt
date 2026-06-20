@@ -12,3 +12,5 @@ rework xray bc05c7
 rework nimbus bb611a
 nudge quebec d8d104
 nudge hotel 5c36c3
+expand cobalt 96f16d
+tune nimbus d2f646
