@@ -1,5 +1,4 @@
 tune victor 6659f2
-trim mike 069ae7
 wire hotel a4341f
 tune mike 08101e
 nudge foxtrot 3532bf
