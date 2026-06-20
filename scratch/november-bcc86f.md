@@ -5,3 +5,6 @@ bump echo 7b39d8
 rework papa ddfa6d
 update bravo 176c43
 tune quebec 96c15a
+tune charlie 64fa1f
+rework oscar 50bf7f
+tweak yankee 2aff6b
