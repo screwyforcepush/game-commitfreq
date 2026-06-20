@@ -7,7 +7,6 @@ tune cobalt 0df06c
 cleanup harbor 55479e
 update juliet 1ff5d1
 polish mike 63b976
-tidy papa 6d3999
 update zulu 181bed
 prune india d07d93
 adjust solstice 5766d4
