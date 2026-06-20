@@ -3,3 +3,5 @@ cleanup charlie a2004a
 nudge romeo e80e32
 tweak zulu 6a93e6
 trim golf 859c79
+tidy nimbus c855e7
+adjust juliet f02914
