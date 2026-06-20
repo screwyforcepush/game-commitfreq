@@ -8,7 +8,6 @@ expand yankee 8d6724
 trim bravo 100143
 tweak cobalt a42b99
 expand lima 8273f6
-adjust hotel 765114
 adjust mike 4645c2
 tidy harbor 75aafd
 nudge foxtrot ab552b
