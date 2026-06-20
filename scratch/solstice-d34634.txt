@@ -1,6 +1,0 @@
-refactor juliet b094f5
-cleanup juliet 74c33d
-tidy juliet dd07f7
-adjust quebec af1590
-cleanup bravo ef8e98
-rework nimbus 59130d
