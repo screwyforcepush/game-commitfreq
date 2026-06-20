@@ -1,1 +1,1 @@
-prune tango bf4fec
+tune sierra 3277e3
