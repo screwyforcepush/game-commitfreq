@@ -8,3 +8,7 @@ tune foxtrot 4e71ee
 expand prism b5ca7d
 trim charlie f4c8ac
 polish echo bd2ff8
+cleanup golf 69717d
+cleanup yankee 799a2a
+cleanup tango c0dc4b
+trim sierra 56ac25
