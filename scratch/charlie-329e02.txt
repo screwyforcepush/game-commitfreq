@@ -1,2 +1,0 @@
-rework delta 6c0beb
-polish november bba6ca
