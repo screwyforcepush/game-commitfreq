@@ -3,7 +3,6 @@ update juliet 3bf0c9
 update oscar 3a96e2
 update yankee 673fdd
 seed solstice 630272
-adjust romeo 60890e
 nudge november 383c15
 trim lima 8e935b
 nudge golf 40407e
