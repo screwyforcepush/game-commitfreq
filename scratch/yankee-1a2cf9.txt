@@ -1,6 +1,5 @@
 wire prism 5bb8d9
 tune charlie 87f119
-update prism 558374
 adjust bravo c3385d
 tweak whiskey 1420b3
 bump xray 764e42
