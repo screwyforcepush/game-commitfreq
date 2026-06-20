@@ -9,3 +9,6 @@ refactor mike 6dd36c
 tidy quebec 6f7399
 refactor xray 2f622b
 refactor cobalt 53cd18
+trim oscar cbfb71
+expand echo e1ad37
+refactor delta ff7fec
