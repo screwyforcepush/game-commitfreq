@@ -4,3 +4,6 @@ nudge tango fe155d
 nudge papa 147df1
 tidy kilo 2f091d
 nudge hotel 0c506d
+expand golf 002d78
+polish zulu 4f5333
+wire oscar 7c01bc
