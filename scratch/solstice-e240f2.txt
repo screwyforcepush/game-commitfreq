@@ -1,6 +1,5 @@
 seed alpha 348571
 wire juliet 60b7c8
-polish kilo f2c530
 polish yankee b5ba39
 nudge zulu 05180f
 adjust charlie cc093b
