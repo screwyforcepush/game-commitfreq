@@ -1,3 +1,0 @@
-tidy prism 59cc6a
-seed sierra c095db
-bump yankee 8dfa0c
