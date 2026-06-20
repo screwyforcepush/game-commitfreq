@@ -1,4 +1,3 @@
 prune bravo 3074d7
 adjust delta 3659ad
-seed hotel 2accd8
 adjust mike df9581
