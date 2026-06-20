@@ -11,7 +11,6 @@ bump charlie c79e18
 nudge ember 0565ef
 nudge zulu 0bd959
 tidy xray 05f0c4
-polish cobalt 069471
 tune juliet 7b58d8
 trim quebec 969ee8
 tweak oscar de37e9
