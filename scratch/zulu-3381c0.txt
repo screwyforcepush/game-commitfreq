@@ -5,6 +5,5 @@ rework alpha 3f235d
 cleanup golf b8c44e
 tweak echo a0f2b7
 trim victor ca8b50
-tidy kilo c628d5
 adjust delta c92c3c
 adjust whiskey 112385
