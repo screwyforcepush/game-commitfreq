@@ -5,3 +5,6 @@ seed ember 096c1e
 cleanup lima d31461
 adjust delta 397b99
 seed nimbus 92365a
+trim bravo 2742ef
+trim yankee 24ba64
+tune november 9661bb
