@@ -1,6 +1,6 @@
 update hotel 34f68c
 polish foxtrot 43e43b
 wire nimbus 826814
-polish zulu 841bc8
+tidy harbor 973c50
 adjust cobalt 538932
 polish victor b861f4
