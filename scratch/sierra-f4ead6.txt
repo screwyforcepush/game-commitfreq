@@ -3,7 +3,6 @@ expand xray 849a11
 trim nimbus d68002
 prune foxtrot 5aec4b
 update november a47ca8
-cleanup juliet dc58fe
 seed zulu 7fd0ed
 polish victor ee6dfb
 tune ember dd1e6b
