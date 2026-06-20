@@ -5,4 +5,3 @@ update kilo 77dafe
 tidy november 15b4aa
 rework juliet 0223aa
 prune sierra 68e0e1
-wire nimbus 3740a6
