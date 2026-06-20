@@ -4,3 +4,6 @@ expand quebec 50c85e
 rework victor a46d18
 seed romeo fba3f0
 nudge lattice 829d13
+nudge foxtrot 5962f3
+prune lattice 839301
+prune romeo 22c7e6
