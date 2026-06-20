@@ -7,3 +7,7 @@ tweak echo a0f2b7
 trim victor ca8b50
 adjust delta c92c3c
 adjust whiskey 112385
+adjust delta d4b278
+trim bravo f92358
+tweak yankee 0b51da
+tweak juliet fd9748
