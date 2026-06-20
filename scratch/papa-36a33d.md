@@ -4,3 +4,7 @@ trim victor dd8912
 update golf 5e4cad
 wire golf 0e81d2
 prune ember 53598c
+cleanup uniform 047e48
+wire foxtrot 08a0cd
+nudge charlie 50a234
+trim charlie e765c7
