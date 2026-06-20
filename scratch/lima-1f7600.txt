@@ -3,3 +3,7 @@ rework cobalt c3da46
 tidy alpha a1c5ec
 expand mike 647b64
 polish zulu ccb0b5
+cleanup victor f0871c
+update yankee 5c15e6
+tune solstice 1149e7
+cleanup nimbus 854272
