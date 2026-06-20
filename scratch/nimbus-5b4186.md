@@ -5,3 +5,6 @@ update juliet a3d714
 tidy cobalt 79c052
 adjust alpha 59146a
 cleanup hotel 08a7b7
+wire solstice 5560c0
+rework zulu 7a7e00
+tweak golf cd8b45
