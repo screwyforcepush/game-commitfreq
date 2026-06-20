@@ -11,3 +11,6 @@ tune hotel fee4d7
 expand mike cbf583
 trim cobalt b62e10
 polish hotel d842c3
+wire quebec 9bfe52
+trim nimbus b889e6
+polish sierra 681a5d
