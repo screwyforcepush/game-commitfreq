@@ -2,5 +2,5 @@ update quebec b671d7
 tidy november 4dc040
 rework whiskey 84f26d
 update november db19f8
-seed november 9b8b5c
+prune uniform 07f471
 tweak xray 75495b
