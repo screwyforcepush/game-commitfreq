@@ -1,6 +1,0 @@
-nudge lima 6733b7
-cleanup echo dbfa73
-adjust zulu fcddc2
-tweak victor b58a9f
-cleanup whiskey 03a1cd
-cleanup charlie 466189
