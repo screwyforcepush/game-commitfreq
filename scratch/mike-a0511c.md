@@ -6,3 +6,7 @@ prune sierra 60aa08
 nudge delta 8c5cbd
 polish uniform 1e80cb
 bump foxtrot 8c4df7
+cleanup hotel 17d91f
+update lattice 024c3b
+update charlie 10a33b
+adjust yankee b7e47b
