@@ -1,2 +1,1 @@
-seed alpha 5d4d5b
 tidy solstice b00d92
