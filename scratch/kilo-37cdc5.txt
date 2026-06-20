@@ -2,5 +2,4 @@ bump charlie feabe9
 nudge uniform 5bcae0
 expand ember 54aa8e
 tidy quebec 46cd3e
-cleanup solstice 5f7176
 tweak papa 7a2784
