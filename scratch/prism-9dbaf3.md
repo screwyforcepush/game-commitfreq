@@ -1,6 +1,5 @@
 bump charlie feabe9
 polish hotel 5675e9
 expand ember 54aa8e
-tidy quebec 46cd3e
 tweak papa 7a2784
 tune quebec 77946e
