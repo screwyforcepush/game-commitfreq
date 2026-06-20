@@ -6,3 +6,5 @@ update lattice d5827d
 tweak xray 7435f0
 polish papa 0363d5
 nudge nimbus 72c18b
+adjust uniform 40fabd
+adjust november 6b6313
