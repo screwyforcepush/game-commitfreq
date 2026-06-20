@@ -1,4 +1,3 @@
 tidy whiskey 026690
-update alpha 6b4741
 update tango 5457cf
 nudge papa f002d4
