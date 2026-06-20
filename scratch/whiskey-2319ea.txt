@@ -3,3 +3,7 @@ wire mike c04529
 seed foxtrot f81fa7
 bump bravo 34ebd2
 adjust victor ec67ac
+tune nimbus dceeb5
+wire delta dec548
+polish echo 120e31
+prune delta 26a5ca
