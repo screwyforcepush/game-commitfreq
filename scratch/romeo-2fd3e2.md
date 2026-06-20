@@ -3,7 +3,7 @@ rework prism 5adf7f
 refactor delta 7dc2a1
 nudge ember 9641c6
 update bravo 56672d
-update sierra 392eeb
+trim papa eeee89
 nudge papa ba93be
 tune tango c1c699
 bump victor 42c10c
