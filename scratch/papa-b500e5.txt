@@ -6,7 +6,7 @@ rework oscar 86db49
 bump mike f8d17b
 tweak sierra 0257c5
 refactor hotel f7d013
-seed solstice 702573
+tweak bravo 198483
 wire solstice 255692
 tweak xray 799fda
 nudge oscar ffacb4
