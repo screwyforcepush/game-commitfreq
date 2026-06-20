@@ -4,3 +4,7 @@ trim nimbus 4c0716
 polish kilo 4ceeb3
 prune nimbus c53bac
 tweak kilo 3e6cef
+trim sierra d8bd45
+tidy lattice f4ae48
+tune prism 25f6f7
+cleanup sierra fa863b
