@@ -1,7 +1,6 @@
 prune india f434e4
 wire quebec f1c42e
 trim nimbus 00b2b4
-adjust delta 09200e
 polish oscar 195add
 rework yankee 35385c
 refactor zulu a07014
