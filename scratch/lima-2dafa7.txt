@@ -13,3 +13,5 @@ tweak tango 3d7576
 trim bravo 92e5e0
 wire yankee 4e72db
 adjust solstice 9c8368
+trim nimbus 85ecdc
+polish kilo f425ba
