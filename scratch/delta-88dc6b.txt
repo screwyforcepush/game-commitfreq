@@ -1,6 +1,0 @@
-polish yankee 6f6d75
-wire hotel e18ddf
-nudge lattice 3f6a0d
-seed solstice 90f93f
-nudge tango 737000
-cleanup uniform e6c3ff
