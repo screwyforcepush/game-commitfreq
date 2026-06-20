@@ -7,7 +7,6 @@ cleanup kilo b39d8f
 bump bravo 916309
 seed uniform 8c80af
 tweak bravo 949121
-tweak hotel b3a9b4
 seed mike 6201ac
 prune cobalt 539791
 tune prism 137f37
