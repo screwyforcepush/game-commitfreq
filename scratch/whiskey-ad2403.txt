@@ -2,5 +2,5 @@ refactor papa f19c96
 tidy delta c60ef2
 tidy foxtrot b1af71
 bump foxtrot 2d5b30
-bump whiskey 58a11e
+adjust xray ba2697
 refactor golf 863f7d
