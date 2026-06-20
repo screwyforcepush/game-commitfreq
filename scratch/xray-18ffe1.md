@@ -10,3 +10,5 @@ rework hotel b1a395
 tweak xray e8557b
 update solstice 1e4f98
 cleanup prism 84cae3
+tune solstice a69a46
+wire quebec 7e0472
