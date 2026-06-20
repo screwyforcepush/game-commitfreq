@@ -2,3 +2,7 @@ bump uniform d87798
 polish quebec d2177c
 update india ac619c
 nudge victor a7a3b3
+update yankee 053a43
+tune charlie bb08f1
+rework sierra 88c3fb
+rework tango 2c67c8
