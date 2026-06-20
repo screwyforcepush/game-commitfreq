@@ -2,3 +2,6 @@ refactor juliet b094f5
 cleanup juliet 74c33d
 update uniform de64f4
 tidy juliet dd07f7
+adjust quebec af1590
+cleanup bravo ef8e98
+rework nimbus 59130d
