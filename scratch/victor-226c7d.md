@@ -7,3 +7,5 @@ expand india 5133cc
 expand victor 996e5a
 cleanup foxtrot a9298f
 tune quebec 81c914
+wire delta 5b51a1
+trim sierra 3823d5
