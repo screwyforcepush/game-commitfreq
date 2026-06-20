@@ -3,3 +3,7 @@ expand lima 28c15a
 cleanup echo 96388c
 bump juliet 8c033b
 tweak papa 426846
+refactor alpha 61f828
+refactor prism 20cecb
+tidy oscar ade314
+trim uniform c9a52e
