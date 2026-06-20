@@ -1,1 +1,1 @@
-adjust quebec 6babb1
+update solstice 94982b
