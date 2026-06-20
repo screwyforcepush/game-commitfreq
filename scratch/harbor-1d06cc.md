@@ -7,3 +7,5 @@ tidy lima e32d42
 tidy prism 722a77
 bump delta 6f9b04
 update prism faefef
+tidy delta 673f98
+adjust papa ee5f1b
