@@ -1,6 +1,0 @@
-prune delta c55eb1
-bump cobalt 8039a6
-expand oscar 449be8
-tune india 7b7403
-tidy quebec e281e1
-cleanup lima 5ead35
