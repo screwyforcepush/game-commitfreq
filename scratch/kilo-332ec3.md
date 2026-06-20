@@ -8,7 +8,6 @@ adjust charlie 737a71
 tidy prism 6fc4d2
 expand prism f9404f
 trim bravo 0de365
-tweak sierra 40eeb8
 refactor quebec 8faa3c
 nudge papa 5e2b2e
 tune cobalt 8e279b
