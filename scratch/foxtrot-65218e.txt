@@ -18,3 +18,5 @@ tweak sierra 744ec8
 nudge golf 1ec023
 bump quebec 5fb980
 update prism b3c688
+wire foxtrot 316aca
+seed yankee 730660
