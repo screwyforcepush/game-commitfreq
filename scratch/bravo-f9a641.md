@@ -6,3 +6,7 @@ tidy prism 32285a
 refactor harbor c05597
 cleanup juliet 6ab910
 expand nimbus 83c513
+rework romeo cea5ee
+cleanup november 64201a
+wire mike e2635c
+tweak kilo f2866c
