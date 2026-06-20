@@ -5,3 +5,7 @@ adjust delta 09200e
 trim prism 81d4ec
 polish oscar 195add
 rework yankee 35385c
+tune sierra 8c6b54
+refactor zulu a07014
+tweak prism 36d8b3
+trim cobalt 6d94f1
