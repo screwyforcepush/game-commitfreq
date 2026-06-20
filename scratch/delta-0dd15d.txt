@@ -1,5 +1,0 @@
-trim india 3e5fd9
-bump yankee 67464a
-cleanup zulu 27d531
-adjust cobalt 923d45
-tweak alpha b7e834
