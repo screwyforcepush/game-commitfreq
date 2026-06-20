@@ -7,6 +7,5 @@ cleanup golf e32139
 polish solstice a6e496
 refactor lima 0cc60a
 prune golf f66025
-bump sierra 683904
 expand prism 84bfc3
 tidy bravo 347988
