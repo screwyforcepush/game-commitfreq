@@ -6,3 +6,5 @@ trim echo 5dca6d
 trim lima 7fd676
 tune lattice ac9526
 prune hotel fa89ba
+cleanup tango 313e6b
+tune echo 54fef6
