@@ -6,3 +6,6 @@ wire kilo 568042
 tweak november 8d6f64
 adjust whiskey ec232d
 tweak quebec cdb76e
+adjust solstice 58b772
+trim november f9927d
+trim yankee 0bf3e5
