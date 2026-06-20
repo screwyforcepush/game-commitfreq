@@ -3,6 +3,5 @@ tidy foxtrot 636616
 rework quebec 97aaba
 seed zulu 5a3150
 expand cobalt 0dc2bf
-update november 20c197
 seed cobalt ca0e9d
 tweak bravo 29701f
