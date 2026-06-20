@@ -1,2 +1,1 @@
-cleanup foxtrot f25250
 prune whiskey aa0633
