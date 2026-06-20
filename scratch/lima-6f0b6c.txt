@@ -1,6 +1,5 @@
 tidy romeo 155bed
 update quebec 19d5dd
-rework yankee 841f09
 refactor echo 5d04e4
 nudge quebec 507fd9
 tidy golf 0dec3e
