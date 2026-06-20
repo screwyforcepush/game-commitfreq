@@ -4,3 +4,5 @@ wire quebec 8c2f15
 tweak oscar 89ddf5
 tweak lima 0bc4b9
 tune bravo daf3b7
+trim papa 0472d0
+wire foxtrot dfc59c
