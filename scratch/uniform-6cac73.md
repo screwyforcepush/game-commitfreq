@@ -7,3 +7,6 @@ tweak delta 94d87a
 tidy quebec b6c93c
 rework ember 83d524
 wire zulu a3aa12
+update papa 6e3aa9
+adjust oscar 76e08b
+refactor prism 40f257
