@@ -3,3 +3,6 @@ wire alpha 586612
 tune solstice 760c38
 update foxtrot c225f4
 update lattice d5827d
+tweak xray 7435f0
+polish papa 0363d5
+nudge nimbus 72c18b
