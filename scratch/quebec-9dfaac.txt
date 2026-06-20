@@ -6,5 +6,4 @@ prune nimbus c53bac
 tweak kilo 3e6cef
 trim sierra d8bd45
 tidy lattice f4ae48
-tune prism 25f6f7
 tidy bravo 7a9043
