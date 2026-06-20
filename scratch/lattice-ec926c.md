@@ -1,4 +1,3 @@
-refactor november 4c312a
 bump delta d89bf5
 wire foxtrot a17955
 tidy golf 1cd081
