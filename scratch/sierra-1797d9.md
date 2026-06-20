@@ -4,3 +4,6 @@ tune nimbus 3b38fe
 update india 721f3b
 tweak cobalt fcf49e
 update echo f549a2
+cleanup quebec 8399c5
+adjust echo 23c1f1
+rework kilo fa4b10
