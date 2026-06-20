@@ -14,3 +14,7 @@ prune solstice fca30b
 seed hotel e16362
 tune hotel 0f1158
 update lima efca13
+tweak sierra 744ec8
+nudge golf 1ec023
+bump quebec 5fb980
+update prism b3c688
