@@ -7,5 +7,4 @@ tweak echo a0f2b7
 trim victor ca8b50
 tidy kilo c628d5
 adjust delta c92c3c
-tweak zulu 335664
 adjust whiskey 112385
