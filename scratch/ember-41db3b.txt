@@ -1,7 +1,6 @@
 adjust sierra 89164e
 refactor delta 7bb56c
 polish golf b5ace9
-polish ember 80bcdc
 tweak bravo ba9c53
 rework alpha 3f235d
 cleanup golf b8c44e
