@@ -5,6 +5,6 @@ update yankee 673fdd
 seed solstice 630272
 wire romeo 03e618
 adjust romeo 60890e
-trim cobalt 50a4d2
+nudge november 383c15
 trim lima 8e935b
 nudge golf 40407e
