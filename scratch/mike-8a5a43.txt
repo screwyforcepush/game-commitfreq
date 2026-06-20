@@ -2,7 +2,6 @@ trim tango 529472
 bump ember e0766a
 expand whiskey b3f072
 rework echo 130f26
-update nimbus 3dce9c
 polish sierra f39baf
 tune quebec c61aa3
 tune harbor 92e924
