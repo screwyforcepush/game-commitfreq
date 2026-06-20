@@ -1,0 +1,3 @@
+seed alpha 348571
+wire juliet 60b7c8
+polish kilo f2c530
