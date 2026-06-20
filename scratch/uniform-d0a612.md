@@ -6,7 +6,7 @@ expand prism 41eef6
 wire uniform a5202e
 bump india 94f89d
 cleanup sierra 29a272
-tweak prism 107534
+trim solstice 4593f3
 trim prism bec690
 prune yankee 27ea8d
 cleanup foxtrot 62a0e1
