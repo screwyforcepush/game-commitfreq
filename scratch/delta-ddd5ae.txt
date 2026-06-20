@@ -4,3 +4,5 @@ expand nimbus d2fe65
 tweak solstice d333af
 seed cobalt 66abc5
 prune nimbus ff0531
+tidy november 10efbe
+adjust nimbus 47c4f3
