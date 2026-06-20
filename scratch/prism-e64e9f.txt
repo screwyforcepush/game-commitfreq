@@ -1,3 +1,0 @@
-bump whiskey 1a87a1
-prune yankee 4a4d97
-cleanup sierra 433b47
