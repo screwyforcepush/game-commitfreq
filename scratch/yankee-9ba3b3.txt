@@ -1,7 +1,0 @@
-trim tango 03512d
-cleanup quebec 14f635
-tune india b2a8d7
-tweak bravo 087bc3
-tidy november 9ab82d
-adjust mike 634d6e
-tweak oscar 57c977
