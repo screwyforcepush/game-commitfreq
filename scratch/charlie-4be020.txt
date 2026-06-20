@@ -1,5 +1,0 @@
-wire charlie 7aa905
-adjust quebec bf4465
-refactor hotel f1fe42
-bump india 66a229
-cleanup mike 577899
