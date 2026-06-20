@@ -15,3 +15,5 @@ tweak hotel d42e91
 prune alpha db29f8
 tidy alpha a57f39
 trim juliet f509b5
+polish lima 645a7a
+tune november a6b9c4
