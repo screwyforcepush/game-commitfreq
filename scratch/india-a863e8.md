@@ -7,3 +7,6 @@ cleanup echo 527258
 trim victor 56f3ce
 update victor e29227
 tweak oscar f9311e
+polish victor ea3d23
+nudge solstice 549150
+tidy oscar 24d57f
