@@ -1,2 +1,6 @@
 trim victor f81861
 bump cobalt a7e4b0
+expand oscar 7526d4
+adjust romeo c431d9
+update prism f514a6
+rework charlie 682eda
