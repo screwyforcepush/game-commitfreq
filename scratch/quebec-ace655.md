@@ -8,3 +8,6 @@ tune lattice ac9526
 prune hotel fa89ba
 cleanup tango 313e6b
 tune echo 54fef6
+wire nimbus 4a9889
+tweak solstice 31caed
+polish romeo d5e734
