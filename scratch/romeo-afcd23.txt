@@ -4,3 +4,7 @@ update juliet bb77c6
 cleanup ember 2556e3
 expand papa 86983e
 tune lima 815881
+update oscar 6652bc
+rework hotel 0af64c
+tidy romeo dc3ad5
+tune charlie 1d01f5
