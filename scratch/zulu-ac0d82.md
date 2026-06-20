@@ -4,7 +4,6 @@ adjust quebec 1c79cf
 adjust prism 5d1aa5
 trim yankee 50ec42
 polish alpha 76246d
-bump uniform 83fd01
 trim mike 698221
 expand mike 4c9c7d
 rework india 6373ff
