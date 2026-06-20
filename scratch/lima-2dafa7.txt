@@ -7,3 +7,5 @@ nudge lattice 829d13
 nudge foxtrot 5962f3
 prune lattice 839301
 prune romeo 22c7e6
+adjust november b8707f
+tidy uniform 304446
