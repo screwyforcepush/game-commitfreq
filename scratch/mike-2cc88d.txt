@@ -1,6 +1,5 @@
 tidy oscar dfb270
 refactor prism 6f2c4c
 adjust hotel b590d6
-wire cobalt cffa44
 trim romeo c3c9b6
 rework lattice 4249ce
