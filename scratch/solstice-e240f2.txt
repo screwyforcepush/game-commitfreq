@@ -1,7 +1,0 @@
-seed alpha 348571
-tidy quebec a31501
-polish yankee b5ba39
-nudge zulu 05180f
-adjust charlie cc093b
-bump papa 530f45
-nudge delta 8076bf
