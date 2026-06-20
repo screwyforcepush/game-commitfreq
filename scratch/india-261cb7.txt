@@ -12,3 +12,5 @@ tune sierra 6f1350
 tweak cobalt 827384
 refactor alpha f928d9
 trim quebec 1ab00b
+refactor yankee 66c9db
+polish tango 2b407a
