@@ -17,3 +17,7 @@ tidy alpha a57f39
 trim juliet f509b5
 polish lima 645a7a
 tune november a6b9c4
+expand lattice 7fd225
+nudge lattice de3afe
+tune foxtrot d8ac25
+trim cobalt cc9d3b
