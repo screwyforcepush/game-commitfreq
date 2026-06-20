@@ -15,3 +15,6 @@ expand mike 1321ed
 adjust uniform 639746
 cleanup zulu 48e52c
 tidy cobalt 306fed
+prune quebec c4f249
+cleanup romeo 9a6350
+trim lattice 686e8d
