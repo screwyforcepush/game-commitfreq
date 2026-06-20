@@ -1,3 +1,6 @@
 prune solstice 580554
 trim quebec 690577
 tune foxtrot 330cd2
+adjust foxtrot 7b49bc
+tune cobalt bf7e4d
+cleanup romeo 521da0
