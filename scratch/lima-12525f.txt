@@ -1,6 +1,0 @@
-expand oscar 541db9
-cleanup zulu 55416b
-prune romeo 252eb6
-tweak nimbus 9afbaa
-expand sierra 711b32
-adjust delta b5731e
