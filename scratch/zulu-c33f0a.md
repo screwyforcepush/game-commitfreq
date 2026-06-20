@@ -5,3 +5,6 @@ tweak charlie 6f8e96
 rework solstice 58a5a4
 tidy harbor ef609e
 seed romeo a65127
+rework november 23ede1
+seed romeo 048dc5
+trim delta 17ab96
