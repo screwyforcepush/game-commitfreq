@@ -1,7 +1,6 @@
 trim alpha 3d8f92
 nudge delta a32ac7
 expand nimbus d2fe65
-tweak solstice d333af
 seed cobalt 66abc5
 prune nimbus ff0531
 adjust nimbus 47c4f3
