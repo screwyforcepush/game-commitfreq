@@ -3,7 +3,6 @@ tweak romeo d1432b
 expand delta eca95f
 update charlie 517dd7
 refactor prism 186d9a
-polish november beded4
 seed bravo 3349bc
 tune cobalt 0df06c
 cleanup harbor 55479e
