@@ -5,3 +5,6 @@ tune zulu 2a3a33
 tune whiskey b2bbd2
 wire papa 78ad68
 cleanup delta 2d6662
+prune delta 6741e1
+expand yankee f4e83b
+wire india 378598
