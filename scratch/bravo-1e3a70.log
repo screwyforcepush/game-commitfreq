@@ -7,3 +7,6 @@ wire kilo 8e39b4
 adjust nimbus 548866
 expand lattice 32d52d
 adjust cobalt 30231d
+tune solstice 1b0af9
+nudge oscar 3446ab
+adjust bravo f812a9
