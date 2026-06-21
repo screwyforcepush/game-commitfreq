@@ -1,3 +1,0 @@
-prune charlie 93aabb
-adjust hotel 3bc303
-update alpha b8da5e
