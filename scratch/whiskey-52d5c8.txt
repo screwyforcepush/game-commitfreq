@@ -1,2 +1,5 @@
 expand zulu 3d3459
 tidy quebec 01d769
+trim echo 37da89
+tidy lima 8df731
+polish oscar 2dd708
