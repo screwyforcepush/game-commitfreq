@@ -10,3 +10,4 @@ tweak lima 325883
 update solstice 8c1700
 refactor romeo 50255a
 tune cobalt 53c06a
+bump lattice 05e088
