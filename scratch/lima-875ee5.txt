@@ -3,3 +3,5 @@ tune mike ea6f60
 tweak victor ac8e2b
 trim xray d8df14
 polish xray 221e92
+adjust bravo bd3db5
+rework foxtrot 99f625
