@@ -7,3 +7,6 @@ tweak romeo 4d9de5
 tune nimbus 7a426c
 tidy tango 16fa0f
 tidy oscar 8bd5ee
+wire foxtrot 0af070
+expand tango 9ef91b
+bump echo 086c98
