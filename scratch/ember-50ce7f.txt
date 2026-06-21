@@ -1,5 +1,0 @@
-adjust victor 95566b
-tidy charlie 0bfc69
-polish uniform ec0ea7
-prune uniform fba28e
-cleanup oscar c2a0f2
