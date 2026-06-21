@@ -5,5 +5,5 @@ prune mike 82efe9
 update sierra 53c1fc
 tweak romeo 2b9705
 update nimbus 5de88f
-cleanup lattice 11632e
+expand ember 3f60b2
 bump kilo ec5100
