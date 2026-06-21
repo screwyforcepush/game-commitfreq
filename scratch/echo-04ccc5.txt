@@ -1,4 +1,3 @@
-polish hotel f909f2
 trim alpha 515eda
 polish tango 0a9e6f
 trim foxtrot 6a849b
