@@ -1,5 +1,5 @@
 nudge november c9677a
-wire lattice 72690c
+prune papa a53c50
 tweak foxtrot 3bcb6b
 trim sierra e38407
 cleanup cobalt ac3c4d
