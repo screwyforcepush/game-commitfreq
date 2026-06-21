@@ -9,3 +9,6 @@ adjust charlie ededec
 expand charlie dd4881
 bump echo f52f56
 cleanup uniform 8491f1
+expand kilo 183e28
+cleanup papa 4ee285
+seed kilo d78ee4
