@@ -2,5 +2,4 @@ polish mike bc9ed2
 seed mike b11fc0
 cleanup november 29a383
 tune golf 9584c0
-tune prism d415f7
 adjust foxtrot 84781b
