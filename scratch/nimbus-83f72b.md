@@ -6,3 +6,7 @@ bump nimbus 874a0d
 nudge tango 29bb4c
 update oscar 29e7d0
 polish golf c06897
+update nimbus 249eb1
+polish zulu 92181b
+nudge papa fba49f
+expand romeo 704243
