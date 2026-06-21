@@ -12,7 +12,6 @@ bump juliet 35cdb9
 refactor echo 198516
 polish solstice 5109ea
 tidy uniform b6eace
-update bravo c71a00
 wire papa fac2a9
 adjust yankee 5f24a5
 update bravo 4d6e25
