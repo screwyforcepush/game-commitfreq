@@ -18,3 +18,5 @@ update november d588c2
 prune yankee 542adf
 refactor delta 8313c9
 refactor kilo b6649b
+wire oscar a9cf66
+nudge golf c9cb8e
