@@ -2,5 +2,5 @@ cleanup juliet 6b6ca3
 cleanup xray 13f9d9
 tweak bravo 6fa955
 trim uniform 3fea0a
-nudge solstice 7b6a3b
+tune foxtrot 0c0b4a
 tune bravo 7015a6
