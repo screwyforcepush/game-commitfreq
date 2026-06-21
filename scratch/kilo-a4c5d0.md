@@ -4,7 +4,7 @@ adjust juliet 705ae4
 tune whiskey 5878a0
 tune harbor d16e08
 tune lima de2dcb
-tune november 4a78ee
+adjust alpha f9e884
 wire alpha f43d70
 refactor nimbus 90fdf5
 wire whiskey a6a03d
