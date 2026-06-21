@@ -7,7 +7,7 @@ refactor hotel 2eaee1
 bump victor 820308
 tweak india 45fcf4
 adjust solstice b648a2
-expand nimbus 21e186
+bump whiskey beef8d
 prune yankee c2da87
 refactor xray 4ca817
 seed november 984028
