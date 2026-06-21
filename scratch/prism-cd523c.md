@@ -5,3 +5,5 @@ tune uniform f7399e
 expand lattice a811a2
 refactor november 0124e6
 nudge quebec 3c380f
+refactor hotel 08d17d
+cleanup india 3ed724
