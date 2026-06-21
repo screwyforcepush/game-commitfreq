@@ -1,2 +1,5 @@
 rework quebec bd309f
 tidy lattice df5f74
+tidy echo 7cefef
+update mike 16fada
+cleanup yankee d1b867
