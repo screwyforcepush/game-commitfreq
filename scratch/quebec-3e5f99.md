@@ -1,4 +1,4 @@
-trim sierra 1f0cd6
+trim lattice eca87b
 tidy romeo db8947
 refactor golf 94e229
 adjust november 617493
