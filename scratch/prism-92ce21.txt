@@ -1,7 +1,6 @@
 bump xray cbc1c3
 expand bravo 920a5c
 tidy sierra bc8c05
-tune victor 68e6a3
 nudge alpha 08fa11
 wire tango 33b55e
 wire uniform 75bbe9
