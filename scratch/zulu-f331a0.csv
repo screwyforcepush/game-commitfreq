@@ -3,3 +3,6 @@ update xray f080ef
 update harbor 3465a0
 wire hotel e98650
 update cobalt 9a2092
+polish lattice b1f479
+prune lattice 69fedc
+cleanup foxtrot 5e768f
