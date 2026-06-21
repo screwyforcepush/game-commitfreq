@@ -14,3 +14,6 @@ tweak echo a57bba
 wire charlie f79eb4
 rework kilo 7d02ab
 update delta 3ceaa3
+expand foxtrot 982a8e
+expand foxtrot 55f5db
+trim foxtrot a4e504
