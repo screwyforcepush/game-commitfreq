@@ -3,3 +3,5 @@ tune hotel 9c5597
 trim oscar 3888df
 adjust hotel 187d59
 wire november fc757c
+wire solstice 2768f5
+polish mike 573f5c
