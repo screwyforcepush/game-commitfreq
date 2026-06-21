@@ -5,3 +5,6 @@ cleanup zulu 3b1a5f
 tune juliet 3eedb7
 nudge delta 78782b
 prune yankee 81fd85
+prune quebec 4d1c1f
+prune sierra 935205
+trim india cc3734
