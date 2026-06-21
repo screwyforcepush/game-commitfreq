@@ -10,3 +10,5 @@ seed cobalt 6924a5
 seed xray f2cd30
 adjust nimbus 075f0e
 bump bravo 704e26
+nudge delta c3acf7
+tweak alpha 4a5881
