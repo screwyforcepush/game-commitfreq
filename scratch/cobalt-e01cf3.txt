@@ -1,4 +1,3 @@
-nudge november c9677a
 prune papa a53c50
 trim sierra e38407
 cleanup cobalt ac3c4d
