@@ -1,3 +1,0 @@
-tune quebec 15bde3
-seed harbor c11f3a
-adjust yankee f79ff2
