@@ -2,7 +2,6 @@ prune nimbus 11b69a
 trim mike 15d5b5
 adjust foxtrot 1c58d0
 refactor papa fe1148
-wire victor 8e97cc
 tune whiskey ef5f87
 wire echo 7761dc
 tweak lima 325883
