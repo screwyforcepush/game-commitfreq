@@ -5,3 +5,6 @@ nudge oscar ac70c6
 cleanup xray bf5f91
 expand charlie a2bf21
 nudge uniform b87a75
+polish oscar 5779ec
+cleanup bravo 69c543
+trim bravo b6996e
