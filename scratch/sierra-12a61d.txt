@@ -2,3 +2,7 @@ refactor lattice cf16cc
 rework oscar fe30ef
 wire alpha 87acfb
 prune charlie 161924
+tweak nimbus 330873
+bump nimbus 23221d
+bump november 2f7d9b
+tidy nimbus 649ee5
