@@ -1,7 +1,6 @@
 wire solstice cf8e75
 cleanup zulu c7dc1c
 trim whiskey 7e0c78
-trim mike a11d5d
 tweak victor 5b42cf
 refactor solstice f7ef34
 adjust quebec 160501
