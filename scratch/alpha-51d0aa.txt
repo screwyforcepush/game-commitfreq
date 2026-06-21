@@ -4,3 +4,6 @@ cleanup november db3b22
 tweak ember 565777
 tune lima 0908c0
 adjust lima fc041b
+bump november bccdf5
+refactor yankee 7b9f4b
+refactor echo 8fdb1a
