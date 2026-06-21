@@ -3,7 +3,6 @@ refactor quebec b77a4f
 rework harbor 1bd953
 bump kilo bfc19a
 adjust charlie b4c437
-update victor b548fb
 tune sierra 6ec2d3
 trim harbor a2ac7b
 tune victor 799009
