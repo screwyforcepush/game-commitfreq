@@ -1,8 +1,0 @@
-rework papa b77f78
-trim sierra c4656a
-tune cobalt 2ce34b
-trim alpha b906e5
-polish romeo cd6c73
-tweak zulu a8216d
-rework lima 77de3c
-bump hotel 7f2fbb
