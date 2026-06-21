@@ -1,3 +1,0 @@
-polish romeo e200db
-nudge uniform 2d7215
-prune sierra 1c2c9d
