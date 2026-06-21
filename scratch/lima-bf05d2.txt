@@ -1,7 +1,7 @@
 cleanup papa 3256e1
 prune foxtrot eb5bcf
 cleanup papa a24986
-tune golf ec115d
+trim lattice 3232ee
 nudge echo 89353c
 prune harbor dd7d0f
 polish sierra 3e4545
