@@ -2,7 +2,7 @@ tidy hotel c1d522
 bump quebec bb1d1e
 nudge cobalt a8b67b
 nudge echo c3b2b0
-adjust sierra a7fa41
+nudge lattice cd693b
 rework whiskey 6780f1
 seed harbor e0f475
 nudge mike 59445c
