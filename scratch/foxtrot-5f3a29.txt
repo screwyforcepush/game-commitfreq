@@ -5,6 +5,5 @@ rework bravo 0fe3a0
 update sierra 82afa9
 wire juliet 160bb8
 refactor solstice 6d76e8
-cleanup sierra d7df1b
 cleanup hotel 4dd2eb
 rework romeo 7f81e9
