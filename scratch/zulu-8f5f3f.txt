@@ -4,3 +4,6 @@ prune juliet d0c97f
 prune sierra 22554b
 trim victor e01259
 adjust sierra 43f093
+tune quebec 1e2969
+tidy hotel 41496d
+tweak zulu ace268
