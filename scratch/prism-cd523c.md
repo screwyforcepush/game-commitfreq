@@ -7,3 +7,6 @@ refactor november 0124e6
 nudge quebec 3c380f
 refactor hotel 08d17d
 cleanup india 3ed724
+expand whiskey 03a243
+tweak foxtrot fee6bb
+rework ember 1fc12d
