@@ -12,3 +12,7 @@ polish whiskey f76ab5
 tweak bravo a0cf9f
 adjust romeo 7e33d6
 cleanup whiskey 600c1d
+prune tango e468b8
+cleanup sierra e9cbd8
+refactor hotel 4a6cb1
+refactor delta 106904
