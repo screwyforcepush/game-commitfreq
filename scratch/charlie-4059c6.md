@@ -4,3 +4,6 @@ adjust alpha 627717
 expand nimbus 75293e
 update whiskey 8edc18
 rework harbor c34bed
+adjust sierra 04b564
+bump solstice 408e2c
+wire oscar 5101df
