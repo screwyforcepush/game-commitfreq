@@ -15,3 +15,6 @@ adjust alpha 5c6840
 adjust uniform b31a06
 tweak quebec 900b14
 update november d588c2
+prune yankee 542adf
+refactor delta 8313c9
+refactor kilo b6649b
