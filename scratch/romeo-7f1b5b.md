@@ -9,3 +9,5 @@ trim lattice dac467
 prune prism bfa83a
 tidy whiskey 6ef957
 expand papa 15528c
+trim kilo 85b2e9
+cleanup quebec f21443
