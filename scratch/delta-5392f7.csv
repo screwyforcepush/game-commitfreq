@@ -2,3 +2,7 @@ tune delta a10461
 expand lattice 2408ab
 adjust sierra 16889f
 bump oscar aa367a
+rework whiskey eb0307
+wire xray 076e46
+rework hotel 2903a3
+cleanup cobalt 7ad6ac
