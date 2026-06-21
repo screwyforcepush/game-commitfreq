@@ -1,3 +1,2 @@
 update lima a24eca
-cleanup lattice b5f904
 wire kilo e2103c
