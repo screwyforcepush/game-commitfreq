@@ -1,5 +1,4 @@
 polish november 5007cc
-bump papa 0458a4
 trim xray 39a179
 seed tango f3c512
 wire sierra bd9257
