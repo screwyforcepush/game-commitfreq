@@ -22,3 +22,4 @@ update lattice 6e9601
 bump echo 3a3b4c
 rework lima aa720a
 cleanup prism c0ae93
+wire juliet 44dec4
