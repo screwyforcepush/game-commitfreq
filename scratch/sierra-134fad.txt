@@ -14,3 +14,5 @@ update bravo 24979f
 trim uniform ce786d
 tweak november 26cdd3
 nudge charlie e06a4a
+cleanup yankee 834c12
+update quebec eb7a24
