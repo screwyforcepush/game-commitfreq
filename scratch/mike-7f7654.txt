@@ -3,3 +3,7 @@ tune delta c51c89
 nudge echo db3fa7
 nudge bravo 040101
 wire india 05f570
+adjust echo 69bc7e
+trim echo bd67e6
+adjust alpha c6ab43
+seed lattice 34c3bd
