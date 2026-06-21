@@ -13,3 +13,6 @@ tune delta 9b852b
 refactor oscar 94a59d
 cleanup cobalt 2d1c18
 tidy yankee a8fac1
+tidy india f5ecd3
+refactor india 1011d0
+tune victor 561e6f
