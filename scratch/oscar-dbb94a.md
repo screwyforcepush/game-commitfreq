@@ -12,6 +12,6 @@ seed juliet 0a484d
 tidy echo ccc878
 tune tango 5a6ddc
 adjust harbor ec3b71
-bump quebec 095e40
+bump papa 20ab93
 tidy sierra c363ee
 trim papa 1e2987
