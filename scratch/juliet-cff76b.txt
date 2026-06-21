@@ -4,3 +4,6 @@ rework zulu cef323
 tweak charlie d9464c
 update ember 2d5968
 seed uniform 27c28d
+adjust delta ce9276
+adjust foxtrot 932eab
+refactor lattice 6a22ae
