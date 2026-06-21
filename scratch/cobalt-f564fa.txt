@@ -1,5 +1,4 @@
 tidy hotel c1d522
-prune november 3bdce2
 nudge cobalt a8b67b
 nudge echo c3b2b0
 nudge lattice cd693b
