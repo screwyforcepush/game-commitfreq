@@ -1,1 +1,5 @@
 wire delta 9f48b3
+tune hotel 9c5597
+trim oscar 3888df
+adjust hotel 187d59
+wire november fc757c
