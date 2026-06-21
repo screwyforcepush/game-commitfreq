@@ -11,3 +11,6 @@ bump cobalt c8c149
 update solstice e0f13a
 refactor india 2cb621
 tune delta 9b852b
+refactor oscar 94a59d
+cleanup cobalt 2d1c18
+tidy yankee a8fac1
