@@ -1,6 +1,6 @@
 cleanup ember 6c25e5
 nudge victor 9c7400
-bump golf 6819cf
+tidy lattice 3c7cb4
 bump zulu 0da307
 seed solstice 7e170a
 update mike 62b782
