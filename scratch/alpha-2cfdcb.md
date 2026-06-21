@@ -15,3 +15,7 @@ tune papa f7d446
 update solstice 39300e
 polish solstice f25f76
 trim oscar c0dfe1
+rework romeo b764ce
+adjust oscar 43aeac
+wire bravo 33559d
+wire quebec 1fede3
