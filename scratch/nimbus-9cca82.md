@@ -10,3 +10,6 @@ nudge oscar 04d349
 nudge ember fb5841
 expand golf 39983c
 cleanup delta 2c3660
+bump romeo f8006b
+polish lattice 226f49
+trim bravo 8f08b6
