@@ -1,4 +1,3 @@
 prune november 0f1297
 polish solstice 06d559
-trim quebec fa5649
 seed lima c665d9
