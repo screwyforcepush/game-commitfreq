@@ -6,3 +6,5 @@ adjust juliet 8fae4d
 tidy papa 25183b
 trim nimbus e753b6
 rework foxtrot 6beca3
+prune solstice 14b620
+trim lattice d3b8a7
