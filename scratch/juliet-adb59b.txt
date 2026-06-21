@@ -1,3 +1,2 @@
 update uniform c3c370
-tidy cobalt c20ff8
 bump uniform 70b53d
