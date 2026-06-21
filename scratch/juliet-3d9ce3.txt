@@ -12,3 +12,7 @@ tidy alpha dda39d
 expand zulu c72110
 update victor 44e878
 update sierra a30a7d
+expand mike 25b248
+prune papa 56d7b7
+rework mike d21a7d
+adjust lattice a1f57c
