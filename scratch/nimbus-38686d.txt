@@ -1,4 +1,3 @@
-refactor hotel 0c8691
 update juliet cb7d8e
 tweak kilo 173aad
 cleanup uniform 59eb68
