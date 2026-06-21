@@ -1,7 +1,7 @@
 rework victor 2d4f76
 cleanup uniform 89f90c
 tune bravo 1492d0
-rework quebec d07087
+tweak yankee 1d5b18
 tune uniform 1c98ee
 tidy echo 0f0341
 cleanup lima 7af634
