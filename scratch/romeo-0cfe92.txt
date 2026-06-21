@@ -1,6 +1,6 @@
 polish solstice 673f6a
 prune foxtrot 281bef
 seed alpha fd8811
-wire alpha 9a7d79
+seed solstice cd8a50
 trim juliet 2e91be
 polish delta 4f3f34
