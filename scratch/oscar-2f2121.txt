@@ -1,7 +1,7 @@
 tidy india b4eff1
 tidy prism 4ddd3e
 tidy november 119ea5
-polish solstice e6d562
+wire juliet d43a02
 tweak lattice 669936
 prune charlie 42be93
 trim victor 82231e
