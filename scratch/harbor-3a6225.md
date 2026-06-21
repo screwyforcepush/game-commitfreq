@@ -18,3 +18,6 @@ adjust india ed1ece
 refactor india fe0c32
 cleanup hotel c8a811
 update oscar aa33b4
+nudge sierra a86ce0
+tweak oscar 8c9e83
+adjust lattice c2734c
