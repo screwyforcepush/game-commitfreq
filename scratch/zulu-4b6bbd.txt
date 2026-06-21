@@ -1,6 +1,5 @@
 rework uniform 6ffb23
 nudge uniform f5996b
 nudge prism 3688c4
-tidy juliet 09955b
 seed bravo 7d70f5
 wire delta ad9e51
