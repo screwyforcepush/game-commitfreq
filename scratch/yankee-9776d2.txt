@@ -8,5 +8,4 @@ tune nimbus 7a426c
 tidy tango 16fa0f
 tweak golf f96db0
 wire foxtrot 0af070
-expand tango 9ef91b
 bump echo 086c98
