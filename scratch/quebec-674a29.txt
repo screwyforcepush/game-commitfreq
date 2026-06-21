@@ -1,6 +1,0 @@
-nudge tango 98156a
-polish uniform a4be89
-tune yankee 8ba034
-prune nimbus a0609f
-trim kilo 059699
-tweak kilo e983a1
