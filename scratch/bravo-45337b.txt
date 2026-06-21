@@ -4,3 +4,6 @@ expand oscar efb067
 tidy yankee e7ddb9
 trim zulu 80ee04
 adjust xray c0385c
+wire lattice 80293d
+expand golf dbcd88
+update juliet ae1550
