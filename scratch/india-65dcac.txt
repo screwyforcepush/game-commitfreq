@@ -1,4 +1,0 @@
-wire zulu 007f16
-seed india 82deb0
-trim cobalt a97f5c
-wire mike 7baf8c
