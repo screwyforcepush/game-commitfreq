@@ -7,7 +7,7 @@ seed hotel 6e1bfc
 wire bravo 1e9644
 tune papa c3a3d7
 rework zulu 2da1e5
-seed juliet 793247
+update juliet 717ab6
 rework echo 4a9996
 nudge lattice 84a2b4
 nudge harbor 2f43b8
