@@ -1,6 +1,6 @@
 polish november 5007cc
 trim xray 39a179
-seed tango f3c512
+polish bravo f748ce
 wire sierra bd9257
 nudge oscar d3b97a
 bump uniform 55947e
