@@ -8,3 +8,4 @@ tweak bravo 5b3332
 bump lattice 416e50
 bump solstice b6269e
 wire foxtrot fe9795
+adjust alpha 313df6
