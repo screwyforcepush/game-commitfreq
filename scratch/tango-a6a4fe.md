@@ -10,3 +10,7 @@ wire cobalt f913e7
 wire cobalt 2aa4d8
 prune india 3cea31
 prune golf a72b98
+update uniform 3b7ace
+tidy juliet 72a046
+trim bravo 0f7446
+trim foxtrot 2b31e0
