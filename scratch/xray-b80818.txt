@@ -1,5 +1,5 @@
 adjust uniform 17c840
-seed xray d988b9
+prune bravo 5608b0
 adjust quebec 351981
 wire kilo eacb84
 seed yankee 910840
