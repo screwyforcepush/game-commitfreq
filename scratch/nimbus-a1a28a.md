@@ -1,4 +1,3 @@
-prune romeo c40694
 tidy harbor 88f25c
 bump tango eba789
 prune sierra 6aa830
