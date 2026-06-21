@@ -4,3 +4,6 @@ tidy uniform 16079a
 tune alpha 7f0541
 wire tango dc5dfc
 bump romeo be62c2
+tweak delta 333f8c
+tweak mike be010b
+nudge quebec e7cf48
