@@ -1,5 +1,4 @@
 bump xray 3369bf
-wire quebec a20d82
 cleanup xray 968402
 cleanup lima 342c49
 polish harbor e25a5b
