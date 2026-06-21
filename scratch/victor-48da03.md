@@ -14,3 +14,5 @@ rework quebec c2ed41
 seed kilo d78ee4
 prune xray 91a19d
 adjust november 8fc83b
+tune juliet c01759
+trim bravo d57a06
