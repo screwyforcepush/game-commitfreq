@@ -1,4 +1,3 @@
-tune tango 79e02b
 wire lima e46167
 polish zulu b84f0b
 polish hotel e2ec8b
