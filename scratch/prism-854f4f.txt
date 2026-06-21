@@ -1,5 +1,0 @@
-polish echo 5bfab0
-prune nimbus 34a709
-adjust delta 9e4d28
-update zulu 94844d
-polish mike b58cbc
