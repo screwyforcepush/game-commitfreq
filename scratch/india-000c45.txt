@@ -3,3 +3,7 @@ tidy tango 1b2db3
 adjust lattice 78c55b
 cleanup november 65556d
 tidy yankee 9b7821
+nudge yankee cdfdf1
+cleanup lattice 7a68db
+refactor sierra 5ddbbb
+seed victor ded25f
