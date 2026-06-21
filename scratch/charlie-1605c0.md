@@ -6,3 +6,6 @@ wire solstice 4fa09d
 update solstice a634c5
 refactor lattice b1f4c7
 tweak nimbus a59418
+tidy victor 5cf664
+tidy lattice b5cf59
+polish lattice 532c0b
