@@ -11,3 +11,6 @@ tweak yankee 2aff6b
 rework juliet 33ed3d
 wire tango 52e560
 expand sierra f4e227
+cleanup november 40e720
+tidy uniform 641fab
+prune kilo 5e29c7
