@@ -7,3 +7,7 @@ wire juliet 79e266
 nudge nimbus 785ede
 wire lima 0a891b
 adjust uniform 64912d
+tidy delta b1fd06
+update sierra 12fdf2
+update tango 7a3c55
+trim cobalt 49cb6c
