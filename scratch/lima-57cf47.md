@@ -4,3 +4,7 @@ adjust ember 3e51f1
 bump ember f3d3f6
 prune uniform 0b0954
 polish lattice 18b159
+tune papa 981a4f
+prune mike 0421cf
+polish sierra 9af406
+prune juliet dc3a7c
