@@ -8,3 +8,6 @@ prune yankee 81fd85
 prune quebec 4d1c1f
 prune sierra 935205
 trim india cc3734
+refactor xray 4f8c90
+trim hotel 52d8d7
+adjust xray 1ca3be
