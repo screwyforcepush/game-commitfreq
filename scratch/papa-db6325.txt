@@ -1,0 +1,5 @@
+seed uniform aba30d
+tweak alpha 6b7c56
+bump quebec 71baae
+bump sierra e1c66d
+nudge foxtrot 7163d2
