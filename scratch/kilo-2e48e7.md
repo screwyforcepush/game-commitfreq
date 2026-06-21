@@ -1,4 +1,3 @@
-refactor delta a138a6
 tweak nimbus 593578
 adjust romeo 04ba1e
 tune whiskey 9d281c
