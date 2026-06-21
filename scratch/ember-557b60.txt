@@ -15,3 +15,7 @@ wire nimbus 97af79
 adjust charlie d7f3fe
 rework zulu 377b44
 cleanup mike feb2e3
+prune november c2cef2
+polish ember f07137
+tweak kilo 281e18
+wire kilo cee89f
