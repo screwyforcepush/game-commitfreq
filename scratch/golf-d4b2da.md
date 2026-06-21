@@ -6,3 +6,5 @@ cleanup lattice e9b4e0
 bump delta 7e19f8
 tidy ember 7e503b
 wire victor c0d753
+wire yankee e3184a
+adjust kilo ac8158
