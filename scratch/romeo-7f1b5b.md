@@ -11,3 +11,7 @@ tidy whiskey 6ef957
 expand papa 15528c
 trim kilo 85b2e9
 cleanup quebec f21443
+tweak bravo c49fba
+cleanup whiskey 22bd52
+seed harbor b416de
+prune papa 7d82e7
