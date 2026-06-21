@@ -3,7 +3,7 @@ cleanup ember a58cf6
 prune delta 373e4d
 adjust juliet e1d516
 nudge tango 954bd7
-polish golf 52944b
+tidy oscar 53ae88
 seed ember 57e944
 bump uniform 5ddd41
 tweak lima 0d7bf7
