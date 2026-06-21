@@ -15,3 +15,6 @@ expand cobalt 96f16d
 tune nimbus d2f646
 tidy echo f94d4c
 adjust india ed1ece
+refactor india fe0c32
+cleanup hotel c8a811
+update oscar aa33b4
