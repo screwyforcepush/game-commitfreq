@@ -2,3 +2,7 @@ tweak hotel 6d4f1d
 update sierra bedbb2
 tidy charlie d8d7d5
 refactor harbor 4332a2
+tidy oscar 7caf22
+tidy bravo b9dfb6
+trim charlie 7b0bc5
+nudge solstice 97232a
