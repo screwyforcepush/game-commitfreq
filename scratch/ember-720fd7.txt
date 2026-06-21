@@ -4,7 +4,6 @@ refactor juliet 1d8097
 refactor oscar 12d823
 tidy quebec ccc8aa
 tune juliet 9a3392
-tweak oscar 19b776
 rework harbor eaa9f6
 expand lattice 564a47
 update alpha 8a0e90
