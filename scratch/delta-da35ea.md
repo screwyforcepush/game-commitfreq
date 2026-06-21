@@ -12,3 +12,5 @@ polish golf 366745
 refactor hotel 15ae88
 rework quebec 780563
 expand quebec f5dbee
+bump solstice f65958
+tweak foxtrot a46a0c
