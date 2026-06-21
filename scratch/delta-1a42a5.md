@@ -2,7 +2,7 @@ update sierra 37dca9
 bump foxtrot b07f6c
 wire lattice 67dffe
 tweak victor 8872e9
-cleanup prism a9b210
+rework kilo 917437
 seed harbor a7d5ae
 nudge yankee 05974b
 rework yankee 850266
