@@ -2,3 +2,7 @@ nudge sierra 346a52
 wire zulu 5334d5
 expand lima 0e9fb7
 cleanup xray 0f85da
+update yankee ed524d
+nudge lattice 6d8fdd
+bump ember f5f95e
+nudge cobalt ced925
