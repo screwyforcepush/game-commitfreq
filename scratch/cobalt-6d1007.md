@@ -10,3 +10,6 @@ adjust solstice 58b772
 trim november f9927d
 trim yankee 0bf3e5
 rework yankee 23fc12
+rework yankee 59c584
+refactor bravo 99254d
+bump uniform bcc497
