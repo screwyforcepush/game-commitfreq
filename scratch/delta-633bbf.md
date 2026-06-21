@@ -10,3 +10,7 @@ update solstice 8c1700
 refactor romeo 50255a
 tune cobalt 53c06a
 bump lattice 05e088
+tune lima 423ad2
+trim cobalt a59a68
+tune victor b506d2
+prune delta 835733
