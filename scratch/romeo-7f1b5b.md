@@ -4,7 +4,6 @@ trim whiskey 7e0c78
 refactor solstice f7ef34
 adjust quebec 160501
 wire india 2748f5
-rework mike 6dae73
 seed romeo c711ac
 trim lattice dac467
 prune prism bfa83a
