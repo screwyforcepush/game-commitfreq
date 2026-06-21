@@ -9,3 +9,4 @@ tweak quebec cdb76e
 adjust solstice 58b772
 trim november f9927d
 trim yankee 0bf3e5
+rework yankee 23fc12
