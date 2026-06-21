@@ -16,3 +16,6 @@ update bravo c71a00
 wire papa fac2a9
 adjust yankee 5f24a5
 update bravo 4d6e25
+update whiskey adf387
+wire papa 4c99d1
+seed alpha a33e7e
