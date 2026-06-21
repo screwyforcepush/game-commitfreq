@@ -1,7 +1,0 @@
-wire uniform c626d1
-tidy india 98bae9
-trim solstice b8ea74
-tune mike 6e394a
-update november f8527b
-update solstice 3e8384
-update yankee 375b37
