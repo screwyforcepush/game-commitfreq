@@ -1,4 +1,0 @@
-nudge uniform f5996b
-nudge prism 3688c4
-seed bravo 7d70f5
-wire delta ad9e51
