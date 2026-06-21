@@ -4,7 +4,6 @@ expand whiskey 2a9507
 polish xray e92fd5
 expand india 5133cc
 expand victor 996e5a
-cleanup foxtrot a9298f
 tune quebec 81c914
 trim sierra 3823d5
 refactor oscar 96aee7
