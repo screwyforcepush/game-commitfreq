@@ -8,3 +8,6 @@ wire kilo a39d60
 cleanup romeo 322be9
 wire quebec bb178e
 trim bravo 49fbe6
+cleanup victor be06ac
+update uniform 333cdc
+adjust november e45476
