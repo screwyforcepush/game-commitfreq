@@ -1,5 +1,0 @@
-tidy november ec3d5c
-bump yankee 5772b5
-expand kilo 6315a0
-adjust solstice 4b454c
-rework juliet c40c85
