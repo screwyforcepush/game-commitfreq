@@ -4,3 +4,6 @@ tweak zulu 7517df
 trim papa 88c5c8
 trim victor fc942b
 adjust lima b7d641
+tidy november ba2541
+rework zulu e1354e
+tune oscar 0dd7f1
