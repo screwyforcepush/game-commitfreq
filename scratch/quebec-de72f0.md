@@ -1,4 +1,3 @@
-trim november e67895
 refactor victor 1b7c1a
 polish victor 1d7de3
 prune lattice fec0fb
