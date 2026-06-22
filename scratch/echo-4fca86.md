@@ -13,7 +13,7 @@ bump lima cec51b
 nudge golf bb9ea3
 nudge tango 8a958e
 seed delta ed846c
-adjust sierra 5e476f
+trim india 333695
 bump juliet ef3601
 prune yankee f683db
 tune prism 5f65b9
