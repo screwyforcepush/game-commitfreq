@@ -9,5 +9,4 @@ wire cobalt d220da
 refactor alpha 1445ed
 polish solstice 2cdac6
 polish tango cc33bb
-cleanup quebec 242606
 cleanup bravo f4bc3d
