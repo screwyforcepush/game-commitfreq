@@ -2,3 +2,7 @@ trim whiskey 270135
 seed cobalt d94152
 rework charlie 517b07
 trim lima 75fe1c
+nudge charlie 49c173
+wire lattice 825ad5
+wire charlie e3dac8
+prune quebec 4bed73
