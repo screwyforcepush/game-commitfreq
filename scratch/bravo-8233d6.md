@@ -9,7 +9,6 @@ refactor kilo a1d0a9
 expand juliet e359b7
 bump victor 127aa9
 adjust mike 67b1f7
-tidy tango 0180ab
 cleanup kilo 491021
 cleanup whiskey a60b08
 refactor tango 01d9fc
