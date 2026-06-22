@@ -8,3 +8,7 @@ tweak romeo b52152
 trim mike 62c460
 bump hotel 5d181c
 rework solstice 90327f
+tune sierra 6d7bf4
+update delta 97e312
+update oscar e8d763
+cleanup nimbus 16f4cb
