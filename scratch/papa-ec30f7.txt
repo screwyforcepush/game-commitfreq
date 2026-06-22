@@ -6,5 +6,4 @@ cleanup papa ec85aa
 tweak echo 18ba37
 nudge xray 57e257
 wire cobalt d220da
-adjust quebec 87fe9e
 refactor alpha 1445ed
