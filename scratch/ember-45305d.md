@@ -1,6 +1,5 @@
 prune juliet f64fa1
 rework echo c91555
-update prism 50d72c
 bump hotel c7a9d3
 seed prism 9fb68a
 adjust mike a1139e
