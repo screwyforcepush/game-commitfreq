@@ -7,3 +7,7 @@ tune kilo 39b728
 trim sierra bf7893
 bump bravo 354771
 tidy oscar ccc8bc
+wire ember d98e13
+prune xray 111a7c
+update charlie cfb055
+update romeo c66360
