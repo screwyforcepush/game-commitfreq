@@ -1,3 +1,0 @@
-tidy whiskey a27a87
-bump lattice 0f5a54
-tune nimbus 800e9f
