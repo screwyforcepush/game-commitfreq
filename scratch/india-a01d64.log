@@ -5,3 +5,6 @@ prune sierra 44ee71
 prune lattice fdc116
 update alpha 800215
 seed uniform 5c17e7
+prune lima 475bff
+tune kilo 676fff
+bump whiskey e167a1
