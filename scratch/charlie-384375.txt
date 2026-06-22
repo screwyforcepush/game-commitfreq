@@ -1,7 +1,6 @@
 rework charlie 38dcc9
 expand harbor a82cdd
 wire kilo 37976d
-adjust foxtrot 74a3c3
 tweak kilo 2cd7ea
 expand bravo b14282
 trim bravo 189081
