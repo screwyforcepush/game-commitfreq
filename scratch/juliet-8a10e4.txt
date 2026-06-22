@@ -1,3 +1,3 @@
 bump lima 42165f
-prune tango 56a24b
+trim tango 0a531f
 update lattice 1a892f
