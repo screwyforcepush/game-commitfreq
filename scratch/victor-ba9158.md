@@ -4,3 +4,6 @@ polish foxtrot 60889a
 nudge echo ecf504
 bump papa 73a0b4
 tune lattice e89991
+bump yankee 00d901
+tune solstice 1091ac
+adjust papa 100437
