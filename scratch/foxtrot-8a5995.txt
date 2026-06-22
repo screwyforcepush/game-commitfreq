@@ -1,3 +1,2 @@
-seed mike 22a911
 update mike b27e10
 tidy yankee e9b54c
