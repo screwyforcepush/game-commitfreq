@@ -5,7 +5,7 @@ rework alpha fa8e43
 expand india 887220
 update hotel 33a032
 update golf 9787bf
-update yankee b87483
+seed cobalt cf57e9
 rework papa 606210
 polish bravo a00610
 polish prism fc24a7
