@@ -2,3 +2,6 @@ bump juliet a636de
 trim november 4d2395
 polish ember 183553
 tidy golf e147b4
+tweak nimbus 48874b
+nudge zulu c8d76c
+polish foxtrot 7cd5f3
