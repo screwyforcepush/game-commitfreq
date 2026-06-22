@@ -3,7 +3,6 @@ polish charlie e9d7b3
 nudge oscar ac70c6
 polish xray a3b918
 polish oscar 5779ec
-seed november cd423f
 tune golf 004c8f
 tune juliet 3d5fec
 wire nimbus 61916b
