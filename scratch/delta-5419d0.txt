@@ -1,3 +1,0 @@
-trim alpha 31246b
-adjust echo 983395
-adjust mike 817d33
