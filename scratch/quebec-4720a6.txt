@@ -1,4 +1,0 @@
-bump lattice 50c8e0
-nudge whiskey 53451c
-polish hotel 15f879
-cleanup prism 9f4fb6
