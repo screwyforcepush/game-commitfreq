@@ -6,3 +6,5 @@ adjust foxtrot 74a3c3
 wire zulu 132d9b
 tweak kilo 2cd7ea
 expand bravo b14282
+trim bravo 189081
+adjust nimbus 16641f
