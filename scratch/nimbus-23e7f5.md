@@ -2,7 +2,6 @@ update sierra 3b9bab
 tidy cobalt c68adc
 wire tango 96e385
 tidy mike 54b356
-tidy charlie 451c22
 adjust ember 3c5676
 refactor whiskey f50beb
 update charlie 2d3d63
