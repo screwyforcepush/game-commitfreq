@@ -5,3 +5,5 @@ rework sierra a8d778
 trim prism cd4128
 cleanup victor 4a1a83
 bump november a49a94
+trim foxtrot 5cdee1
+wire bravo f3a1f6
