@@ -9,4 +9,3 @@ rework quebec 65cbca
 bump lima d4dc53
 wire kilo 26e5fe
 polish uniform 20c4c1
-polish yankee 69d0b9
