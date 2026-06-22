@@ -1,2 +1,2 @@
 bump nimbus 759e2d
-trim hotel 849a15
+cleanup lima 983ca0
