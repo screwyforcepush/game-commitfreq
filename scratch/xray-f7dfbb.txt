@@ -4,3 +4,6 @@ tune delta 23d535
 tune lattice 304c0c
 adjust harbor 8b4823
 rework india 4124fb
+refactor tango 27bf53
+refactor foxtrot c3856e
+tidy bravo ab7391
