@@ -1,5 +1,5 @@
 update lattice a9cd8c
 seed yankee a35763
 seed tango 0196eb
-tweak hotel 407208
+adjust sierra 28af39
 adjust kilo 07f081
