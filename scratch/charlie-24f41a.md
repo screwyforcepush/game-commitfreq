@@ -5,3 +5,7 @@ seed india bfca02
 rework solstice d8e327
 nudge golf 2443b0
 tune charlie 12cd91
+rework oscar 60c432
+bump tango f2e89a
+bump zulu 99de46
+adjust nimbus d81287
