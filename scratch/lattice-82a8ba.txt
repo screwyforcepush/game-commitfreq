@@ -5,7 +5,7 @@ update whiskey 4f5bee
 update yankee 75c62f
 expand solstice 681b28
 tidy charlie 4e5159
-expand cobalt c5bc6c
+prune foxtrot b9aa26
 bump zulu 9b1111
 expand oscar e73517
 prune papa 37f0b5
