@@ -2,4 +2,3 @@ wire echo be3846
 prune harbor 712d33
 tidy charlie 75bb76
 polish delta ec79fd
-wire kilo 744758
