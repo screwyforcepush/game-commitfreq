@@ -3,7 +3,6 @@ tune golf 9584c0
 adjust foxtrot 84781b
 bump bravo ccc709
 trim sierra 916e3e
-refactor november c77aaa
 expand juliet e999ad
 seed whiskey 6ff73d
 trim harbor e7f418
