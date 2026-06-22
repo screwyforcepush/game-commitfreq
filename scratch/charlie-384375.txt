@@ -8,7 +8,7 @@ adjust nimbus 16641f
 rework papa 41358a
 seed victor b3b11a
 refactor kilo 67052b
-refactor cobalt 42c153
+adjust cobalt e842c2
 rework papa e060f8
 trim oscar 8a4e30
 refactor golf 229cc0
