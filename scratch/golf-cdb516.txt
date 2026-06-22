@@ -7,3 +7,5 @@ prune delta 55d3bb
 update november 4d0fc0
 seed sierra 436eba
 polish victor d72aac
+adjust sierra 95cf90
+tune cobalt 38b3d2
