@@ -19,3 +19,6 @@ polish uniform 3fdb4a
 bump charlie dcc149
 update golf d430f1
 polish tango 96a5c1
+rework kilo 9bef55
+trim november 620548
+cleanup uniform dc9b54
