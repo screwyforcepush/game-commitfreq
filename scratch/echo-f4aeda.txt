@@ -7,3 +7,6 @@ update delta 2060b3
 wire alpha 452efe
 rework lattice 48205a
 tweak whiskey 76402f
+expand victor a3b4d9
+tidy mike 810f97
+cleanup alpha ae9f5a
