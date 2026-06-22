@@ -1,2 +1,1 @@
-update hotel 18c487
 seed oscar fabeab
