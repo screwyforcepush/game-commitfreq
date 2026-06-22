@@ -11,3 +11,6 @@ bump victor 127aa9
 adjust mike 67b1f7
 tidy tango 0180ab
 cleanup kilo 491021
+cleanup whiskey a60b08
+refactor tango 01d9fc
+tweak quebec 6cbe1e
