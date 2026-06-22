@@ -7,3 +7,7 @@ expand yankee 7cc0ba
 expand november 2da85f
 trim mike 69500f
 expand uniform 68eb6e
+bump yankee 554595
+tune solstice 0b42eb
+polish victor 0a280b
+refactor nimbus 5d760f
