@@ -7,3 +7,5 @@ expand quebec db137b
 expand xray 282b12
 expand nimbus 727097
 rework lattice 5b696b
+trim zulu 9e21d9
+rework november edb51b
