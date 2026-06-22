@@ -4,7 +4,6 @@ nudge oscar ac70c6
 polish xray a3b918
 adjust quebec 0c89ac
 polish oscar 5779ec
-polish prism c3a372
 seed november cd423f
 tune golf 004c8f
 tune juliet 3d5fec
