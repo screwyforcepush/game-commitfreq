@@ -4,7 +4,6 @@ bump kilo 1c293d
 wire romeo 8d39f1
 tune uniform a25724
 tidy lattice bbbdc1
-nudge oscar 271ad4
 polish zulu 87b415
 bump lattice 5283e8
 refactor kilo a1d0a9
