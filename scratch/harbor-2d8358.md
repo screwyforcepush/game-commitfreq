@@ -1,9 +1,0 @@
-prune papa a53c50
-trim sierra e38407
-cleanup cobalt ac3c4d
-polish tango dc55a7
-tweak yankee 420558
-seed whiskey ca9b4e
-cleanup zulu 4e41fb
-tune delta 1d843a
-wire romeo 2ea8a5
