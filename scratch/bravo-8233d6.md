@@ -2,7 +2,6 @@ tweak juliet c0958e
 refactor solstice 5bdbf0
 bump kilo 1c293d
 wire romeo 8d39f1
-refactor alpha 9ef567
 tune uniform a25724
 tidy lattice bbbdc1
 nudge oscar 271ad4
