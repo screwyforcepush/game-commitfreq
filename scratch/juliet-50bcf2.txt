@@ -15,3 +15,7 @@ tune tango 9fd076
 refactor romeo f1a5fb
 polish ember a3a1b4
 nudge lima c52801
+refactor quebec 63218e
+tune delta b27bdd
+bump oscar 5eddc3
+cleanup charlie cd8564
