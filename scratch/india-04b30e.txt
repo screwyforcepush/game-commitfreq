@@ -1,5 +1,4 @@
 adjust solstice f7b0f6
 tune whiskey 3a9b7a
-nudge nimbus f829c2
 nudge xray 93e006
 cleanup delta cb455f
