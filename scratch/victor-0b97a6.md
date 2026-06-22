@@ -11,7 +11,6 @@ prune nimbus a9d723
 tune solstice a350a7
 polish nimbus 92f86d
 bump harbor 091b28
-tidy nimbus ab98db
 seed delta 46f51c
 nudge november 364f75
 cleanup quebec 6d901a
