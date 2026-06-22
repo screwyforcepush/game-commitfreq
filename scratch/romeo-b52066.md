@@ -3,3 +3,7 @@ tweak echo 5e1057
 polish mike 8348d9
 adjust nimbus c15f33
 adjust lima 435b4d
+rework zulu f5db4c
+expand whiskey a35379
+update xray 647197
+nudge quebec 8aa435
