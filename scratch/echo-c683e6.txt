@@ -1,5 +1,0 @@
-tune bravo db8775
-tune uniform f5ddcc
-update tango ac6734
-prune golf 46571f
-update solstice 7b1c9e
