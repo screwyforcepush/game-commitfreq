@@ -3,3 +3,6 @@ update mike 4601d1
 polish india 1b8272
 rework prism f349c9
 wire oscar 2a1c77
+adjust cobalt dd5a11
+tune prism 9ec433
+seed yankee ac4bbc
