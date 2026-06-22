@@ -1,5 +1,4 @@
 bump solstice e93a85
 update romeo 3d50b9
 cleanup delta 92661b
-prune lattice a9e777
 seed romeo f5db97
