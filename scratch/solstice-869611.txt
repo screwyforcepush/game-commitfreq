@@ -1,3 +1,0 @@
-adjust alpha bdd3c3
-tidy alpha 68e920
-refactor romeo b0ca91
