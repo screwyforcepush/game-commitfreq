@@ -15,3 +15,6 @@ wire nimbus 658137
 polish oscar 0c60ad
 wire kilo 524801
 prune zulu dcf59c
+prune zulu 4f944e
+update zulu 50cb4d
+prune hotel a181d0
