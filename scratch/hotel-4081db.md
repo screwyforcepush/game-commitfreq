@@ -5,3 +5,7 @@ cleanup solstice fbf87c
 wire uniform 26e280
 tune quebec 337f42
 expand papa bcbbc4
+update papa 34b187
+tidy whiskey 7a1d68
+rework mike 8801d9
+update november 3dec01
