@@ -4,3 +4,5 @@ refactor quebec ab5b2d
 tune nimbus 180ff5
 expand november d26b94
 wire echo 1d59bc
+trim lattice cab10e
+cleanup prism 75b82c
