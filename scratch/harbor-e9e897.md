@@ -1,4 +1,3 @@
-adjust solstice ac938a
 wire papa 241c36
 seed yankee c4493f
 polish cobalt 79b825
