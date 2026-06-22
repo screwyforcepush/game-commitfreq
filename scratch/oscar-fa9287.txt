@@ -3,3 +3,4 @@ wire hotel 2f9ed1
 update uniform 2ff4b7
 bump sierra c07737
 wire charlie af9bdc
+wire solstice 6cdea4
