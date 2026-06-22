@@ -15,5 +15,5 @@ nudge tango 8a958e
 seed delta ed846c
 adjust sierra 5e476f
 bump juliet ef3601
-expand quebec 13364d
+prune yankee f683db
 tune prism 5f65b9
