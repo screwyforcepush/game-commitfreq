@@ -1,0 +1,5 @@
+wire lattice c6f350
+tune zulu 3ad111
+refactor lattice 391860
+tune quebec da5d81
+seed tango a021eb
