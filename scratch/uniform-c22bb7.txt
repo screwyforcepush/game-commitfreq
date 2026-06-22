@@ -1,3 +1,2 @@
-seed lattice 04c0bd
 trim charlie 595e96
 prune alpha 15f220
