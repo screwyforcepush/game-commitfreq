@@ -6,3 +6,6 @@ refactor alpha fe2c76
 refactor papa 2ca9d8
 expand foxtrot d00d93
 prune solstice a65bfb
+expand foxtrot 6d3f10
+tweak delta d05a64
+tweak alpha db98ff
