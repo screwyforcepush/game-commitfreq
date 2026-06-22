@@ -7,3 +7,6 @@ prune mike 8b0473
 tweak bravo 52a3f8
 wire prism 88e9d5
 tidy nimbus 20cd62
+tidy sierra c1a08a
+prune hotel 613985
+refactor echo f38bcd
