@@ -3,3 +3,6 @@ nudge kilo d9722c
 bump kilo 5577f9
 wire tango fc3ebf
 tidy papa 557275
+bump sierra cfc0bc
+adjust prism c28a05
+tidy golf ea564a
