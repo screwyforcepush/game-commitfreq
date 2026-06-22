@@ -1,5 +1,4 @@
 bump lattice 0978ac
-nudge november 236329
 adjust charlie 5e1eb0
 cleanup alpha e733bd
 rework oscar 5cd84a
