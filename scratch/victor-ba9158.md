@@ -1,7 +1,6 @@
 polish lima a2d9d2
 tweak echo 488f29
 nudge echo ecf504
-bump papa 73a0b4
 tune lattice e89991
 bump yankee 00d901
 tune solstice 1091ac
