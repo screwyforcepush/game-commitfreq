@@ -1,3 +1,5 @@
 trim kilo 5829c9
 expand yankee 796e33
 prune nimbus d34cd5
+prune alpha 705ba0
+prune solstice e3e7d0
