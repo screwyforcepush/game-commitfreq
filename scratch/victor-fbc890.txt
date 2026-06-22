@@ -1,4 +1,3 @@
-tidy india 3d70b7
 trim foxtrot b5adf7
 cleanup papa 73f872
 cleanup quebec 0cb4f6
