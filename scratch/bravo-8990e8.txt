@@ -1,2 +1,5 @@
 nudge quebec e8d44c
 trim nimbus 1ab2dd
+polish sierra a2a55c
+tune prism f76118
+tidy tango f3fedf
