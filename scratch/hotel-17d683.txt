@@ -1,3 +1,2 @@
-seed bravo 7ec1db
 tune nimbus e2a403
 rework alpha f30567
