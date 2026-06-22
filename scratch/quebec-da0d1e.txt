@@ -2,3 +2,5 @@ cleanup ember 7c1d6d
 trim romeo 6c6777
 wire whiskey 4573f8
 wire delta a7328a
+wire bravo 479656
+trim xray 56f50d
