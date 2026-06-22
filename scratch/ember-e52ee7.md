@@ -9,3 +9,5 @@ adjust november 9bb67c
 refactor harbor cfa1ba
 polish solstice d3b85a
 polish hotel e08f3c
+polish hotel ddb003
+seed uniform 300959
