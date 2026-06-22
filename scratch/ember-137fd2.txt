@@ -2,7 +2,7 @@ trim november aa70ba
 tidy romeo 76d91a
 adjust oscar c9774e
 nudge golf 75c345
-update juliet 09ee97
+polish lattice 9e991c
 update romeo c4790c
 prune bravo 2a83e9
 tweak tango 5c48fd
