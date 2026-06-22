@@ -1,3 +1,0 @@
-cleanup juliet 248216
-cleanup prism 89cce3
-seed prism c1be6b
