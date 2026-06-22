@@ -5,7 +5,6 @@ seed alpha 10a124
 tweak papa d772ec
 wire echo b2ede2
 adjust november 4dae0a
-refactor quebec 68b292
 seed india b30f75
 trim ember 3737b3
 tidy yankee ce8feb
