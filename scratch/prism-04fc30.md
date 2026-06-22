@@ -1,5 +1,4 @@
 update hotel 7dcd5a
-adjust romeo d9f6e4
 expand cobalt 19f939
 prune alpha f17b52
 polish delta 32e470
