@@ -6,3 +6,7 @@ nudge lattice 006e6d
 rework delta de0f3d
 tidy whiskey 66f64e
 nudge golf ee1b40
+tidy ember 28d304
+expand november 5a1c16
+tweak charlie 35cf5e
+trim solstice 50fdbf
