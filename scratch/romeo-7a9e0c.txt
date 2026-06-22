@@ -1,2 +1,1 @@
-trim echo 9223db
 prune bravo fddd3a
