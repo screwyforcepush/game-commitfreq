@@ -19,3 +19,5 @@ wire romeo 9b780d
 seed delta d86dc6
 tweak bravo 3a78ff
 bump xray 35420c
+tweak mike e2b3cf
+polish november b84701
