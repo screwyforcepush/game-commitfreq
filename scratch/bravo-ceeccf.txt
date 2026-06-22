@@ -1,0 +1,4 @@
+nudge quebec 72bf5c
+adjust delta 570fbc
+expand bravo 5d41a2
+tune oscar 5930fb
