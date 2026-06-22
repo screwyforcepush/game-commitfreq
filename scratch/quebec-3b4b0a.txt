@@ -5,3 +5,6 @@ bump hotel 327d6a
 adjust cobalt 600db9
 adjust yankee 266062
 rework hotel a27068
+tweak romeo 27bc67
+rework zulu e46602
+rework bravo b45f40
