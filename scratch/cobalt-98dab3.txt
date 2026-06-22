@@ -1,5 +1,4 @@
 seed nimbus 4dea6d
-tidy echo 9eb478
 refactor lattice f31ccc
 tune xray 689569
 update lima c29187
