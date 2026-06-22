@@ -6,3 +6,5 @@ expand india 887220
 update hotel 33a032
 update golf 9787bf
 update yankee b87483
+rework papa 606210
+polish bravo a00610
