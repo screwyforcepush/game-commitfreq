@@ -9,3 +9,6 @@ seed tango 7d281d
 cleanup ember 0c18dd
 cleanup yankee 90dd36
 tune kilo 6269eb
+tweak solstice bcaaf7
+expand foxtrot e137da
+rework kilo dfbf89
