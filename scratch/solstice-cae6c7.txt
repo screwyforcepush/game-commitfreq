@@ -2,7 +2,6 @@ expand lattice 2f1494
 polish charlie e9d7b3
 nudge oscar ac70c6
 polish xray a3b918
-adjust quebec 0c89ac
 polish oscar 5779ec
 seed november cd423f
 tune golf 004c8f
