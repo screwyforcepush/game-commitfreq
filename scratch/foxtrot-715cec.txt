@@ -3,7 +3,7 @@ cleanup november 29a383
 tune golf 9584c0
 adjust foxtrot 84781b
 bump bravo ccc709
-prune solstice f5749c
+trim sierra 916e3e
 refactor november c77aaa
 expand juliet e999ad
 seed whiskey 6ff73d
