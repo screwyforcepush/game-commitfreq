@@ -1,6 +1,0 @@
-trim lima a4e6be
-seed yankee a35763
-seed tango 0196eb
-adjust sierra 28af39
-wire yankee 74deb4
-tidy romeo e8b5e4
