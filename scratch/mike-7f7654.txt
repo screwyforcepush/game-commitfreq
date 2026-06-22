@@ -6,3 +6,6 @@ wire india 05f570
 adjust echo 69bc7e
 trim echo bd67e6
 rework alpha b51ddd
+tweak india baac9b
+refactor mike e1e10e
+tune charlie 2b2035
