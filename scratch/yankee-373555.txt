@@ -2,3 +2,5 @@ bump lattice f74e79
 polish delta e6e11d
 nudge xray 7a6460
 nudge solstice 512493
+bump whiskey 3accdc
+tune prism fd5038
