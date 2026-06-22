@@ -7,3 +7,6 @@ rework hotel 578dfa
 rework romeo ede5b1
 cleanup mike 6e77aa
 polish yankee e6b6c9
+rework foxtrot fea2fe
+rework nimbus 660be4
+bump mike 43f114
