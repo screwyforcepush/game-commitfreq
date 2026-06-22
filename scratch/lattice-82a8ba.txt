@@ -10,7 +10,7 @@ bump zulu 9b1111
 expand oscar e73517
 prune papa 37f0b5
 cleanup charlie 10bc0e
-update bravo 5f5891
+wire uniform 694ec5
 wire bravo a41284
 cleanup india e8fa78
 expand hotel 05499c
