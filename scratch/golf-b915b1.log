@@ -5,3 +5,6 @@ tune solstice 3e3b44
 expand delta 92d166
 seed prism 7c0aa0
 trim xray fe966b
+bump nimbus 844ccd
+expand echo 986760
+tune lattice 451c57
