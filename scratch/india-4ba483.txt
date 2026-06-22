@@ -3,7 +3,6 @@ polish ember b766f3
 nudge yankee 74e590
 rework cobalt 1c2f84
 wire victor 63d4ba
-bump oscar ab4bec
 tune yankee cfc51f
 cleanup charlie da8a59
 refactor golf a77463
