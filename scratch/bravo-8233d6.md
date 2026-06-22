@@ -5,7 +5,6 @@ bump kilo 1c293d
 tidy nimbus 6604c2
 expand golf 30d9d5
 polish oscar 2a017e
-nudge hotel 5ac1b9
 tune uniform a25724
 tweak kilo 18a929
 tidy lattice bbbdc1
