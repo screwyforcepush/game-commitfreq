@@ -1,4 +1,0 @@
-tweak yankee 997336
-tune oscar 75cb8e
-seed yankee a24e3a
-seed quebec 252655
