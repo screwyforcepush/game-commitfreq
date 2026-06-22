@@ -10,3 +10,6 @@ polish yankee e6b6c9
 rework foxtrot fea2fe
 rework nimbus 660be4
 bump mike 43f114
+trim juliet 3da866
+rework india d00de0
+tune solstice df7b64
