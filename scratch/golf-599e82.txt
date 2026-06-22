@@ -3,3 +3,6 @@ expand quebec f40fc1
 adjust hotel 7ac7c6
 refactor yankee dd2556
 tune india 8618d9
+rework whiskey a81338
+tune lattice 9290d7
+expand foxtrot dd5fde
