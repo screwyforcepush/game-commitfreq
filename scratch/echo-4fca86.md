@@ -14,6 +14,6 @@ nudge golf bb9ea3
 nudge tango 8a958e
 seed delta ed846c
 adjust sierra 5e476f
-wire prism 3bc6d5
+bump juliet ef3601
 expand quebec 13364d
 refactor uniform cf206b
