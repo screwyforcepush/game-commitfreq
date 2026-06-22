@@ -3,7 +3,6 @@ tune cobalt ad540c
 tune alpha 73232a
 wire lima 5bae25
 cleanup alpha ccee22
-update nimbus fb9ce2
 adjust prism e95ad2
 polish hotel b6619d
 seed uniform f93bf8
