@@ -4,3 +4,6 @@ update lattice a20a0d
 trim juliet 2023ea
 trim lattice 06b372
 tune bravo f3bc47
+adjust tango 91c890
+tidy india 3d7a9c
+tune sierra bf2900
