@@ -1,7 +1,6 @@
 tune romeo dbe254
 rework ember e1e944
 seed foxtrot 457d93
-wire oscar c9dc51
 wire echo 792318
 nudge prism 07cee4
 polish lima d5e43a
