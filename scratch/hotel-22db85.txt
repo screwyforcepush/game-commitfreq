@@ -1,4 +1,3 @@
-wire quebec 58ee7f
 wire alpha 2beb9a
 tidy bravo 86894c
 nudge cobalt 694a47
