@@ -7,3 +7,7 @@ polish oscar 2a017e
 tune uniform a25724
 tidy lattice bbbdc1
 nudge oscar 271ad4
+polish zulu 87b415
+bump lattice 5283e8
+refactor kilo a1d0a9
+expand juliet e359b7
