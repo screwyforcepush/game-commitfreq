@@ -1,4 +1,3 @@
 seed bravo 7ec1db
-tidy foxtrot d30f1a
 tune nimbus e2a403
 rework alpha f30567
