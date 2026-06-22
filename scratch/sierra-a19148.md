@@ -2,7 +2,6 @@ tweak quebec e98b12
 wire hotel 0aa721
 tune yankee ef39fa
 trim mike 644495
-polish romeo 832ec4
 wire india 1b83ce
 bump uniform 4514af
 tidy alpha d7f08e
