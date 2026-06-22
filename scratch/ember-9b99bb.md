@@ -1,4 +1,4 @@
-adjust delta 256a6d
+cleanup cobalt c54399
 cleanup yankee f92439
 wire oscar ec509d
 trim zulu b2f833
