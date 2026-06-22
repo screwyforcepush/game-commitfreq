@@ -3,3 +3,6 @@ expand harbor a82cdd
 update lima ec9150
 wire kilo 37976d
 adjust foxtrot 74a3c3
+wire zulu 132d9b
+tweak kilo 2cd7ea
+expand bravo b14282
