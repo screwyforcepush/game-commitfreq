@@ -11,3 +11,7 @@ prune solstice 85800a
 nudge nimbus ed7119
 tune zulu ef3182
 polish lattice 56aa51
+wire nimbus 658137
+polish oscar 0c60ad
+wire kilo 524801
+prune zulu dcf59c
