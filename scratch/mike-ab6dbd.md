@@ -4,3 +4,7 @@ polish sierra 27123a
 update whiskey 4f5bee
 update yankee 75c62f
 expand solstice 681b28
+tidy charlie 4e5159
+expand cobalt c5bc6c
+bump zulu 9b1111
+expand oscar e73517
