@@ -11,3 +11,6 @@ nudge xray 5ec89b
 prune nimbus a9d723
 tune solstice a350a7
 polish nimbus 92f86d
+bump harbor 091b28
+tidy nimbus ab98db
+seed delta 46f51c
