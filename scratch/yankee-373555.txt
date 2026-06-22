@@ -4,3 +4,7 @@ nudge xray 7a6460
 nudge solstice 512493
 bump whiskey 3accdc
 tune prism fd5038
+rework sierra 0dbbd0
+tidy prism 35e015
+trim charlie a8082f
+prune echo 9b6b0d
