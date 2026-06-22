@@ -4,7 +4,6 @@ rework foxtrot 79ada8
 wire quebec c41af0
 tune hotel be6ed3
 tune whiskey 8a7723
-bump juliet 20bb50
 tune xray 939420
 nudge yankee 6a176b
 expand foxtrot 3d02f6
