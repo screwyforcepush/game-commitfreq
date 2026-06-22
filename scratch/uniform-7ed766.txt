@@ -12,3 +12,6 @@ bump quebec da0175
 rework victor fba6fa
 update bravo f0305c
 wire mike 249ab3
+tweak charlie c5ef5f
+tune cobalt 1a9ecd
+tune oscar 5e2c1f
