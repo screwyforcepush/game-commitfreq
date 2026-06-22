@@ -8,3 +8,6 @@ tune prism 9ec433
 seed yankee ac4bbc
 update kilo ca97d3
 seed victor ce1c81
+rework papa 29b3c7
+adjust tango 6c3531
+cleanup november e2f132
