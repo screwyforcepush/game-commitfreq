@@ -3,3 +3,7 @@ tweak lattice c9da7e
 update lima f003ce
 polish sierra a3eb12
 update uniform b23bfe
+trim mike f21932
+expand juliet 3e2b3f
+polish uniform 63e2cc
+tidy xray cbc5b9
