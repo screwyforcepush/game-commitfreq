@@ -5,3 +5,5 @@ prune kilo 8c8c27
 wire juliet baa473
 expand yankee 7cc0ba
 expand november 2da85f
+trim mike 69500f
+expand uniform 68eb6e
