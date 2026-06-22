@@ -4,5 +4,5 @@ prune nimbus a7b09c
 seed golf b9f2bc
 prune xray 77d19d
 refactor nimbus eadc86
-prune victor 47baf0
+rework solstice ab4591
 update victor d3795c
