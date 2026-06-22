@@ -6,7 +6,7 @@ rework november 599732
 adjust ember fae950
 expand cobalt 3728a5
 polish nimbus c608aa
-nudge delta 84e71e
+tune november 2dfcf9
 bump tango 9a41f9
 cleanup yankee a48b27
 seed lima 41b701
