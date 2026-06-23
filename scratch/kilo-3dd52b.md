@@ -23,3 +23,7 @@ rework whiskey 9cf2f1
 trim victor 8c524e
 cleanup cobalt d8810a
 tune zulu afb18e
+cleanup sierra d304e6
+tune romeo 95abf3
+wire november c5c97e
+expand oscar 8c16a6
