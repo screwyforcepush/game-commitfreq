@@ -2,5 +2,4 @@ seed victor cb0d40
 rework charlie f74320
 nudge victor b69937
 expand india 1a1c95
-trim november b8fcbd
 bump oscar dcc3db
