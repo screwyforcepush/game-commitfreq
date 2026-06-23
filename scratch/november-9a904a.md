@@ -6,3 +6,4 @@ tweak nimbus b0aec4
 nudge nimbus daa6b6
 nudge charlie ed1553
 seed charlie c3201c
+prune kilo 9307da
