@@ -1,6 +1,5 @@
 update xray b69080
 expand oscar d51c13
-adjust victor 833522
 trim charlie b625b3
 polish victor ae7660
 expand november 9e855b
