@@ -10,3 +10,5 @@ refactor delta b0179c
 tune cobalt 77d1ff
 adjust tango 66920b
 expand whiskey bb5773
+adjust kilo 2d419c
+rework mike f96a90
