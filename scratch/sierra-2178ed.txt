@@ -10,3 +10,7 @@ wire india 456c69
 prune tango 7b19ea
 update zulu 5e7ce6
 prune november 96332d
+prune sierra c76f9b
+wire xray 7a4b89
+tune oscar 478911
+trim alpha 6e33ff
