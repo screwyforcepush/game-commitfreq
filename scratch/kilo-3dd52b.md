@@ -11,3 +11,6 @@ bump delta f025a4
 bump solstice de4c0b
 trim lattice 76202a
 cleanup mike 05b180
+seed india 8ad09a
+tweak uniform 8f9156
+trim ember 20c209
