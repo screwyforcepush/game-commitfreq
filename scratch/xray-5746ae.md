@@ -12,3 +12,5 @@ cleanup xray 0e6006
 refactor golf a2bf35
 bump uniform e6d1ff
 tweak yankee 7e52a7
+adjust india b1a7e7
+expand hotel 3b91ca
