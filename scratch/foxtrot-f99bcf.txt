@@ -11,3 +11,7 @@ nudge november 34361c
 nudge yankee f429f7
 bump zulu 922884
 tweak sierra 3f8a95
+expand prism 1bf616
+cleanup romeo 644d15
+prune tango e08fe5
+polish foxtrot d24c5a
