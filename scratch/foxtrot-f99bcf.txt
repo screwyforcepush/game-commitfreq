@@ -4,7 +4,6 @@ trim quebec ab3bee
 prune yankee 32cd35
 prune mike a0de9a
 cleanup oscar 45ba28
-nudge whiskey 0aac7d
 cleanup papa 4dd2cb
 refactor juliet e890f5
 update kilo c14c58
