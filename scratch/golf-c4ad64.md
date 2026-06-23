@@ -2,3 +2,6 @@ prune whiskey 1506f4
 polish solstice 16ac34
 cleanup mike d460f7
 update lattice 724236
+adjust quebec 9a4c63
+rework romeo 98e5a5
+adjust prism c40bc6
