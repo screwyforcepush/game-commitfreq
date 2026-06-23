@@ -3,7 +3,7 @@ seed quebec d54520
 tune hotel 2f8e9f
 adjust victor 74d85c
 cleanup yankee 6bc505
-tidy solstice 5dd38b
+tweak solstice c8dc4b
 tune foxtrot bb56e7
 rework juliet 75576f
 expand yankee 48cd34
