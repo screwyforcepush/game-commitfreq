@@ -4,7 +4,6 @@ cleanup india 47a45a
 bump nimbus a8236f
 rework romeo 7fa3f2
 tweak victor d997d8
-expand delta 3b69d1
 tune kilo 96cbe5
 wire juliet c43307
 prune whiskey 5c225f
