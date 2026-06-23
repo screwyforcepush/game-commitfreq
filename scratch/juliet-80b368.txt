@@ -8,7 +8,7 @@ refactor nimbus 412cb2
 cleanup solstice c93f27
 rework lattice 94dd75
 cleanup mike 1c7155
-trim whiskey f1672b
+seed foxtrot 924f3e
 cleanup romeo dbd723
 expand tango dbc5af
 wire charlie fa48cc
