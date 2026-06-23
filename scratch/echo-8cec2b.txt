@@ -2,5 +2,4 @@ bump cobalt 3df162
 tweak nimbus de11c8
 tweak quebec cf5bbf
 update ember 0aeb60
-rework xray 925528
 trim tango cf5286
