@@ -1,6 +1,5 @@
 update november c123ae
 seed papa ca22fb
 expand prism d06ae8
-wire bravo 5b15aa
 trim delta 25434d
 expand papa 64e88f
