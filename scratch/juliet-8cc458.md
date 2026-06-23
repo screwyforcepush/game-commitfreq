@@ -9,3 +9,5 @@ tweak lattice 04530d
 seed foxtrot a38c8b
 adjust mike a18658
 seed oscar 5ce90e
+adjust oscar af0f33
+trim quebec 4ba3c3
