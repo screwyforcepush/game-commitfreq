@@ -20,5 +20,4 @@ seed papa 975405
 cleanup sierra 3f030b
 bump india 20f6b2
 polish tango 7d78c8
-trim whiskey 6c5206
 prune solstice 04acb7
