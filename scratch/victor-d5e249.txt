@@ -1,4 +1,3 @@
 update delta ec35a2
-expand zulu 758250
 cleanup harbor 348cb8
 expand sierra 1570b4
