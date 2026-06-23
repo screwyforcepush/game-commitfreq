@@ -1,2 +1,6 @@
 cleanup cobalt 2c0707
 wire lima 65afcf
+wire kilo d015f5
+adjust cobalt c04d09
+expand zulu 1f6d9e
+cleanup charlie d31c02
