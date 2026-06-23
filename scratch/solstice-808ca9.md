@@ -4,3 +4,6 @@ nudge lima 7a8c7e
 prune mike ce637e
 rework mike 859adf
 adjust golf 4cae45
+cleanup papa ba6f88
+refactor hotel 561c74
+refactor juliet 107997
