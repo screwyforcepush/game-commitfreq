@@ -8,3 +8,6 @@ nudge oscar 37755a
 trim echo 6f0298
 prune prism 260f83
 update prism 46ff8c
+wire delta 8406fe
+bump quebec c94104
+wire november bfb8c7
