@@ -4,3 +4,7 @@ expand solstice b33a4d
 prune yankee 8c0ba6
 tune victor 65f4ed
 update quebec 5e9c62
+bump echo a2cd86
+prune sierra 109f60
+update golf 663bf9
+rework foxtrot db8bdc
