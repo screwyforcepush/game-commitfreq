@@ -9,7 +9,7 @@ tweak charlie ce64c8
 adjust kilo c9b95d
 tidy xray 128740
 tidy kilo 513f02
-seed kilo 0939b4
+trim victor a9331e
 wire papa 14a80e
 tune hotel a527be
 nudge bravo 414027
