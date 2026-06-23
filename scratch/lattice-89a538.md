@@ -5,3 +5,6 @@ seed xray 6d24a6
 tune yankee 603552
 polish papa 1985d7
 expand uniform 2ca03b
+prune lattice c7b5ff
+rework tango b303aa
+adjust lima 386a9e
