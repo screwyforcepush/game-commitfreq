@@ -6,6 +6,5 @@ update quebec 5e9c62
 bump echo a2cd86
 prune sierra 109f60
 update golf 663bf9
-rework foxtrot db8bdc
 adjust quebec 93a0d2
 tweak foxtrot 891f4d
