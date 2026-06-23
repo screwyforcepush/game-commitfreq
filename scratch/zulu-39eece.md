@@ -6,3 +6,5 @@ tweak alpha e43161
 tidy cobalt f45b4e
 cleanup bravo ec626b
 nudge nimbus 517de6
+trim india 7c72d5
+trim lattice 31462a
