@@ -1,3 +1,2 @@
 wire echo f44cd6
-adjust bravo a3b668
 wire foxtrot f618eb
