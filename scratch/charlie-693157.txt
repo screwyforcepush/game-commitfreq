@@ -5,3 +5,5 @@ cleanup ember 7d7580
 update mike e6d98b
 tidy prism 43ff9f
 adjust whiskey 35d05a
+rework hotel 1df584
+cleanup nimbus 3a6b72
