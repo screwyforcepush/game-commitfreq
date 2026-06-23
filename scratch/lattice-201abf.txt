@@ -1,5 +1,4 @@
 tune nimbus 847f20
-wire victor 2b2428
 update golf 9b591d
 bump november 486a37
 seed hotel 17eb85
