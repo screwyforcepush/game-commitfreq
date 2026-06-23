@@ -1,2 +1,5 @@
 tune foxtrot e45537
 nudge charlie 302b48
+adjust foxtrot 055f25
+bump sierra 066993
+tweak charlie 323882
