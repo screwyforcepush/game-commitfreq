@@ -3,5 +3,4 @@ prune yankee 17e134
 rework quebec 537900
 prune echo 82124a
 seed sierra 58a781
-bump tango 049ccf
 tune zulu e4bd7f
