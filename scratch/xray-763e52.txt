@@ -11,7 +11,6 @@ nudge golf de4de0
 nudge kilo e92789
 rework zulu f9cc3c
 update oscar 861872
-prune zulu 2dd7df
 update mike 356813
 refactor echo 817d2d
 refactor sierra d0fc11
