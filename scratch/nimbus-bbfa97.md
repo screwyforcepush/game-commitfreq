@@ -5,7 +5,6 @@ seed victor 8ca504
 tweak prism 17f87b
 prune nimbus 48e901
 adjust nimbus ab6af0
-prune quebec a44a19
 rework cobalt 723587
 trim yankee ec5015
 nudge alpha 217851
