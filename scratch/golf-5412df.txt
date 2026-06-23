@@ -8,7 +8,7 @@ trim xray cc91e2
 seed uniform e954a5
 tune uniform 1e51c8
 wire yankee b33c14
-tidy charlie c4ddd7
+seed juliet b834ef
 rework juliet f076be
 bump lima 93523f
 seed romeo 3f685f
