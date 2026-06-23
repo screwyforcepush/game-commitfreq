@@ -13,3 +13,7 @@ adjust kilo 2d419c
 rework mike f96a90
 prune lattice cbf357
 prune alpha df6208
+trim sierra 22a947
+tweak harbor 327756
+cleanup oscar 30be4b
+cleanup golf 911bd7
