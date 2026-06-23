@@ -3,3 +3,6 @@ update prism 6d493d
 trim yankee bf3098
 trim kilo 0a6e43
 update ember 31a957
+expand oscar 017888
+update kilo 60fa62
+cleanup quebec 8ac63f
