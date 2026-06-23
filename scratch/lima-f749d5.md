@@ -5,7 +5,6 @@ tweak solstice a60b28
 tune bravo 6f572a
 refactor charlie ddd644
 cleanup charlie a9741b
-prune india 50102e
 tweak charlie ce64c8
 adjust kilo c9b95d
 tidy xray 128740
