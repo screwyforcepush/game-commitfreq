@@ -22,3 +22,5 @@ tune tango fa76aa
 cleanup juliet dbced2
 rework whiskey 9cf2f1
 trim victor 8c524e
+cleanup cobalt d8810a
+tune zulu afb18e
