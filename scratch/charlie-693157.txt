@@ -1,4 +1,3 @@
-wire kilo c012de
 adjust mike 93d6b2
 refactor lattice 7df5e2
 prune whiskey 3d1c49
