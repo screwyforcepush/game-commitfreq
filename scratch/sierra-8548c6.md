@@ -5,3 +5,6 @@ polish mike 0e404f
 polish foxtrot fd4d8a
 trim mike b57c2d
 trim kilo abaa35
+tidy lattice be39d9
+wire golf cf83ae
+adjust juliet 117907
