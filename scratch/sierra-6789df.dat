@@ -22,3 +22,6 @@ tune mike 6535de
 trim romeo 3d8bc7
 seed charlie 00ce56
 adjust alpha da9dc7
+seed lattice 2c9bac
+adjust lattice 236798
+tune echo 992d88
