@@ -2,7 +2,6 @@ tweak prism ff6bea
 refactor golf f4b696
 tidy ember 1538be
 tune alpha 63c518
-wire charlie 7ba14a
 wire papa b73bd3
 polish juliet 16a358
 tune charlie 5f9b1b
