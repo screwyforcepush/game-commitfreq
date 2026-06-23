@@ -1,2 +1,2 @@
-seed solstice 37f652
+nudge echo 583f58
 bump oscar d54692
