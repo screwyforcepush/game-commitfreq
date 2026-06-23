@@ -7,4 +7,4 @@ tweak lattice 2730e2
 wire alpha 6d227b
 wire xray 5e8433
 adjust sierra 35fd06
-nudge quebec a5750b
+prune quebec 8e1e0a
