@@ -1,0 +1,5 @@
+tidy golf fc73d1
+adjust juliet 0e399b
+tune xray 5060a4
+tweak solstice fa438b
+tidy charlie ad1c40
