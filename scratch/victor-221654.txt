@@ -2,5 +2,5 @@ seed papa 09a633
 cleanup cobalt 0ea367
 wire nimbus 88ad2a
 bump cobalt 77b7ef
-adjust romeo df42dd
+prune november abaf7e
 polish golf 1e367a
