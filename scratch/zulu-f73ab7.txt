@@ -1,4 +1,0 @@
-cleanup alpha 89df91
-nudge india 7207d4
-bump uniform a3ddbd
-tweak quebec e34dbf
