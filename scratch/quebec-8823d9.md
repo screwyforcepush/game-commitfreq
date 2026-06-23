@@ -1,4 +1,3 @@
-tune lima 5f830e
 tune cobalt 65d713
 cleanup victor 37765f
 wire harbor ed28e2
