@@ -3,3 +3,7 @@ expand nimbus cc848a
 refactor ember ccc799
 tune cobalt 55c89e
 refactor solstice d813ad
+expand victor 150a21
+tweak sierra 0dff46
+update xray 9e7b4c
+prune papa 9fde18
