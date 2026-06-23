@@ -8,5 +8,4 @@ wire papa da348b
 adjust victor 57781d
 rework juliet a44d24
 trim charlie 830717
-wire alpha bd2a47
 rework nimbus 7caf46
