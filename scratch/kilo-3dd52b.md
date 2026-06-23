@@ -2,7 +2,6 @@ refactor yankee c490f2
 wire sierra 92d99d
 rework uniform d3c293
 tweak quebec 71f289
-tune uniform 94b562
 tweak oscar f7e508
 bump november 13d432
 seed victor 2f03d4
