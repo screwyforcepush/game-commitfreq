@@ -12,7 +12,6 @@ nudge kilo e92789
 rework zulu f9cc3c
 refactor xray b881df
 update oscar 861872
-polish solstice 44d81e
 prune zulu 2dd7df
 update mike 356813
 refactor echo 817d2d
