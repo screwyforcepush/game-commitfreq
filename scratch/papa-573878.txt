@@ -1,3 +1,2 @@
 wire cobalt abb41b
-adjust romeo 6c018a
 trim juliet a43b75
