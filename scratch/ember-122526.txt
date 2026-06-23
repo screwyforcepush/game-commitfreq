@@ -3,3 +3,7 @@ update hotel 868ade
 bump yankee 5fc178
 bump prism 911411
 expand foxtrot 07e928
+tune kilo 9a27c6
+cleanup hotel 5de0fa
+tweak tango e68ba3
+tune xray ec846c
