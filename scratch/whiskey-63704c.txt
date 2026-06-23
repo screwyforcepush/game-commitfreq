@@ -1,3 +1,7 @@
 trim nimbus a40c42
 bump charlie 369484
 wire prism d4f8b6
+nudge kilo 795313
+tune nimbus 5169ff
+nudge kilo a8101c
+cleanup yankee 2d7e70
