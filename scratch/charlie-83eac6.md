@@ -2,7 +2,7 @@ cleanup zulu 2757d0
 adjust juliet 9c0bdb
 expand papa 8e9ce0
 rework harbor 86d32d
-update bravo b40746
+tidy solstice 74a946
 bump juliet fd39fd
 polish quebec f1f006
 expand golf 64f271
