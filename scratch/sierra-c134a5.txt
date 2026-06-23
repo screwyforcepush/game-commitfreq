@@ -1,4 +1,0 @@
-adjust nimbus a5be3a
-trim solstice d7717d
-seed foxtrot 543439
-tune delta a837ba
