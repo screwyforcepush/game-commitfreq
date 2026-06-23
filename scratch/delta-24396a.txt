@@ -1,5 +1,0 @@
-adjust oscar 3a5283
-polish hotel ebd605
-refactor hotel 17f720
-expand alpha b1ce54
-adjust india 33657f
