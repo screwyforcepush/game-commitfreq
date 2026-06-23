@@ -12,7 +12,7 @@ seed juliet b834ef
 rework juliet f076be
 bump lima 93523f
 seed romeo 3f685f
-adjust sierra 464c2e
+adjust kilo fe9583
 seed nimbus de47e1
 update harbor 119da3
 update bravo 0aa14d
