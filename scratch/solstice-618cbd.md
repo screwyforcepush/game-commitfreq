@@ -9,3 +9,7 @@ wire alpha 527b51
 tune lattice b211ef
 update solstice 5d5219
 nudge golf de4de0
+nudge kilo e92789
+rework zulu f9cc3c
+refactor xray b881df
+update oscar 861872
