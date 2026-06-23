@@ -4,3 +4,6 @@ adjust mike 93d6b2
 refactor lattice 7df5e2
 prune whiskey 3d1c49
 cleanup ember 7d7580
+update mike e6d98b
+tidy prism 43ff9f
+adjust whiskey 35d05a
