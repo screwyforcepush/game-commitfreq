@@ -1,1 +1,1 @@
-prune echo 710bbb
+seed sierra 0cff3d
