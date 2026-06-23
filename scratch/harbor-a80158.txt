@@ -1,7 +1,6 @@
 polish mike 53a45b
 wire papa 4647c7
 polish delta c2932d
-cleanup lima e3029c
 refactor alpha 4de7b5
 update foxtrot 5a96f3
 update victor e46c4f
