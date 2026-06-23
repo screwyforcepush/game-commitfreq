@@ -1,4 +1,3 @@
 rework cobalt 710a50
-wire mike dc2e5e
 seed papa 8321c8
 nudge victor 3e8c64
