@@ -5,3 +5,7 @@ tune nimbus ec9331
 polish lattice 877952
 cleanup prism fd1700
 bump bravo b18d31
+trim delta 4cb66c
+adjust tango 4e8018
+nudge delta b0830a
+tune kilo 42dba1
