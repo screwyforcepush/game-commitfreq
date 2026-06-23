@@ -12,3 +12,5 @@ adjust tango 66920b
 expand whiskey bb5773
 adjust kilo 2d419c
 rework mike f96a90
+prune lattice cbf357
+prune alpha df6208
