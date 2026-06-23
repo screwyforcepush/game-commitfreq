@@ -16,3 +16,5 @@ wire nimbus 8de352
 tidy foxtrot 1c2253
 seed cobalt 1d6ad8
 seed juliet 985f5c
+prune xray fa2d2a
+cleanup sierra 3f030b
