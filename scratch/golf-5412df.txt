@@ -1,4 +1,4 @@
-adjust cobalt 7b6d02
+trim yankee 1f204e
 cleanup lattice f96d1d
 nudge harbor 0422e4
 polish romeo 901a36
