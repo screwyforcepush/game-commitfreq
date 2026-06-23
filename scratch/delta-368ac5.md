@@ -11,3 +11,5 @@ refactor echo 9bf581
 tidy solstice 3f0f53
 refactor xray bce35c
 expand cobalt 363665
+tune oscar 106a44
+tune mike 457f4a
