@@ -15,3 +15,6 @@ polish golf 609d5e
 adjust nimbus 009aa8
 bump kilo 601f95
 polish harbor 5b95cf
+tune solstice 847eff
+adjust nimbus 86ee42
+tune cobalt 7ff5f6
