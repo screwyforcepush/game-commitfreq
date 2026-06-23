@@ -1,4 +1,3 @@
-cleanup solstice 18e62c
 polish xray d847a8
 expand sierra 2d62fd
 trim hotel 47814c
