@@ -14,3 +14,5 @@ expand alpha c5fee8
 seed lima 6f317c
 adjust tango 095f5c
 tune uniform 950816
+seed victor 39350a
+refactor quebec 277971
