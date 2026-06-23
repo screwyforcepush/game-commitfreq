@@ -12,3 +12,6 @@ bump sierra bb2266
 trim foxtrot d98e3e
 rework november 617e17
 refactor mike bbf1ad
+refactor oscar 6ecd3c
+tune ember 9da69c
+wire lattice bfa890
