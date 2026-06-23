@@ -19,3 +19,7 @@ seed hotel 061f3d
 tidy tango 2f9e3e
 trim lattice c4e566
 bump alpha 987b91
+expand tango c2ff91
+adjust delta 5882b5
+cleanup hotel 8ab87c
+prune uniform 4bde00
