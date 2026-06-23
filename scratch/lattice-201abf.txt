@@ -1,4 +1,3 @@
-bump juliet 29daa5
 refactor sierra 948dde
 bump november 486a37
 tweak solstice e97962
