@@ -10,3 +10,7 @@ tweak whiskey c7c739
 expand ember f7eb32
 cleanup nimbus fc1b78
 nudge nimbus f811f9
+nudge solstice e149d2
+prune cobalt df0e0b
+tune cobalt c96b1e
+tune kilo c261d1
