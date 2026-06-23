@@ -5,3 +5,7 @@ cleanup ember 36f909
 rework juliet 5ff5d5
 seed yankee 566682
 update prism 867b80
+polish november 318595
+tweak hotel 778483
+tune uniform 535945
+update quebec dd8137
