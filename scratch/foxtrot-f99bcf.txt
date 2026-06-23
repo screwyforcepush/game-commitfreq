@@ -4,6 +4,6 @@ trim quebec ab3bee
 prune yankee 32cd35
 prune mike a0de9a
 cleanup oscar 45ba28
-wire hotel d2006c
+refactor cobalt 138a34
 nudge whiskey 0aac7d
 cleanup papa 4dd2cb
