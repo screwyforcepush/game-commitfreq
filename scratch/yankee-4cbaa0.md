@@ -20,3 +20,6 @@ rework xray f18983
 tune lattice fb4997
 update charlie c9fd3a
 expand cobalt 1ec9f6
+expand hotel 576179
+rework romeo a7bd9f
+tidy sierra 5b431b
