@@ -6,3 +6,7 @@ rework uniform d366ec
 polish victor e652dc
 expand xray 478865
 tune nimbus 18417c
+update charlie bc4461
+update india a2bb08
+tweak yankee 8abddb
+prune lima 22f7ab
