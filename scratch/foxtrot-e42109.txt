@@ -4,7 +4,6 @@ cleanup romeo 4de9bf
 wire november 526850
 nudge hotel d6e24f
 nudge foxtrot dae8c3
-wire prism 393580
 cleanup zulu 9a53b3
 wire juliet 41fd19
 adjust lima 0bced8
