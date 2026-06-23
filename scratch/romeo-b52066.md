@@ -11,3 +11,5 @@ seed yankee d26758
 refactor delta 86dd63
 tidy bravo f51268
 nudge echo 20157e
+rework golf 9b0b1c
+expand kilo 1dc1e2
