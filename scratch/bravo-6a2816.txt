@@ -6,3 +6,6 @@ update ember 31a957
 expand oscar 017888
 update kilo 60fa62
 cleanup quebec 8ac63f
+cleanup foxtrot 6f4882
+trim papa 0a0636
+seed solstice 2f964c
