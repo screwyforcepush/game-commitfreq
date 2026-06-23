@@ -1,4 +1,3 @@
-seed cobalt e0e3c8
 prune mike 0e35c5
 wire nimbus 7aeec8
 bump quebec e61666
