@@ -6,3 +6,7 @@ prune yankee 22cd4b
 bump ember 30186e
 adjust harbor 66c1df
 bump kilo 78056e
+rework nimbus e109c9
+adjust prism dfa2b4
+tweak echo c98423
+trim xray 042fcc
