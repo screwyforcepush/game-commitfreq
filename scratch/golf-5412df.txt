@@ -6,7 +6,7 @@ polish romeo 901a36
 trim india 3df1a6
 trim xray cc91e2
 seed uniform e954a5
-tune uniform 1e51c8
+wire solstice 2018d7
 wire yankee b33c14
 seed juliet b834ef
 rework juliet f076be
