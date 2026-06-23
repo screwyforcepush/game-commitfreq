@@ -1,3 +1,2 @@
 bump delta 9d4718
-wire prism da920a
 update xray a83f59
