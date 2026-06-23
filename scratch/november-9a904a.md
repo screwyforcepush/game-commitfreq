@@ -7,3 +7,4 @@ nudge nimbus daa6b6
 nudge charlie ed1553
 seed charlie c3201c
 prune kilo 9307da
+trim delta fa8285
