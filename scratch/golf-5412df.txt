@@ -6,7 +6,7 @@ polish romeo 901a36
 trim india 3df1a6
 trim xray cc91e2
 seed uniform e954a5
-polish golf 6832d3
+tune uniform 1e51c8
 wire yankee b33c14
 tidy charlie c4ddd7
 rework juliet f076be
