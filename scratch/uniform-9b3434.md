@@ -5,3 +5,6 @@ prune nimbus cb36e3
 tidy alpha ebe4b2
 prune alpha 83143e
 cleanup ember 7bab5c
+bump papa c33a74
+wire oscar acd090
+trim hotel ce8e83
