@@ -1,2 +1,1 @@
-prune victor 585bd5
 prune hotel 36c15d
