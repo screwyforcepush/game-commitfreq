@@ -1,7 +1,6 @@
 trim uniform 2f7b75
 tweak lattice 401a93
 bump nimbus 0b9f8e
-update lima 35c9fe
 nudge nimbus 53a2bc
 tune ember 2fb51e
 seed delta d9e7be
