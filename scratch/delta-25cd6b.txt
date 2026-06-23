@@ -8,3 +8,6 @@ nudge uniform 1fbb40
 tune foxtrot bb56e7
 rework juliet 75576f
 update solstice 2fb8d2
+expand golf 711a80
+trim mike 01f8f1
+nudge mike 5d1d04
