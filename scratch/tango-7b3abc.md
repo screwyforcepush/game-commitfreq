@@ -2,7 +2,6 @@ nudge victor 3b289f
 polish november 1d0f74
 polish tango 386ec1
 polish papa ad59b0
-bump whiskey d0f374
 adjust papa 5d46ca
 adjust alpha 936f90
 refactor foxtrot 641f33
