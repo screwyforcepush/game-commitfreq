@@ -5,7 +5,7 @@ refactor mike 89898b
 bump alpha e3dba9
 nudge quebec 705cba
 bump bravo 67255b
-refactor yankee 0144e1
+prune india 966f5b
 seed solstice c0418c
 expand victor 7b8afc
 expand victor 8db4c6
