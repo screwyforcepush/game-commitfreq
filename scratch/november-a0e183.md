@@ -2,7 +2,6 @@ seed alpha e34f3d
 expand oscar 5cc46e
 tidy papa 7be498
 cleanup xray 00dd28
-adjust uniform ea1b93
 adjust charlie 0041c9
 polish quebec 8c6045
 cleanup charlie 2be9e3
