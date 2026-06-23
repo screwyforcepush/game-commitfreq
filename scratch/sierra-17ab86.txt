@@ -1,4 +1,3 @@
 adjust solstice cff1aa
 nudge alpha 61ca23
 adjust zulu aa1cde
-seed whiskey ea74e0
