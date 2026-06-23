@@ -1,4 +1,3 @@
 polish solstice 31a60e
-polish kilo 5f22a5
 prune golf 4cbe9d
 expand mike 36d952
