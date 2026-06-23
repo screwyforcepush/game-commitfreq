@@ -11,3 +11,7 @@ tweak cobalt c64fd1
 adjust harbor 62e60b
 nudge quebec 29ab6f
 adjust kilo 5606eb
+wire romeo 1b20cb
+tune cobalt ef8ae1
+adjust mike 9650b5
+tidy victor b60471
