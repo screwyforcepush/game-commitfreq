@@ -8,3 +8,6 @@ polish whiskey fbff96
 rework ember dcf19c
 adjust hotel 35a3fd
 tweak cobalt c64fd1
+adjust harbor 62e60b
+nudge quebec 29ab6f
+adjust kilo 5606eb
