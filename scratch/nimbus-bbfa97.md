@@ -4,3 +4,6 @@ seed foxtrot 24f3f5
 seed victor 8ca504
 tweak prism 17f87b
 prune nimbus 48e901
+expand foxtrot 888c5d
+prune quebec a44a19
+rework cobalt 723587
