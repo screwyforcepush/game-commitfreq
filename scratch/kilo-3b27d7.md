@@ -2,7 +2,6 @@ polish sierra bad040
 tune sierra b54243
 polish solstice efcaac
 prune whiskey 62c0a7
-bump charlie 4867af
 refactor victor ea02ad
 trim lattice 66cba1
 rework cobalt 32a5e2
