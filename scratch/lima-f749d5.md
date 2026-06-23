@@ -9,3 +9,6 @@ prune india 50102e
 tweak charlie ce64c8
 adjust kilo c9b95d
 tidy xray 128740
+tidy kilo 513f02
+seed kilo 0939b4
+wire papa 14a80e
