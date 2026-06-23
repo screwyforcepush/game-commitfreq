@@ -7,7 +7,7 @@ bump november 13d432
 seed victor 2f03d4
 trim lima 588d82
 bump delta f025a4
-bump solstice de4c0b
+seed ember 958c5c
 cleanup charlie 630291
 cleanup mike 05b180
 seed india 8ad09a
