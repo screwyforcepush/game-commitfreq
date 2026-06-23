@@ -2,3 +2,6 @@ seed delta 3ab82d
 wire sierra b7c178
 seed golf f1056d
 polish yankee a01fcf
+bump xray 7877ce
+rework papa 0a854d
+rework kilo d3203a
