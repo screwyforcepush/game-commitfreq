@@ -1,5 +1,4 @@
 update hotel 14e0b9
 tweak whiskey 253bde
-update sierra 4c6cff
 nudge alpha 59d8e5
 nudge nimbus 39907f
