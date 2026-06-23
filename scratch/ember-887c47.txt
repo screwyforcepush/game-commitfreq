@@ -4,3 +4,5 @@ bump tango 597a3e
 seed nimbus fa0cc5
 cleanup hotel 4e4d45
 prune victor c2ea41
+bump november d7c5b1
+bump hotel 88d133
