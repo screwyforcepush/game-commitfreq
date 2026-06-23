@@ -1,3 +1,7 @@
 update sierra c5ce66
 rework kilo ebebf1
 tune tango 947e94
+bump india 00ec6d
+bump lattice 51a55a
+rework charlie 69ff41
+nudge november f969ee
