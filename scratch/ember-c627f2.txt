@@ -1,4 +1,3 @@
 seed victor 9285a0
 seed echo ddf422
-wire xray abe501
 tweak juliet af7fba
