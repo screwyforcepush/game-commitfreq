@@ -1,3 +1,0 @@
-prune lima 520bae
-bump whiskey 5dc0fa
-polish foxtrot 561920
