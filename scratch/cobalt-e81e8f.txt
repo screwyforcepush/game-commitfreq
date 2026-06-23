@@ -1,2 +1,2 @@
-prune yankee d796f1
+trim zulu 0b0c87
 cleanup bravo f3f995
