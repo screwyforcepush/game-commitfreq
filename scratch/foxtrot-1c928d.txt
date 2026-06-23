@@ -1,5 +1,0 @@
-prune lima a92683
-adjust xray 6c3451
-trim foxtrot 2071fa
-tweak cobalt 5d273a
-cleanup golf 3280dd
