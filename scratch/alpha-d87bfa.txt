@@ -3,7 +3,6 @@ bump xray 3e9cef
 rework echo db93c2
 polish delta e6bd27
 prune quebec bc8d21
-tidy cobalt 21a9fa
 cleanup lima 90a0aa
 tidy prism af425c
 prune whiskey 5a4139
