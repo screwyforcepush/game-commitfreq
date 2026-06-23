@@ -1,2 +1,0 @@
-trim zulu 0b0c87
-seed delta fc2e20
