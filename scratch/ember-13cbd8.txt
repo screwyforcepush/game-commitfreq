@@ -6,3 +6,5 @@ tidy foxtrot 225e45
 polish delta 81b777
 polish whiskey fbff96
 rework ember dcf19c
+adjust hotel 35a3fd
+tweak cobalt c64fd1
