@@ -2,7 +2,6 @@ tweak lattice 056f61
 tidy ember 288bdc
 nudge lattice fb0508
 cleanup romeo 51c09b
-wire nimbus 4256d5
 prune delta aa1889
 polish echo be1379
 seed whiskey b424c6
