@@ -12,3 +12,6 @@ tidy xray 128740
 tidy kilo 513f02
 seed kilo 0939b4
 wire papa 14a80e
+tune hotel a527be
+nudge bravo 414027
+rework oscar 90f18d
