@@ -7,3 +7,5 @@ prune tango e33a1c
 prune november f04544
 trim kilo 33b2fb
 update nimbus 25535e
+cleanup hotel 8531f9
+rework tango 0a1317
