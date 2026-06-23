@@ -6,5 +6,5 @@ trim mike f095e8
 tune mike 38147e
 rework november 485d04
 expand romeo f1ec0e
-refactor hotel 7221cc
+prune quebec de1157
 update yankee 87a9b7
