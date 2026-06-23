@@ -2,7 +2,6 @@ tune quebec 26e388
 tune solstice d4e3cf
 tweak november 8a4bc0
 bump harbor edf4f3
-tune mike 001707
 tweak alpha e43161
 tidy cobalt f45b4e
 cleanup bravo ec626b
