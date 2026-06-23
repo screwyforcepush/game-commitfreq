@@ -5,3 +5,6 @@ tweak delta 9d5e2a
 trim alpha 52240d
 polish harbor 1636ff
 tweak xray 41434a
+polish whiskey 95d350
+tweak bravo 64e9d2
+adjust uniform 319e73
