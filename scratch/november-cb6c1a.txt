@@ -2,7 +2,7 @@ adjust november fb1227
 polish golf 835d1a
 bump golf fb0774
 trim quebec 658845
-adjust hotel 88c783
+rework quebec 28cb81
 update victor 4162fa
 prune solstice a84ef0
 tidy victor bb7f08
