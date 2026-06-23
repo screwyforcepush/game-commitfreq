@@ -12,7 +12,6 @@ adjust cobalt e842c2
 rework papa e060f8
 trim oscar 8a4e30
 refactor golf 229cc0
-bump victor 53b444
 refactor charlie fdaadb
 rework xray 68cb20
 cleanup papa 77a886
