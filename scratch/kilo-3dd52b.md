@@ -27,7 +27,7 @@ cleanup sierra d304e6
 tune romeo 95abf3
 wire november c5c97e
 expand oscar 8c16a6
-update delta 6b1ebf
+tidy oscar 43706d
 rework foxtrot 8f4c8a
 tidy juliet 75fc84
 tweak tango fd3f1d
