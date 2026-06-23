@@ -4,3 +4,5 @@ tune oscar 0702e1
 tweak echo 463b9f
 bump kilo 7d4f6e
 tune alpha 67f600
+tidy india 58a524
+adjust delta d7d207
