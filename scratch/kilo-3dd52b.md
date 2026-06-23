@@ -14,3 +14,7 @@ cleanup mike 05b180
 seed india 8ad09a
 tweak uniform 8f9156
 trim ember 20c209
+prune quebec b11351
+prune mike d19a01
+tidy xray fbb11b
+adjust alpha b25e6f
