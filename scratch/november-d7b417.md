@@ -3,3 +3,7 @@ expand sierra 825416
 cleanup quebec 3d43f8
 prune solstice 8a3b1c
 adjust papa 645ead
+rework papa 57564f
+prune solstice 32f04e
+wire oscar ae757d
+wire bravo 6bba32
