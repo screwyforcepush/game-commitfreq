@@ -12,3 +12,5 @@ cleanup ember d94ca5
 polish lattice d1cb29
 seed golf b3768a
 polish solstice 46d696
+seed foxtrot 918611
+prune quebec da0906
