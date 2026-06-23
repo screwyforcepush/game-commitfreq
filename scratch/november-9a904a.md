@@ -4,3 +4,7 @@ wire solstice 744b33
 polish victor 7bcf1f
 polish alpha 09ca57
 cleanup ember 098271
+tweak nimbus b0aec4
+nudge nimbus daa6b6
+nudge charlie ed1553
+seed charlie c3201c
