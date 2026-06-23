@@ -3,3 +3,5 @@ trim ember 20f156
 adjust echo e4c966
 tune cobalt 76611e
 expand romeo 494ea0
+wire quebec ec8985
+bump golf 4d0e29
