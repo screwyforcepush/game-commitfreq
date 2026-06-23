@@ -5,3 +5,6 @@ update india 0dff2f
 seed prism 0d983e
 cleanup cobalt 88aef2
 tune ember 99d769
+bump november 154db7
+tweak kilo d1a808
+adjust xray 56d085
