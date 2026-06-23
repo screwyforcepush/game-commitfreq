@@ -5,4 +5,4 @@ wire lattice c43ec0
 rework solstice 1a66e8
 tweak alpha 629e75
 wire echo 0d327d
-trim whiskey 0bfc9c
+polish quebec 09c820
