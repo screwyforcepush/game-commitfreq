@@ -4,3 +4,5 @@ polish uniform da94cc
 adjust romeo d3c653
 rework uniform d366ec
 polish victor e652dc
+expand xray 478865
+tune nimbus 18417c
