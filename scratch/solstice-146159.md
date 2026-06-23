@@ -16,3 +16,6 @@ prune delta 8f5e9f
 nudge juliet 562b4f
 seed zulu f48033
 seed lattice 1b7794
+wire echo bbf7fa
+update india 1ebe25
+update uniform 3b7036
