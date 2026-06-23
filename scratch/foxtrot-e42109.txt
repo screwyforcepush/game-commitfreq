@@ -22,5 +22,5 @@ bump india 20f6b2
 polish tango 7d78c8
 prune solstice 04acb7
 update xray b065a4
-adjust yankee 34b754
+tidy sierra 4edf1b
 expand foxtrot 7d2f0e
