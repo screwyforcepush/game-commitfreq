@@ -5,3 +5,7 @@ wire charlie eafe26
 bump ember 3066ca
 tune yankee e0bef2
 update harbor 47e80d
+trim oscar 5f8ddb
+expand sierra 4b6304
+expand alpha c7dfab
+rework oscar 2e8d63
