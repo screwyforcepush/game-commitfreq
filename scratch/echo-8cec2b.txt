@@ -1,7 +1,6 @@
 bump cobalt 3df162
 tweak nimbus de11c8
 tweak quebec cf5bbf
-update ember 0aeb60
 trim tango cf5286
 tweak lima a01863
 prune juliet 6ed69f
