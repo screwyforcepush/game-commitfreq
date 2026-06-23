@@ -7,3 +7,6 @@ tune zulu 9e196b
 tune nimbus 03c156
 wire uniform 156308
 nudge alpha b6bfaa
+prune alpha 210aff
+bump nimbus 93d93b
+polish whiskey a6f2e7
