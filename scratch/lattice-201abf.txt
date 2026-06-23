@@ -1,7 +1,7 @@
 bump juliet 29daa5
 refactor sierra 948dde
 bump november 486a37
-refactor lattice 765b1c
+tweak solstice e97962
 trim echo 6f0298
 prune prism 260f83
 update prism 46ff8c
