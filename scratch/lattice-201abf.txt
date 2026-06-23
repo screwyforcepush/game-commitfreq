@@ -1,7 +1,6 @@
 bump juliet 29daa5
 refactor sierra 948dde
 bump november 486a37
-seed hotel 17eb85
 refactor lattice 765b1c
 trim echo 6f0298
 prune prism 260f83
