@@ -1,4 +1,3 @@
-prune nimbus 15eb27
 cleanup tango 3d5615
 seed charlie f95ab3
 refactor ember 84dd38
