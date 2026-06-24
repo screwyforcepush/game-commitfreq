@@ -1,7 +1,6 @@
 tune zulu e2f12a
 expand nimbus c5ca83
 update juliet 83d105
-rework november 33042f
 tune oscar 5b6b9c
 tweak harbor ef7d1e
 bump quebec 1f5765
