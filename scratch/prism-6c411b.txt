@@ -8,3 +8,6 @@ expand romeo 5ae7ce
 rework alpha 26b5d8
 trim mike 8a7a0f
 refactor yankee 5ac7af
+wire solstice d2bead
+tidy alpha b82932
+trim charlie f148b7
