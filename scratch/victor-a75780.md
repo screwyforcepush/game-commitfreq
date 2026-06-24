@@ -5,7 +5,6 @@ expand golf 569ec6
 tune solstice b28e1b
 adjust victor e64941
 seed sierra 5326aa
-seed papa b4b0ab
 trim victor 1c645b
 nudge foxtrot 340fbb
 tidy alpha 6cf1cd
