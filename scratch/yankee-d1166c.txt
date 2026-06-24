@@ -13,3 +13,4 @@ tidy november 4f55ae
 cleanup nimbus b8f48d
 refactor nimbus a7184d
 tweak quebec 8c46e4
+tune solstice 48bd4b
